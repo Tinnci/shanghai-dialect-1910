@@ -184,4 +184,45 @@
   "咾",
 ) #r("thing", "听") #r("da", "大") #r("Tsiang-kyuin", "将军") #r("han.", "喊。")
 
-// 后续内容录入不全 (The following Romanization/Hanzi alignment is incomplete and switches to 142 in the user request)
+#r("Dih-ping", "敌兵") #r("thing-kyien-ts", "听见之") #r("'au-doong-kuh", "号筒个") #r("sang-chi,", "声气，") #r(
+  "khoen-kyien-ts",
+  "看见之",
+) #r("tung-hoo-kuh", "灯火个") #r("liang-kwaung,", "亮光，") #r("we-ts", "为之") #r("la", "拉") #r(
+  "kwhung-maung-deu",
+  "睏梦",
+) #r("li,", "里，") #r("kyung-sing", "警醒") #r("tsen-le", "转来") #r("lau,", "咾，") #r("sing", "心") #r(
+  "hwaung,",
+  "慌",
+) #r("i", "意") #r("loen,", "乱，") #r("siang", "想") #r("yeu", "有") #r("da", "大") #r("kyuin", "军") #r(
+  "le",
+  "来",
+) #r("koong-tang", "攻打") #r("yi-la", "伊拉") #r("tse.", "者。")
+
+#r("Yi-la", "伊拉") #r("z", "是") #r("'veh", "勿") #r("zung", "会") #r("yui-be", "预备") #r("hau", "好") #r(
+  "tang-tsang",
+  "打仗",
+) #r("lau,", "咾，") #r("soo-i", "所以") #r("siang", "想") #r("iau", "要") #r("dau-tseu", "逃走") #r("lau.", "咾。") #r(
+  "La",
+  "拉",
+) #r("'en-doong", "暗洞") #r("li", "里") #r("(1)", " ") #r("z", "自") #r("siang", "相") #r(
+  "dzien-dah,",
+  "蹂躏，",
+)#footnote[Trample on the each other. (1) on page 236] #r("yeu-kuh", "有个") #r("meh,", "末") #r("thiau", "跳") #r(
+  "la",
+  "拉",
+) #r("'oo", "河") #r("li", "里") #r("lau,", "咾") #r("yeu-s", "游水") #r("dau-tseu.", "逃走。") #r("Da", "大") #r(
+  "Tsiang-kyuin",
+  "大将军",
+) #r("meh,", "末") #r("ling-ts", "领之") #r("z-ka-kuh", "自家个") #r("ping", "兵") #r("lau,", "咾") #r("(2)", " ") #r(
+  "tsoen-koen",
+  "追赶",
+)#footnote[Pursue and drive. (2)] #r("yi-la,", "伊拉，") #r("dsuh-tau", "直到") #r("koen-theh", "赶脱") #r(
+  "yi-la",
+  "伊拉",
+) #r("koen-koen-dzing-dzing-ts.", "乾乾净净之。") #r("Zeh-ke", "实在") #r("z", "是") #r("khoen-chi", "看起来") #r(
+  "le,",
+  "，",
+) #r("da", "大") #r("Tsiang-kyuin-kuh", "大将军个") #r("ping-ting", "兵丁") #r("tsung-tsung", "真正") #r("z", "是") #r(
+  "ioong-chi-kuh",
+  "勇气个",
+) #r("ping-ting", "兵丁") #r("yan.", "也。")
