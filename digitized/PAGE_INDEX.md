@@ -3,7 +3,7 @@
 > **书名**: Shanghai Dialect Exercises in Romanized and Character with Key to Pronunciation and English Index  
 > **出版年份**: 1910年  
 > **总页数**: 294页  
-> **当前索引进度**: 第1-210页 (第1-119课)
+> **当前索引进度**: 第1-220页 (第1-124课)
 
 ---
 
@@ -244,12 +244,25 @@
 | 206-208 | 117 | Exercise 117: 论危险个事體 | 骑马意外、新靶子路 (武进路) |
 | 208-209 | 118 | Exercise 118: 论骑马 | 龙飞马棚 (Horse Bazaar)、买马练马 |
 | 209-210 | 119 | Exercise 119: 论贼偷物事 | 斜桥头盗窃案、贼骨头用竹竿爬窗 |
+| 211 | 119完 | Exercise 119 完 | 手枪吓退相贼 |
+| 211-212 | 120 | Exercise 120: 论东洋车 | 西门外交通事故、黄包车零部件详解 |
 
 ---
 
-## 待归类页面 (第211-294页)
+### 43_lesson-121-130 (第121-130课，进行中)
 
-> 第211-294页（第120-155课）尚待审查归类。
+| 页码 | 课号 | 内容描述 | 关键词汇/地名 |
+|------|------|----------|---------------|
+| 212-215 | 121 | Exercise 121: 论电车 | 电车运作原理、受电杆、百叶窗、制动柄 |
+| 215-216 | 122 | Exercise 122: 论托人代买物事 | 出洋友谊、洋货消费、毛毯 |
+| 216-219 | 123 | Exercise 123: 论一只告天鷯 | 寓言：云雀与孩子、自强自律 |
+| 219-220 | 124 | Exercise 124: 论亚剌伯个忠心个马 | 域外传奇：阿拉伯勇士与黑马 |
+
+---
+
+## 待归类页面 (第221-294页)
+
+> 第221-294页（第125-155课）尚待审查归类。
 
 ---
 
@@ -273,6 +286,8 @@
 | We-he-we | 威海卫 | Weihaiwei |
 | San-he-kwan | 山海关 | Shanhaiguan |
 | Sing po-ts loo | 新靶子路 | 武进路 (今) |
+| Si-mung | 西门 | Old City West Gate |
+| A-lah-pak | 亚剌伯 | Arabia |
 
 ### 机构 (Institutions)
 | 方言罗马字 | 中文 | 英文 |
@@ -295,6 +310,8 @@
 | Toong-yang-tsho | 东洋车 | Rickshaw |
 | Hwo-lung-tsho | 火车 | Train |
 | Loong-tsho | 龙车 | Dragon tram |
+| Dien-tsho tsho-bang | 电车受电杆 | Trolley pole / Electric arm |
+| S-yuih dien-tung | 水月电灯 | Acetylene lamps |
 
 ### 社会文化 (Social & Cultural)
 | 方言罗马字 | 中文 | 英文/说明 |
@@ -309,6 +326,10 @@
 | Sing-kwen-nyung | 新郎官 | Groom |
 | Hyi-nyang | 喜娘 | Wedding bridesmaid / Mistress of ceremonies |
 | Zuh-theu | 贼骨头 | Thief |
+| Kau-thien-tiau | 告天鷯 | Cloud-lark / Skylark |
+| Seu-tshiang | 手枪 | Pistol / Handgun |
+| Pah-ih-tshaung | 百叶窗 | Venetian blinds |
+| Kaung-pan ih-ts | 钢板叶子 | Spring leaf |
 
 ---
 
