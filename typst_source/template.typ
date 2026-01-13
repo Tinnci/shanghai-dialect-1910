@@ -134,16 +134,32 @@
     number-align: center,
   )
 
+  // ============================================================
+  // 文本设置 (含微排版优化)
+  // ============================================================
+
   set text(
     font: ("Noto Serif CJK SC", "Libertinus Serif"),
     size: 10.5pt,
     lang: "zh",
+    // 微排版: 启用悬挂标点 (Typst 0.11+)
+    overhang: true,
+    // 微排版: 启用字距对 (Kerning)
+    kerning: true,
+    // 微排版: 轻微字距追踪增强可读性
+    tracking: 0.02em,
   )
+
+  // ============================================================
+  // 段落设置 (含两端对齐优化)
+  // ============================================================
 
   set par(
     leading: 1.3em,
     justify: true,
     first-line-indent: 0em,
+    // 允许略微调整行间距以优化排版
+    linebreaks: "optimized",
   )
 
   set footnote(numbering: n => [(#n)])
