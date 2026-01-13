@@ -89,6 +89,10 @@
 #include "contents/lessons/lesson-72.typ"
 #include "contents/lessons/lesson-73.typ"
 #include "contents/lessons/lesson-74.typ"
+#include "contents/lessons/lesson-75.typ"
+#include "contents/lessons/lesson-76.typ"
+#include "contents/lessons/lesson-77.typ"
+#include "contents/lessons/lesson-78.typ"
 
 // ============================================================
 // 附录部分：索引、勘误、词汇表
