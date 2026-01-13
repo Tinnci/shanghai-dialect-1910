@@ -1,0 +1,412 @@
+#!/usr/bin/env python3
+"""
+Shanghai Dialect Digitizer - PDF Image Extractor
+=================================================
+
+This script extracts all images from the PDF book
+"Shanghai Dialect Exercises in Romanized and Character with Key to Pronunciation and English Index"
+
+Uses an improved Johnny Decimal Index system for organization:
+- 10-19: Preliminary (Cover, Title, Contents)
+- 20-29: Pronunciation Guide & Keys
+- 30-39: Lessons / Exercises (Main Content)
+- 40-49: Appendices & Index
+- 90-99: Metadata & Full Page Renders
+"""
+
+import fitz  # PyMuPDF
+from pathlib import Path
+from PIL import Image
+import io
+import json
+from datetime import datetime
+
+
+# Configuration
+PDF_PATH = Path("Shanghai Dialect Exercises in Romanized and Character with Key to Pronunciation and English Index.pdf")
+OUTPUT_BASE = Path("digitized")
+
+# Johnny Decimal Category Definitions
+JOHNNY_DECIMAL_STRUCTURE = {
+    "10-19_preliminary": {
+        "11": "cover",
+        "12": "title-pages",
+        "13": "preface",
+        "14": "table-of-contents",
+        "15": "introduction",
+    },
+    "20-29_pronunciation-guide": {
+        "21": "key-to-pronunciation",
+        "22": "tone-charts",
+        "23": "romanization-system",
+        "24": "phonetic-tables",
+    },
+    "30-39_lessons": {
+        "31": "lesson-01-10",
+        "32": "lesson-11-20",
+        "33": "lesson-21-30",
+        "34": "lesson-31-40",
+        "35": "lesson-41-50",
+        "36": "additional-exercises",
+    },
+    "40-49_appendices": {
+        "41": "english-index",
+        "42": "character-index",
+        "43": "vocabulary-lists",
+        "44": "supplementary-materials",
+    },
+    "90-99_metadata": {
+        "91": "full-page-renders",
+        "92": "embedded-images",
+        "93": "extraction-log",
+    }
+}
+
+
+def create_directory_structure(base_path: Path) -> dict:
+    """Create the Johnny Decimal directory structure."""
+    created_dirs = {}
+    
+    for category, subcategories in JOHNNY_DECIMAL_STRUCTURE.items():
+        category_path = base_path / category
+        category_path.mkdir(parents=True, exist_ok=True)
+        created_dirs[category] = str(category_path)
+        
+        for code, name in subcategories.items():
+            subdir_path = category_path / f"{code}_{name}"
+            subdir_path.mkdir(parents=True, exist_ok=True)
+            created_dirs[f"{category}/{code}"] = str(subdir_path)
+    
+    return created_dirs
+
+
+def extract_embedded_images(pdf_doc, output_dir: Path, log: list) -> int:
+    """Extract all embedded images from the PDF."""
+    embedded_dir = output_dir / "90-99_metadata" / "92_embedded-images"
+    image_count = 0
+    
+    print("\n📷 Extracting embedded images...")
+    
+    for page_num in range(len(pdf_doc)):
+        page = pdf_doc[page_num]
+        image_list = page.get_images(full=True)
+        
+        if image_list:
+            print(f"  Page {page_num + 1}: Found {len(image_list)} embedded image(s)")
+        
+        for img_idx, img_info in enumerate(image_list):
+            xref = img_info[0]
+            
+            try:
+                # Extract image data
+                base_image = pdf_doc.extract_image(xref)
+                if base_image:
+                    image_bytes = base_image["image"]
+                    image_ext = base_image["ext"]
+                    width = base_image.get("width", 0)
+                    height = base_image.get("height", 0)
+                    colorspace = base_image.get("colorspace", "unknown")
+                    
+                    # Save image
+                    image_filename = f"page_{page_num + 1:04d}_img_{img_idx + 1:03d}.{image_ext}"
+                    image_path = embedded_dir / image_filename
+                    
+                    with open(image_path, "wb") as f:
+                        f.write(image_bytes)
+                    
+                    image_count += 1
+                    
+                    log.append({
+                        "type": "embedded_image",
+                        "page": page_num + 1,
+                        "image_index": img_idx + 1,
+                        "xref": xref,
+                        "format": image_ext,
+                        "width": width,
+                        "height": height,
+                        "colorspace": colorspace,
+                        "output_path": str(image_path.relative_to(output_dir))
+                    })
+                    
+            except Exception as e:
+                log.append({
+                    "type": "error",
+                    "page": page_num + 1,
+                    "image_index": img_idx + 1,
+                    "xref": xref,
+                    "error": str(e)
+                })
+                print(f"    ⚠️ Error extracting image {img_idx + 1} from page {page_num + 1}: {e}")
+    
+    return image_count
+
+
+def render_full_pages(pdf_doc, output_dir: Path, log: list, dpi: int = 150) -> int:
+    """Render all pages as high-quality images."""
+    pages_dir = output_dir / "90-99_metadata" / "91_full-page-renders"
+    total_pages = len(pdf_doc)
+    
+    print(f"\n📄 Rendering {total_pages} pages at {dpi} DPI...")
+    
+    # Calculate zoom factor for desired DPI
+    zoom = dpi / 72  # PDF standard is 72 DPI
+    matrix = fitz.Matrix(zoom, zoom)
+    
+    for page_num in range(total_pages):
+        page = pdf_doc[page_num]
+        
+        # Render page to pixmap
+        pixmap = page.get_pixmap(matrix=matrix, alpha=False)
+        
+        # Save as PNG
+        page_filename = f"page_{page_num + 1:04d}.png"
+        page_path = pages_dir / page_filename
+        pixmap.save(str(page_path))
+        
+        # Progress indicator
+        if (page_num + 1) % 10 == 0 or page_num == 0 or page_num == total_pages - 1:
+            print(f"  Rendered page {page_num + 1}/{total_pages}")
+        
+        log.append({
+            "type": "full_page_render",
+            "page": page_num + 1,
+            "dpi": dpi,
+            "width": pixmap.width,
+            "height": pixmap.height,
+            "output_path": str(page_path.relative_to(output_dir))
+        })
+    
+    return total_pages
+
+
+def categorize_pages_by_content(pdf_doc, output_dir: Path, log: list):
+    """
+    Analyze PDF structure and create symbolic links or copies
+    in appropriate Johnny Decimal categories based on content.
+    """
+    print("\n📚 Analyzing PDF structure for categorization...")
+    
+    total_pages = len(pdf_doc)
+    
+    # Create a manifest for page categorization
+    categories = {
+        "preliminary": [],
+        "pronunciation": [],
+        "lessons": [],
+        "appendices": [],
+    }
+    
+    # Analyze table of contents if available
+    toc = pdf_doc.get_toc()
+    
+    if toc:
+        print(f"  Found Table of Contents with {len(toc)} entries:")
+        toc_log = []
+        for item in toc:
+            level, title, page = item
+            toc_log.append({
+                "level": level,
+                "title": title,
+                "page": page
+            })
+            print(f"    {'  ' * (level-1)}[{page}] {title}")
+        log.append({
+            "type": "table_of_contents",
+            "entries": toc_log
+        })
+    else:
+        print("  No embedded table of contents found - using page-based heuristics")
+        
+        # Heuristic categorization based on typical book structure
+        # First few pages: preliminary
+        preliminary_end = min(10, total_pages)
+        categories["preliminary"] = list(range(1, preliminary_end + 1))
+        
+        # Last portion: appendices/index
+        appendix_start = max(total_pages - 30, preliminary_end + 1)
+        categories["appendices"] = list(range(appendix_start, total_pages + 1))
+        
+        # Middle section: lessons
+        categories["lessons"] = list(range(preliminary_end + 1, appendix_start))
+        
+        log.append({
+            "type": "heuristic_categorization",
+            "preliminary_pages": categories["preliminary"],
+            "lesson_pages": categories["lessons"],
+            "appendix_pages": categories["appendices"]
+        })
+    
+    return categories
+
+
+def create_readme(output_dir: Path, pdf_info: dict, stats: dict):
+    """Create a README file documenting the extraction."""
+    readme_content = f"""# Shanghai Dialect Exercises - Digitized Copy
+
+## 📖 Source Document
+
+- **Title**: {pdf_info.get('title', 'Shanghai Dialect Exercises in Romanized and Character with Key to Pronunciation and English Index')}
+- **Author**: {pdf_info.get('author', 'Unknown')}
+- **Pages**: {pdf_info.get('page_count', 'Unknown')}
+- **Created**: {pdf_info.get('creationDate', 'Unknown')}
+
+## 📊 Extraction Statistics
+
+- **Total Pages Rendered**: {stats.get('pages_rendered', 0)}
+- **Embedded Images Extracted**: {stats.get('embedded_images', 0)}
+- **Extraction Date**: {stats.get('extraction_date', 'Unknown')}
+
+## 📁 Directory Structure (Johnny Decimal Index)
+
+This archive uses an improved Johnny Decimal indexing system:
+
+```
+10-19_preliminary/        # Cover, title pages, preface, contents
+├── 11_cover/
+├── 12_title-pages/
+├── 13_preface/
+├── 14_table-of-contents/
+└── 15_introduction/
+
+20-29_pronunciation-guide/  # Pronunciation keys and phonetic guides
+├── 21_key-to-pronunciation/
+├── 22_tone-charts/
+├── 23_romanization-system/
+└── 24_phonetic-tables/
+
+30-39_lessons/            # Main lesson content
+├── 31_lesson-01-10/
+├── 32_lesson-11-20/
+├── 33_lesson-21-30/
+├── 34_lesson-31-40/
+├── 35_lesson-41-50/
+└── 36_additional-exercises/
+
+40-49_appendices/         # Indices and supplementary materials
+├── 41_english-index/
+├── 42_character-index/
+├── 43_vocabulary-lists/
+└── 44_supplementary-materials/
+
+90-99_metadata/           # Full renders and extraction data
+├── 91_full-page-renders/   # All pages as high-res PNG
+├── 92_embedded-images/     # Extracted embedded images
+└── 93_extraction-log/      # JSON logs of extraction process
+```
+
+## 🔍 How to Use
+
+1. **Full Page Renders**: Browse `90-99_metadata/91_full-page-renders/` for complete page images
+2. **Embedded Images**: Check `90-99_metadata/92_embedded-images/` for any embedded graphics
+3. **Extraction Log**: See `90-99_metadata/93_extraction-log/` for detailed extraction metadata
+
+## ⚠️ Notes
+
+- All page renders are at {stats.get('render_dpi', 150)} DPI for high-quality viewing
+- Image filenames follow the pattern: `page_XXXX.png` (4-digit zero-padded page numbers)
+- This is a digital preservation copy for study and reference purposes
+
+---
+*Generated by Shanghai Dialect Digitizer on {stats.get('extraction_date', 'Unknown')}*
+"""
+    
+    readme_path = output_dir / "README.md"
+    readme_path.write_text(readme_content, encoding='utf-8')
+    print(f"\n📝 Created README at {readme_path}")
+
+
+def main():
+    print("=" * 60)
+    print("Shanghai Dialect Digitizer - PDF Image Extractor")
+    print("=" * 60)
+    
+    # Check if PDF exists
+    if not PDF_PATH.exists():
+        print(f"❌ Error: PDF file not found at {PDF_PATH}")
+        return
+    
+    print(f"\n📂 Source PDF: {PDF_PATH}")
+    print(f"   File size: {PDF_PATH.stat().st_size / (1024*1024):.2f} MB")
+    
+    # Create directory structure
+    print(f"\n🗂️  Creating Johnny Decimal directory structure...")
+    created_dirs = create_directory_structure(OUTPUT_BASE)
+    print(f"   Created {len(created_dirs)} directories")
+    
+    # Open PDF
+    print(f"\n📖 Opening PDF document...")
+    pdf_doc = fitz.open(str(PDF_PATH))
+    
+    # Get PDF metadata
+    pdf_info = {
+        "page_count": len(pdf_doc),
+        "title": pdf_doc.metadata.get("title", ""),
+        "author": pdf_doc.metadata.get("author", ""),
+        "subject": pdf_doc.metadata.get("subject", ""),
+        "keywords": pdf_doc.metadata.get("keywords", ""),
+        "creator": pdf_doc.metadata.get("creator", ""),
+        "producer": pdf_doc.metadata.get("producer", ""),
+        "creationDate": pdf_doc.metadata.get("creationDate", ""),
+        "modDate": pdf_doc.metadata.get("modDate", ""),
+    }
+    
+    print(f"   Total pages: {pdf_info['page_count']}")
+    if pdf_info['title']:
+        print(f"   Title: {pdf_info['title']}")
+    if pdf_info['author']:
+        print(f"   Author: {pdf_info['author']}")
+    
+    extraction_log = []
+    extraction_log.append({
+        "type": "pdf_metadata",
+        "data": pdf_info
+    })
+    
+    # Extract embedded images
+    embedded_count = extract_embedded_images(pdf_doc, OUTPUT_BASE, extraction_log)
+    print(f"\n✅ Extracted {embedded_count} embedded images")
+    
+    # Render full pages
+    render_dpi = 150  # Good balance of quality and file size
+    pages_rendered = render_full_pages(pdf_doc, OUTPUT_BASE, extraction_log, dpi=render_dpi)
+    print(f"\n✅ Rendered {pages_rendered} full pages")
+    
+    # Analyze and categorize content
+    categories = categorize_pages_by_content(pdf_doc, OUTPUT_BASE, extraction_log)
+    
+    # Close PDF
+    pdf_doc.close()
+    
+    # Statistics
+    stats = {
+        "pages_rendered": pages_rendered,
+        "embedded_images": embedded_count,
+        "render_dpi": render_dpi,
+        "extraction_date": datetime.now().isoformat(),
+    }
+    
+    # Save extraction log
+    log_dir = OUTPUT_BASE / "90-99_metadata" / "93_extraction-log"
+    log_path = log_dir / "extraction_log.json"
+    with open(log_path, "w", encoding="utf-8") as f:
+        json.dump({
+            "metadata": stats,
+            "pdf_info": pdf_info,
+            "log": extraction_log
+        }, f, indent=2, ensure_ascii=False)
+    print(f"\n📋 Saved extraction log to {log_path}")
+    
+    # Create README
+    create_readme(OUTPUT_BASE, pdf_info, stats)
+    
+    print("\n" + "=" * 60)
+    print("🎉 Extraction Complete!")
+    print("=" * 60)
+    print(f"\n📁 Output directory: {OUTPUT_BASE.absolute()}")
+    print(f"   - Full page renders: {OUTPUT_BASE}/90-99_metadata/91_full-page-renders/")
+    print(f"   - Embedded images: {OUTPUT_BASE}/90-99_metadata/92_embedded-images/")
+    print(f"   - Extraction log: {OUTPUT_BASE}/90-99_metadata/93_extraction-log/")
+
+
+if __name__ == "__main__":
+    main()

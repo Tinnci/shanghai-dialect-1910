@@ -1,0 +1,4715 @@
+{
+  "metadata": {
+    "embedded_converted": 294,
+    "embedded_total": 294,
+    "pages_converted": 293,
+    "pages_total": 294,
+    "conversion_date": "2026-01-13T00:42:57.713671",
+    "jxl_quality_embedded": 90,
+    "jxl_quality_render": 92,
+    "jxl_effort": 7
+  },
+  "conversions": [
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0002_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0002_img_001.jxl",
+      "input_size": 355831,
+      "output_size": 221061,
+      "savings_percent": 37.87
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0001_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0001_img_001.jxl",
+      "input_size": 614861,
+      "output_size": 367585,
+      "savings_percent": 40.22
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0004_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0004_img_001.jxl",
+      "input_size": 431507,
+      "output_size": 278791,
+      "savings_percent": 35.39
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0003_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0003_img_001.jxl",
+      "input_size": 483593,
+      "output_size": 315604,
+      "savings_percent": 34.74
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0005_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0005_img_001.jxl",
+      "input_size": 436436,
+      "output_size": 284067,
+      "savings_percent": 34.91
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0008_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0008_img_001.jxl",
+      "input_size": 411899,
+      "output_size": 265723,
+      "savings_percent": 35.49
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0006_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0006_img_001.jxl",
+      "input_size": 441400,
+      "output_size": 285756,
+      "savings_percent": 35.26
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0009_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0009_img_001.jxl",
+      "input_size": 374865,
+      "output_size": 242428,
+      "savings_percent": 35.33
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0010_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0010_img_001.jxl",
+      "input_size": 394218,
+      "output_size": 255433,
+      "savings_percent": 35.21
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0011_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0011_img_001.jxl",
+      "input_size": 428828,
+      "output_size": 280849,
+      "savings_percent": 34.51
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0012_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0012_img_001.jxl",
+      "input_size": 409244,
+      "output_size": 265449,
+      "savings_percent": 35.14
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0013_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0013_img_001.jxl",
+      "input_size": 425082,
+      "output_size": 278768,
+      "savings_percent": 34.42
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0014_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0014_img_001.jxl",
+      "input_size": 415021,
+      "output_size": 270004,
+      "savings_percent": 34.94
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0015_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0015_img_001.jxl",
+      "input_size": 456888,
+      "output_size": 297109,
+      "savings_percent": 34.97
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0016_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0016_img_001.jxl",
+      "input_size": 394286,
+      "output_size": 255698,
+      "savings_percent": 35.15
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0007_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0007_img_001.jxl",
+      "input_size": 431895,
+      "output_size": 280188,
+      "savings_percent": 35.13
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0017_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0017_img_001.jxl",
+      "input_size": 525631,
+      "output_size": 343892,
+      "savings_percent": 34.58
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0018_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0018_img_001.jxl",
+      "input_size": 551445,
+      "output_size": 365039,
+      "savings_percent": 33.8
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0019_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0019_img_001.jxl",
+      "input_size": 576931,
+      "output_size": 382030,
+      "savings_percent": 33.78
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0020_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0020_img_001.jxl",
+      "input_size": 549026,
+      "output_size": 361602,
+      "savings_percent": 34.14
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0021_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0021_img_001.jxl",
+      "input_size": 557946,
+      "output_size": 370458,
+      "savings_percent": 33.6
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0022_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0022_img_001.jxl",
+      "input_size": 525331,
+      "output_size": 347020,
+      "savings_percent": 33.94
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0023_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0023_img_001.jxl",
+      "input_size": 539253,
+      "output_size": 356256,
+      "savings_percent": 33.94
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0024_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0024_img_001.jxl",
+      "input_size": 524791,
+      "output_size": 344171,
+      "savings_percent": 34.42
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0025_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0025_img_001.jxl",
+      "input_size": 543118,
+      "output_size": 358287,
+      "savings_percent": 34.03
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0026_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0026_img_001.jxl",
+      "input_size": 553141,
+      "output_size": 364719,
+      "savings_percent": 34.06
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0027_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0027_img_001.jxl",
+      "input_size": 511702,
+      "output_size": 337452,
+      "savings_percent": 34.05
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0028_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0028_img_001.jxl",
+      "input_size": 520984,
+      "output_size": 342819,
+      "savings_percent": 34.2
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0029_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0029_img_001.jxl",
+      "input_size": 528097,
+      "output_size": 347121,
+      "savings_percent": 34.27
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0032_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0032_img_001.jxl",
+      "input_size": 500959,
+      "output_size": 327507,
+      "savings_percent": 34.62
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0031_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0031_img_001.jxl",
+      "input_size": 503899,
+      "output_size": 332724,
+      "savings_percent": 33.97
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0033_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0033_img_001.jxl",
+      "input_size": 531931,
+      "output_size": 353196,
+      "savings_percent": 33.6
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0030_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0030_img_001.jxl",
+      "input_size": 522424,
+      "output_size": 343920,
+      "savings_percent": 34.17
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0037_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0037_img_001.jxl",
+      "input_size": 516283,
+      "output_size": 341218,
+      "savings_percent": 33.91
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0036_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0036_img_001.jxl",
+      "input_size": 534357,
+      "output_size": 353561,
+      "savings_percent": 33.83
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0034_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0034_img_001.jxl",
+      "input_size": 510100,
+      "output_size": 336645,
+      "savings_percent": 34.0
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0035_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0035_img_001.jxl",
+      "input_size": 494085,
+      "output_size": 327569,
+      "savings_percent": 33.7
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0039_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0039_img_001.jxl",
+      "input_size": 550864,
+      "output_size": 366402,
+      "savings_percent": 33.49
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0040_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0040_img_001.jxl",
+      "input_size": 534408,
+      "output_size": 355686,
+      "savings_percent": 33.44
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0042_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0042_img_001.jxl",
+      "input_size": 577913,
+      "output_size": 380476,
+      "savings_percent": 34.16
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0038_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0038_img_001.jxl",
+      "input_size": 533405,
+      "output_size": 350934,
+      "savings_percent": 34.21
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0041_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0041_img_001.jxl",
+      "input_size": 580298,
+      "output_size": 383553,
+      "savings_percent": 33.9
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0044_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0044_img_001.jxl",
+      "input_size": 588228,
+      "output_size": 389107,
+      "savings_percent": 33.85
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0046_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0046_img_001.jxl",
+      "input_size": 563326,
+      "output_size": 370735,
+      "savings_percent": 34.19
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0045_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0045_img_001.jxl",
+      "input_size": 554402,
+      "output_size": 367827,
+      "savings_percent": 33.65
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0043_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0043_img_001.jxl",
+      "input_size": 576991,
+      "output_size": 382596,
+      "savings_percent": 33.69
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0049_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0049_img_001.jxl",
+      "input_size": 547443,
+      "output_size": 363526,
+      "savings_percent": 33.6
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0048_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0048_img_001.jxl",
+      "input_size": 544825,
+      "output_size": 359102,
+      "savings_percent": 34.09
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0050_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0050_img_001.jxl",
+      "input_size": 512282,
+      "output_size": 336816,
+      "savings_percent": 34.25
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0047_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0047_img_001.jxl",
+      "input_size": 528654,
+      "output_size": 348999,
+      "savings_percent": 33.98
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0051_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0051_img_001.jxl",
+      "input_size": 509043,
+      "output_size": 337191,
+      "savings_percent": 33.76
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0053_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0053_img_001.jxl",
+      "input_size": 521361,
+      "output_size": 346220,
+      "savings_percent": 33.59
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0052_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0052_img_001.jxl",
+      "input_size": 559704,
+      "output_size": 372281,
+      "savings_percent": 33.49
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0054_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0054_img_001.jxl",
+      "input_size": 532168,
+      "output_size": 352147,
+      "savings_percent": 33.83
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0055_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0055_img_001.jxl",
+      "input_size": 560902,
+      "output_size": 372867,
+      "savings_percent": 33.52
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0056_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0056_img_001.jxl",
+      "input_size": 554120,
+      "output_size": 367204,
+      "savings_percent": 33.73
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0057_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0057_img_001.jxl",
+      "input_size": 568501,
+      "output_size": 379914,
+      "savings_percent": 33.17
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0058_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0058_img_001.jxl",
+      "input_size": 512794,
+      "output_size": 337390,
+      "savings_percent": 34.21
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0059_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0059_img_001.jxl",
+      "input_size": 563084,
+      "output_size": 376061,
+      "savings_percent": 33.21
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0061_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0061_img_001.jxl",
+      "input_size": 529755,
+      "output_size": 350864,
+      "savings_percent": 33.77
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0060_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0060_img_001.jxl",
+      "input_size": 526866,
+      "output_size": 347797,
+      "savings_percent": 33.99
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0062_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0062_img_001.jxl",
+      "input_size": 566357,
+      "output_size": 374736,
+      "savings_percent": 33.83
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0063_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0063_img_001.jxl",
+      "input_size": 506981,
+      "output_size": 336215,
+      "savings_percent": 33.68
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0064_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0064_img_001.jxl",
+      "input_size": 551712,
+      "output_size": 365126,
+      "savings_percent": 33.82
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0066_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0066_img_001.jxl",
+      "input_size": 580042,
+      "output_size": 385160,
+      "savings_percent": 33.6
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0065_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0065_img_001.jxl",
+      "input_size": 504120,
+      "output_size": 332938,
+      "savings_percent": 33.96
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0067_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0067_img_001.jxl",
+      "input_size": 564190,
+      "output_size": 374749,
+      "savings_percent": 33.58
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0069_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0069_img_001.jxl",
+      "input_size": 517334,
+      "output_size": 342466,
+      "savings_percent": 33.8
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0068_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0068_img_001.jxl",
+      "input_size": 579403,
+      "output_size": 384072,
+      "savings_percent": 33.71
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0070_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0070_img_001.jxl",
+      "input_size": 534593,
+      "output_size": 353659,
+      "savings_percent": 33.85
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0071_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0071_img_001.jxl",
+      "input_size": 586027,
+      "output_size": 390610,
+      "savings_percent": 33.35
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0074_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0074_img_001.jxl",
+      "input_size": 535080,
+      "output_size": 351351,
+      "savings_percent": 34.34
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0073_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0073_img_001.jxl",
+      "input_size": 565292,
+      "output_size": 374033,
+      "savings_percent": 33.83
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0072_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0072_img_001.jxl",
+      "input_size": 520292,
+      "output_size": 342877,
+      "savings_percent": 34.1
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0075_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0075_img_001.jxl",
+      "input_size": 530840,
+      "output_size": 348758,
+      "savings_percent": 34.3
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0076_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0076_img_001.jxl",
+      "input_size": 541512,
+      "output_size": 356615,
+      "savings_percent": 34.14
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0079_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0079_img_001.jxl",
+      "input_size": 579192,
+      "output_size": 384679,
+      "savings_percent": 33.58
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0077_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0077_img_001.jxl",
+      "input_size": 524114,
+      "output_size": 344958,
+      "savings_percent": 34.18
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0078_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0078_img_001.jxl",
+      "input_size": 564112,
+      "output_size": 371956,
+      "savings_percent": 34.06
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0081_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0081_img_001.jxl",
+      "input_size": 532603,
+      "output_size": 354612,
+      "savings_percent": 33.42
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0082_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0082_img_001.jxl",
+      "input_size": 552677,
+      "output_size": 364433,
+      "savings_percent": 34.06
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0085_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0085_img_001.jxl",
+      "input_size": 550674,
+      "output_size": 364460,
+      "savings_percent": 33.82
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0083_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0083_img_001.jxl",
+      "input_size": 568162,
+      "output_size": 379051,
+      "savings_percent": 33.28
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0084_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0084_img_001.jxl",
+      "input_size": 576723,
+      "output_size": 382734,
+      "savings_percent": 33.64
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0080_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0080_img_001.jxl",
+      "input_size": 580401,
+      "output_size": 382702,
+      "savings_percent": 34.06
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0087_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0087_img_001.jxl",
+      "input_size": 577360,
+      "output_size": 384376,
+      "savings_percent": 33.43
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0086_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0086_img_001.jxl",
+      "input_size": 559062,
+      "output_size": 368280,
+      "savings_percent": 34.13
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0088_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0088_img_001.jxl",
+      "input_size": 570420,
+      "output_size": 376455,
+      "savings_percent": 34.0
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0089_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0089_img_001.jxl",
+      "input_size": 551014,
+      "output_size": 366312,
+      "savings_percent": 33.52
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0090_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0090_img_001.jxl",
+      "input_size": 565729,
+      "output_size": 371554,
+      "savings_percent": 34.32
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0092_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0092_img_001.jxl",
+      "input_size": 596336,
+      "output_size": 393043,
+      "savings_percent": 34.09
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0091_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0091_img_001.jxl",
+      "input_size": 569499,
+      "output_size": 373665,
+      "savings_percent": 34.39
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0093_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0093_img_001.jxl",
+      "input_size": 543743,
+      "output_size": 360246,
+      "savings_percent": 33.75
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0096_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0096_img_001.jxl",
+      "input_size": 557848,
+      "output_size": 367095,
+      "savings_percent": 34.19
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0094_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0094_img_001.jxl",
+      "input_size": 527210,
+      "output_size": 344493,
+      "savings_percent": 34.66
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0095_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0095_img_001.jxl",
+      "input_size": 585371,
+      "output_size": 387635,
+      "savings_percent": 33.78
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0098_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0098_img_001.jxl",
+      "input_size": 623060,
+      "output_size": 410040,
+      "savings_percent": 34.19
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0100_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0100_img_001.jxl",
+      "input_size": 612673,
+      "output_size": 402555,
+      "savings_percent": 34.3
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0099_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0099_img_001.jxl",
+      "input_size": 614064,
+      "output_size": 403722,
+      "savings_percent": 34.25
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0101_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0101_img_001.jxl",
+      "input_size": 589778,
+      "output_size": 387331,
+      "savings_percent": 34.33
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0097_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0097_img_001.jxl",
+      "input_size": 616633,
+      "output_size": 409398,
+      "savings_percent": 33.61
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0102_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0102_img_001.jxl",
+      "input_size": 584272,
+      "output_size": 384279,
+      "savings_percent": 34.23
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0103_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0103_img_001.jxl",
+      "input_size": 617464,
+      "output_size": 406128,
+      "savings_percent": 34.23
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0105_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0105_img_001.jxl",
+      "input_size": 581031,
+      "output_size": 382699,
+      "savings_percent": 34.13
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0104_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0104_img_001.jxl",
+      "input_size": 598227,
+      "output_size": 390809,
+      "savings_percent": 34.67
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0106_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0106_img_001.jxl",
+      "input_size": 553828,
+      "output_size": 360976,
+      "savings_percent": 34.82
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0107_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0107_img_001.jxl",
+      "input_size": 552708,
+      "output_size": 362893,
+      "savings_percent": 34.34
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0108_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0108_img_001.jxl",
+      "input_size": 587841,
+      "output_size": 386793,
+      "savings_percent": 34.2
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0109_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0109_img_001.jxl",
+      "input_size": 593326,
+      "output_size": 391397,
+      "savings_percent": 34.03
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0111_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0111_img_001.jxl",
+      "input_size": 584034,
+      "output_size": 384052,
+      "savings_percent": 34.24
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0112_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0112_img_001.jxl",
+      "input_size": 536759,
+      "output_size": 351303,
+      "savings_percent": 34.55
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0113_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0113_img_001.jxl",
+      "input_size": 550601,
+      "output_size": 364637,
+      "savings_percent": 33.77
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0110_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0110_img_001.jxl",
+      "input_size": 582602,
+      "output_size": 382853,
+      "savings_percent": 34.29
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0116_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0116_img_001.jxl",
+      "input_size": 551972,
+      "output_size": 364255,
+      "savings_percent": 34.01
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0114_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0114_img_001.jxl",
+      "input_size": 570206,
+      "output_size": 377668,
+      "savings_percent": 33.77
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0115_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0115_img_001.jxl",
+      "input_size": 548241,
+      "output_size": 363472,
+      "savings_percent": 33.7
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0117_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0117_img_001.jxl",
+      "input_size": 544209,
+      "output_size": 357622,
+      "savings_percent": 34.29
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0119_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0119_img_001.jxl",
+      "input_size": 586047,
+      "output_size": 389271,
+      "savings_percent": 33.58
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0121_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0121_img_001.jxl",
+      "input_size": 565382,
+      "output_size": 375123,
+      "savings_percent": 33.65
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0120_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0120_img_001.jxl",
+      "input_size": 586593,
+      "output_size": 386237,
+      "savings_percent": 34.16
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0123_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0123_img_001.jxl",
+      "input_size": 569671,
+      "output_size": 376190,
+      "savings_percent": 33.96
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0122_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0122_img_001.jxl",
+      "input_size": 604738,
+      "output_size": 398846,
+      "savings_percent": 34.05
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0124_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0124_img_001.jxl",
+      "input_size": 572347,
+      "output_size": 376291,
+      "savings_percent": 34.25
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0118_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0118_img_001.jxl",
+      "input_size": 586504,
+      "output_size": 389328,
+      "savings_percent": 33.62
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0126_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0126_img_001.jxl",
+      "input_size": 575812,
+      "output_size": 378333,
+      "savings_percent": 34.3
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0125_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0125_img_001.jxl",
+      "input_size": 556230,
+      "output_size": 364872,
+      "savings_percent": 34.4
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0127_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0127_img_001.jxl",
+      "input_size": 569252,
+      "output_size": 378440,
+      "savings_percent": 33.52
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0128_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0128_img_001.jxl",
+      "input_size": 588544,
+      "output_size": 387186,
+      "savings_percent": 34.21
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0129_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0129_img_001.jxl",
+      "input_size": 612136,
+      "output_size": 407905,
+      "savings_percent": 33.36
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0131_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0131_img_001.jxl",
+      "input_size": 603888,
+      "output_size": 402784,
+      "savings_percent": 33.3
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0134_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0134_img_001.jxl",
+      "input_size": 607509,
+      "output_size": 402327,
+      "savings_percent": 33.77
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0133_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0133_img_001.jxl",
+      "input_size": 575101,
+      "output_size": 380124,
+      "savings_percent": 33.9
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0132_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0132_img_001.jxl",
+      "input_size": 555039,
+      "output_size": 363830,
+      "savings_percent": 34.45
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0130_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0130_img_001.jxl",
+      "input_size": 608463,
+      "output_size": 403487,
+      "savings_percent": 33.69
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0135_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0135_img_001.jxl",
+      "input_size": 567163,
+      "output_size": 376894,
+      "savings_percent": 33.55
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0136_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0136_img_001.jxl",
+      "input_size": 539766,
+      "output_size": 355678,
+      "savings_percent": 34.11
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0138_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0138_img_001.jxl",
+      "input_size": 579112,
+      "output_size": 384380,
+      "savings_percent": 33.63
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0139_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0139_img_001.jxl",
+      "input_size": 595410,
+      "output_size": 396752,
+      "savings_percent": 33.36
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0137_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0137_img_001.jxl",
+      "input_size": 573527,
+      "output_size": 382015,
+      "savings_percent": 33.39
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0141_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0141_img_001.jxl",
+      "input_size": 549349,
+      "output_size": 363254,
+      "savings_percent": 33.88
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0140_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0140_img_001.jxl",
+      "input_size": 560536,
+      "output_size": 371737,
+      "savings_percent": 33.68
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0142_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0142_img_001.jxl",
+      "input_size": 568991,
+      "output_size": 376319,
+      "savings_percent": 33.86
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0145_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0145_img_001.jxl",
+      "input_size": 581450,
+      "output_size": 385750,
+      "savings_percent": 33.66
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0144_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0144_img_001.jxl",
+      "input_size": 608633,
+      "output_size": 404719,
+      "savings_percent": 33.5
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0143_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0143_img_001.jxl",
+      "input_size": 545685,
+      "output_size": 361571,
+      "savings_percent": 33.74
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0147_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0147_img_001.jxl",
+      "input_size": 561425,
+      "output_size": 373964,
+      "savings_percent": 33.39
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0148_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0148_img_001.jxl",
+      "input_size": 620997,
+      "output_size": 414055,
+      "savings_percent": 33.32
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0149_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0149_img_001.jxl",
+      "input_size": 573463,
+      "output_size": 380818,
+      "savings_percent": 33.59
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0150_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0150_img_001.jxl",
+      "input_size": 638715,
+      "output_size": 424017,
+      "savings_percent": 33.61
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0151_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0151_img_001.jxl",
+      "input_size": 612730,
+      "output_size": 405354,
+      "savings_percent": 33.84
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0152_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0152_img_001.jxl",
+      "input_size": 605207,
+      "output_size": 401842,
+      "savings_percent": 33.6
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0153_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0153_img_001.jxl",
+      "input_size": 581163,
+      "output_size": 384822,
+      "savings_percent": 33.78
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0146_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0146_img_001.jxl",
+      "input_size": 608623,
+      "output_size": 406733,
+      "savings_percent": 33.17
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0155_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0155_img_001.jxl",
+      "input_size": 570406,
+      "output_size": 378207,
+      "savings_percent": 33.7
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0156_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0156_img_001.jxl",
+      "input_size": 620833,
+      "output_size": 411305,
+      "savings_percent": 33.75
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0154_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0154_img_001.jxl",
+      "input_size": 590740,
+      "output_size": 389267,
+      "savings_percent": 34.11
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0157_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0157_img_001.jxl",
+      "input_size": 600618,
+      "output_size": 397948,
+      "savings_percent": 33.74
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0159_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0159_img_001.jxl",
+      "input_size": 576315,
+      "output_size": 379649,
+      "savings_percent": 34.12
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0158_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0158_img_001.jxl",
+      "input_size": 587634,
+      "output_size": 389474,
+      "savings_percent": 33.72
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0160_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0160_img_001.jxl",
+      "input_size": 583937,
+      "output_size": 385613,
+      "savings_percent": 33.96
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0161_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0161_img_001.jxl",
+      "input_size": 572825,
+      "output_size": 377440,
+      "savings_percent": 34.11
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0162_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0162_img_001.jxl",
+      "input_size": 615556,
+      "output_size": 407348,
+      "savings_percent": 33.82
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0164_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0164_img_001.jxl",
+      "input_size": 618869,
+      "output_size": 408520,
+      "savings_percent": 33.99
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0163_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0163_img_001.jxl",
+      "input_size": 596439,
+      "output_size": 393445,
+      "savings_percent": 34.03
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0165_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0165_img_001.jxl",
+      "input_size": 586439,
+      "output_size": 385372,
+      "savings_percent": 34.29
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0168_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0168_img_001.jxl",
+      "input_size": 593810,
+      "output_size": 390759,
+      "savings_percent": 34.19
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0167_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0167_img_001.jxl",
+      "input_size": 602392,
+      "output_size": 399122,
+      "savings_percent": 33.74
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0166_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0166_img_001.jxl",
+      "input_size": 605905,
+      "output_size": 398903,
+      "savings_percent": 34.16
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0169_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0169_img_001.jxl",
+      "input_size": 593554,
+      "output_size": 394133,
+      "savings_percent": 33.6
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0172_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0172_img_001.jxl",
+      "input_size": 601724,
+      "output_size": 399010,
+      "savings_percent": 33.69
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0170_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0170_img_001.jxl",
+      "input_size": 609436,
+      "output_size": 402694,
+      "savings_percent": 33.92
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0171_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0171_img_001.jxl",
+      "input_size": 568380,
+      "output_size": 376236,
+      "savings_percent": 33.81
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0173_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0173_img_001.jxl",
+      "input_size": 606181,
+      "output_size": 398628,
+      "savings_percent": 34.24
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0174_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0174_img_001.jxl",
+      "input_size": 633684,
+      "output_size": 421102,
+      "savings_percent": 33.55
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0177_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0177_img_001.jxl",
+      "input_size": 624293,
+      "output_size": 413160,
+      "savings_percent": 33.82
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0175_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0175_img_001.jxl",
+      "input_size": 590774,
+      "output_size": 389336,
+      "savings_percent": 34.1
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0178_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0178_img_001.jxl",
+      "input_size": 608837,
+      "output_size": 400662,
+      "savings_percent": 34.19
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0176_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0176_img_001.jxl",
+      "input_size": 603052,
+      "output_size": 399131,
+      "savings_percent": 33.81
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0180_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0180_img_001.jxl",
+      "input_size": 614753,
+      "output_size": 407279,
+      "savings_percent": 33.75
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0182_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0182_img_001.jxl",
+      "input_size": 615230,
+      "output_size": 397628,
+      "savings_percent": 35.37
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0181_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0181_img_001.jxl",
+      "input_size": 630715,
+      "output_size": 416908,
+      "savings_percent": 33.9
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0183_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0183_img_001.jxl",
+      "input_size": 611316,
+      "output_size": 398727,
+      "savings_percent": 34.78
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0179_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0179_img_001.jxl",
+      "input_size": 618305,
+      "output_size": 407955,
+      "savings_percent": 34.02
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0184_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0184_img_001.jxl",
+      "input_size": 574058,
+      "output_size": 378686,
+      "savings_percent": 34.03
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0187_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0187_img_001.jxl",
+      "input_size": 597740,
+      "output_size": 395001,
+      "savings_percent": 33.92
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0186_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0186_img_001.jxl",
+      "input_size": 575290,
+      "output_size": 377518,
+      "savings_percent": 34.38
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0185_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0185_img_001.jxl",
+      "input_size": 583061,
+      "output_size": 386769,
+      "savings_percent": 33.67
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0188_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0188_img_001.jxl",
+      "input_size": 597882,
+      "output_size": 394911,
+      "savings_percent": 33.95
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0191_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0191_img_001.jxl",
+      "input_size": 529578,
+      "output_size": 350805,
+      "savings_percent": 33.76
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0190_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0190_img_001.jxl",
+      "input_size": 598083,
+      "output_size": 395210,
+      "savings_percent": 33.92
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0189_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0189_img_001.jxl",
+      "input_size": 565154,
+      "output_size": 374938,
+      "savings_percent": 33.66
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0195_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0195_img_001.jxl",
+      "input_size": 557456,
+      "output_size": 367914,
+      "savings_percent": 34.0
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0193_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0193_img_001.jxl",
+      "input_size": 520376,
+      "output_size": 345861,
+      "savings_percent": 33.54
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0194_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0194_img_001.jxl",
+      "input_size": 609015,
+      "output_size": 404023,
+      "savings_percent": 33.66
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0192_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0192_img_001.jxl",
+      "input_size": 572369,
+      "output_size": 380723,
+      "savings_percent": 33.48
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0196_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0196_img_001.jxl",
+      "input_size": 603828,
+      "output_size": 400522,
+      "savings_percent": 33.67
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0198_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0198_img_001.jxl",
+      "input_size": 569781,
+      "output_size": 379417,
+      "savings_percent": 33.41
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0197_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0197_img_001.jxl",
+      "input_size": 555470,
+      "output_size": 369033,
+      "savings_percent": 33.56
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0199_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0199_img_001.jxl",
+      "input_size": 563475,
+      "output_size": 372854,
+      "savings_percent": 33.83
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0200_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0200_img_001.jxl",
+      "input_size": 563023,
+      "output_size": 373761,
+      "savings_percent": 33.62
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0201_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0201_img_001.jxl",
+      "input_size": 568141,
+      "output_size": 375696,
+      "savings_percent": 33.87
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0202_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0202_img_001.jxl",
+      "input_size": 582020,
+      "output_size": 384832,
+      "savings_percent": 33.88
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0203_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0203_img_001.jxl",
+      "input_size": 561492,
+      "output_size": 370666,
+      "savings_percent": 33.99
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0205_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0205_img_001.jxl",
+      "input_size": 552182,
+      "output_size": 368596,
+      "savings_percent": 33.25
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0204_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0204_img_001.jxl",
+      "input_size": 580340,
+      "output_size": 387002,
+      "savings_percent": 33.31
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0206_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0206_img_001.jxl",
+      "input_size": 531294,
+      "output_size": 352504,
+      "savings_percent": 33.65
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0207_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0207_img_001.jxl",
+      "input_size": 552413,
+      "output_size": 366001,
+      "savings_percent": 33.75
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0209_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0209_img_001.jxl",
+      "input_size": 525379,
+      "output_size": 347038,
+      "savings_percent": 33.95
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0208_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0208_img_001.jxl",
+      "input_size": 547204,
+      "output_size": 363062,
+      "savings_percent": 33.65
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0211_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0211_img_001.jxl",
+      "input_size": 589995,
+      "output_size": 388774,
+      "savings_percent": 34.11
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0210_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0210_img_001.jxl",
+      "input_size": 611580,
+      "output_size": 404757,
+      "savings_percent": 33.82
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0213_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0213_img_001.jxl",
+      "input_size": 525995,
+      "output_size": 346656,
+      "savings_percent": 34.1
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0212_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0212_img_001.jxl",
+      "input_size": 565094,
+      "output_size": 374721,
+      "savings_percent": 33.69
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0215_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0215_img_001.jxl",
+      "input_size": 551774,
+      "output_size": 364539,
+      "savings_percent": 33.93
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0214_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0214_img_001.jxl",
+      "input_size": 515512,
+      "output_size": 340386,
+      "savings_percent": 33.97
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0216_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0216_img_001.jxl",
+      "input_size": 537477,
+      "output_size": 354900,
+      "savings_percent": 33.97
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0219_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0219_img_001.jxl",
+      "input_size": 575795,
+      "output_size": 382813,
+      "savings_percent": 33.52
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0217_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0217_img_001.jxl",
+      "input_size": 592838,
+      "output_size": 393229,
+      "savings_percent": 33.67
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0218_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0218_img_001.jxl",
+      "input_size": 628002,
+      "output_size": 416651,
+      "savings_percent": 33.65
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0220_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0220_img_001.jxl",
+      "input_size": 594887,
+      "output_size": 394254,
+      "savings_percent": 33.73
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0222_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0222_img_001.jxl",
+      "input_size": 589510,
+      "output_size": 389958,
+      "savings_percent": 33.85
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0221_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0221_img_001.jxl",
+      "input_size": 552175,
+      "output_size": 364645,
+      "savings_percent": 33.96
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0223_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0223_img_001.jxl",
+      "input_size": 570633,
+      "output_size": 379183,
+      "savings_percent": 33.55
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0224_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0224_img_001.jxl",
+      "input_size": 614680,
+      "output_size": 408518,
+      "savings_percent": 33.54
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0225_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0225_img_001.jxl",
+      "input_size": 561331,
+      "output_size": 373640,
+      "savings_percent": 33.44
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0228_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0228_img_001.jxl",
+      "input_size": 601451,
+      "output_size": 402188,
+      "savings_percent": 33.13
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0226_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0226_img_001.jxl",
+      "input_size": 617821,
+      "output_size": 411509,
+      "savings_percent": 33.39
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0227_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0227_img_001.jxl",
+      "input_size": 606939,
+      "output_size": 404656,
+      "savings_percent": 33.33
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0230_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0230_img_001.jxl",
+      "input_size": 553250,
+      "output_size": 365088,
+      "savings_percent": 34.01
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0229_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0229_img_001.jxl",
+      "input_size": 573072,
+      "output_size": 378479,
+      "savings_percent": 33.96
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0232_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0232_img_001.jxl",
+      "input_size": 554566,
+      "output_size": 366569,
+      "savings_percent": 33.9
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0231_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0231_img_001.jxl",
+      "input_size": 597410,
+      "output_size": 398834,
+      "savings_percent": 33.24
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0235_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0235_img_001.jxl",
+      "input_size": 562140,
+      "output_size": 375777,
+      "savings_percent": 33.15
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0234_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0234_img_001.jxl",
+      "input_size": 532968,
+      "output_size": 352299,
+      "savings_percent": 33.9
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0236_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0236_img_001.jxl",
+      "input_size": 551862,
+      "output_size": 365783,
+      "savings_percent": 33.72
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0233_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0233_img_001.jxl",
+      "input_size": 583767,
+      "output_size": 387931,
+      "savings_percent": 33.55
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0237_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0237_img_001.jxl",
+      "input_size": 521371,
+      "output_size": 345064,
+      "savings_percent": 33.82
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0239_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0239_img_001.jxl",
+      "input_size": 513994,
+      "output_size": 340372,
+      "savings_percent": 33.78
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0238_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0238_img_001.jxl",
+      "input_size": 560539,
+      "output_size": 373353,
+      "savings_percent": 33.39
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0240_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0240_img_001.jxl",
+      "input_size": 547869,
+      "output_size": 364834,
+      "savings_percent": 33.41
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0241_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0241_img_001.jxl",
+      "input_size": 592812,
+      "output_size": 395841,
+      "savings_percent": 33.23
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0243_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0243_img_001.jxl",
+      "input_size": 604502,
+      "output_size": 401649,
+      "savings_percent": 33.56
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0244_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0244_img_001.jxl",
+      "input_size": 608581,
+      "output_size": 403677,
+      "savings_percent": 33.67
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0242_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0242_img_001.jxl",
+      "input_size": 606913,
+      "output_size": 402847,
+      "savings_percent": 33.62
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0245_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0245_img_001.jxl",
+      "input_size": 621441,
+      "output_size": 413349,
+      "savings_percent": 33.49
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0246_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0246_img_001.jxl",
+      "input_size": 575086,
+      "output_size": 381950,
+      "savings_percent": 33.58
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0247_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0247_img_001.jxl",
+      "input_size": 571360,
+      "output_size": 379040,
+      "savings_percent": 33.66
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0248_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0248_img_001.jxl",
+      "input_size": 602407,
+      "output_size": 402501,
+      "savings_percent": 33.18
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0251_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0251_img_001.jxl",
+      "input_size": 571200,
+      "output_size": 379335,
+      "savings_percent": 33.59
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0249_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0249_img_001.jxl",
+      "input_size": 524383,
+      "output_size": 348009,
+      "savings_percent": 33.63
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0254_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0254_img_001.jxl",
+      "input_size": 519894,
+      "output_size": 342638,
+      "savings_percent": 34.09
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0252_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0252_img_001.jxl",
+      "input_size": 551662,
+      "output_size": 365371,
+      "savings_percent": 33.77
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0253_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0253_img_001.jxl",
+      "input_size": 542925,
+      "output_size": 359164,
+      "savings_percent": 33.85
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0255_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0255_img_001.jxl",
+      "input_size": 538499,
+      "output_size": 354887,
+      "savings_percent": 34.1
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0250_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0250_img_001.jxl",
+      "input_size": 564840,
+      "output_size": 375275,
+      "savings_percent": 33.56
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0257_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0257_img_001.jxl",
+      "input_size": 596388,
+      "output_size": 398005,
+      "savings_percent": 33.26
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0256_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0256_img_001.jxl",
+      "input_size": 586026,
+      "output_size": 388403,
+      "savings_percent": 33.72
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0259_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0259_img_001.jxl",
+      "input_size": 550983,
+      "output_size": 363651,
+      "savings_percent": 34.0
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0261_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0261_img_001.jxl",
+      "input_size": 540721,
+      "output_size": 359204,
+      "savings_percent": 33.57
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0260_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0260_img_001.jxl",
+      "input_size": 561162,
+      "output_size": 374185,
+      "savings_percent": 33.32
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0258_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0258_img_001.jxl",
+      "input_size": 556306,
+      "output_size": 366065,
+      "savings_percent": 34.2
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0262_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0262_img_001.jxl",
+      "input_size": 529069,
+      "output_size": 351186,
+      "savings_percent": 33.62
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0263_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0263_img_001.jxl",
+      "input_size": 536641,
+      "output_size": 356815,
+      "savings_percent": 33.51
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0264_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0264_img_001.jxl",
+      "input_size": 552616,
+      "output_size": 368342,
+      "savings_percent": 33.35
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0265_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0265_img_001.jxl",
+      "input_size": 595889,
+      "output_size": 396669,
+      "savings_percent": 33.43
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0267_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0267_img_001.jxl",
+      "input_size": 567103,
+      "output_size": 376778,
+      "savings_percent": 33.56
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0266_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0266_img_001.jxl",
+      "input_size": 541507,
+      "output_size": 356594,
+      "savings_percent": 34.15
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0268_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0268_img_001.jxl",
+      "input_size": 565194,
+      "output_size": 373477,
+      "savings_percent": 33.92
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0269_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0269_img_001.jxl",
+      "input_size": 555038,
+      "output_size": 369007,
+      "savings_percent": 33.52
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0272_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0272_img_001.jxl",
+      "input_size": 590049,
+      "output_size": 393523,
+      "savings_percent": 33.31
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0273_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0273_img_001.jxl",
+      "input_size": 491908,
+      "output_size": 326869,
+      "savings_percent": 33.55
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0270_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0270_img_001.jxl",
+      "input_size": 521733,
+      "output_size": 343791,
+      "savings_percent": 34.11
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0271_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0271_img_001.jxl",
+      "input_size": 566994,
+      "output_size": 373884,
+      "savings_percent": 34.06
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0275_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0275_img_001.jxl",
+      "input_size": 545323,
+      "output_size": 361743,
+      "savings_percent": 33.66
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0276_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0276_img_001.jxl",
+      "input_size": 514040,
+      "output_size": 340771,
+      "savings_percent": 33.71
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0274_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0274_img_001.jxl",
+      "input_size": 507752,
+      "output_size": 334252,
+      "savings_percent": 34.17
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0277_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0277_img_001.jxl",
+      "input_size": 531851,
+      "output_size": 353657,
+      "savings_percent": 33.5
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0278_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0278_img_001.jxl",
+      "input_size": 540449,
+      "output_size": 357570,
+      "savings_percent": 33.84
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0280_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0280_img_001.jxl",
+      "input_size": 383888,
+      "output_size": 247418,
+      "savings_percent": 35.55
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0279_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0279_img_001.jxl",
+      "input_size": 458322,
+      "output_size": 299934,
+      "savings_percent": 34.56
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0281_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0281_img_001.jxl",
+      "input_size": 444242,
+      "output_size": 289778,
+      "savings_percent": 34.77
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0282_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0282_img_001.jxl",
+      "input_size": 441691,
+      "output_size": 286476,
+      "savings_percent": 35.14
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0283_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0283_img_001.jxl",
+      "input_size": 431709,
+      "output_size": 281325,
+      "savings_percent": 34.83
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0285_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0285_img_001.jxl",
+      "input_size": 413383,
+      "output_size": 269511,
+      "savings_percent": 34.8
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0284_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0284_img_001.jxl",
+      "input_size": 420879,
+      "output_size": 272394,
+      "savings_percent": 35.28
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0286_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0286_img_001.jxl",
+      "input_size": 396972,
+      "output_size": 252608,
+      "savings_percent": 36.37
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0289_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0289_img_001.jxl",
+      "input_size": 423064,
+      "output_size": 275304,
+      "savings_percent": 34.93
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0288_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0288_img_001.jxl",
+      "input_size": 388354,
+      "output_size": 253208,
+      "savings_percent": 34.8
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0287_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0287_img_001.jxl",
+      "input_size": 391323,
+      "output_size": 252609,
+      "savings_percent": 35.45
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0290_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0290_img_001.jxl",
+      "input_size": 410172,
+      "output_size": 269822,
+      "savings_percent": 34.22
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0291_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0291_img_001.jxl",
+      "input_size": 419788,
+      "output_size": 272997,
+      "savings_percent": 34.97
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0293_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0293_img_001.jxl",
+      "input_size": 404664,
+      "output_size": 260660,
+      "savings_percent": 35.59
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0292_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0292_img_001.jxl",
+      "input_size": 449916,
+      "output_size": 292551,
+      "savings_percent": 34.98
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/92_embedded-images/page_0294_img_001.jpeg",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/embedded/page_0294_img_001.jxl",
+      "input_size": 402922,
+      "output_size": 258665,
+      "savings_percent": 35.8
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0002.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0002.jxl",
+      "input_size": 5478309,
+      "output_size": 1432493,
+      "savings_percent": 73.85
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0001.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0001.jxl",
+      "input_size": 10766950,
+      "output_size": 2347725,
+      "savings_percent": 78.2
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0004.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0004.jxl",
+      "input_size": 6554012,
+      "output_size": 1794680,
+      "savings_percent": 72.62
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0003.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0003.jxl",
+      "input_size": 7415550,
+      "output_size": 1999464,
+      "savings_percent": 73.04
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0005.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0005.jxl",
+      "input_size": 6741953,
+      "output_size": 1771550,
+      "savings_percent": 73.72
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0009.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0009.jxl",
+      "input_size": 5809487,
+      "output_size": 1522621,
+      "savings_percent": 73.79
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0008.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0008.jxl",
+      "input_size": 6150234,
+      "output_size": 1679062,
+      "savings_percent": 72.7
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0006.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0006.jxl",
+      "input_size": 6593160,
+      "output_size": 1792138,
+      "savings_percent": 72.82
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0007.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0007.jxl",
+      "input_size": 6500793,
+      "output_size": 1754334,
+      "savings_percent": 73.01
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0011.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0011.jxl",
+      "input_size": 6666095,
+      "output_size": 1762588,
+      "savings_percent": 73.56
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0012.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0012.jxl",
+      "input_size": 6266853,
+      "output_size": 1677168,
+      "savings_percent": 73.24
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0010.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0010.jxl",
+      "input_size": 5979962,
+      "output_size": 1611910,
+      "savings_percent": 73.04
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0013.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0013.jxl",
+      "input_size": 6554993,
+      "output_size": 1754415,
+      "savings_percent": 73.24
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0016.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0016.jxl",
+      "input_size": 6057780,
+      "output_size": 1615950,
+      "savings_percent": 73.32
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0015.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0015.jxl",
+      "input_size": 7159807,
+      "output_size": 1882204,
+      "savings_percent": 73.71
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0014.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0014.jxl",
+      "input_size": 6432037,
+      "output_size": 1697084,
+      "savings_percent": 73.62
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0017.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0017.jxl",
+      "input_size": 8401742,
+      "output_size": 2116996,
+      "savings_percent": 74.8
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0018.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0018.jxl",
+      "input_size": 8548863,
+      "output_size": 2227399,
+      "savings_percent": 73.95
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0020.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0020.jxl",
+      "input_size": 8657260,
+      "output_size": 2194846,
+      "savings_percent": 74.65
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0019.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0019.jxl",
+      "input_size": 8897831,
+      "output_size": 2334755,
+      "savings_percent": 73.76
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0021.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0021.jxl",
+      "input_size": 8818140,
+      "output_size": 2229791,
+      "savings_percent": 74.71
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0022.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0022.jxl",
+      "input_size": 8154410,
+      "output_size": 2109325,
+      "savings_percent": 74.13
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0023.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0023.jxl",
+      "input_size": 8467976,
+      "output_size": 2166396,
+      "savings_percent": 74.42
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0024.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0024.jxl",
+      "input_size": 8379859,
+      "output_size": 2105370,
+      "savings_percent": 74.88
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0025.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0025.jxl",
+      "input_size": 8588719,
+      "output_size": 2191416,
+      "savings_percent": 74.48
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0029.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0029.jxl",
+      "input_size": 8361182,
+      "output_size": 2134810,
+      "savings_percent": 74.47
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0028.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0028.jxl",
+      "input_size": 8144453,
+      "output_size": 2094390,
+      "savings_percent": 74.28
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0026.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0026.jxl",
+      "input_size": 8550311,
+      "output_size": 2260522,
+      "savings_percent": 73.56
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0027.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0027.jxl",
+      "input_size": 7976062,
+      "output_size": 2075224,
+      "savings_percent": 73.98
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0031.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0031.jxl",
+      "input_size": 7890489,
+      "output_size": 2033736,
+      "savings_percent": 74.23
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0033.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0033.jxl",
+      "input_size": 8254344,
+      "output_size": 2156298,
+      "savings_percent": 73.88
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0032.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0032.jxl",
+      "input_size": 7796888,
+      "output_size": 2024906,
+      "savings_percent": 74.03
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0030.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0030.jxl",
+      "input_size": 8048943,
+      "output_size": 2112432,
+      "savings_percent": 73.76
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0037.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0037.jxl",
+      "input_size": 8051968,
+      "output_size": 2077687,
+      "savings_percent": 74.2
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0034.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0034.jxl",
+      "input_size": 7857587,
+      "output_size": 2050891,
+      "savings_percent": 73.9
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0035.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0035.jxl",
+      "input_size": 7757009,
+      "output_size": 2006672,
+      "savings_percent": 74.13
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0036.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0036.jxl",
+      "input_size": 8334739,
+      "output_size": 2141060,
+      "savings_percent": 74.31
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0040.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0040.jxl",
+      "input_size": 8397983,
+      "output_size": 2163748,
+      "savings_percent": 74.23
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0038.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0038.jxl",
+      "input_size": 8241805,
+      "output_size": 2166282,
+      "savings_percent": 73.72
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0039.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0039.jxl",
+      "input_size": 8479032,
+      "output_size": 2237824,
+      "savings_percent": 73.61
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0041.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0041.jxl",
+      "input_size": 9317857,
+      "output_size": 2328966,
+      "savings_percent": 75.01
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0044.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0044.jxl",
+      "input_size": 9304184,
+      "output_size": 2390285,
+      "savings_percent": 74.31
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0043.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0043.jxl",
+      "input_size": 9398050,
+      "output_size": 2337864,
+      "savings_percent": 75.12
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0042.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0042.jxl",
+      "input_size": 9405821,
+      "output_size": 2352388,
+      "savings_percent": 74.99
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0045.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0045.jxl",
+      "input_size": 8789629,
+      "output_size": 2213540,
+      "savings_percent": 74.82
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0047.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0047.jxl",
+      "input_size": 8395691,
+      "output_size": 2119138,
+      "savings_percent": 74.76
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0049.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0049.jxl",
+      "input_size": 8515174,
+      "output_size": 2209160,
+      "savings_percent": 74.06
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0048.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0048.jxl",
+      "input_size": 8529763,
+      "output_size": 2224593,
+      "savings_percent": 73.92
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0046.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0046.jxl",
+      "input_size": 9046244,
+      "output_size": 2302136,
+      "savings_percent": 74.55
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0050.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0050.jxl",
+      "input_size": 7759129,
+      "output_size": 2091116,
+      "savings_percent": 73.05
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0052.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0052.jxl",
+      "input_size": 8556819,
+      "output_size": 2267694,
+      "savings_percent": 73.5
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0053.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0053.jxl",
+      "input_size": 8025738,
+      "output_size": 2102678,
+      "savings_percent": 73.8
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0051.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0051.jxl",
+      "input_size": 7794370,
+      "output_size": 2061994,
+      "savings_percent": 73.55
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0054.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0054.jxl",
+      "input_size": 8038231,
+      "output_size": 2154813,
+      "savings_percent": 73.19
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0055.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0055.jxl",
+      "input_size": 8494055,
+      "output_size": 2258664,
+      "savings_percent": 73.41
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0057.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0057.jxl",
+      "input_size": 9019835,
+      "output_size": 2299159,
+      "savings_percent": 74.51
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0056.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0056.jxl",
+      "input_size": 8653662,
+      "output_size": 2265275,
+      "savings_percent": 73.82
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0058.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0058.jxl",
+      "input_size": 7971560,
+      "output_size": 2073703,
+      "savings_percent": 73.99
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0059.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0059.jxl",
+      "input_size": 8613238,
+      "output_size": 2289191,
+      "savings_percent": 73.42
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0061.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0061.jxl",
+      "input_size": 8391745,
+      "output_size": 2131368,
+      "savings_percent": 74.6
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0060.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0060.jxl",
+      "input_size": 8381021,
+      "output_size": 2141949,
+      "savings_percent": 74.44
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0065.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0065.jxl",
+      "input_size": 7899161,
+      "output_size": 2024241,
+      "savings_percent": 74.37
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0064.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0064.jxl",
+      "input_size": 8675618,
+      "output_size": 2241143,
+      "savings_percent": 74.17
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0063.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0063.jxl",
+      "input_size": 7835679,
+      "output_size": 2046106,
+      "savings_percent": 73.89
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0062.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0062.jxl",
+      "input_size": 8729165,
+      "output_size": 2281960,
+      "savings_percent": 73.86
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0067.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0067.jxl",
+      "input_size": 8571043,
+      "output_size": 2281795,
+      "savings_percent": 73.38
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0068.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0068.jxl",
+      "input_size": 8932278,
+      "output_size": 2363565,
+      "savings_percent": 73.54
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0066.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0066.jxl",
+      "input_size": 8746819,
+      "output_size": 2350098,
+      "savings_percent": 73.13
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0069.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0069.jxl",
+      "input_size": 7902926,
+      "output_size": 2092287,
+      "savings_percent": 73.53
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0070.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0070.jxl",
+      "input_size": 8203006,
+      "output_size": 2154645,
+      "savings_percent": 73.73
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0072.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0072.jxl",
+      "input_size": 8145802,
+      "output_size": 2109108,
+      "savings_percent": 74.11
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0074.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0074.jxl",
+      "input_size": 8223606,
+      "output_size": 2158335,
+      "savings_percent": 73.75
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0071.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0071.jxl",
+      "input_size": 8904902,
+      "output_size": 2388778,
+      "savings_percent": 73.17
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0073.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0073.jxl",
+      "input_size": 8715518,
+      "output_size": 2272558,
+      "savings_percent": 73.93
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0075.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0075.jxl",
+      "input_size": 8009991,
+      "output_size": 2133700,
+      "savings_percent": 73.36
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0078.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0078.jxl",
+      "input_size": 8477143,
+      "output_size": 2324673,
+      "savings_percent": 72.58
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0076.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0076.jxl",
+      "input_size": 8357551,
+      "output_size": 2218252,
+      "savings_percent": 73.46
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0077.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0077.jxl",
+      "input_size": 8064887,
+      "output_size": 2124742,
+      "savings_percent": 73.65
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0079.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0079.jxl",
+      "input_size": 8743726,
+      "output_size": 2377630,
+      "savings_percent": 72.81
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0080.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0080.jxl",
+      "input_size": 8989869,
+      "output_size": 2327158,
+      "savings_percent": 74.11
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0082.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0082.jxl",
+      "input_size": 8470637,
+      "output_size": 2233330,
+      "savings_percent": 73.63
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0081.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0081.jxl",
+      "input_size": 8108228,
+      "output_size": 2168715,
+      "savings_percent": 73.25
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0083.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0083.jxl",
+      "input_size": 8775300,
+      "output_size": 2301168,
+      "savings_percent": 73.78
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0086.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0086.jxl",
+      "input_size": 8569529,
+      "output_size": 2287135,
+      "savings_percent": 73.31
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0085.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0085.jxl",
+      "input_size": 8221616,
+      "output_size": 2233120,
+      "savings_percent": 72.84
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0087.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0087.jxl",
+      "input_size": 8750455,
+      "output_size": 2346710,
+      "savings_percent": 73.18
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0084.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0084.jxl",
+      "input_size": 8663857,
+      "output_size": 2315575,
+      "savings_percent": 73.27
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0089.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0089.jxl",
+      "input_size": 8567492,
+      "output_size": 2221174,
+      "savings_percent": 74.07
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0090.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0090.jxl",
+      "input_size": 8743817,
+      "output_size": 2309657,
+      "savings_percent": 73.59
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0088.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0088.jxl",
+      "input_size": 8661952,
+      "output_size": 2292845,
+      "savings_percent": 73.53
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0091.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0091.jxl",
+      "input_size": 8919126,
+      "output_size": 2306002,
+      "savings_percent": 74.15
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0092.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0092.jxl",
+      "input_size": 9246264,
+      "output_size": 2442471,
+      "savings_percent": 73.58
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0093.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0093.jxl",
+      "input_size": 8388761,
+      "output_size": 2201106,
+      "savings_percent": 73.76
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0094.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0094.jxl",
+      "input_size": 8240963,
+      "output_size": 2128239,
+      "savings_percent": 74.17
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0096.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0096.jxl",
+      "input_size": 8561245,
+      "output_size": 2289545,
+      "savings_percent": 73.26
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0095.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0095.jxl",
+      "input_size": 9157568,
+      "output_size": 2376582,
+      "savings_percent": 74.05
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0098.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0098.jxl",
+      "input_size": 10094522,
+      "output_size": 2505257,
+      "savings_percent": 75.18
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0099.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0099.jxl",
+      "input_size": 9949382,
+      "output_size": 2468201,
+      "savings_percent": 75.19
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0100.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0100.jxl",
+      "input_size": 9762882,
+      "output_size": 2461071,
+      "savings_percent": 74.79
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0101.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0101.jxl",
+      "input_size": 9354584,
+      "output_size": 2368954,
+      "savings_percent": 74.68
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0097.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0097.jxl",
+      "input_size": 9698893,
+      "output_size": 2497856,
+      "savings_percent": 74.25
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0104.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0104.jxl",
+      "input_size": 9397716,
+      "output_size": 2419992,
+      "savings_percent": 74.25
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0105.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0105.jxl",
+      "input_size": 9107112,
+      "output_size": 2343357,
+      "savings_percent": 74.27
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0102.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0102.jxl",
+      "input_size": 9568252,
+      "output_size": 2351547,
+      "savings_percent": 75.42
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0106.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0106.jxl",
+      "input_size": 8820055,
+      "output_size": 2278443,
+      "savings_percent": 74.17
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0107.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0107.jxl",
+      "input_size": 8934537,
+      "output_size": 2223289,
+      "savings_percent": 75.12
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0103.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0103.jxl",
+      "input_size": 9944205,
+      "output_size": 2484573,
+      "savings_percent": 75.01
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0109.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0109.jxl",
+      "input_size": 9193634,
+      "output_size": 2406403,
+      "savings_percent": 73.83
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0108.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0108.jxl",
+      "input_size": 9167681,
+      "output_size": 2397334,
+      "savings_percent": 73.85
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0112.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0112.jxl",
+      "input_size": 8447052,
+      "output_size": 2167174,
+      "savings_percent": 74.34
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0111.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0111.jxl",
+      "input_size": 9327999,
+      "output_size": 2366523,
+      "savings_percent": 74.63
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0110.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0110.jxl",
+      "input_size": 9280001,
+      "output_size": 2377805,
+      "savings_percent": 74.38
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0115.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0115.jxl",
+      "input_size": 8566812,
+      "output_size": 2225306,
+      "savings_percent": 74.02
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0113.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0113.jxl",
+      "input_size": 8504298,
+      "output_size": 2199434,
+      "savings_percent": 74.14
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0114.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0114.jxl",
+      "input_size": 8886990,
+      "output_size": 2299312,
+      "savings_percent": 74.13
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0117.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0117.jxl",
+      "input_size": 8356068,
+      "output_size": 2175098,
+      "savings_percent": 73.97
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0116.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0116.jxl",
+      "input_size": 8407279,
+      "output_size": 2241450,
+      "savings_percent": 73.34
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0118.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0118.jxl",
+      "input_size": 9156971,
+      "output_size": 2375936,
+      "savings_percent": 74.05
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0119.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0119.jxl",
+      "input_size": 9262742,
+      "output_size": 2348434,
+      "savings_percent": 74.65
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0120.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0120.jxl",
+      "input_size": 9029462,
+      "output_size": 2374898,
+      "savings_percent": 73.7
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0121.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0121.jxl",
+      "input_size": 9008199,
+      "output_size": 2280795,
+      "savings_percent": 74.68
+    },
+    {
+      "status": "error",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0124.png",
+      "error": "cannot identify image file 'digitized/90-99_metadata/91_full-page-renders/page_0124.png'"
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0125.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0125.jxl",
+      "input_size": 8768694,
+      "output_size": 2271854,
+      "savings_percent": 74.09
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0126.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0126.jxl",
+      "input_size": 9023018,
+      "output_size": 2338563,
+      "savings_percent": 74.08
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0122.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0122.jxl",
+      "input_size": 9357793,
+      "output_size": 2458185,
+      "savings_percent": 73.73
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0123.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0123.jxl",
+      "input_size": 8938624,
+      "output_size": 2325971,
+      "savings_percent": 73.98
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0130.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0130.jxl",
+      "input_size": 9455956,
+      "output_size": 2480528,
+      "savings_percent": 73.77
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0129.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0129.jxl",
+      "input_size": 9387402,
+      "output_size": 2497672,
+      "savings_percent": 73.39
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0128.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0128.jxl",
+      "input_size": 9290299,
+      "output_size": 2390842,
+      "savings_percent": 74.27
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0127.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0127.jxl",
+      "input_size": 9038094,
+      "output_size": 2294483,
+      "savings_percent": 74.61
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0131.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0131.jxl",
+      "input_size": 9357557,
+      "output_size": 2430698,
+      "savings_percent": 74.02
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0132.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0132.jxl",
+      "input_size": 8591804,
+      "output_size": 2239925,
+      "savings_percent": 73.93
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0135.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0135.jxl",
+      "input_size": 8734336,
+      "output_size": 2298657,
+      "savings_percent": 73.68
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0137.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0137.jxl",
+      "input_size": 8845296,
+      "output_size": 2297646,
+      "savings_percent": 74.02
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0136.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0136.jxl",
+      "input_size": 8168565,
+      "output_size": 2169243,
+      "savings_percent": 73.44
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0134.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0134.jxl",
+      "input_size": 9453617,
+      "output_size": 2467058,
+      "savings_percent": 73.9
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0133.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0133.jxl",
+      "input_size": 8728833,
+      "output_size": 2332556,
+      "savings_percent": 73.28
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0138.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0138.jxl",
+      "input_size": 8789488,
+      "output_size": 2370849,
+      "savings_percent": 73.03
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0139.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0139.jxl",
+      "input_size": 9080113,
+      "output_size": 2399781,
+      "savings_percent": 73.57
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0141.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0141.jxl",
+      "input_size": 8528166,
+      "output_size": 2236638,
+      "savings_percent": 73.77
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0140.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0140.jxl",
+      "input_size": 8938537,
+      "output_size": 2255357,
+      "savings_percent": 74.77
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0142.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0142.jxl",
+      "input_size": 8622356,
+      "output_size": 2314280,
+      "savings_percent": 73.16
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0143.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0143.jxl",
+      "input_size": 8282057,
+      "output_size": 2210538,
+      "savings_percent": 73.31
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0145.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0145.jxl",
+      "input_size": 9112578,
+      "output_size": 2345602,
+      "savings_percent": 74.26
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0147.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0147.jxl",
+      "input_size": 8956523,
+      "output_size": 2268991,
+      "savings_percent": 74.67
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0146.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0146.jxl",
+      "input_size": 9491210,
+      "output_size": 2450881,
+      "savings_percent": 74.18
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0149.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0149.jxl",
+      "input_size": 9065658,
+      "output_size": 2316516,
+      "savings_percent": 74.45
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0150.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0150.jxl",
+      "input_size": 9916767,
+      "output_size": 2599357,
+      "savings_percent": 73.79
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0144.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0144.jxl",
+      "input_size": 9254190,
+      "output_size": 2459038,
+      "savings_percent": 73.43
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0148.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0148.jxl",
+      "input_size": 9626753,
+      "output_size": 2521862,
+      "savings_percent": 73.8
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0151.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0151.jxl",
+      "input_size": 9733181,
+      "output_size": 2464629,
+      "savings_percent": 74.68
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0155.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0155.jxl",
+      "input_size": 9020907,
+      "output_size": 2286520,
+      "savings_percent": 74.65
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0156.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0156.jxl",
+      "input_size": 9595006,
+      "output_size": 2530736,
+      "savings_percent": 73.62
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0153.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0153.jxl",
+      "input_size": 8955191,
+      "output_size": 2358049,
+      "savings_percent": 73.67
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0152.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0152.jxl",
+      "input_size": 9446088,
+      "output_size": 2439003,
+      "savings_percent": 74.18
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0154.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0154.jxl",
+      "input_size": 9193419,
+      "output_size": 2361169,
+      "savings_percent": 74.32
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0159.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0159.jxl",
+      "input_size": 9062009,
+      "output_size": 2332238,
+      "savings_percent": 74.26
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0160.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0160.jxl",
+      "input_size": 8924078,
+      "output_size": 2384952,
+      "savings_percent": 73.28
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0157.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0157.jxl",
+      "input_size": 9433003,
+      "output_size": 2436884,
+      "savings_percent": 74.17
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0161.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0161.jxl",
+      "input_size": 9170838,
+      "output_size": 2285849,
+      "savings_percent": 75.07
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0158.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0158.jxl",
+      "input_size": 9283248,
+      "output_size": 2356086,
+      "savings_percent": 74.62
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0162.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0162.jxl",
+      "input_size": 9910802,
+      "output_size": 2459172,
+      "savings_percent": 75.19
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0165.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0165.jxl",
+      "input_size": 9329856,
+      "output_size": 2340320,
+      "savings_percent": 74.92
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0163.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0163.jxl",
+      "input_size": 9739709,
+      "output_size": 2396836,
+      "savings_percent": 75.39
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0164.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0164.jxl",
+      "input_size": 9914205,
+      "output_size": 2509561,
+      "savings_percent": 74.69
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0169.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0169.jxl",
+      "input_size": 9388270,
+      "output_size": 2397054,
+      "savings_percent": 74.47
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0168.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0168.jxl",
+      "input_size": 9583756,
+      "output_size": 2377966,
+      "savings_percent": 75.19
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0167.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0167.jxl",
+      "input_size": 9735651,
+      "output_size": 2438260,
+      "savings_percent": 74.96
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0166.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0166.jxl",
+      "input_size": 10030604,
+      "output_size": 2421173,
+      "savings_percent": 75.86
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0171.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0171.jxl",
+      "input_size": 9156252,
+      "output_size": 2292739,
+      "savings_percent": 74.96
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0170.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0170.jxl",
+      "input_size": 9616044,
+      "output_size": 2478347,
+      "savings_percent": 74.23
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0174.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0174.jxl",
+      "input_size": 10163451,
+      "output_size": 2550073,
+      "savings_percent": 74.91
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0175.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0175.jxl",
+      "input_size": 9389631,
+      "output_size": 2375789,
+      "savings_percent": 74.7
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0172.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0172.jxl",
+      "input_size": 9264359,
+      "output_size": 2405738,
+      "savings_percent": 74.03
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0173.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0173.jxl",
+      "input_size": 9412341,
+      "output_size": 2414803,
+      "savings_percent": 74.34
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0178.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0178.jxl",
+      "input_size": 9896953,
+      "output_size": 2457260,
+      "savings_percent": 75.17
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0179.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0179.jxl",
+      "input_size": 10059683,
+      "output_size": 2455013,
+      "savings_percent": 75.6
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0177.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0177.jxl",
+      "input_size": 9743393,
+      "output_size": 2514621,
+      "savings_percent": 74.19
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0176.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0176.jxl",
+      "input_size": 9296676,
+      "output_size": 2427144,
+      "savings_percent": 73.89
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0181.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0181.jxl",
+      "input_size": 9960535,
+      "output_size": 2534766,
+      "savings_percent": 74.55
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0180.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0180.jxl",
+      "input_size": 9836347,
+      "output_size": 2462852,
+      "savings_percent": 74.96
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0182.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0182.jxl",
+      "input_size": 10124349,
+      "output_size": 2529040,
+      "savings_percent": 75.02
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0183.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0183.jxl",
+      "input_size": 10088051,
+      "output_size": 2491779,
+      "savings_percent": 75.3
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0187.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0187.jxl",
+      "input_size": 9006456,
+      "output_size": 2418262,
+      "savings_percent": 73.15
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0185.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0185.jxl",
+      "input_size": 8973435,
+      "output_size": 2368939,
+      "savings_percent": 73.6
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0186.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0186.jxl",
+      "input_size": 8817003,
+      "output_size": 2333677,
+      "savings_percent": 73.53
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0184.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0184.jxl",
+      "input_size": 9047548,
+      "output_size": 2317346,
+      "savings_percent": 74.39
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0189.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0189.jxl",
+      "input_size": 8643825,
+      "output_size": 2289016,
+      "savings_percent": 73.52
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0188.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0188.jxl",
+      "input_size": 9249394,
+      "output_size": 2409927,
+      "savings_percent": 73.95
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0190.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0190.jxl",
+      "input_size": 8990797,
+      "output_size": 2390786,
+      "savings_percent": 73.41
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0191.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0191.jxl",
+      "input_size": 7944630,
+      "output_size": 2146240,
+      "savings_percent": 72.99
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0193.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0193.jxl",
+      "input_size": 7874319,
+      "output_size": 2085508,
+      "savings_percent": 73.52
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0194.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0194.jxl",
+      "input_size": 9327834,
+      "output_size": 2492986,
+      "savings_percent": 73.27
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0192.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0192.jxl",
+      "input_size": 8654608,
+      "output_size": 2327300,
+      "savings_percent": 73.11
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0195.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0195.jxl",
+      "input_size": 8448615,
+      "output_size": 2275465,
+      "savings_percent": 73.07
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0199.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0199.jxl",
+      "input_size": 8661956,
+      "output_size": 2282799,
+      "savings_percent": 73.65
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0197.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0197.jxl",
+      "input_size": 8319358,
+      "output_size": 2229906,
+      "savings_percent": 73.2
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0198.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0198.jxl",
+      "input_size": 8542338,
+      "output_size": 2315316,
+      "savings_percent": 72.9
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0196.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0196.jxl",
+      "input_size": 9181125,
+      "output_size": 2429031,
+      "savings_percent": 73.54
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0202.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0202.jxl",
+      "input_size": 8942301,
+      "output_size": 2395968,
+      "savings_percent": 73.21
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0200.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0200.jxl",
+      "input_size": 8431235,
+      "output_size": 2264092,
+      "savings_percent": 73.15
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0201.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0201.jxl",
+      "input_size": 8553117,
+      "output_size": 2327738,
+      "savings_percent": 72.78
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0203.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0203.jxl",
+      "input_size": 8625979,
+      "output_size": 2244278,
+      "savings_percent": 73.98
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0205.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0205.jxl",
+      "input_size": 8108783,
+      "output_size": 2234718,
+      "savings_percent": 72.44
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0206.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0206.jxl",
+      "input_size": 8038289,
+      "output_size": 2162647,
+      "savings_percent": 73.1
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0207.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0207.jxl",
+      "input_size": 8255245,
+      "output_size": 2224343,
+      "savings_percent": 73.06
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0208.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0208.jxl",
+      "input_size": 8382320,
+      "output_size": 2178881,
+      "savings_percent": 74.01
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0204.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0204.jxl",
+      "input_size": 8769389,
+      "output_size": 2362322,
+      "savings_percent": 73.06
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0209.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0209.jxl",
+      "input_size": 8135994,
+      "output_size": 2113863,
+      "savings_percent": 74.02
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0210.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0210.jxl",
+      "input_size": 9543009,
+      "output_size": 2452279,
+      "savings_percent": 74.3
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0212.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0212.jxl",
+      "input_size": 8861390,
+      "output_size": 2301549,
+      "savings_percent": 74.03
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0213.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0213.jxl",
+      "input_size": 8067634,
+      "output_size": 2140586,
+      "savings_percent": 73.47
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0211.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0211.jxl",
+      "input_size": 9176073,
+      "output_size": 2401985,
+      "savings_percent": 73.82
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0216.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0216.jxl",
+      "input_size": 8301735,
+      "output_size": 2195280,
+      "savings_percent": 73.56
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0217.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0217.jxl",
+      "input_size": 9493996,
+      "output_size": 2348930,
+      "savings_percent": 75.26
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0214.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0214.jxl",
+      "input_size": 8039489,
+      "output_size": 2113177,
+      "savings_percent": 73.72
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0215.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0215.jxl",
+      "input_size": 8582784,
+      "output_size": 2278982,
+      "savings_percent": 73.45
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0220.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0220.jxl",
+      "input_size": 9319337,
+      "output_size": 2355986,
+      "savings_percent": 74.72
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0221.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0221.jxl",
+      "input_size": 8860447,
+      "output_size": 2202841,
+      "savings_percent": 75.14
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0219.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0219.jxl",
+      "input_size": 9233220,
+      "output_size": 2317145,
+      "savings_percent": 74.9
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0218.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0218.jxl",
+      "input_size": 10102116,
+      "output_size": 2504488,
+      "savings_percent": 75.21
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0223.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0223.jxl",
+      "input_size": 9348901,
+      "output_size": 2283305,
+      "savings_percent": 75.58
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0222.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0222.jxl",
+      "input_size": 9449226,
+      "output_size": 2344768,
+      "savings_percent": 75.19
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0225.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0225.jxl",
+      "input_size": 9103344,
+      "output_size": 2230564,
+      "savings_percent": 75.5
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0224.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0224.jxl",
+      "input_size": 9810337,
+      "output_size": 2469804,
+      "savings_percent": 74.82
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0226.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0226.jxl",
+      "input_size": 9633497,
+      "output_size": 2487526,
+      "savings_percent": 74.18
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0229.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0229.jxl",
+      "input_size": 9283867,
+      "output_size": 2293749,
+      "savings_percent": 75.29
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0228.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0228.jxl",
+      "input_size": 9781531,
+      "output_size": 2425506,
+      "savings_percent": 75.2
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0227.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0227.jxl",
+      "input_size": 9606020,
+      "output_size": 2452400,
+      "savings_percent": 74.47
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0232.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0232.jxl",
+      "input_size": 8911475,
+      "output_size": 2241741,
+      "savings_percent": 74.84
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0233.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0233.jxl",
+      "input_size": 9293168,
+      "output_size": 2341875,
+      "savings_percent": 74.8
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0231.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0231.jxl",
+      "input_size": 9134661,
+      "output_size": 2409028,
+      "savings_percent": 73.63
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0230.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0230.jxl",
+      "input_size": 8777946,
+      "output_size": 2217600,
+      "savings_percent": 74.74
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0234.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0234.jxl",
+      "input_size": 8195872,
+      "output_size": 2135863,
+      "savings_percent": 73.94
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0235.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0235.jxl",
+      "input_size": 8736575,
+      "output_size": 2255206,
+      "savings_percent": 74.19
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0236.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0236.jxl",
+      "input_size": 8771007,
+      "output_size": 2241756,
+      "savings_percent": 74.44
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0237.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0237.jxl",
+      "input_size": 8115754,
+      "output_size": 2109944,
+      "savings_percent": 74.0
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0238.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0238.jxl",
+      "input_size": 8344901,
+      "output_size": 2258709,
+      "savings_percent": 72.93
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0239.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0239.jxl",
+      "input_size": 7690388,
+      "output_size": 2072803,
+      "savings_percent": 73.05
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0242.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0242.jxl",
+      "input_size": 9756774,
+      "output_size": 2408047,
+      "savings_percent": 75.32
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0241.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0241.jxl",
+      "input_size": 9679662,
+      "output_size": 2356895,
+      "savings_percent": 75.65
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0240.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0240.jxl",
+      "input_size": 8396373,
+      "output_size": 2220741,
+      "savings_percent": 73.55
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0246.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0246.jxl",
+      "input_size": 9117250,
+      "output_size": 2290884,
+      "savings_percent": 74.87
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0243.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0243.jxl",
+      "input_size": 9662931,
+      "output_size": 2410398,
+      "savings_percent": 75.06
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0245.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0245.jxl",
+      "input_size": 9718987,
+      "output_size": 2479176,
+      "savings_percent": 74.49
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0244.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0244.jxl",
+      "input_size": 9968732,
+      "output_size": 2444227,
+      "savings_percent": 75.48
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0250.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0250.jxl",
+      "input_size": 8536955,
+      "output_size": 2286419,
+      "savings_percent": 73.22
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0249.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0249.jxl",
+      "input_size": 8251845,
+      "output_size": 2103962,
+      "savings_percent": 74.5
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0248.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0248.jxl",
+      "input_size": 9448789,
+      "output_size": 2430131,
+      "savings_percent": 74.28
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0247.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0247.jxl",
+      "input_size": 9017777,
+      "output_size": 2283330,
+      "savings_percent": 74.68
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0252.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0252.jxl",
+      "input_size": 8552914,
+      "output_size": 2235126,
+      "savings_percent": 73.87
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0251.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0251.jxl",
+      "input_size": 8600016,
+      "output_size": 2318778,
+      "savings_percent": 73.04
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0256.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0256.jxl",
+      "input_size": 9058330,
+      "output_size": 2387994,
+      "savings_percent": 73.64
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0253.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0253.jxl",
+      "input_size": 8329803,
+      "output_size": 2183178,
+      "savings_percent": 73.79
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0255.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0255.jxl",
+      "input_size": 8090729,
+      "output_size": 2151774,
+      "savings_percent": 73.4
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0254.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0254.jxl",
+      "input_size": 7880690,
+      "output_size": 2086842,
+      "savings_percent": 73.52
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0260.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0260.jxl",
+      "input_size": 8972082,
+      "output_size": 2262740,
+      "savings_percent": 74.78
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0259.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0259.jxl",
+      "input_size": 8679483,
+      "output_size": 2207545,
+      "savings_percent": 74.57
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0257.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0257.jxl",
+      "input_size": 9671707,
+      "output_size": 2402754,
+      "savings_percent": 75.16
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0258.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0258.jxl",
+      "input_size": 8740207,
+      "output_size": 2217503,
+      "savings_percent": 74.63
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0263.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0263.jxl",
+      "input_size": 8156728,
+      "output_size": 2153020,
+      "savings_percent": 73.6
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0262.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0262.jxl",
+      "input_size": 8006279,
+      "output_size": 2114417,
+      "savings_percent": 73.59
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0264.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0264.jxl",
+      "input_size": 8730299,
+      "output_size": 2249229,
+      "savings_percent": 74.24
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0261.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0261.jxl",
+      "input_size": 8486746,
+      "output_size": 2171042,
+      "savings_percent": 74.42
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0265.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0265.jxl",
+      "input_size": 9357567,
+      "output_size": 2422130,
+      "savings_percent": 74.12
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0266.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0266.jxl",
+      "input_size": 8325533,
+      "output_size": 2177820,
+      "savings_percent": 73.84
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0267.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0267.jxl",
+      "input_size": 8686294,
+      "output_size": 2308906,
+      "savings_percent": 73.42
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0269.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0269.jxl",
+      "input_size": 8521714,
+      "output_size": 2215716,
+      "savings_percent": 74.0
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0270.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0270.jxl",
+      "input_size": 8042245,
+      "output_size": 2123490,
+      "savings_percent": 73.6
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0268.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0268.jxl",
+      "input_size": 8774356,
+      "output_size": 2287657,
+      "savings_percent": 73.93
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0272.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0272.jxl",
+      "input_size": 9129593,
+      "output_size": 2402204,
+      "savings_percent": 73.69
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0274.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0274.jxl",
+      "input_size": 7608982,
+      "output_size": 2036075,
+      "savings_percent": 73.24
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0275.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0275.jxl",
+      "input_size": 8258076,
+      "output_size": 2204954,
+      "savings_percent": 73.3
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0271.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0271.jxl",
+      "input_size": 8737514,
+      "output_size": 2301407,
+      "savings_percent": 73.66
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0273.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0273.jxl",
+      "input_size": 7233712,
+      "output_size": 1997549,
+      "savings_percent": 72.39
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0276.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0276.jxl",
+      "input_size": 7692217,
+      "output_size": 2090110,
+      "savings_percent": 72.83
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0277.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0277.jxl",
+      "input_size": 7873291,
+      "output_size": 2128643,
+      "savings_percent": 72.96
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0280.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0280.jxl",
+      "input_size": 5727841,
+      "output_size": 1556439,
+      "savings_percent": 72.83
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0279.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0279.jxl",
+      "input_size": 6864183,
+      "output_size": 1855201,
+      "savings_percent": 72.97
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0278.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0278.jxl",
+      "input_size": 8233484,
+      "output_size": 2199181,
+      "savings_percent": 73.29
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0283.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0283.jxl",
+      "input_size": 6407118,
+      "output_size": 1731608,
+      "savings_percent": 72.97
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0281.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0281.jxl",
+      "input_size": 6819576,
+      "output_size": 1792322,
+      "savings_percent": 73.72
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0285.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0285.jxl",
+      "input_size": 6330090,
+      "output_size": 1673505,
+      "savings_percent": 73.56
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0284.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0284.jxl",
+      "input_size": 6555523,
+      "output_size": 1718083,
+      "savings_percent": 73.79
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0282.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0282.jxl",
+      "input_size": 6612599,
+      "output_size": 1793157,
+      "savings_percent": 72.88
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0289.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0289.jxl",
+      "input_size": 6458107,
+      "output_size": 1741503,
+      "savings_percent": 73.03
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0288.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0288.jxl",
+      "input_size": 5820367,
+      "output_size": 1619377,
+      "savings_percent": 72.18
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0286.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0286.jxl",
+      "input_size": 5954394,
+      "output_size": 1615659,
+      "savings_percent": 72.87
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0287.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0287.jxl",
+      "input_size": 5633333,
+      "output_size": 1597991,
+      "savings_percent": 71.63
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0293.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0293.jxl",
+      "input_size": 6056248,
+      "output_size": 1655117,
+      "savings_percent": 72.67
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0292.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0292.jxl",
+      "input_size": 6972529,
+      "output_size": 1864476,
+      "savings_percent": 73.26
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0290.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0290.jxl",
+      "input_size": 6407713,
+      "output_size": 1701725,
+      "savings_percent": 73.44
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0291.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0291.jxl",
+      "input_size": 6584509,
+      "output_size": 1721320,
+      "savings_percent": 73.86
+    },
+    {
+      "status": "success",
+      "input": "digitized/90-99_metadata/91_full-page-renders/page_0294.png",
+      "output": "digitized/90-99_metadata/94_jxl-optimized/pages/page_0294.jxl",
+      "input_size": 6385747,
+      "output_size": 1649538,
+      "savings_percent": 74.17
+    }
+  ]
+}

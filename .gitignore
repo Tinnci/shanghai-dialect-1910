@@ -1,0 +1,14 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# PDF and large data
+/Shanghai Dialect Exercises in Romanized and Character with Key to Pronunciation and English Index.pdf
+# digitized/ # Uncomment if you don't want to commit the extracted images (800MB+)
