@@ -3,7 +3,7 @@
 > **书名**: Shanghai Dialect Exercises in Romanized and Character with Key to Pronunciation and English Index  
 > **出版年份**: 1910年  
 > **总页数**: 294页  
-> **当前索引进度**: 第1-200页 (第1-114课)
+> **当前索引进度**: 第1-210页 (第1-119课)
 
 ---
 
@@ -238,12 +238,18 @@
 | 195-197 | 112 | Exercise 112: 论外快咾酒钱 | 小费/Squeeze制度、各行业酒钱标准 |
 | 197-199 | 113 | Exercise 113: 论人生病咾行虚假个事體 | 虹庙、城隍庙、关亡、医疗迷信批判 |
 | 199-200 | 114 | Exercise 114: 论死个人行虚假个事體 | 烧纸锭、超度、丧葬迷信批判 |
+| 201 | 114完 | Exercise 114 完 | 总结丧葬迷信 |
+| 201-203 | 115 | Exercise 115: 论中国人攀亲个事體 | 订婚习俗：媒人、合八字、聘礼 |
+| 203-206 | 116 | Exercise 116: 论中国人做亲 | 传统婚礼全流程：新娘坐花轿、拜天地、闹新房 |
+| 206-208 | 117 | Exercise 117: 论危险个事體 | 骑马意外、新靶子路 (武进路) |
+| 208-209 | 118 | Exercise 118: 论骑马 | 龙飞马棚 (Horse Bazaar)、买马练马 |
+| 209-210 | 119 | Exercise 119: 论贼偷物事 | 斜桥头盗窃案、贼骨头用竹竿爬窗 |
 
 ---
 
-## 待归类页面 (第201-294页)
+## 待归类页面 (第211-294页)
 
-> 第201-294页（第115-155课）尚待审查归类。
+> 第211-294页（第120-155课）尚待审查归类。
 
 ---
 
@@ -266,6 +272,7 @@
 | Nga-bak-doo-jau | 外白渡桥 | Garden Bridge |
 | We-he-we | 威海卫 | Weihaiwei |
 | San-he-kwan | 山海关 | Shanhaiguan |
+| Sing po-ts loo | 新靶子路 | 武进路 (今) |
 
 ### 机构 (Institutions)
 | 方言罗马字 | 中文 | 英文 |
@@ -276,6 +283,8 @@
 | We-foong-nyung-'aung | 汇丰银行 | HSBC |
 | We-Tsoong-van-tien | 汇中饭店 | Palace Hotel |
 | Tsi-liang-soo | 济良所 | Door of Hope |
+| Loong-fi mo-bang | 龙飞马棚 | Horse Bazaar / 龙飞洋行 |
+| Me-wo su-kwen | 美华书馆 | Mission Press |
 
 ### 交通工具 (Transportation)
 | 方言罗马字 | 中文 | 英文 |
@@ -296,6 +305,10 @@
 | Thien-tsok-we | 天足会 | Natural Feet Society |
 | Fah-hyi | 翻戏 | Swindler |
 | Tsieu-dien | 酒钱 | Tip/Squeeze |
+| Me-nyung | 媒人 | Matchmaker |
+| Sing-kwen-nyung | 新郎官 | Groom |
+| Hyi-nyang | 喜娘 | Wedding bridesmaid / Mistress of ceremonies |
+| Zuh-theu | 贼骨头 | Thief |
 
 ---
 
