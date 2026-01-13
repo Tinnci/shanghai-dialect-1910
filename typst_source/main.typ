@@ -66,6 +66,10 @@
 #include "contents/lessons/lesson-49.typ"
 #include "contents/lessons/lesson-50.typ"
 #include "contents/lessons/lesson-51.typ"
+#include "contents/lessons/lesson-52.typ"
+#include "contents/lessons/lesson-53.typ"
+#include "contents/lessons/lesson-54.typ"
+#include "contents/lessons/lesson-55.typ"
 
 // ============================================================
 // 附录部分：索引、勘误、词汇表
