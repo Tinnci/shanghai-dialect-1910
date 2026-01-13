@@ -1,106 +1,148 @@
-# Shanghai Dialect Exercises - 数字化副本
+# Shanghai Dialect Exercises - Digitized Archive
+# 上海方言练习 - 数字化档案
 
-## 📖 源文档
+---
 
-- **标题**: Shanghai Dialect Exercises in Romanized and Character with Key to Pronunciation and English Index
-- **总页数**: 294
-- **格式**: 扫描书籍 PDF
+## About This Work / 关于本书
 
-## 📊 提取统计
+**Title / 书名**: Shanghai Dialect Exercises in Romanized and Character with Key to Pronunciation and English Index
 
-| 类别 | 数量 | 原始大小 | JXL 大小 | 节省 |
-|------|------|----------|----------|------|
-| 嵌入图像 | 294 | 154.6 MB | 102.1 MB | 34.0% |
-| 页面渲染 | 294 | 2398.8 MB | 622.8 MB | 74.0% |
-| **总计** | **588** | **2553.4 MB** | **724.9 MB** | **71.6%** |
+**Author / 作者**: Rev. David Herbert Davis (D.H. Davis)
 
-## 🗂️ Johnny Decimal 目录结构
+**Publisher / 出版社**: Tusewei Press (Tushanwan), Shanghai / 上海土山湾印书馆
 
-本数字化副本使用改进的 Johnny Decimal 索引系统组织：
+**Year / 出版年份**: 1910
+
+**Pages / 页数**: 294
+
+---
+
+## Public Domain Statement / 公有版权声明
+
+This work was originally published in 1910. According to international copyright law, works published over 100 years ago have entered the **public domain** and may be freely reproduced, distributed, and modified for any purpose.
+
+本书原版出版于1910年。根据国际版权法，出版超过100年的作品已进入**公有领域**，可自由复制、分发和修改用于任何目的。
+
+---
+
+## Source / 来源
+
+The images and scanned pages in this digitized archive are sourced from the Internet Archive:
+
+本数字化档案中的图片和扫描页面来源于互联网档案馆：
+
+**Archive.org URL**:  
+[https://archive.org/details/shanghai-dialect-exercises-in-romanized-and-character-with-key-to-pronunciation-and-english-index](https://archive.org/details/shanghai-dialect-exercises-in-romanized-and-character-with-key-to-pronunciation-and-english-index)
+
+---
+
+## About the Book / 书籍简介
+
+### English
+
+This book was designed as a secondary text to F.L. Hawks Pott's *Lessons in the Shanghai Dialect*. It consists of 155 structured exercises presented in both Romanized Shanghainese and standard Chinese characters.
+
+**Key Features**:
+- **Dual Script**: Every exercise is presented in both the "Shanghai Romanised System" and Chinese characters.
+- **Pronunciation Key**: Utilizes the missionary-era Romanization system with specific notation for tones (yin and yang) and voiced consonants.
+- **English Index**: Includes a comprehensive thematic index for vocabulary referencing.
+
+### 中文
+
+本书是 F.L. Hawks Pott 所著《上海方言课程》的进阶教材，共包含155课结构化练习，均以罗马化上海话和汉字双重形式呈现。
+
+**核心特点**：
+- **双文字体系**：每课练习均提供"上海罗马字系统"与汉字对照。
+- **发音说明**：采用传教士时代的罗马化方案，包含阴阳声调及浊辅音的特殊标记。
+- **英文索引**：附有完整的主题词汇检索表。
+
+---
+
+## Related Resources / 相关资源
+
+- **Foundational Lessons / 基础课程**: *Lessons in the Shanghai Dialect* (F.L. Hawks Pott, 1913) - Available on Project Gutenberg
+- **Audio Practice / 音频资料**: Full audio readings of historical lessons available on LibriVox and YouTube
+- **Vocabulary / 词汇手册**: *Useful Phrases in the Shanghai Dialect* (Gilbert McIntosh, 1901) - Available on Project Gutenberg
+
+---
+
+## Extraction Statistics / 提取统计
+
+| Category | Count | Original Size | JXL Size | Savings |
+|----------|-------|---------------|----------|---------|
+| Embedded Images / 嵌入图像 | 294 | 154.6 MB | 102.1 MB | 34.0% |
+| Page Renders / 页面渲染 | 294 | 2398.8 MB | 622.8 MB | 74.0% |
+| **Total / 总计** | **588** | **2553.4 MB** | **724.9 MB** | **71.6%** |
+
+---
+
+## Directory Structure / 目录结构
+
+This digitized archive follows the Johnny Decimal organizational system:
+
+本数字化档案采用 Johnny Decimal 索引系统组织：
 
 ```
 digitized/
-├── 10-19_preliminary/           # 前言部分
-│   ├── 11_cover/                # 封面 (第1页)
-│   ├── 12_title-pages/          # 书名页 (第2-4页)
-│   ├── 13_preface/              # 序言 (第5-8页)
-│   ├── 14_table-of-contents/    # 目录 (第9-12页)
-│   └── 15_introduction/         # 引言 (第13-20页)
+├── 10-19_preliminary/           # Preliminary / 前言部分
+│   ├── 11_cover/                # Cover / 封面
+│   ├── 12_title-pages/          # Title Pages / 书名页
+│   ├── 13_preface/              # Preface / 序言
+│   └── 14_table-of-contents/    # Table of Contents / 目录
 │
-├── 20-29_pronunciation-guide/   # 发音指南
-│   ├── 21_key-to-pronunciation/ # 发音要点 (第21-35页)
-│   ├── 22_tone-charts/          # 声调图表 (第36-40页)
-│   ├── 23_romanization-system/  # 罗马化系统
-│   └── 24_phonetic-tables/      # 音标表
+├── 20-29_pronunciation-guide/   # Pronunciation Guide / 发音指南
+│   └── 21_key-to-pronunciation/ # Key to Pronunciation / 发音说明
 │
-├── 30-39_lessons/               # 课文内容
-│   ├── 31_lesson-01-10/         # 第1-10课 (第41-80页)
-│   ├── 32_lesson-11-20/         # 第11-20课 (第81-120页)
-│   ├── 33_lesson-21-30/         # 第21-30课 (第121-160页)
-│   ├── 34_lesson-31-40/         # 第31-40课 (第161-200页)
-│   ├── 35_lesson-41-50/         # 第41-50课 (第201-240页)
-│   └── 36_additional-exercises/ # 补充练习 (第241-260页)
+├── 30-39_lessons/               # Lessons / 课文内容
+│   ├── 31_lesson-01-10/         # Lessons 1-10
+│   ├── 32_lesson-11-20/         # Lessons 11-20
+│   ├── ... (16 subdirectories)
+│   └── 46_lesson-151-160/       # Lessons 151-155
 │
-├── 40-49_appendices/            # 附录
-│   ├── 41_english-index/        # 英文索引 (第261-280页)
-│   ├── 42_character-index/      # 汉字索引 (第281-294页)
-│   ├── 43_vocabulary-lists/     # 词汇表
-│   └── 44_supplementary-materials/ # 补充材料
+├── 40-49_appendices/            # Appendices / 附录
+│   ├── 47_english-index/        # English Index / 英文索引
+│   └── 48_errata/               # Errata / 勘误表
 │
-└── 90-99_metadata/              # 元数据和原始文件
-    ├── 91_full-page-renders/    # 完整页面 PNG 渲染 (150 DPI)
-    ├── 92_embedded-images/      # 原始嵌入 JPEG 图像
-    ├── 93_extraction-log/       # 提取日志 (JSON)
-    └── 94_jxl-optimized/        # JPEG XL 优化版本
-        ├── embedded/            # 嵌入图像 JXL 版本
-        └── pages/               # 页面渲染 JXL 版本
+└── 90-99_metadata/              # Metadata / 元数据
+    ├── 92_embedded-images/      # Original JPEG images
+    ├── 93_extraction-log/       # Extraction logs (JSON)
+    └── 94_jxl-optimized/        # JPEG XL optimized versions
+        ├── embedded/            # Embedded images in JXL
+        └── pages/               # Page renders in JXL
 ```
 
-## 📁 文件格式说明
+---
 
-### 原始提取文件
-- **91_full-page-renders**: PNG 格式，150 DPI，保证文字清晰
-- **92_embedded-images**: 原始 JPEG 格式，保持 PDF 中的原始质量
+## File Formats / 文件格式
 
-### JPEG XL 优化版本 (推荐使用)
-- **94_jxl-optimized/pages**: 页面渲染的 JXL 版本
-  - 质量: 92
-  - 编码努力: 7
-  - 平均压缩率: 74%
+### JPEG XL Optimized (Recommended / 推荐使用)
+- **94_jxl-optimized/pages**: Page renders in JXL format
+  - Quality: 92
+  - Effort: 7
+  - Average compression: 74%
   
-- **94_jxl-optimized/embedded**: 嵌入图像的 JXL 版本
-  - 质量: 90
-  - 使用 JPEG 无损重建
-  - 平均压缩率: 34%
+- **94_jxl-optimized/embedded**: Embedded images in JXL format
+  - Quality: 90
+  - JPEG lossless reconstruction
+  - Average compression: 34%
 
-## 🔍 使用指南
-
-### 快速浏览
-浏览 `90-99_metadata/94_jxl-optimized/pages/` 目录查看所有页面的高质量 JXL 图像。
-
-### 按章节浏览
-各分类目录（10-49）包含指向相应页面的符号链接，方便按章节查看：
-- `10-19_preliminary/` - 前言和目录
-- `20-29_pronunciation-guide/` - 发音指南
-- `30-39_lessons/` - 主要课文
-- `40-49_appendices/` - 附录和索引
-
-### 原始图像
-如需最高质量的原始图像：
-- PNG 渲染: `90-99_metadata/91_full-page-renders/`
-- 原始 JPEG: `90-99_metadata/92_embedded-images/`
-
-## ⚠️ 注意事项
-
-1. **JPEG XL 查看器**: JXL 格式需要支持该格式的图像查看器
-   - 推荐: ImageMagick, GIMP, 或现代浏览器
-   - 命令行: `magick display image.jxl`
-
-2. **文件命名**: 所有文件使用 4 位零填充页码
-   - 格式: `page_XXXX.jxl` (例如 `page_0001.jxl`)
-
-3. **学术用途**: 本数字化副本仅供学习和研究参考
+### Original Extracted Files / 原始提取文件
+- **92_embedded-images**: Original JPEG format from PDF
 
 ---
-*生成日期: 2026-01-13*
-*使用工具: PyMuPDF + Pillow + pillow-jxl-plugin*
+
+## Usage Notes / 使用说明
+
+1. **JPEG XL Viewer**: JXL format requires compatible image viewers
+   - Recommended: ImageMagick, GIMP, or modern browsers
+   - Command line: `magick display image.jxl`
+
+2. **File Naming**: All files use 4-digit zero-padded page numbers
+   - Format: `page_XXXX.jxl` (e.g., `page_0001.jxl`)
+
+3. **Content Index**: See `PAGE_INDEX.md` for detailed lesson-by-lesson content descriptions
+
+---
+
+*Digitized: 2026-01-13*  
+*Tools: PyMuPDF + Pillow + pillow-jxl-plugin*
