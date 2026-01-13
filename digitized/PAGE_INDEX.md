@@ -3,7 +3,7 @@
 > **书名**: Shanghai Dialect Exercises in Romanized and Character with Key to Pronunciation and English Index  
 > **出版年份**: 1910年  
 > **总页数**: 294页  
-> **当前索引进度**: 第1-220页 (第1-124课)
+> **当前索引进度**: 第1-230页 (第1-130课)
 
 ---
 
@@ -257,12 +257,18 @@
 | 215-216 | 122 | Exercise 122: 论托人代买物事 | 出洋友谊、洋货消费、毛毯 |
 | 216-219 | 123 | Exercise 123: 论一只告天鷯 | 寓言：云雀与孩子、自强自律 |
 | 219-220 | 124 | Exercise 124: 论亚剌伯个忠心个马 | 域外传奇：阿拉伯勇士与黑马 |
+| 221-223 | 125 | Exercise 125: 论小囝喊豺狼 | 寓言：狼来了、情绪与动作词汇 |
+| 223-225 | 126 | Exercise 126: 论一隻生金蛋个鹅 | 寓言：杀鹅取卵、贪心与经济词汇 |
+| 225-227 | 127 | Exercise 127: 论瑞士国个有胆量个人 | 瑞士英雄威廉·退尔、反抗强权 |
+| 228-229 | 128 | Exercise 128: 论劝百姓勿种罂粟 | 农业改良：禁种鸦片、改种靛青/棉花/养蚕 |
+| 229-230 | 129 | Exercise 129: 论劝人应该忍耐 | 忍耐处事、巡警局 |
+| 230 | 130 | Exercise 130: 论禁止夜花园个益处 | 取缔夜花园、改良风俗 |
 
 ---
 
-## 待归类页面 (第221-294页)
+## 待归类页面 (第231-294页)
 
-> 第221-294页（第125-155课）尚待审查归类。
+> 第231-294页（第131-155课）尚待审查归类。
 
 ---
 
@@ -288,6 +294,7 @@
 | Sing po-ts loo | 新靶子路 | 武进路 (今) |
 | Si-mung | 西门 | Old City West Gate |
 | A-lah-pak | 亚剌伯 | Arabia |
+| Dzoe-z-kok | 瑞士国 | Switzerland |
 
 ### 机构 (Institutions)
 | 方言罗马字 | 中文 | 英文 |
@@ -300,6 +307,7 @@
 | Tsi-liang-soo | 济良所 | Door of Hope |
 | Loong-fi mo-bang | 龙飞马棚 | Horse Bazaar / 龙飞洋行 |
 | Me-wo su-kwen | 美华书馆 | Mission Press |
+| Dzing-kyung jok | 巡警局 | Native police station |
 
 ### 交通工具 (Transportation)
 | 方言罗马字 | 中文 | 英文 |
@@ -330,6 +338,10 @@
 | Seu-tshiang | 手枪 | Pistol / Handgun |
 | Pah-ih-tshaung | 百叶窗 | Venetian blinds |
 | Kaung-pan ih-ts | 钢板叶子 | Spring leaf |
+| Za-laung | 豺狼 | Wolf |
+| Ang-sok | 罂粟 | Opium poppy |
+| Dien-tshing | 靛青 | Indigo |
+| Ya-hwo-yoen | 夜花园 | Night gardens |
 
 ---
 
