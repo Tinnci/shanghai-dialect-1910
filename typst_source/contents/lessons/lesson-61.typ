@@ -1,4 +1,4 @@
-#import "../../template.typ": r, exercise
+#import "../../template.typ": exercise, r
 
 #exercise(61, "论青年会聚集一个禁烟大会", "LUNG TSHING-NYIEN-WE DZUI-DZIH IH-KUH KYUNG-IEN DA WE")
 

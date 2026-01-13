@@ -1,4 +1,4 @@
-#import "../../template.typ": r, exercise
+#import "../../template.typ": exercise, r
 
 #exercise(14, "论随常个事体", "LUNG DZOE-DZANG KUH Z-THI")#footnote[Ordinary.]
 

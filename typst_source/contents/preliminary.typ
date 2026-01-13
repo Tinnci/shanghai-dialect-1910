@@ -121,11 +121,20 @@ Since the Character accompanies the Romanization it will be easy to obtain the c
 
 = Contents / 目录
 
+== Chapters / 章节
+
 #outline(
   title: none,
-  depth: 2,
-  indent: 1.5em,
+  depth: 1,
+  indent: 1em,
 )
+
+#v(1em)
+
+== Exercises / 课文
+
+#import "../template.typ": exercise-outline
+#exercise-outline()
 
 #pagebreak()
 

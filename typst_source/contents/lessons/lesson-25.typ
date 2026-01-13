@@ -1,4 +1,4 @@
-#import "../../template.typ": r, exercise
+#import "../../template.typ": exercise, r
 
 #exercise(25, "论修坟", "LUNG SIEU VUNG")#footnote[To repair grave.]
 

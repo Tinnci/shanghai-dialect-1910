@@ -1,4 +1,4 @@
-#import "../../template.typ": r, exercise
+#import "../../template.typ": exercise, r
 
 #exercise(37, "论车子相撞", "LUNG TSHO-TS SIANG-DZAUNG")#footnote[Collide.]
 

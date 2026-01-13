@@ -1,4 +1,4 @@
-#import "../../template.typ": r, exercise
+#import "../../template.typ": exercise, r
 
 #exercise(43, "论歇夏作乐个法则", "LUNG HYIH-'AU TSAUH-LAUH KUH FAH-TSUH")#footnote[Pleasure.]
 

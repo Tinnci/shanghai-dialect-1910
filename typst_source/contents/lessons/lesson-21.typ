@@ -1,4 +1,4 @@
-#import "../../template.typ": r, exercise
+#import "../../template.typ": exercise, r
 
 #exercise(21, "论坐马车性急", "LUNG ZOO MO TSHO SING-KYIH")#footnote[Impatient (Excited).]
 

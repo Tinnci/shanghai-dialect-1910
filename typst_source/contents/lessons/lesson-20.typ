@@ -1,4 +1,4 @@
-#import "../../template.typ": r, exercise
+#import "../../template.typ": exercise, r
 
 #exercise(20, "论过人个毛病", "LUNG KOO NYUNG KUH MAU BING")#footnote[Infectious disease.]
 

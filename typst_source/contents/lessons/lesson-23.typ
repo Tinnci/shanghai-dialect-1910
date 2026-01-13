@@ -1,4 +1,4 @@
-#import "../../template.typ": r, exercise
+#import "../../template.typ": exercise, r
 
 #exercise(23, "论避暑", "LUNG BI-SU")#footnote[Escape the heat.]
 

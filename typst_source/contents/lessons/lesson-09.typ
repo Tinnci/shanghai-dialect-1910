@@ -1,4 +1,4 @@
-#import "../../template.typ": r, exercise
+#import "../../template.typ": exercise, r
 
 #exercise(9, "论上海从前个景况", "LUNG ZAUNG-HE DZOONG-ZIEN-KUH KYUNG-HWAUNG")#footnote[Condition.]
 

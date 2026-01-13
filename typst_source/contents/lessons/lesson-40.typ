@@ -1,4 +1,4 @@
-#import "../../template.typ": r, exercise
+#import "../../template.typ": exercise, r
 
 #exercise(40, "论滑头个人", "LUNG WAH-DEU KUH NYUNG")#footnote[A slippery head, bad fellow.]
 

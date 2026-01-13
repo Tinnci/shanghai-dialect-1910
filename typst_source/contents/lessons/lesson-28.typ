@@ -1,4 +1,4 @@
-#import "../../template.typ": r, exercise
+#import "../../template.typ": exercise, r
 
 #exercise(28, "论济良所", "LUNG TSI-LIANG-SOO")#footnote[Door of Hope.]
 

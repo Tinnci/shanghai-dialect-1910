@@ -3,10 +3,29 @@
 #import "../template.typ": vocab
 
 // ============================================================
+// 索引条目宏
+// ============================================================
+
+#let index-entry(topic, exercise-num) = {
+  grid(
+    columns: (1fr, auto),
+    gutter: 0.3em,
+    [#topic #box(width: 1fr, repeat[.])], [Exercise #exercise-num],
+  )
+}
+
+// ============================================================
 // 英文索引
 // ============================================================
 
 = English Index / 英文索引
+
+#text(style: "italic", size: 9pt)[
+  _Note: Numbers refer to page numbers in the original 1910 edition._ \
+  注：索引中的数字为原书 (1910年版) 页码。
+]
+
+#v(0.5em)
 
 #list(
   [Ancestry of the Chinese and Japanese the same... 132],

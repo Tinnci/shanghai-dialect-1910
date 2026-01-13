@@ -1,4 +1,4 @@
-#import "../../template.typ": r, exercise
+#import "../../template.typ": exercise, r
 
 #exercise(49, "论轰脱自来火厂", "LUNG HOONG-THEH Z-LE-HOO TSHANG")#footnote[Explosion.]#footnote[Match factory.]
 

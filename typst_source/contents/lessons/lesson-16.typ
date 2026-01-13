@@ -1,4 +1,4 @@
-#import "../../template.typ": r, exercise
+#import "../../template.typ": exercise, r
 
 #exercise(16, "论失窃", "LUNG SEH-TSHIH")#footnote[Theft.]
 

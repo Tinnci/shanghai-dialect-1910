@@ -1,4 +1,4 @@
-#import "../../template.typ": r, exercise
+#import "../../template.typ": exercise, r
 
 #exercise(27, "论法租界里挂灯", "LUNG FAH-TSOO-KA-LI KWO-TUNG")#footnote[Illumination.] #footnote[French settlement.]
 

@@ -1,4 +1,4 @@
-#import "../../template.typ": r, exercise
+#import "../../template.typ": exercise, r
 
 #exercise(22, "论雨水忒多人有怨恨", "LUNG YUI-S THUH-TOO NYUNG YEU IOEN-'UNG")#footnote[Complaining.]
 

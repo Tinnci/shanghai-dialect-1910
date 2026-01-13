@@ -1,4 +1,4 @@
-#import "../../template.typ": r, exercise
+#import "../../template.typ": exercise, r
 
 #exercise(33, "论上海个花园", "LUNG ZAUNG-HE-KUH HWO-YOEN")
 
