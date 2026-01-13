@@ -117,6 +117,20 @@ Since the Character accompanies the Romanization it will be easy to obtain the c
 #pagebreak()
 
 // ============================================================
+// 目录 (TABLE OF CONTENTS)
+// ============================================================
+
+= Contents / 目录
+
+#outline(
+  title: none,
+  depth: 2,
+  indent: 1.5em
+)
+
+#pagebreak()
+
+// ============================================================
 // 发音指南
 // ============================================================
 

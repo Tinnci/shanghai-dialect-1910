@@ -29,13 +29,21 @@
 // ============================================================
 
 #let exercise(num, zh_title, ro_title) = {
-  // 每课重置脚注计数器
+  // 1. 插入一个隐藏标题供目录抓取
+  // 使用 level 2，使其在目录中层级正确
+  block(height: 0pt, heading(
+    level: 2, 
+    outlined: true,
+    numbering: none
+  )[Exercise #num: #zh_title (#ro_title)])
+
+  // 2. 每课重置脚注计数器
   counter(footnote).update(0)
   
-  // 课与课之间的间距
+  // 3. 课与课之间的间距
   v(1.5em, weak: true)
   
-  // 标题区块
+  // 4. 标题可视区块
   align(center, block(
     width: 100%,
     inset: (y: 0.8em),
@@ -94,7 +102,7 @@
   
   // 字体设置
   set text(
-    font: ("Source Han Serif SC", "Noto Serif CJK SC", "Libertinus Serif"),
+    font: ("Noto Serif CJK SC", "Libertinus Serif"),
     size: 10.5pt,
     lang: "zh",
   )
