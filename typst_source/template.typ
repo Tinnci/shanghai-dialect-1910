@@ -44,6 +44,7 @@
     width: 100%,
     inset: (y: 0.8em),
     stroke: none,
+    breakable: false,
   )[
     #text(size: 10pt, weight: "bold", tracking: 0.5pt)[
       EXERCISE NO. #num
