@@ -3,7 +3,7 @@
 > **书名**: Shanghai Dialect Exercises in Romanized and Character with Key to Pronunciation and English Index  
 > **出版年份**: 1910年  
 > **总页数**: 294页  
-> **当前索引进度**: 第1-249页 (第1-141课)
+> **当前索引进度**: 第1-259页 (第1-144课)
 
 ---
 
@@ -285,12 +285,16 @@
 | 页码 | 课号 | 内容描述 | 关键词汇/地名 |
 |------|------|----------|---------------|
 | 248-249 | 141 | Exercise 141: 论勇气个兵丁 | 将军招募勇兵、听从号令退敌 | 兵丁 (Ping-ting)、号筒 (Au-doong) |
+| 249-251 | 141续 | Exercise 141续 | 兵丁夜袭奇谋、火光与号声大破敌军 | Au-ling (号令)、Khau-se (敲碎) |
+| 251-254 | 142 | Exercise 142: 论开行个要收一个学生子 | 职场试炼：学徒击钉考验、勤学苦练 | Khe-'aung (开行)、'Auh-sang-ts (学徒) |
+| 254-257 | 143 | Exercise 143: 论路上个石头 | 财主测试品性：搬石得金、利他主义 | Dze-tsu (财主)、Tih-zeh (跌跤) |
+| 257-259 | 144 | Exercise 144: 论仁爱个人 | 好撒玛利亚人方言版：客边人救助伤者 | Khak-pien-nyung (客边人)、Khak-dzan (客栈) |
 
 ---
 
-## 待归类页面 (第250-294页)
+## 待归类页面 (第260-294页)
 
-> 第250-294页（第142-155课）尚待审查归类。
+> 第260-294页（第145-155课）尚待审查归类。
 
 ---
 
@@ -375,6 +379,25 @@
 | Dzien-tsaung | 钱庄 | Native Bank |
 | Seh-phiau | 失票 / 银票 | Lost bill / Draft |
 | Ping-ting | 兵丁 | Soldier |
+| Au-ling | 号令 | Order / Signal |
+| Khau-se | 敲碎 | Break to pieces |
+| Koen-koen-dzing-dzing| 乾乾淨淨 | Clean / Entirely |
+| Khe-'aung | 开行 | Open a shop/business |
+| 'Auh-sang-ts | 学生子 / 学徒 | Apprentice / Student |
+| Kau-bak | 告白 | Advertisement / Notice |
+| Tang-tsau-oo | 打招呼 | Ask about / Look after |
+| Khau-tuh-tsoong | 敲得中 | Hit the mark |
+| Koong-foo | 功夫 | Time / Effort |
+| S-lien | 试练 | Practice / Trial |
+| Dze-tsu | 财主 | Rich man |
+| Tih-zeh | 跌跤 | Fall down |
+| Be-loong | 背拢 | Come near / Pass by |
+| Tih-saung | 跌伤 | Injured by a fall |
+| Pen-si pen-weh | 半死半活 | Half dead |
+| Pok-theh | 剥脱 | Strip off |
+| Khak-pien-nyung | 客边人 | Stranger / Outsider |
+| Sang-kheu | 牲口 | Animal / Beast of burden |
+| Khak-dzan | 客栈 | Inn |
 
 ---
 
