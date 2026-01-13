@@ -108,6 +108,8 @@
 #include "contents/lessons/lesson-91.typ"
 #include "contents/lessons/lesson-92.typ"
 #include "contents/lessons/lesson-93.typ"
+#include "contents/lessons/lesson-94.typ"
+#include "contents/lessons/lesson-95.typ"
 
 // ============================================================
 // 附录部分：索引、勘误、词汇表
