@@ -3,7 +3,7 @@
 > **书名**: Shanghai Dialect Exercises in Romanized and Character with Key to Pronunciation and English Index  
 > **出版年份**: 1910年  
 > **总页数**: 294页  
-> **当前索引进度**: 第1-270页 (第1-149课)
+> **当前索引进度**: 第1-279页 (第1-153课)
 
 ---
 
@@ -298,13 +298,15 @@
 | 263-265 | 146 | Exercise 146: 论骆驼 | 自然常识：骆驼特征、沙漠之舟、皮毛骨用途 | 駱駝 (Lauh-doo)、沙漠 |
 | 265-267 | 147 | Exercise 147: 论买地皮 | 房产实务：核实土地权属、提防地保盗卖 | 買地皮、地保、契據 |
 | 267-269 | 148 | Exercise 148: 论买地皮续 | 房产实务：方单、粮串、道契、丈局测绘 | 道契、丈量费 |
-| 269-270 | 149 | Exercise 149: 论养蚕宝宝 | 蚕桑技术：挑选蚕茧、辨别雌雄、产卵过程 | 蚕宝宝 (Zen-pau-pau)、蚕蛾 |
+| 269-271 | 149 | Exercise 149: 论养蚕宝宝 | 蚕桑技术：挑选蚕茧、辨别雌雄、产卵过程、缫丝 | 燙殺 (thaung-sah)、繅絲 (zau s) |
+| 272-277 | 150-152 | Exercise 150-152: 论热天 | 上海酷暑描写、深山古寺梦境、社会阶层温差对比 | 哈利掃帚星、火夫、號衣 |
+| 278-279 | 153 | Exercise 153: 门差搭之包打听叙谈 | 治安对话：公馆失窃报案、抢劫财物清单 | 門差 (mung-tsha)、金絲眼鏡 |
 
 ---
 
-## 待归类页面 (第271-294页)
+## 待归类页面 (第280-294页)
 
-> 第271-294页（第150-155课）尚待审查归类。
+> 第280-294页（第154-155课）尚待审查归类。
 
 ---
 
@@ -414,6 +416,14 @@
 | Di-pau | 地保 | Local headman / Land bailiff |
 | Dau-chi | 道契 | Title deed issued by Taotai |
 | Zen-pau-pau | 蚕宝宝 | Silkworm |
+| thaung-sah | 燙殺 | Scald to death |
+| zau s | 繅絲 | Reel silk |
+| po-sen | 蒲扇 | Palm-leaf fan |
+| tshak-pok | 赤膊 | Bare-backed |
+| liang-bang | 凉棚 | Mat awning / Cooling shed |
+| au-i | 號衣 | Uniform (soldier's) |
+| mung-tsha | 门差 | Gate-keeper / Concierge |
+| chau khe | 撬開 | Pry open |
 
 ---
 
