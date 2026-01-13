@@ -3,7 +3,7 @@
 > **书名**: Shanghai Dialect Exercises in Romanized and Character with Key to Pronunciation and English Index  
 > **出版年份**: 1910年  
 > **总页数**: 294页  
-> **当前索引进度**: 第1-230页 (第1-130课)
+> **当前索引进度**: 第1-249页 (第1-141课)
 
 ---
 
@@ -263,12 +263,34 @@
 | 228-229 | 128 | Exercise 128: 论劝百姓勿种罂粟 | 农业改良：禁种鸦片、改种靛青/棉花/养蚕 |
 | 229-230 | 129 | Exercise 129: 论劝人应该忍耐 | 忍耐处事、巡警局 |
 | 230 | 130 | Exercise 130: 论禁止夜花园个益处 | 取缔夜花园、改良风俗 |
+| 230-231 | 130续 | Exercise 130续 | 论各类树木、新鲜空气、养气 (氧气) |
+
+### 44_lesson-131-140 (第131-140课)
+
+| 页码 | 课号 | 内容描述 | 关键词汇/地名 |
+|------|------|----------|---------------|
+| 231-233 | 131 | Exercise 131: 论呆笨个学生 | 穷学生大考落第、房梁腐烂坠落吓跑强盗 | 大考 (doo-khau)、強盜 (jang-dau) |
+| 233-235 | 132 | Exercise 132: 论知足个小囡 | 荒年财主施舍、知足孩子得银币 | 荒年 (hwaung-nyien)、馒头 (men-deu) |
+| 235-236 | 133 | Exercise 133: 论救难民个好法则 | 招股送湖北难民去吉林垦荒 | 难民 (nan-ming)、吉林 (Kyih-ling) |
+| 236-238 | 134 | Exercise 134: 论狐假虎威 | 狐假虎威、大臣依仗君王权势 | 狐狸 (oo-li)、權勢 (joen-s) |
+| 238-240 | 135 | Exercise 135: 论松树个树桩 | 苏州洞庭山仙人咒骂松树桩 | 洞庭山、仙人 (Sien-nyung) |
+| 240-241 | 136 | Exercise 136: 论蚂蚁 | 蚂蚁社会性、奴仆蚂蚁、蚜虫分泌生奶 | 螞蟻 (Mo-nyi) |
+| 241-242 | 137 | Exercise 137: 论彗星 | 扫帚星迷信 vs 科学解释天体运行 | 彗星 (We-sing)、掃帚星 (Sau-tseu-sing) |
+| 243-244 | 138 | Exercise 138: 论老爹搭之孙子 | 孝道故事：孙子削木槽教育父母 | Lau-tia (爷爷)、Mok-zau (木槽) |
+| 244-245 | 139 | Exercise 139: 论禽兽相战 | 蝙蝠寓言：投机者的结局 | 蝙蝠 (Pien-fok)、走獸 (Tseu-seu) |
+| 246-248 | 140 | Exercise 140: 论失票 | 钱庄支票纠纷、无赖闹事 | 錢莊 (Dzien-tsaung)、银票 (Seh-phiau) |
+
+### 45_lesson-141-150 (第141至150课，进行中)
+
+| 页码 | 课号 | 内容描述 | 关键词汇/地名 |
+|------|------|----------|---------------|
+| 248-249 | 141 | Exercise 141: 论勇气个兵丁 | 将军招募勇兵、听从号令退敌 | 兵丁 (Ping-ting)、号筒 (Au-doong) |
 
 ---
 
-## 待归类页面 (第231-294页)
+## 待归类页面 (第250-294页)
 
-> 第231-294页（第131-155课）尚待审查归类。
+> 第250-294页（第142-155课）尚待审查归类。
 
 ---
 
@@ -295,6 +317,8 @@
 | Si-mung | 西门 | Old City West Gate |
 | A-lah-pak | 亚剌伯 | Arabia |
 | Dzoe-z-kok | 瑞士国 | Switzerland |
+| Kyih-ling | 吉林 | Kirin |
+| Doong-ding-san | 洞庭山 | Tung Ting Hill |
 
 ### 机构 (Institutions)
 | 方言罗马字 | 中文 | 英文 |
@@ -320,6 +344,7 @@
 | Loong-tsho | 龙车 | Dragon tram |
 | Dien-tsho tsho-bang | 电车受电杆 | Trolley pole / Electric arm |
 | S-yuih dien-tung | 水月电灯 | Acetylene lamps |
+| Au-doong | 号筒 | Trumpet / Horn |
 
 ### 社会文化 (Social & Cultural)
 | 方言罗马字 | 中文 | 英文/说明 |
@@ -342,6 +367,14 @@
 | Ang-sok | 罂粟 | Opium poppy |
 | Dien-tshing | 靛青 | Indigo |
 | Ya-hwo-yoen | 夜花园 | Night gardens |
+| Mo-nyi | 蚂蚁 | Ant |
+| We-sing | 彗星 | Comet |
+| Lau-tia | 老爹 | Grandfather |
+| Mok-zau | 木槽 | Wooden trough |
+| Pien-fok | 蝙蝠 | Bat |
+| Dzien-tsaung | 钱庄 | Native Bank |
+| Seh-phiau | 失票 / 银票 | Lost bill / Draft |
+| Ping-ting | 兵丁 | Soldier |
 
 ---
 
