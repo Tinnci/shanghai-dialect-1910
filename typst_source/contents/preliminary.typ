@@ -136,5 +136,106 @@ Since the Character accompanies the Romanization it will be easy to obtain the c
 
 = Key to the Pronunciation / 发音说明
 
-// TODO: 后续根据图 5-8 补充声母、韵母、声调的具体说明
+#text(style: "italic")[KEY TO THE PRONUNCIATION OF THE ROMANIZATION USED IN THESE EXERCISES.]
+
+The system used in these exercises is substantially the same as that adopted by the Shanghai Missionary Association and in common use in most of the books published in Romanized colloquial.
+
+Except in few instances sounds are represented by initial and final syllables.
+
+The Initials and Finals are classified under *High* and *Low* Tones.
+
+== HIGH TONES.
+
+The high pitched unaspirated tones are represented by the letters, p, m, 'v, t, ts, l, n, ng, ny, k, ky, kw, i, and w.
+
+With the exception of the negative "'veh" the high tone mark "'" has not been used and it might well have been omitted in this case, as the tone can generally be determined from the context.
+
+*ny* has the sound of "ni" in spaniel. \
+*ky* is like "ch" in church without aspiration. \
+*i* in an initial is sounded like "i" dahlia.
+
+The aspirated tones are indicated in some cases by the use of "h" placed after the initial letter or letters, as, ph, th, tsh, kwh, ch.
+
+h, hy and hw are initial aspirates as is also "f."
+
+th, is pronounced like "th" in Thomas and not like "th" in thing.
+
+*ch* is like "ch" in church. \
+*hy* is like "ti" in Portia.
+
+The "h" after an initial consonant or consonants always indicates a strong aspiration of the preceeding letters. In pronouncing an aspirate there is always an expulsion of the breath which can be easily felt on the hand if held before the mouth when speaking.
+
+In the unaspirated tones there is not the slightest breath felt on the hand.
+
+== LOW TONES.
+
+Low tones are represented by the letters, -b, m, v, d, dz, z, l, ny, ng, g, j, gw, y, and w.
+
+The initial vowel low tones are indicated by " ' " before and just above the vowel, and are, -'a, 'an, 'ah, 'au, 'aung, 'au, 'e, 'eh, 'eu, 'ok, 'oong, 'oo, 'oen, 'ung.
+
+These are pronounced with a strong low voice as though it came from the abdomen.
+
+== FINALS.
+
+The vowel endings are, -a, e, i, o, u, oo, ui, ia, iau, ieu, and ie.
+
+The nasal ending are, -an, en, ien, oen, in which the final "n" is always a nasal and should be spoken as though talking through the nose.
+
+The sound of "an" is always like "a" in and.
+
+The "ng" in ang, aung, oong, ung, and iang, has the sound of "ng" in song.
+
+Final "h" and "k" in the following, -ah, ak, eh, ih, auh, ok, oeh, uh, and iak, indicate that the vowel sound preceeding ends very suddenly.
+
+It should be borne in mind that the final "h" and "k" have no sound but are used simply to indicate the abrupt ending of the vowel sound.
+
+This final "h" also indicates the sound of the preceeding vowel.
+
+The sound "ah" is like "a" in at; "ak" is like "a" in what; and "eh" is like "e" in let.
+
+== VOWEL SOUNDS.
+
+*a* has the sound of "a" in far, except when followed by "h, k, or n", as indicated above.
+
+*e* has the sound of "e" in prey, except when followed by "h" as indicated above.
+
+*i* is like "i" in police except before "ng" when it has the sound of "i" in sing.
+
+*au* has the sound of "au" in August.
+
+*o* is like "o" in so.
+
+*oo* is like "oo" in too, except before "ng" when it has the sound of "o" in bone.
+
+*oe* is like the German ö.
+
+*eu* is like the French "eu" in "Monsieur."
+
+*u* is like "oo" in foot.
+
+*ui* is like "ui" in fruit.
+
+In "ih, ia, iau, and ie" we have the short sound of "i" as in it.
+
+The sounds of certain Chinese words are represented by consonants. — These are, "ts, tsh, s, dz, m, ng, and r."
+
+In "tsh" the "h" indicates an aspirate and not an abrupt ending sound.
+
+The sound of "m" is like "m" chasm.
+
+*ng* has the sound of "ng" in hanger.
+
+*r* is a sound approximating final "r or l."
+
+== REMARKS.
+
+The student should know that the high and low tones are virtually the same sound differing only in the pitch of the voice.
+
+If difficulty is experienced in pronouncing the high unaspirated "t" it will be helpful to think of the low tone "d" and attempt to pronounce it as "t." The effort will be likely to produce the correct unaspirated "t." The same would be true of high unaspirated "p" and low tone "b."
+
+A few students have difficulty in pronouncing "ngoo" meaning I, Some omit the "n" sound, and say "goo"; others omit the "g" and say "noo." Where one has this difficulty it will be well for him to separate the "ng" and the "oo" sounds, uttering them very slowly at first, then increase the rapidity with which they are spoken until the sounds are united in "ngoo".
+
+Many students forget that "a" in "ang" has the sound of "a" in far and are constantly giving it the sound of "an" in hand. This should be guarded against.
+
+It should be remembered that the romanization in any system does not perfectly represent the Chinese sounds. Hence the student should give careful attention to the pronunciation of the Chinese teacher, that he may acquire the proper tone and correct accent in speaking.
 
