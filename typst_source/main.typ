@@ -160,6 +160,10 @@
 #include "contents/lessons/lesson-143.typ"
 #include "contents/lessons/lesson-144.typ"
 #include "contents/lessons/lesson-145.typ"
+#include "contents/lessons/lesson-146.typ"
+#include "contents/lessons/lesson-147.typ"
+#include "contents/lessons/lesson-148.typ"
+#include "contents/lessons/lesson-149.typ"
 
 // ============================================================
 // 附录部分：索引、勘误、词汇表

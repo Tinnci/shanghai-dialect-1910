@@ -148,7 +148,7 @@
 ) #r("chau", "撬") #r("lau,", "咾") #r("juh-ji", "极其") #r("van-nan,", "烦难，") #r("zen-r", "然而") #r(
   "tau-ti",
   "到底",
-) #r("peh", "拨") #r("yi", "pen-khe", "搬开哉。") #r("tse.", " ") #r("La", "拉") #r("di-kuh", "第个") #r(
+) #r("peh", "拨") #r("yi", "伊") #r("pen-khe-tse.", "搬开哉。") #r("La", "拉") #r("di-kuh", "第个") #r(
   "zak-deu",
   "石头",
 ) #r("'au-ti", "底下") #r("khoen-kyien", "看见") #r("yeu", "有") #r("ih", "一") #r("de", "袋") #r(
