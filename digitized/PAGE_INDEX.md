@@ -3,7 +3,7 @@
 > **书名**: Shanghai Dialect Exercises in Romanized and Character with Key to Pronunciation and English Index  
 > **出版年份**: 1910年  
 > **总页数**: 294页  
-> **当前索引进度**: 第1-259页 (第1-144课)
+> **当前索引进度**: 第1-270页 (第1-149课)
 
 ---
 
@@ -290,11 +290,21 @@
 | 254-257 | 143 | Exercise 143: 论路上个石头 | 财主测试品性：搬石得金、利他主义 | Dze-tsu (财主)、Tih-zeh (跌跤) |
 | 257-259 | 144 | Exercise 144: 论仁爱个人 | 好撒玛利亚人方言版：客边人救助伤者 | Khak-pien-nyung (客边人)、Khak-dzan (客栈) |
 
+### 46_lesson-151-160 (第151至160课，进行中)
+
+| 页码 | 课号 | 内容描述 | 关键词汇/地名 |
+|------|------|----------|---------------|
+| 260-263 | 145 | Exercise 145: 论一桩善事 | 道德寓言：鞋里的银币、施比受更有福 | 勞力 (苦力)、洋錢 |
+| 263-265 | 146 | Exercise 146: 论骆驼 | 自然常识：骆驼特征、沙漠之舟、皮毛骨用途 | 駱駝 (Lauh-doo)、沙漠 |
+| 265-267 | 147 | Exercise 147: 论买地皮 | 房产实务：核实土地权属、提防地保盗卖 | 買地皮、地保、契據 |
+| 267-269 | 148 | Exercise 148: 论买地皮续 | 房产实务：方单、粮串、道契、丈局测绘 | 道契、丈量费 |
+| 269-270 | 149 | Exercise 149: 论养蚕宝宝 | 蚕桑技术：挑选蚕茧、辨别雌雄、产卵过程 | 蚕宝宝 (Zen-pau-pau)、蚕蛾 |
+
 ---
 
-## 待归类页面 (第260-294页)
+## 待归类页面 (第271-294页)
 
-> 第260-294页（第145-155课）尚待审查归类。
+> 第271-294页（第150-155课）尚待审查归类。
 
 ---
 
@@ -398,6 +408,12 @@
 | Khak-pien-nyung | 客边人 | Stranger / Outsider |
 | Sang-kheu | 牲口 | Animal / Beast of burden |
 | Khak-dzan | 客栈 | Inn |
+| 'an-san 'an-san | 閒散閒散 | Stroll / Leisurely walk |
+| Lau-lih | 勞力 | Labor / Hard work |
+| Lauh-doo | 骆驼 | Camel |
+| Di-pau | 地保 | Local headman / Land bailiff |
+| Dau-chi | 道契 | Title deed issued by Taotai |
+| Zen-pau-pau | 蚕宝宝 | Silkworm |
 
 ---
 
