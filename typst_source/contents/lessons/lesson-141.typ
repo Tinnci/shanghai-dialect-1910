@@ -19,7 +19,7 @@
   "伊",
 ) #r("kyau", "叫") #r("nyung", "人") #r("tsh", "吹") #r("'au-doong", "号筒") #r("lau", "咾") #r("dzau", "召") #r(
   "nyung",
-  "入",
+  "人",
 ) #r("le", "来") #r("taung", "当") #r("ping.", "兵。") #r("La", "拉") #r("jung-pien", "近边") #r(
   "di-faung-kuh",
   "地方个",
@@ -144,7 +144,7 @@
 ) #r("Ngoo", "我") #r("la", "协助") #r("han-kuh", "喊个") #r("zung-kwaung", "辰光") #r("la", "拉") #r(
   "san-ting",
   "山顶",
-) #r("laung-kuh", "上个") #r("ping-ting,", "兵丁，") #r("me", "每") #r("ih-kuh", "一个") #r("nyung", "入") #r(
+) #r("laung-kuh", "上个") #r("ping-ting,", "兵丁，") #r("me", "每") #r("ih-kuh", "一个") #r("nyung", "人") #r(
   "iau",
   "要",
 ) #r("tsh", "吹") #r("yi-kuh", "伊个") #r("'au-doong;", "号筒；") #r("khau-se", "敲碎") #r("yi-kuh", "伊个") #r(

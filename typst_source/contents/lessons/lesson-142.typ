@@ -25,7 +25,7 @@
   "行里个",
 ) #r("'auh-sang-ts.", "学生子。") #r("Khe-'aung-kuh", "开行个") #r("khoen-khoen", "看看") #r("yi-la,", "伊拉，") #r(
   "zen-z",
-  "全悬",
+  "全是",
 ) #r("hau", "好") #r("khoen", "看") #r("lau,", "咾") #r("i-zaung", "衣裳") #r("meh,", "末") #r("(1)", " ") #r(
   "zi-tsung",
   "齐整",
@@ -58,7 +58,7 @@
 ) #r("dzu", "柱") #r("la,", "拉，") #r("dzu", "柱") #r("laung", "上") #r("yeu", "有") #r("ih-tsak", "一隻") #r(
   "ting",
   "钉",
-) #r("hhau-hau-la.", "敲好拉伊。") #r("Yi-meh,", "末，") #r("nau-ts", "拿之") #r("ih-kung", "一根") #r(
+) #r("hau-hau-la.", "敲好拉。") #r("Yi-meh,", "末，") #r("nau-ts", "拿之") #r("ih-kung", "一根") #r(
   "baung",
   "棒",
 ) #r("te", "对") #r("i-ba", "排") #r("siau-noen", "小囝") #r("wo,", "话：") #r("\"Na", "“哪") #r(

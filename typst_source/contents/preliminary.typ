@@ -8,42 +8,42 @@
 
 #page(numbering: none)[
   #v(3cm)
-  
+
   #align(center)[
     #text(size: 24pt, weight: "bold")[
       #book-title-zh
     ]
-    
+
     #v(0.5em)
-    
+
     #text(size: 14pt, style: "italic")[
       #book-title-en
     ]
-    
+
     #v(0.3em)
-    
+
     #text(size: 10pt)[
       #book-subtitle
     ]
-    
+
     #v(3cm)
-    
+
     #text(size: 12pt)[
       #author
     ]
-    
+
     #v(1cm)
-    
+
     #text(size: 10pt)[
       Originally published by #publisher, #original-year
     ]
-    
+
     #v(2cm)
-    
+
     #line(length: 50%, stroke: 0.5pt)
-    
+
     #v(0.5em)
-    
+
     #text(size: 9pt)[
       Digitized Edition / 数字化版本 (#digitized-year)
     ]
@@ -58,21 +58,21 @@
 
 #page(numbering: none)[
   #v(1fr)
-  
+
   #block(inset: 1em)[
     == Public Domain Notice / 公有版权声明
-    
+
     #copyright-notice
-    
+
     #v(1em)
-    
+
     *Source / 来源:*
-    
+
     Internet Archive
-    
+
     #link(source-url)[#text(size: 8pt)[#source-url]]
   ]
-  
+
   #v(1fr)
 ]
 
@@ -110,8 +110,7 @@ Since the Character accompanies the Romanization it will be easy to obtain the c
 
 #grid(
   columns: (1fr, 1fr),
-  [Oct. 1910.],
-  align(right)[D. H. DAVIS.]
+  [Oct. 1910.], align(right)[D. H. DAVIS.],
 )
 
 #pagebreak()
@@ -125,7 +124,7 @@ Since the Character accompanies the Romanization it will be easy to obtain the c
 #outline(
   title: none,
   depth: 2,
-  indent: 1.5em
+  indent: 1.5em,
 )
 
 #pagebreak()
@@ -239,3 +238,4 @@ Many students forget that "a" in "ang" has the sound of "a" in far and are const
 
 It should be remembered that the romanization in any system does not perfectly represent the Chinese sounds. Hence the student should give careful attention to the pronunciation of the Chinese teacher, that he may acquire the proper tone and correct accent in speaking.
 
+#pagebreak()

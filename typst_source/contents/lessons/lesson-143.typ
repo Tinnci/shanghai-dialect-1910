@@ -2,7 +2,7 @@
 
 #exercise(143, "论路上个石头", "LUNG LOO LAUNG-KUH ZAK-DEU.")
 
-#r("Dzoong-zien", "从前") #r("yeu", "有") #r("ih-kuh", "一个") #r("doo-dze-tsu", "大财主") #r("nyung,", "入。") #r(
+#r("Dzoong-zien", "从前") #r("yeu", "有") #r("ih-kuh", "一个") #r("doo-dze-tsu", "大财主") #r("nyung,", "人。") #r(
   "dzu",
   "住",
 ) #r("la", "拉") #r("wo-li", "华丽") #r("kuh", "个") #r("vaung-ts", "房子") #r("li.", "里。") #r("Yi-kuh", "伊个") #r(
@@ -10,11 +10,11 @@
   "田地",
 ) #r("too-le", "多来") #r("m-soo", "无数") #r("z", "是") #r("tsoo", "租") #r("peh-la", "拨拉") #r("(1)", " ") #r(
   "tsung-tsaung",
-  "庄上个",
+  "村庄上个",
 )#footnote[Villagers. (1)] #r("laung-kuh", " ") #r("nyung", "人") #r("tsoong-kuh.", "种个。") #r("Di-kuh", "第个") #r(
   "dze-tsu",
   "财主",
-) #r("nyung", "入") #r("'veh", "勿") #r("pih", "必") #r("tsoo", "做") #r("ih-ngan", "一额") #r("lau-lok", "劳碌") #r(
+) #r("nyung", "人") #r("'veh", "必") #r("pih", "做") #r("ih-ngan", "一颜") #r("lau-lok", "劳碌") #r(
   "kuh",
   "个",
 ) #r("sang-weh,", "生活。") #r("Iung-we", "因为") #r("yi-kuh", "伊个") #r("doong-dien", "铜钱") #r("z", "是") #r(
@@ -23,7 +23,7 @@
 ) #r("lau.", "咾。") #r("Zak-zen", "若然") #r("iau", "要") #r("tah", "搭") #r("too-hau", "多化") #r("nyung", "人") #r(
   "ih-yang",
   "一样",
-) #r("khoong-'an", "空闲") #r("'a", "也") #r("khau-i-kuh.", "可以个。") #r("Zen-r", "然而") #r("yi", "伊") #r(
+) #r("khoong-'an", "空闲") #r("'a", "也") #r("khau-i-kuh.", "也可以个。") #r("Zen-r", "然而") #r("yi", "伊") #r(
   "z",
   "是",
 ) #r("yoong", "用") #r("koong-foo", "功夫") #r("lau", "咾") #r("doong-dien", "铜钱") #r("tsoo", "做") #r(
@@ -38,7 +38,7 @@
 ) #r("khau-i", "可以") #r("tshung-sing", "称心") #r("suh-i.", "适意。") #r("Yi", "伊") #r("meh,", "末") #r(
   "z",
   "是",
-) #r("joong-khau", "穷苦") #r("lau", "咾") #r("sang-bing-kuh", "生病个") #r("nyung", "人") #r("tsung-kuh", "真个") #r(
+) #r("joong-khoo", "穷苦") #r("lau", "咾") #r("sang-bing-kuh", "生病个") #r("nyung", "人") #r("tsung-kuh", "真个") #r(
   "bang-yeu.",
   "朋友。",
 ) #r("Dan-z", "但是") #r("da-ke", "大概") #r("nyung", "人") #r("z", "是") #r("(2)", " ") #r("vaung", "忘") #r(
@@ -81,7 +81,7 @@
 ) #r("thih-ziang,", "铁匠，") #r("yi", "伊") #r("ioen-'ung", "怨恨") #r("lau", "咾") #r("wo,", "话：") #r(
   "\"We-sa",
   "“为啥",
-) #r("m-nyung", "无一人") #r("nau-theh", "拿脱") #r("di-kuh", "第个") #r("zak-deu", "石头") #r("'a.\"", "呀。”") #r(
+) #r("m-nyung", "无人") #r("nau-theh", "拿脱") #r("di-kuh", "第个") #r("zak-deu", "石头") #r("'a.\"", "呀。”") #r(
   "Wo-ts",
   "话之",
 ) #r("meh,", "末") #r("tseu-koo-tse.", "走过哉。")
@@ -94,7 +94,7 @@
   "人",
 ) #r("la", "拉") #r("di-kuh", "第个") #r("zak-deu", "石头") #r("laung", "上") #r("tih-saung-kuh;\"", "跌伤个；”") #r(
   "zeh-ke",
-  "实在",
+  "质盖",
 ) #r("meh,", "末") #r("dzen", "全") #r("nyih", "日") #r("tseu-koo-kuh", "走过个") #r("nyung", "人") #r("dzen", "全") #r(
   "z",
   "是",
@@ -104,7 +104,7 @@
 ) #r("hoong", "烘") #r("men-deu-kuh,", "馒头个") #r("tsoo", "做") #r("lah-tsok-kuh,", "蜡烛个") #r("dzen", "全") #r(
   "z",
   "是",
-) #r("tsuh", "只") #r("pih-koo", "不过") #r("ioen-'ung,", "怨恨，") #r("lau", "咾") #r("'veh", "勿") #r(
+) #r("tsuh", "只不过") #r("pih-koo", "怨恨") #r("ioen-'ung,", "，") #r("lau", "咾") #r("'veh", "勿") #r(
   "nau-theh",
   "拿脱",
 ) #r("di-kwhe", "第块") #r("zak-deu.", "石头。")
@@ -135,7 +135,7 @@
   "骑",
 ) #r("mo", "马") #r("pan-la", "绊拉") #r("laung", "上") #r("meh,", "末") #r("iau", "要") #r("(2)", " ") #r(
   "tih-zeh-kyak-kuh;",
-  "跌歪脚个；",
+  "跌踬脚个；",
 )#footnote[Stumble. (2)] #r("zak-s", "若使") #r("ngoo", "我") #r("yeu", "有") #r("chi-lih", "气力") #r("meh,", "末") #r(
   "pih-ding",
   "必定",
@@ -145,7 +145,7 @@
 ) #r("nau", "拿") #r("di-kwhe", "第块") #r("zak-deu", "石头") #r("la", "拉") #r("lau,", "咾") #r("the", "推") #r(
   "lau,",
   "咾",
-) #r("chau", "撬") #r("lau,", "咾") #r("juh-ji", "极其") #r("van-nan,", "烦难，") #r("zen-r", "然而") #r(
+) #r("chau", "拽") #r("lau,", "咾") #r("juh-ji", "极其") #r("van-nan,", "烦难，") #r("zen-r", "然而") #r(
   "tau-ti",
   "到底",
 ) #r("peh", "拨") #r("yi", "伊") #r("pen-khe-tse.", "搬开哉。") #r("La", "拉") #r("di-kuh", "第个") #r(
@@ -156,8 +156,8 @@
   "金子。",
 ) #r("Yi", "伊") #r("dzoong-le", "从来") #r("'veh", "勿") #r("dzung", "曾") #r("khoen-kyien", "看见") #r(
   "hyih",
-  "过歇",
-) #r("zeh-ke", "实盖") #r("too-hau", "多化") #r("kyung-ts-kuh.", "金子个。") #r("La", "拉") #r("de", "袋") #r(
+  "歇",
+) #r("zeh-ke", "质盖") #r("too-hau", "多化") #r("kyung-ts-kuh.", "金子个。") #r("La", "拉") #r("de", "袋") #r(
   "laung",
   "上",
 ) #r("yeu", "有") #r("ih-kyui-sch-wo", "一句话") #r("sia-hau-la", "写好拉") #r("wo,", "话：") #r(

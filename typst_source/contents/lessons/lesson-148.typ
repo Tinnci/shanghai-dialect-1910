@@ -32,7 +32,10 @@
 )#footnote[Measure. (2)] #r("tsau-ts", "照之") #r("faung-tan", "方单") #r("laung", "上") #r("sau", "少") #r(
   "kyi",
   "几",
-) #r("hau.", "化。") #r("Zak-z", "若是有") #r("(3)", " ") #r("pang-kuh,", "浜个，")#footnote[Canal. (3)] #r(
+) #r("hau.", "化。") #r("Zak-z", "若是") #r("yeu", "有") #r("(3)", " ") #r(
+  "pang-kuh,",
+  "浜个，",
+)#footnote[Canal. (3)] #r(
   "'ok-tse",
   "或者",
 ) #r("dzen", "全") #r("pang,", "浜，") #r("'ok-tse", "或者") #r("pen-pang,", "半浜，") #r("'a", "也") #r(
@@ -53,7 +56,7 @@
 ) #r("sia", "写") #r("(6)", " ") #r("iong-tsoo-chi,", "永租契，")#footnote[Deed of perpetuity. (6)] #r(
   "nan-meh",
   "难末",
-) #r("kau-de", "交免") #r("la", "拉") #r("koong-kwen", "公馆") #r("li", "里") #r("tsen", "转") #r("(7)", " ") #r(
+) #r("kau-de", "交递") #r("la", "拉") #r("koong-kwen", "公馆") #r("li", "里") #r("tsen", "转") #r("(7)", " ") #r(
   "dau-chi.",
   "道契。",
 )#footnote[Consular deed. (7)]
@@ -87,8 +90,8 @@
   "拉",
 ) #r("ka-dien", "价钱") #r("li-hyang.", "里向。") #r("Zak-z", "若是") #r("di-laung", "地上") #r("yeu", "有") #r(
   "vung-san",
-  "攻山",
-) #r("kuh", "个") #r("meh,", "末") #r("(12)", " ") #r("tshien-vung", "迁攻") #r(
+  "坟山",
+) #r("kuh", "个") #r("meh,", "末") #r("(12)", " ") #r("tshien-vung", "迁坟") #r(
   "fi",
   "费",
 )#footnote[Expense of removing graves. (12)] #r("'a", "也") #r("ih-chi", "一起") #r("kaung", "讲") #r("ding", "定") #r(
@@ -106,13 +109,13 @@
 )#footnote[Retain or keep back a little more. (13)] #r("wan", "还") #r("iau", "要") #r("yi", "伊") #r("sia", "写") #r(
   "ih-tsang",
   "一张",
-) #r("tshien", "迁") #r("vung", "攻") #r("kyui,", "据，") #r("'an", "限") #r("ding", "定") #r("kyi-z", "几时") #r(
+) #r("tshien", "迁") #r("vung", "坟") #r("kyui,", "据，") #r("'an", "限") #r("ding", "定") #r("kyi-z", "几时") #r(
   "tshien",
   "迁",
-) #r("vung,", "攻，") #r("keh-meh", "盖末") #r("yi", "伊") #r("khung", "肯") #r("kwha-sau-tien", "快燥点") #r(
+) #r("vung,", "坟，") #r("keh-meh", "盖末") #r("yi", "伊") #r("khung", "肯") #r("kwha-sau-tien", "快燥点") #r(
   "tshien",
   "迁",
-) #r("vung", "攻") #r("lau,", "咾，") #r("dau-chi", "道契") #r("'a", "也") #r("tsheh-le", "出来") #r(
+) #r("vung", "坟") #r("lau,", "咾，") #r("dau-chi", "道契") #r("'a", "也") #r("tsheh-le", "出来") #r(
   "kwha-tien.",
   "快点。",
 )
@@ -123,7 +126,7 @@
 ) #r("nga", "之外") #r("(1)", " ") #r("'veh", "勿") #r(
   "tsung",
   "准",
-)#footnote[Not allow. (1) on page 245. Wait, 254.] #r("tsen", "转") #r("dau-chi,", "道契，") #r("'veh", "勿") #r(
+)#footnote[Not allow. (1) on page 254.] #r("tsen", "转") #r("dau-chi,", "道契，") #r("'veh", "勿") #r(
   "hyau-tuh",
   "晓得",
 ) #r("di-kuh", "第个") #r("seh-wo", "说话") #r("chak-zeh", "确实") #r("'veh", "勿") #r("chak-zeh.", "确实。") #r(

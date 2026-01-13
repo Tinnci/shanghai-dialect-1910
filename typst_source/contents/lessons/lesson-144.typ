@@ -23,7 +23,7 @@
 ) #r("koo-yoong", "雇用") #r("li-ts,", "驴子，") #r("tsuh-hau", "只好") #r("boo-'ang.", "步行。") #r("Yi", "伊") #r(
   "soo",
   "所",
-) #r("tseu-kuh", "走个") #r("loo", "路") #r("'veh-dan", "勿不但") #r("z", "是") #r("dzan", "繄") #r("lau", "咾") #r(
+) #r("tseu-kuh", "走个") #r("loo", "路") #r("'veh-dan", "勿不但") #r("z", "是") #r("dzan", "窄") #r("lau", "咾") #r(
   "nan-tseu,",
   "难走，",
 ) #r("r-tshia", "而且") #r("'a", "也") #r("z", "是") #r("we-hyien-kuh.", "危险个。") #r("Iung-we", "因为") #r(
@@ -58,18 +58,18 @@
 ) #r("doong-dien.", "铜钱。") #r("Iung-we", "因为") #r("yi", "伊") #r("m-meh", "无没") #r("doong-dien,", "铜钱，") #r(
   "keh-lauh",
   "盖咾",
-) #r("(1)", " ") #r("pok-theh-ls", "剥脱之")#footnote[Stripped. (1) on page 243] #r("yi-kuh", "伊个") #r(
+) #r("(1)", " ") #r("pok-theh-ts", "剥脱之")#footnote[Stripped. (1) on page 243] #r("yi-kuh", "伊个") #r(
   "i-zaung,",
   "衣裳，",
 ) #r("tang-saung", "打伤") #r("yi-kuh", "伊个") #r("sung-thi,", "身体，") #r("dzuh-tau", "直到") #r(
   "pen-si",
   "半死",
-) #r("pen-weh", "半活") #r("lau", "咾") #r("li-khe-ts", "离开之") #r("yi.", "伊。") #r("Zeh-ke-ts", "实在是") #r(
+) #r("pen-weh", "半活") #r("lau", "咾") #r("li-khe-ts", "离开之") #r("yi.", "伊。") #r("Zeh-ke-ts", "质盖之") #r(
   "meh,",
   "末，",
 ) #r("kwhung", "睏") #r("la", "拉") #r("loo", "路") #r("pien-deu", "边头") #r("m", "无") #r("nyung", "人") #r(
   "khoen-koo",
-  "顾",
+  "看顾",
 ) #r("yi.", "伊。")
 
 #r("'Veh", "勿") #r("too", "多") #r("ih-hyih", "一歇") #r("yeu", "有") #r("ih-kuh", "一个") #r(
@@ -99,10 +99,10 @@
 ) #r("thing-kyien", "听见") #r("kyak-sung", "脚步声") #r("dzien-dzien", "渐渐") #r("nung", "能") #r(
   "yoen-khe",
   "悬开",
-) #r("lau", "咾") #r("tau", "到") #r("'eu-le", "后来") #r("ih-ngan", "一额") #r("'veh", "勿") #r(
+) #r("lau", "咾") #r("tau", "到") #r("'eu-le", "后来") #r("ih-ngan", "一颜") #r("'veh", "勿") #r(
   "thing-kyien",
   "听见",
-) #r("sa.", "哈。") #r("Iung-we", "因为") #r("yi-kuh", "伊个") #r("nyung,", "人，") #r("khoen-kyien-ts", "看见之") #r(
+) #r("sa.", "啥。") #r("Iung-we", "因为") #r("yi-kuh", "伊个") #r("nyung,", "人，") #r("khoen-kyien-ts", "看见之") #r(
   "zeu-saung-kuh",
   "受伤个",
 ) #r("nyung,", "人，") #r("lien-maung", "连忙") #r("la", "拉") #r("ih-pien", "一边") #r("tseu-koo", "走过") #r(
@@ -122,7 +122,7 @@
 ) #r("m-meh", "无没") #r("e-lien", "哀怜") #r("kuh", "个") #r("sing.", "心。") #r("Zak-zen", "若然") #r(
   "ngoo",
   "我",
-) #r("tan-kauh-ts", "就耽搁") #r("ih-hyih,", "一歇，") #r("khoong-pho", "恐怕") #r("'a", "也") #r("yeu", "有") #r(
+) #r("tan-koo-ts", "犹搁之") #r("ih-hyih,", "一歇，") #r("khoong-pho", "恐怕") #r("'a", "也") #r("yeu", "有") #r(
   "jang-dau",
   "强盗",
 ) #r("iau", "要") #r("tang-saung", "打伤") #r("ngoo.\"", "我。”")
@@ -139,7 +139,7 @@
 ) #r("si-si-nung", "细细能") #r("khoen-khoen", "看看") #r("yi,", "伊，") #r("khoen-kyien", "看见") #r("yi", "伊") #r(
   "zeu-ts",
   "受之",
-) #r("dzoong", "重") #r("saung,", "伤，") #r("dan-z", "但是") #r("'a", "也") #r("粉", "勿") #r("nung", "能") #r(
+) #r("dzoong", "重") #r("saung,", "伤，") #r("dan-z", "但是") #r("'a", "也") #r("勿", "勿") #r("nung", "能") #r(
   "paung-dzoo",
   "帮助",
 ) #r("yi,", "伊，") #r("zieu", "就") #r("dzau-zien", "朝前") #r("koen-loo", "赶路") #r("lau,", "咾，") #r(
@@ -180,9 +180,9 @@
 ) #r("zeh-ke", "实盖") #r("te", "对") #r("yi", "伊") #r("tsoo", "做") #r("meh,", "末，") #r("khoong-pho", "恐怕") #r(
   "iau",
   "要",
-) #r("si", "死") #r("la", "拉") #r("i-kwhe", "伊块") #r("di-faung.", "地方。") #r("Soo-i", "所以") #r("全力", " ") #r(
+) #r("si", "死") #r("la", "拉") #r("i-kwhe", "伊块") #r("di-faung.", "地方。") #r("Soo-i", "所以") #r("轻轻能", " ") #r(
   "chung-chung-nung",
-  "轻都能",
+  "轻轻能",
 ) #r("voo", "扶") #r("yi", "伊") #r("ji", "骑") #r("li", "拉") #r("la", " ") #r("li-ts", "驴子") #r("pe", "背") #r(
   "laung-ts,",
   "上之，",

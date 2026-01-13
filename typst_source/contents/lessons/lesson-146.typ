@@ -17,7 +17,7 @@
 ) #r("sung-thi", "身体") #r("meh,", "末") #r("z", "是") #r("kau", "高") #r("lau", "咾") #r("doo-kuh,", "大个，") #r(
   "nung-keu",
   "能彀",
-) #r("驮", "驮人") #r("doo", " ") #r("nyung", " ") #r("lau", "咾") #r("pe", "背") #r("dzoong", "重") #r(
+) #r("doo", "驮") #r("nyung", "人") #r("lau", "咾") #r("pe", "背") #r("dzoong", "重") #r(
   "meh-z",
   "物事",
 ) #r("tau", "到") #r("yoen", "远") #r("di-faung", "地方") #r("chi,", "去，") #r("yi", "伊") #r("z", "是") #r(
@@ -31,13 +31,13 @@
 ) #r("tsih-kuh,", "节个，") #r("pe", "背") #r("laung", "上") #r("meh", "末") #r("yeu", "有") #r("(3)", " ") #r(
   "foong.",
   "峯。",
-)#footnote[The camel's hump. (3)] #r("Yeu-kuh", "有个") #r("z", "是") #r("tan-foong;", "单峯，") #r(
+)#footnote[The camel's hump. (3)] #r("Yeu-kuh", "有个") #r("z", "是") #r("tan-foong;", "单峰，") #r(
   "yeu-kuh",
   "有个",
-) #r("z", "是") #r("saung-foong.", "双峯。") #r("Nyung", "人") #r("nau", "拿") #r("yi", "伊") #r("yoong", "用") #r(
+) #r("z", "是") #r("saung-foong.", "双峰。") #r("Nyung", "人") #r("nau", "拿") #r("yi", "伊") #r("yoong", "用") #r(
   "la",
   "拉",
-) #r("(4)", " ") #r("yau-dzan", "餚馔")#footnote[Food. (4)] #r("taung-tsoong,", "当中。") #r("soen", "算") #r(
+) #r("(4)", " ") #r("yau-dzan", "馈馔")#footnote[Food. (4)] #r("taung-tsoong,", "当中。") #r("soen", "算") #r(
   "we",
   "为",
 ) #r("ting", "顶") #r("tsung-kwe-kuh", "珍贵个") #r("chuh-jok.", "吃局。") #r("Kaung", "讲") #r("tau", "到") #r(
@@ -49,7 +49,7 @@
 ) #r("lau,", "咾") #r("tshau-kuh", "草个") #r("(5)", " ") #r("so-mok", "沙漠")#footnote[Desert. (5)] #r(
   "di-faung",
   "地方",
-) #r("z", "是") #r("'veh-nge", "勿碍") #r("sa.", "哈。") #r("Iung-we", "因为") #r("yi-kuh", "伊个") #r("(6)", " ") #r(
+) #r("z", "是") #r("'veh-nge", "勿碍") #r("sa.", "啥。") #r("Iung-we", "因为") #r("yi-kuh", "伊个") #r("(6)", " ") #r(
   "di",
   "蹄",
 )#footnote[The hoof is soft. (6)] #r("z", "是") #r("nyoen-kuh", "软个") #r("lau", "咾") #r("nung-keu", "能彀") #r(

@@ -102,12 +102,12 @@
 ) #r("le", "来") #r("lien-ts", "连之") #r("ts-deu", "纸头") #r("faung", "放") #r("la", "拉") #r("s", "水") #r(
   "li",
   "里",
-) #r("da-theh", "汰脱") #r("yi", "伊") #r("kuh", "个") #r("auh-tshauh.", "糊龌。") #r("Tau-ts", "到之") #r(
+) #r("da-theh", "汰脱") #r("yi", "伊") #r("kuh", "个") #r("auh-tshauh.", "龌龊。") #r("Tau-ts", "到之") #r(
   "tsieu-thien",
   "秋天",
 ) #r("iau", "要") #r("nau", "拿") #r("le,", "来，") #r("than-bing", "摊平") #r("la", "拉") #r("tsok", "竹") #r(
   "ban",
-  "片",
+  "爿",
 ) #r("laung", "上") #r("lau", "咾") #r("kwo", "掛") #r("la", "拉") #r("leu-laung", "楼上") #r(
   "foong-liang-kuh",
   "风凉个",
@@ -169,7 +169,7 @@
 ) #r("tsok-kuh", "足个") #r("z-'eu", "时候") #r("iau", "要") #r("kwhung", "睏") #r("s", "四") #r("we.", "回。") #r(
   "Kwhung",
   "睏",
-) #r("la-kuh", "拉个") #r("nyih-kyak", "日脚") #r("z", "是") #r("'veh", "勿") #r("chuh", "吃") #r("sa.", "哈。") #r(
+) #r("la-kuh", "拉个") #r("nyih-kyak", "日脚") #r("z", "是") #r("'veh", "勿") #r("chuh", "吃") #r("sa.", "啥。") #r(
   "Me",
   "每",
 ) #r("ih", "一") #r("we", "回") #r("kau-sing-tsen", "觉醒") #r("le", "转") #r("meh,", "来末") #r("(5)", " ") #r(
