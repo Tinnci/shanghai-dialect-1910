@@ -3,7 +3,7 @@
 > **书名**: Shanghai Dialect Exercises in Romanized and Character with Key to Pronunciation and English Index  
 > **出版年份**: 1910年  
 > **总页数**: 294页  
-> **当前索引进度**: 第1-279页 (第1-153课)
+> **当前索引进度**: 第1-294页 (全书完成)
 
 ---
 
@@ -300,13 +300,27 @@
 | 267-269 | 148 | Exercise 148: 论买地皮续 | 房产实务：方单、粮串、道契、丈局测绘 | 道契、丈量费 |
 | 269-271 | 149 | Exercise 149: 论养蚕宝宝 | 蚕桑技术：挑选蚕茧、辨别雌雄、产卵过程、缫丝 | 燙殺 (thaung-sah)、繅絲 (zau s) |
 | 272-277 | 150-152 | Exercise 150-152: 论热天 | 上海酷暑描写、深山古寺梦境、社会阶层温差对比 | 哈利掃帚星、火夫、號衣 |
-| 278-279 | 153 | Exercise 153: 门差搭之包打听叙谈 | 治安对话：公馆失窃报案、抢劫财物清单 | 門差 (mung-tsha)、金絲眼鏡 |
+| 278-281 | 153 | Exercise 153: 门差搭之包打听叙谈 | 治安对话：强盗抢劫报案、验尸所、包打听 | 驗屍場 (nyien-s dzang)、強盜戳殺 |
+| 281-284 | 154 | Exercise 154: 開店个搭買客敘談 | 商业贸易：洋货布询价、讨价还价、定金 | 洋貨布 (yang-hoo poo)、包退包換 |
+| 284-286 | 155 | Exercise 155: 客人拜會个客套 | 社交辞令：久别重逢、贵寓邀请、辞行礼节 | 貴寓 (kwen nyui)、留步 (lieu-boo) |
 
 ---
 
-## 待归类页面 (第280-294页)
+## 40-49 附录部分 (Appendices)
 
-> 第280-294页（第154-155课）尚待审查归类。
+### 47_english-index (英文索引)
+| 页码 | 内容描述 |
+|------|----------|
+| 287-291 | 英文主题索引 (A-W) - 涵盖全书关键词主题检索 |
+
+### 48_errata (勘误表)
+| 页码 | 内容描述 |
+|------|----------|
+| 291-294 | 勘误表 (ERRATA) - 对全书方言罗马字拼写及正文错误的校订 |
+
+## 数字化总结
+
+本书数字化工作已于 2026-01-13 全部完成。共计提取页面 294 页，创建内容索引 155 课，记录关键词汇 80 余组。
 
 ---
 
@@ -335,6 +349,7 @@
 | Dzoe-z-kok | 瑞士国 | Switzerland |
 | Kyih-ling | 吉林 | Kirin |
 | Doong-ding-san | 洞庭山 | Tung Ting Hill |
+| Pau-zen-ka | 宝善街 | Po-shan Street (Commercial center) |
 
 ### 机构 (Institutions)
 | 方言罗马字 | 中文 | 英文 |
@@ -424,6 +439,11 @@
 | au-i | 號衣 | Uniform (soldier's) |
 | mung-tsha | 门差 | Gate-keeper / Concierge |
 | chau khe | 撬開 | Pry open |
+| nyien-s dzang | 驗屍場 | Morgue / Mortuary |
+| khoong-tshiak ba| 孔雀牌 | Peacock brand |
+| lieu-boo | 留步 | Don't come out (polite goodbye) |
+| khak-thau | 客套 | Etiquette / Formalities |
+| kham-woo | 勘误 | Errata |
 
 ---
 
