@@ -99,6 +99,12 @@
 #include "contents/lessons/lesson-82.typ"
 #include "contents/lessons/lesson-83.typ"
 #include "contents/lessons/lesson-84.typ"
+#include "contents/lessons/lesson-85.typ"
+#include "contents/lessons/lesson-86.typ"
+#include "contents/lessons/lesson-87.typ"
+#include "contents/lessons/lesson-88.typ"
+#include "contents/lessons/lesson-89.typ"
+#include "contents/lessons/lesson-90.typ"
 
 // ============================================================
 // 附录部分：索引、勘误、词汇表
