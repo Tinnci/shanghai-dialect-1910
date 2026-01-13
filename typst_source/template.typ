@@ -8,31 +8,14 @@
 // ============================================================
 
 #let r(roman, hanzi) = {
-  // 测量内容宽度的辅助函数
-  let measure-width(content) = style(styles => measure(content, styles).width)
-  
-  // 使用 layout 获取可用空间上下文（虽然这里主要是为了测量）
-  layout(size => {
-    // 构造最终要显示的元素
-    let rt = text(size: 0.55em, bottom-edge: "baseline")[#roman]
-    let rb = text(top-edge: "baseline")[#hanzi]
-    
-    // 我们使用 box + stack 来实现垂直堆叠
-    // 关键在于：外层 box 的宽度由较宽者决定
-    // 较窄者在其中居中
-    
-    // 下面这种实现方式依赖于 typst 的自然布局
-    // stack 会自动取最宽子元素的宽度
-    // align(center) 会让较窄的子元素居中
-    // 这正是我们需要的 Ruby 效果
-    
-    box(baseline: 20%, stack(
-      dir: ttb,
-      spacing: 2pt, // 汉字和拼音的间距
-      align(center, rb), // 汉字在上
-      align(center, rt)  // 拼音在下
-    ))
-  })
+  // 简单的内联 Ruby 实现
+  // box 确保是内联元素，stack 垂直堆叠
+  box(baseline: 50%, stack(
+    dir: ttb,
+    spacing: 1pt,
+    align(center, text[#hanzi]),              // 汉字在上
+    align(center, text(size: 0.55em)[#roman]) // 拼音在下
+  ))
 }
 
 // 紧凑模式
