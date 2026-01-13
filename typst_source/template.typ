@@ -35,16 +35,19 @@
   // 3. 课与课之间的间距
   v(1.5em, weak: true)
 
-  // 4. 标题可视区块（带 label 以便跳转）
+  // 4. 标题可视区块（含字重与字距优化）
   block(breakable: false)[
     #align(center)[
-      #text(size: 10pt, weight: "bold", tracking: 0.5pt)[
+      // 全大写 EXERCISE: 增加正追踪 (0.08em) 提升可读性
+      #text(size: 10pt, weight: "semibold", tracking: 0.08em)[
         EXERCISE NO. #num
       ]
       #v(0.3em)
-      #text(size: 14pt, weight: "bold")[#zh_title] #label("ex-" + str(num))
+      // 中文标题: 使用 semibold + 微小负追踪
+      #text(size: 14pt, weight: "semibold", tracking: -0.01em)[#zh_title] #label("ex-" + str(num))
       #v(0.2em)
-      #text(size: 9pt, style: "italic", tracking: 0.3pt)[#ro_title]
+      // 罗马字标题: 保持斜体 + 轻微正追踪
+      #text(size: 9pt, style: "italic", tracking: 0.02em)[#ro_title]
     ]
   ]
 
@@ -169,21 +172,40 @@
     gap: 0.5em,
   )
 
-  // 章节标题样式 (Level 1)
+  // ============================================================
+  // 标题样式 (含字重与字距优化)
+  // ============================================================
+
   set heading(numbering: none)
+
+  // Level 1 章节标题:
+  // - 使用 semibold(600) 代替 bold(700) 减少"黑块"感
+  // - 负追踪 (-0.02em) 让大标题更紧凑有张力
   show heading.where(level: 1): it => {
     pagebreak(weak: true)
     v(2em)
-    align(center, text(size: 16pt, weight: "bold")[#it.body])
+    align(center, text(
+      size: 16pt,
+      weight: "semibold",
+      tracking: -0.02em,
+    )[#it.body])
     v(1em)
   }
 
-  // Level 2 标题样式 (子章节)
+  // Level 2 子章节标题:
+  // - 使用 medium(500) 获得更平滑的灰度过渡
   show heading.where(level: 2): it => {
     v(1em)
-    text(size: 12pt, weight: "bold")[#it.body]
+    text(
+      size: 12pt,
+      weight: "medium",
+      tracking: -0.01em,
+    )[#it.body]
     v(0.5em)
   }
+
+  // 强调文本优化: 降低加粗强度避免过重
+  show strong: set text(weight: 600)
 
   body
 }
