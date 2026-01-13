@@ -1,28 +1,42 @@
 // template.typ - 核心模板
 
-#import "@preview/rubby:0.10.2": get-ruby
+// 移除 import，我们使用自定义实现来彻底解决依赖问题
+// #import "@preview/rubby:0.10.2": get-ruby
 
 // ============================================================
-// 1. 上海话 Ruby 注音函数
+// 1. 自定义 Ruby 实现 (Reflowable & Robust)
 // ============================================================
 
-// 标准模式：单字 + 罗马字
-#let r = get-ruby(
-  size: 0.55em,
-  pos: bottom,
-  dy: 0pt,
-  delimiter: "|",
-  alignment: "center",
-)
+#let r(roman, hanzi) = {
+  // 测量内容宽度的辅助函数
+  let measure-width(content) = style(styles => measure(content, styles).width)
+  
+  // 使用 layout 获取可用空间上下文（虽然这里主要是为了测量）
+  layout(size => {
+    // 构造最终要显示的元素
+    let rt = text(size: 0.55em, bottom-edge: "baseline")[#roman]
+    let rb = text(top-edge: "baseline")[#hanzi]
+    
+    // 我们使用 box + stack 来实现垂直堆叠
+    // 关键在于：外层 box 的宽度由较宽者决定
+    // 较窄者在其中居中
+    
+    // 下面这种实现方式依赖于 typst 的自然布局
+    // stack 会自动取最宽子元素的宽度
+    // align(center) 会让较窄的子元素居中
+    // 这正是我们需要的 Ruby 效果
+    
+    box(baseline: 20%, stack(
+      dir: ttb,
+      spacing: 2pt, // 汉字和拼音的间距
+      align(center, rb), // 汉字在上
+      align(center, rt)  // 拼音在下
+    ))
+  })
+}
 
-// 紧凑模式：适合长罗马字的词组
-#let rc = get-ruby(
-  size: 0.5em,
-  pos: bottom,
-  dy: 0pt,
-  delimiter: "|",
-  alignment: "center",
-)
+// 紧凑模式
+#let rc = r
 
 // ============================================================
 // 2. 课文标题宏
@@ -30,7 +44,6 @@
 
 #let exercise(num, zh_title, ro_title) = {
   // 1. 插入一个隐藏标题供目录抓取
-  // 使用 level 2，使其在目录中层级正确
   block(height: 0pt, heading(
     level: 2, 
     outlined: true,
@@ -65,7 +78,6 @@
 // 3. 辅助组件
 // ============================================================
 
-// 发音说明条目
 #let pron-entry(roman, description) = {
   grid(
     columns: (3cm, 1fr),
@@ -76,7 +88,6 @@
   v(0.3em)
 }
 
-// 词汇表条目
 #let vocab(zh, ro, en) = {
   grid(
     columns: (2cm, 4cm, 1fr),
@@ -92,7 +103,6 @@
 // ============================================================
 
 #let project(body) = {
-  // 页面设置
   set page(
     paper: "a5",
     margin: (inside: 2.2cm, outside: 1.8cm, top: 2cm, bottom: 2cm),
@@ -100,21 +110,18 @@
     number-align: center,
   )
   
-  // 字体设置
   set text(
-    font: ("Noto Serif CJK SC", "Libertinus Serif"),
+    font: ("Noto Serif CJK SC",  "Libertinus Serif"),
     size: 10.5pt,
     lang: "zh",
   )
   
-  // 段落设置
   set par(
-    leading: 1.3em,  // 行间距（给 Ruby 留空间）
+    leading: 1.3em,
     justify: true,
     first-line-indent: 0em,
   )
   
-  // 脚注样式：复刻原书 (1) 格式
   set footnote(numbering: n => [(#n)])
   set footnote.entry(
     separator: line(length: 30%, stroke: 0.5pt),
@@ -122,7 +129,6 @@
     gap: 0.5em,
   )
   
-  // 标题样式
   set heading(numbering: none)
   show heading.where(level: 1): it => {
     pagebreak(weak: true)
@@ -132,9 +138,7 @@
   }
   
   show heading.where(level: 2): it => {
-    v(1em)
-    text(size: 12pt, weight: "bold")[#it.body]
-    v(0.5em)
+    // 隐藏的目录标题不显示
   }
   
   body
