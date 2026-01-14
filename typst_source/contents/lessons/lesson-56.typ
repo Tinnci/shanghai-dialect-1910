@@ -2,11 +2,107 @@
 
 #exercise(56, "论四马路", "LUNG S-MO-LOO")
 
-#r("Leh-la", "拉拉") #r("Zaung-he", "上海") #r("beh-siang", "勃相") #r("kuh", "个") #r("di-faung", "地方") #r("taung-tsoong.", "当中") #r("S-mo-loo", "四马路")#footnote[Reputation.] #r("ming-sang", "名声") #r("z", "是") #r("ting-doo.", "顶大。") #r("Di-diau", "第条") #r("loo", "路") #r("kuh", "个") #r("yang-suh", "样式") #r("hau-ziang", "好像") #r("Eu-loo-po", "欧罗巴")#footnote[Europe.] #r("dzung", "城里") #r("li", "个") #r("kuh", "路，") #r("loo,", "但是") #r("dan-z", "拢总") #r("loong-tsoong", "个") #r("kuh", "沿街") #r("yien-ka", "房子") #r("vaung-ts", "照")#footnote[Houses bordering on street.] #r("tsau", "中国") #r("Tsoong-kok", "个") #r("kuh", "样式") #r("yang-suh", "咾") #r("lau", "造") #r("zau", "拉个。") #r("la", "拉") #r("kuh.", "第条") 
-#r("Leh-la", "路") #r("di-diau", "上") #r("loo", "有") #r("laung", "多化") #r("yeu", "茶馆") #r("too-hau", "咾") #r("dzo-kwen", "饭店，") #r("lau", "也有") #r("van-tien,", "五") #r("'a", "六片") #r("yeu", "影戏场") #r("ng", "拉拉") #r("lok", "近边") #r("ban", "个") #r("iung-hyi", "地方") #r("dzang.", "也有")#footnote[Stereopticon show place.] 
-#r("Leh-la", "四") #r("jung", "五片") #r("pien-kuh", "戏馆。") #r("di-faung,", "另外") #r("'a", "还有") #r("yeu", "许多") #r("s", "算命") #r("ng", "先生") #r("ban", "咾") #r("hyi-kwen,", "讲") #r("ling-nga", "故事") #r("wan-yeu", "个") #r("hyui-too", "人") #r("soen-ming", "变戏法") #r("sien-sang", "个")#footnote[Fortune teller.] #r("lau", "人") #r("kaung", "咾") #r("koo-z-kuh", "小") #r("nyung,", "零碎个") #r("pien-hyi-fah-kuh", "勃相") #r("nyung", "物事。")#footnote[A juggler.] #r("lau", "因为") #r("siau", "第条") #r("ling-se-kuh", "路") #r("beh-siang", "是") #r("meh-z,", "蛮") #r("iung-we", "好") #r("di-diau", "勃相") #r("loo", "个") #r("z", "场化。") #r("man-hau", "每日") #r("beh-siang-kuh", "夜里") #r("dzang-hau.", "有") 
-#r("Me", "交关") #r("nyih", "人") #r("ya-li", "到") #r("yeu", "伊头") #r("kyau-kwan", "去") #r("nyung", "勃相") #r("tau", "咾") #r("i-deu", "散散心。") #r("chi", "四马路") #r("beh-siang", "勿但是") #r("lau", "蛮好") #r("san-san", "勃相") #r("sing.", "个")#footnote[To take recreation.] #r("S-mo-loo", "地方，") #r("'veh", "拉拉") #r("dan-z", "东面") #r("man-hau", "还有") #r("beh-siang-kuh", "多化") #r("di-faung,", "洋行") #r("leh-la", "咾") #r("toong", "大个") #r("mien", "行家，") #r("wan", "也有") #r("yeu", "老") #r("too-hau", "巡捕房，") #r("yang-'aung", "就是") #r("lau", "上海") #r("doo-kuh", "顶大") #r("'aung-ka,", "个") #r("'a", "巡捕房。") #r("yeu", "也有") #r("Lau-dzing-boo", "药房") #r("vaung,", "咾") #r("zieu-z", "牙医生。") #r("Zaung-he", "也有") #r("ting", "广东") #r("doo-kuh", "宵夜馆") #r("Dzing-boo", "咾") #r("vaung,", "炒麵店。") #r("'a", "拢总") #r("yeu", "个") #r("yak-vaung", "店")#footnote[Druggist chemist.] #r("lau", "咾") #r("nga-i-sung,", "消閒")#footnote[Dentist.] #r("'a", "个") #r("yeu", "地方") #r("Kwaung-toong", "是") #r("siau", "中国") #r("ya", "各处") #r("kwen,", "地方")#footnote[A pleasure house.] #r("lau", "个") #r("tshau-mien-tien.", "人")#footnote[A Chinese restaurant.] 
-#r("Loong-tsoong", "开") #r("kuh", "拉个。") #r("tien", "若然") #r("lau", "人") #r("siau-an", "走过") #r("kuh", "第条") #r("di-faung", "路")#footnote[A pleasure place.] #r("z", "可以") #r("Tsoong-kok", "听见") #r("kauh-tshu", "十八省") #r("di-faung", "个") #r("kuh", "人") #r("nyung", "大家") #r("khe", "白话。") #r("la", "我") #r("kuh.", "必过") 
-#r("Zak-zen", "大畧") #r("nyung", "讲") #r("tseu", "拨哪") #r("koo", "听。") #r("di-diau", "若然") #r("loo,", "哪") #r("khau-i", "要") #r("thing-kyien", "仔细") #r("zeh-pah-sang-kuh", "晓得") #r("nyung", "末") #r("da-ka", "应该") #r("bak-wo.", "自家") 
-#r("Ngoo", "去") #r("pih-koo", "看看") #r("da-liak", "咾") #r("kaung", "一定") #r("peh", "可以") #r("na", "看见") #r("thing.", "许多") 
-#r("Zak-zen", "稀奇") #r("na", "古怪") #r("iau", "个") #r("ts-si", "物事") #r("hyau-tuh", "咾") #r("meh,", "别样") #r("iung-ke", "有") #r("z-ka", "滋味") #r("chi", "个") #r("khoen-khoen", "事体。") #r("lau", " ") #r("ih", " ") #r("ding", " ") #r("khau-i", " ") #r("khoen-kyien", " ") #r("hyui-too", " ") #r("hyi-kyi", " ") #r("koo-kwa", " ")#footnote[Strange.] #r("kuh", " ") #r("meh-z", " ") #r("lau", " ") #r("bih-yang", " ") #r("yeu", " ") #r("ts-mi", " ")#footnote[Flavor.] #r("kuh", " ") #r("z-thi.", " ")
+#r("Leh-la", "拉拉") #r("Zaung-he", "上海") #r("beh-siang", "勃相") #r("kuh", "个") #r("di-faung", "地方") #r(
+  "taung-tsoong.",
+  "当中。",
+) #r("S-mo-loo", "四马路") #r("ming-sang", "名声")#footnote[Reputation.] #r("z", "是") #r("ting-doo.", "顶大。") #r(
+  "Di-diau",
+  "第条",
+) #r("loo", "路") #r("kuh", "个") #r("yang-suh", "样式") #r("hau-ziang", "好像") #r(
+  "Eu-loo-po",
+  "欧罗巴",
+)#footnote[Europe.] #r("dzung", "城") #r("li", "里") #r("kuh", "个") #r("loo,", "路，") #r("dan-z", "但是") #r(
+  "loong-tsoong",
+  "拢总",
+) #r("kuh", "个") #r("yien-ka", "沿街") #r("vaung-ts", "房子")#footnote[Houses bordering on street.] #r(
+  "tsau",
+  "照",
+) #r("Tsoong-kok", "中国") #r("kuh", "个") #r("yang-suh", "样式") #r("lau", "咾") #r("zau", "造") #r("la", "拉") #r(
+  "kuh.",
+  "个。",
+)
+
+#r("Leh-la", "拉拉") #r("di-diau", "第条") #r("loo", "路") #r("laung", "上") #r("yeu", "有") #r("too-hau", "多化") #r(
+  "dzo-kwen",
+  "茶馆",
+) #r("lau", "咾") #r("van-tien,", "饭店，") #r("'a", "也") #r("yeu", "有") #r("ng", "五") #r("lok", "六") #r(
+  "ban",
+  "爿",
+) #r("iung-hyi", "影戏场")#footnote[Stereopticon show place.] #r("dzang.", "场。") #r("Leh-la", "拉拉") #r(
+  "jung",
+  "近",
+) #r("pien-kuh", "边个") #r("di-faung,", "地方，") #r("'a", "也") #r("yeu", "有") #r("s", "四") #r("ng", "五") #r(
+  "ban",
+  "爿",
+) #r("hyi-kwen,", "戏馆。") #r("ling-nga", "另外") #r("wan-yeu", "还有") #r("hyui-too", "许多") #r(
+  "soen-ming",
+  "算命",
+) #r("sien-sang", "先生")#footnote[Fortune teller.] #r("lau", "咾") #r("kaung", "讲") #r("koo-z-kuh", "故事个") #r(
+  "nyung,",
+  "人，",
+) #r("pien-hyi-fah-kuh", "变戏法个")#footnote[A juggler.] #r("nyung", "人") #r("lau,", "咾") #r("siau", "小") #r(
+  "ling-se-kuh",
+  "零碎个",
+) #r("beh-siang", "勃相") #r("meh-z,", "物事。")
+
+#r("iung-we", "因为") #r("di-diau", "第条") #r("loo", "路") #r("z", "是") #r("man-hau", "蛮好") #r(
+  "beh-siang-kuh",
+  "勃相个",
+) #r("dzang-hau.", "场化。") #r("Me", "每") #r("nyih", "日") #r("ya-li", "夜里") #r("yeu", "有") #r(
+  "kyau-kwan",
+  "交关",
+) #r("nyung", "人") #r("tau", "到") #r("i-deu", "伊头") #r("chi", "去") #r("beh-siang", "勃相") #r("lau", "咾") #r(
+  "san-san",
+  "散散",
+) #r("sing.", "心。")#footnote[To take recreation.]
+
+#r("S-mo-loo", "四马路") #r("'veh", "勿") #r("dan-z", "但是") #r("man-hau", "蛮好") #r("beh-siang-kuh", "勃相个") #r(
+  "di-faung,",
+  "地方，",
+) #r("leh-la", "拉拉") #r("toong", "东") #r("mien", "面") #r("wan", "还有") #r("yeu", "多化") #r("too-hau", "多化") #r(
+  "yang-'aung",
+  "洋行",
+) #r("lau", "咾") #r("doo-kuh", "大个") #r("'aung-ka,", "行家，") #r("'a", "也") #r("yeu", "有") #r(
+  "Lau-dzing-boo",
+  "老巡捕房",
+) #r("vaung,", "房，") #r("zieu-z", "就是") #r("Zaung-he", "上海") #r("ting", "顶") #r("doo-kuh", "大") #r(
+  "Dzing-boo",
+  "个巡捕",
+) #r("vaung,", "房。") #r("'a", "也有") #r("yeu", "有") #r("yak-vaung", "药房")#footnote[Druggist chemist.] #r(
+  "lau",
+  "咾",
+) #r("nga-i-sung,", "牙医生。")#footnote[Dentist.] #r("'a", "也有") #r("yeu", "有") #r("Kwaung-toong", "广东") #r(
+  "siau",
+  "宵",
+) #r("ya", "夜") #r("kwen,", "馆")#footnote[A pleasure house.] #r("lau", "咾") #r(
+  "tshau-mien-tien.",
+  "炒面店。",
+)#footnote[A Chinese restaurant.]
+
+#r("Loong-tsoong", "拢总个") #r("kuh", "店") #r("tien", "咾") #r("lau", "消闲") #r("siau-an", "个") #r(
+  "kuh",
+  "地方",
+) #r("di-faung", "是") #r("z", "中国") #r("Tsoong-kok", "各处") #r("kauh-tshu", "地方") #r("di-faung", "个") #r(
+  "kuh",
+  "人",
+) #r("nyung", "开") #r("khe", "拉") #r("la", "个。")#footnote[A pleasure place.] #r("Zak-zen", "若然") #r(
+  "nyung",
+  "人",
+) #r("tseu", "走过") #r("koo", "过") #r("di-diau", "第条") #r("loo,", "路，") #r("khau-i", "可以") #r(
+  "thing-kyien",
+  "听见",
+) #r("zeh-pah-sang-kuh", "十八省个") #r("nyung", "人") #r("da-ka", "大家") #r("bak-wo.", "白话。") #r("Ngoo", "我") #r(
+  "pih-koo",
+  "必过",
+) #r("da-liak", "大略") #r("kaung", "讲") #r("peh", "拨") #r("na", "你") #r("thing.", "听。")
+
+#r("Zak-zen", "若然") #r("na", "你") #r("iau", "要") #r("ts-si", "仔细") #r("hyau-tuh", "晓得") #r("meh,", "末，") #r(
+  "iung-ke",
+  "应该",
+) #r("z-ka", "自家") #r("chi", "去") #r("khoen-khoen", "看看") #r("lau", "咾") #r("ih", "一") #r("ding", "定") #r(
+  "khau-i",
+  "可以",
+) #r("khoen-kyien", "看见") #r("hyui-too", "许多") #r("hyi-kyi", "稀奇") #r("koo-kwa", "古怪") #r("kuh", "个") #r(
+  "meh-z",
+  "物事",
+) #r("lau", "咾") #r("bih-yang", "别样") #r("yeu", "有个") #r("ts-mi", "滋味") #r("kuh", "个") #r("z-thi.", "事体。")

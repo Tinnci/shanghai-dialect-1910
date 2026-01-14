@@ -2,14 +2,135 @@
 
 #exercise(58, "论四季", "LUNG S KYI")
 
-#r("La", "拉") #r("s", "四季") #r("kyi", " ") #r("taung-tsoong", "当中") #r("tshung", "春天") #r("thien", " ") #r("z", "是") #r("ting", "顶好") #r("hau", " ") #r("kuh", "个") #r("thien-chi,", "天气") #r("we-ts", "因为") #r("nyung-nyung", "人人") #r("kuh", "个") #r("sung-thi", "身体") #r("ih-ding", "一定") #r("kauh-dzak", "觉着") #r("(3)", " ") #r("man-saung-kwha,", "蛮爽快")#footnote[Very well.] #r("hwo-tsau", "花草") #r("zu-mok", "树木") #r("'a", "也是") #r("z", " ") #r("tsang", "长大") #r("doo,", " ") #r("fah-tsheh", "发出") #r("sing-sien", "新鲜") #r("kuh", "个") #r("hyang-chi", "香气") #r("le,", "来") #r("nyung-nyung", "人人") #r("mung-dzak", "闻着") #r("ts", "之") #r("meh,", "末") #r("man", "蛮") #r("(4)", " ") #r("khe-sing.", "开心")#footnote[Happy, literally to open the heart.] 
+#r("La", "拉") #r("s", "四") #r("kyi", "季") #r("taung-tsoong", "当中") #r("tshung", "春") #r("thien", "天") #r(
+  "z",
+  "是",
+) #r("ting", "顶") #r("hau", "好") #r("kuh", "个") #r("thien-chi,", "天气") #r("we-ts", "为") #r(
+  "nyung-nyung",
+  "人人",
+)#footnote[Very well.] #r("kuh", "个") #r("sung-thi", "身体") #r("ih-ding", "一定") #r("kauh-dzak", "觉着") #r(
+  "man-saung-kwha,",
+  "蛮爽快",
+) #r("hwo-tsau", "花草") #r("zu-mok", "树木") #r("'a", "也") #r("z", "是") #r("tsang", "长") #r("doo,", "大") #r(
+  "fah-tsheh",
+  "发出",
+) #r("sing-sien", "新鲜") #r("kuh", "个") #r("hyang-chi", "香气") #r("le,", "来") #r("nyung-nyung", "人人") #r(
+  "mung-dzak",
+  "闻着",
+) #r("ts", "之") #r("meh,", "末") #r("man", "蛮") #r(
+  "khe-sing.",
+  "开心。",
+)#footnote[Happy, literally to open the heart.]
 
-#r("Zak-zen", "若然") #r("kyau", "叫") #r("ih", "一") #r("tsak", "只") #r("zen", "船") #r("tau", "到") #r("hyang-'au", "乡下") #r("chi", "去") #r("khoen-khoen", "看看") #r("tshung-thien", "春天") #r("kuh", "个") #r("kyung-ts,", "景致") #r("z-ting", "是顶") #r("kha-weh", "快活") #r("kuh", "个") #r("beh-siang,", "勃相") #r("iung-we", "因为") #r("me-nyien", "每年") #r("tshung-thien", "春天") #r("tau-ts", "到之") #r("meh,", "末") #r("la", "拉") #r("hyang-'au-deu", "乡下头") #r("yeu", "有") #r("too-hau", "多化") #r("tshing", "青个") #r("kuh", " ") #r("tshau", "草") #r("lau,", "咾") #r("'oong", "红个") #r("kuh", " ") #r("hwo.", "花。") #r("'Oong-'oong", "红红") #r("lok-lok", "绿绿") #r("zeh-zen", "实在") #r("z", "是") #r("(5)", " ") #r("thi-mien", "体面") #r("tuh", "得") #r("juh", "极") #r("kuh,", "个")#footnote[Fine looking.] #r("r-tshia", "而且") #r("thien-chi", "天气") #r("'a", "也是") #r("z", " ") #r("(6)", " ") #r("'oo-noen", "和暖")#footnote[Mild, warm.] #r("lau", "咾") #r("'veh", "勿") #r("lang", "冷") #r("'veh", "勿") #r("nyih,", "热") #r("soo-i", "所以") #r("z", "是") #r("yoong-yi", "容易") #r("s-tuh", "使得") #r("nyung-nyung", "人人") #r("kha-weh", "快活") #r("lau", "咾") #r("suh-i", "适意") #r("kuh,", "个") #r("iung-we", "因为") #r("zeh-ke", "实在") #r("lau,", "是") #r("yeu", "有") #r("too-hau", "许多") #r("nyung", "人") #r("pau-pe", "宝贝") #r("di-kuh", "第个") #r("tshung", "春季") #r("kyi", " ") #r("kuh", "个") #r("kwaung-iung,", "光阴") 
+#r("Zak-zen", "若然") #r("kyau", "叫") #r("ih", "一") #r("tsak", "只") #r("zen", "船") #r("tau", "到") #r(
+  "hyang-'au",
+  "乡下",
+) #r("chi", "去") #r("khoen-khoen", "看看") #r("tshung-thien", "春天") #r("kuh", "个") #r("kyung-ts,", "景致") #r(
+  "z-ting",
+  "是顶",
+) #r("kha-weh", "快活") #r("kuh", "个") #r("beh-siang,", "勃相") #r("iung-we", "因为") #r("me-nyien", "每年") #r(
+  "tshung-thien",
+  "春天",
+) #r("tau-ts", "到之") #r("meh,", "末") #r("la", "拉") #r("hyang-'au-deu", "乡下头") #r("yeu", "有") #r(
+  "too-hau",
+  "多化",
+) #r("tshing", "青") #r("kuh", "个") #r("tshau", "草") #r("lau,", "咾") #r("'oong", "红") #r("kuh", "个") #r(
+  "hwo.",
+  "花。",
+) #r("'oong-'oong", "红红") #r("lok-lok", "绿绿") #r("zeh-zen", "实在") #r("z", "是") #r(
+  "thi-mien",
+  "体面",
+)#footnote[Fine looking.] #r("tuh", "得") #r("juh", "极") #r("kuh,", "个") #r("r-tshia", "而且") #r(
+  "thien-chi",
+  "天气",
+) #r(" 'a", "也") #r("z", "是") #r("'oo-noen", "和暖")#footnote[Mild, warm.] #r("lau", "咾") #r("'veh", "勿") #r(
+  "lang",
+  "冷",
+) #r("'veh", "勿") #r("nyih,", "热") #r("soo-i", "所以") #r("z", "是") #r("yoong-yi", "容易") #r("s-tuh", "使得") #r(
+  "nyung-nyung",
+  "人人",
+) #r("kha-weh", "快活") #r("lau", "咾") #r("suh-i", "适意") #r("kuh,", "个") #r("iung-we", "因为") #r(
+  "zeh-ke",
+  "实盖",
+) #r("lau,", "咾") #r("yeu", "有") #r("too-hau", "多化") #r("nyung", "人") #r("pau-pe", "宝贝") #r("di-kuh", "第个") #r(
+  "tshung",
+  "春",
+) #r("kyi", "季") #r("kuh", "个") #r("kwaung-iung,", "光阴")
 
-#r("zak-zen", "若然") #r("nyung", "人") #r("hwen-hyi", "欢喜") #r("tau", "到") #r("hyang-'au-deu", "乡下头") #r("chi", "去") #r("(1)", " ") #r("tang-lih", "打猎") #r("meh,", "末")#footnote[To hunt.] #r("toong-thien", "冬天") #r("pi-ts", "比之") #r("tshung-thien", "春天") #r("z", "是") #r("kung-ka", "更加") #r("hau,", "好") #r("iung-we", "因为") #r("toong-thien", "冬天") #r("z", "是") #r("iung-ke", "应该") #r("tang-lih-kuh", "打猎个") #r("z-'eu.", "时候") #r("(2)", " ") #r("Fi-jung", "飞禽") #r("tseu-seu", "走兽")#footnote[Birds and animals.] #r("tau-ts", "到之") #r("toong-thien", "冬天") #r("meh,", "末") #r("zen", "全") #r("z", "是") #r("(3)", " ") #r("tsang-doo", "长大") #r("la", "拉") #r("tse.", "哉。")#footnote[Full grown.] 
+#r("zak-zen", "若然") #r("nyung", "人") #r("hwen-hyi", "欢喜") #r("tau", "到") #r("hyang-'au-deu", "乡下头") #r(
+  "chi",
+  "去",
+) #r("tang-lih", "打猎")#footnote[To hunt.] #r("meh,", "末") #r("toong-thien", "冬天") #r("pi-ts", "比之") #r(
+  "tshung-thien",
+  "春天",
+) #r("z", "是") #r("kung-ka", "更加") #r("hau,", "好") #r("iung-we", "因为") #r("toong-thien", "冬天") #r("z", "是") #r(
+  "iung-ke",
+  "应该",
+) #r("tang-lih-kuh", "打猎个") #r("z-'eu.", "时候") #r("Fi-jung", "飞禽") #r(
+  "tseu-seu",
+  "走兽",
+)#footnote[Birds and animals.] #r("tau-ts", "到之") #r("toong-thien", "冬天") #r("meh,", "末") #r("zen", "全") #r(
+  "z",
+  "是",
+) #r("tsang-doo", "长大") #r("la", "拉") #r("tse.", "哉。")#footnote[Full grown.]
 
-#r("Jeu-nyien", "旧年") #r("zeh-nyi", "十二月") #r("nyoeh", "里") #r("li", " ") #r("ngoo", "我") #r("zoo-ts", "坐之") #r("beh-siang", "勃相") #r("zen,", "船") #r("doong-ts", "同之") #r("liang", "两三") #r("san", "个") #r("kuh", " ") #r("ts-kyi", "知己") #r("bang-yeu,", "朋友") #r("ih-dau", "一淘") #r("tau", "到") #r("(4)", " ") #r("Kwhung-san", "崑山")#footnote[Quinsan.] #r("(5)", " ") #r("Tha-'oo", "太湖")#footnote[The great lake.] #r("lau", "咾") #r("(6)", " ") #r("Dzang-tseu", "常州")#footnote[Changchow.] #r("lau-sa", "咾啥") #r("kuh", "个") #r("di-faung", "地方") #r("chi", "去") #r("tang-lih.", "打猎。") #r("Ngoo-nyi", "我伲") #r("tang-dzak-ts", "打着之") #r("too-hau", "多化") #r("lok,", "鹿") #r("(7)", " ") #r("ts-hoen,", "猪獾")#footnote[Badger.] #r("thoo-ts", "兔子") #r("(8)", " ") #r("beh-koo,", "鵓鴣")#footnote[Turtle dove.] #r("ya-kyi,", "野鸡") #r("ya-ah", "野鸭") #r("lau-sa.", "咾啥") 
+#r("Jeu-nyien", "旧年") #r("zeh-nyi", "十二") #r("nyoeh", "月") #r("li", "里") #r("ngoo", "我") #r("zoo-ts", "坐之") #r(
+  "beh-siang",
+  "勃相",
+) #r("zen,", "船") #r("doong-ts", "同之") #r("liang", "两") #r("san", "三") #r("kuh", "个") #r("ts-kyi", "知己") #r(
+  "bang-yeu,",
+  "朋友",
+) #r("ih-dau", "一淘") #r("tau", "到") #r("Kwhung-san", "崑山")#footnote[Quinsan.] #r(
+  "Tha-'oo",
+  "太湖",
+)#footnote[The great lake.] #r("lau", "咾") #r("Dzang-tseu", "常州")#footnote[Changchow.] #r("lau-sa", "咾啥") #r(
+  "kuh",
+  "个",
+) #r("di-faung", "地方") #r("chi", "去") #r("tang-lih.", "打猎。") #r("Ngoo-nyi", "我伲") #r(
+  "tang-dzak-ts",
+  "打着之",
+) #r("too-hau", "多化") #r("lok,", "鹿") #r("ts-hoen,", "猪獾")#footnote[Badger.] #r("thoo-ts", "兔子") #r(
+  "beh-koo,",
+  "白鵓",
+)#footnote[Turtle dove.] #r("ya-kyi,", "野鸡") #r("ya-ah", "野鸭") #r("lau-sa.", "咾啥。") #r("Tung", "等") #r(
+  "tau",
+  "到",
+) #r("tang", "打") #r("hau-ts-lih", "好之猎") #r("lau,", "咾") #r("tan-tsen", "担转") #r("le", "来") #r(
+  "kau-de",
+  "交代",
+) #r("la", "拉") #r("da-s-voo", "大司务") #r("sau-hau-ts", "烧好之") #r("lau", "咾") #r("chuh,", "吃") #r(
+  "ts-mi",
+  "滋味",
+)#footnote[Flavor.] #r("z", "是") #r("man-sien", "蛮鲜") #r("kuh.", "个。")
 
-#r("Tung", "等到") #r("tau", " ") #r("tang", "打好") #r("hau-ts", "之") #r("lih", "猎") #r("lau,", "咾") #r("tan-tsen", "担转来") #r("le", "交代") #r("kau-de", "拉") #r("la", " ") #r("da-s-voo", "大司务") #r("sau-hau-ts", "烧好之") #r("lau", "咾") #r("chuh,", "吃") #r("(9)", " ") #r("ts-mi", "滋味") #r("z", "是") #r("man-sien", "蛮鲜") #r("kuh.", "个。")#footnote[Flavor.] #r("Ngoo-nyi", "我伲") #r("kyui-le-kuh", "归来个") #r("z-'eu", "时候") #r("'a", "也") #r("tseu", "走过") #r("koo", " ") #r("too-hau", "多化") #r("(10)", " ") #r("tshing-s-'oo,", "清水河")#footnote[Stream of clear water.] #r("khoen-kyien", "看见") #r("too-hau", "多化") #r("ng", "鱼") #r("la", "拉") #r("s", "水里") #r("li", " ") #r("yeu-le", "游来") #r("yeu-chi,", "游去") #r("dan-z", "但是") #r("nyi", "伲") #r("m-meh", "无没") #r("(11)", " ") #r("maung,", "网")#footnote[Net.] #r("soo-i", "所以") #r("tsauh", "捉") #r("yi-la", "伊拉") #r("'veh-dzak.", "勿着。") 
-
-#r("(12)", " ") #r("Tsoong-r", "总而言之") #r("yien-ts,", " ")#footnote[In short.] #r("zoo-ts", "坐之") #r("beh-siang", "勃相") #r("zen", "船") #r("lau", "咾") #r("tau", "到") #r("hyang-'au", "乡下") #r("chi", "去") #r("tang-lih,", "打猎") #r("z", "是") #r("ting-hau", "顶好") #r("beh-siang", "勃相") #r("kuh.", "个。") #r("Ih-sang", "一生一世") #r("ih-s", " ") #r("z", "是") #r("nan-pan", "难班") #r("bang-tuh-dzak,", "碰得着") #r("di-kuh", "第个") #r("hau", "好") #r("kyi-we.", "机会。") #r("Zak-zen", "若然") #r("na", "哪") #r("'veh", "勿") #r("siang-sing", "相信") #r("meh,", "末") #r("tshing", "请") #r("na", "哪") #r("z-ka", "自家") #r("chi", "去") #r("s-s", "试试") #r("khoen,", "看") #r("nan-meh", "难末") #r("hyau-tuh", "晓得") #r("ngoo", "我") #r("kuh", "个") #r("seh-wo", "说话") #r("z", "是") #r("tsung-kuh", "真个") #r("yan.", "也。")
+#r("Ngoo-nyi", "我伲") #r("kyui-le-kuh", "归来个") #r("z-'eu", "时候") #r("'a", "也") #r("tseu", "走") #r(
+  "koo",
+  "过",
+) #r("too-hau", "多化") #r("tshing-s-'oo,", "清水河")#footnote[Stream of clear water.] #r("khoen-kyien", "看见") #r(
+  "too-hau",
+  "多化",
+) #r("ng", "鱼") #r("la", "拉") #r("s", "水") #r("li", "里") #r("yeu-le", "游来") #r("yeu-chi,", "游去") #r(
+  "dan-z",
+  "但是",
+) #r("nyi", "我伲") #r("m-meh", "无没") #r("maung,", "网")#footnote[Net.] #r("soo-i", "所以") #r("tsauh", "捉") #r(
+  "yi-la",
+  "伊拉",
+) #r("'veh-dzak,", "勿着") #r("Tsoong-r", "总而") #r("yien-ts,", "言之")#footnote[In short.] #r("zoo-ts", "坐之") #r(
+  "beh-siang",
+  "勃厢",
+) #r("zen", "船") #r("lau", "咾") #r("tau", "到") #r("hyang-'au", "乡下") #r("chi", "去") #r("tang-lih,", "打猎") #r(
+  "z",
+  "是",
+) #r("ting-hau", "顶好") #r("beh-siang", "勃相") #r("kuh.", "个。") #r("Ih-sang", "一生") #r("ih-s", "一世") #r(
+  "z",
+  "是",
+) #r("nan-pan", "难班") #r("bang-tuh-dzak,", "碰得着") #r("di-kuh", "第个") #r("hau", "好") #r("kyi-we.", "机会。") #r(
+  "Zak-zen",
+  "若然",
+) #r("na", "你") #r("'veh", "勿") #r("siang-sing", "相信") #r("meh,", "末") #r("tshing", "请") #r("na", "自己") #r(
+  "z-ka",
+  "去",
+) #r("chi", "试试") #r("s-s", "看") #r("khoen,", " ") #r("nan-meh", "难末") #r("hyau-tuh", "晓得") #r("ngoo", "我") #r(
+  "kuh",
+  "个",
+) #r("seh-wo", "说话") #r("z", "是") #r("tsung-kuh", "真个") #r("yan.", "也。")

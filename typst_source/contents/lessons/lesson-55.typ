@@ -2,18 +2,140 @@
 
 #exercise(55, "论招开车子个人", "LUNG TSAU KHE TSHO-TS-KUH NYUNG")
 
-#r("Zien-kuh", "前个") #r("nyoeh", "月") #r("(2)", " ") #r("dien-chi", "电气") #r("koong-s-kuh", "公司个")#footnote[Electric company.] #r("da-pan", "大班") #r("tsha", "差") #r("ih", "一") #r("kuh", "个") #r("(3)", " ") #r("foo", "副") #r("ma-ban", "买办")#footnote[Assistant.] #r("tah-ts", "搭之") #r("(4)", " ") #r("tsang-vaung,", "账房")#footnote[Shroff compradore.] #r("tau", "到") #r("(5)", " ") #r("Tsung-kaung", "镇江")#footnote[Chinkiang.] #r("chi,", "去") #r("tsau", "招") #r("i-deu-kuh", "伊头个") #r("nyung", "人") #r("tau", "到") #r("Zaung-he", "上海") #r("le", "来") #r("'auh", "学") #r("(6)", " ") #r("khe", "开") #r("tsho-ts.", "车子。") #footnote[To run the trams.] 
+#r("Zien-kuh", "前个") #r("nyoeh", "月") #r("dien-chi", "电气") #r("koong-s-kuh", "公司个") #r("da-pan", "大班") #r(
+  "tsha",
+  "差",
+) #r("ih", "一") #r("kuh", "个") #r("foo", "副") #r("ma-ban", "买办") #r("tah-ts", "搭之") #r(
+  "tsang-vaung,",
+  "账房",
+) #r("tau", "到") #r("Tsung-kaung", "镇江")#footnote[Chinkiang.] #r("chi,", "去") #r(
+  "tsau",
+  "招",
+)#footnote[Engage, enlist motor men.] #r("i-deu-kuh", "伊头个") #r("nyung", "人") #r("tau", "到") #r(
+  "Zaung-he",
+  "上海",
+) #r("le", "来") #r("'auh", "学") #r("khe", "开") #r("tsho-ts.", "车子。") #r("Yien-dze", "现在") #r(
+  "thing-tuh",
+  "听得",
+) #r("wo,", "话") #r("di-kuh", "第个") #r("too-hau", "多化") #r("nyung,", "人") #r("tau", "到") #r(
+  "Zaung-he",
+  "上海",
+) #r("le", "来") #r("iak", "大约")#footnote[About.] #r("yeu", "有") #r("nyan-san", "念三") #r("kuh", "个") #r(
+  "nyung,",
+  "人",
+) #r("dan-z", "但是") #r("zien-z", "全是") #r("hyang-'au", "乡下") #r("nyung,", "人") #r("yeu", "有") #r(
+  "kuh",
+  "个",
+) #r("dzoong-zien", "从前") #r("z", "是") #r("扫", "扫") #r("la-si", "垃圾") #r("kuh,", "个") #r("yeu", "有") #r(
+  "kuh",
+  "个",
+) #r("meh", "末") #r("taung", "当") #r("kyung-tshah-jok", "警察局")#footnote[Chinese guard police.] #r(
+  "dzing-boo",
+  "巡捕",
+) #r("kuh.", "个。")
 
-#r("Yien-dze", "现在") #r("thing-tuh", "听得") #r("wo,", "话") #r("di-kuh", "第个") #r("too-hau", "多化") #r("nyung,", "人，") #r("tau", "到") #r("Zaung-he", "上海") #r("le", "来") #r("(7)", " ") #r("da-iak", "大约") #r("yeu", "有") #r("nyan-san", "念三") #r("kuh", "个") #r("nyung,", "人，") #r("dan-z", "但是") #r("zien-z", "全是") #r("hyang-'au", "乡下") #r("nyung,", "人，") #r("yeu", "有") #r("kuh", "个") #r("dzoong-zien", "从前") #r("z", "是") #r("sau", "扫") #r("la-si", "垃圾") #r("kuh,", "个，") #r("yeu", "有") #r("kuh", "个") #r("meh", "末") #r("(8)", " ") #r("taung", "当") #r("kyung-tshah-jok", "警察局") #r("dzing-boo", "巡捕") #r("kuh.", "个。") #footnote[Chinese guard police.] 
+#r("Iung-we", "因为") #r("i-deu", "伊头") #r("kuh", "个") #r("koong-dien", "工钱") #r("z", "是") #r(
+  "sau-kuh,",
+  "少个",
+) #r("me", "每") #r("nyung", "人") #r("tsuh", "只") #r("tuh", "得") #r("ng", "五") #r("tshien", "千") #r(
+  "doong-dien",
+  "铜钱",
+) #r("ih-kuh", "一个") #r("nyoeh", "月") #r("soo-i", "所以") #r("ih", "一") #r("thing-tuh", "听得") #r(
+  "Zaung-he",
+  "上海",
+) #r("peh", "外") #r("yi", "拨") #r("pah-kwhe", "八块") #r("yang-dien", "洋钱") #r("ih-kuh", "一个") #r(
+  "nyoeh",
+  "月",
+) #r("'a", "也") #r("peh", "拨") #r("yi", "伊") #r("vaung-ts", "房子") #r("dzu,", "住") #r("'a", "也") #r(
+  "peh",
+  "拨",
+) #r("van", "饭") #r("la", "拉") #r("yi", "伊") #r("chuh,", "吃") #r("'a", "也") #r("peh", "拨") #r(
+  "i-zaung",
+  "衣裳",
+) #r("la", "拉") #r("yi", "伊") #r("tsak,", "着") #r("keh-lau", "盖咾") #r("da-ka", "大家") #r("man", "蛮") #r(
+  "kau-hyung",
+  "高兴",
+) #r("le.", "来。")
 
-#r("Iung-we", "因为") #r("i-deu", "伊头") #r("kuh", "个") #r("koong-dien", "工钱") #r("z", "是") #r("sau-kuh,", "少个，") #r("me", "每") #r("nyung", "人") #r("tsuh", "只") #r("tuh", "得") #r("ng", "五") #r("tshien", "千") #r("doong-dien", "铜钱") #r("ih-kuh", "一个") #r("nyoeh,", "月，") #r("soo-i", "所以") #r("ih", "一") #r("thing-tuh", "听得") #r("Zaung-he", "上海") #r("peh", "拨") #r("yi", "伊") #r("pah-kwhe", "八块") #r("yang-dien", "洋钱") #r("ih-kuh", "一个") #r("nyoeh,", "月，") #r("'a", "也") #r("peh", "拨") #r("yi", "伊") #r("vaung-ts", "房子") #r("dzu,", "住，") #r("'a", "也") #r("peh", "拨") #r("van", "饭") #r("la", "拉") #r("yi", "伊") #r("chuh,", "吃，") #r("'a", "也") #r("peh", "拨") #r("i-zaung", "衣裳") #r("la", "拉") #r("yi", "伊") #r("tsak,", "着，") #r("keh-lau", "盖咾") #r("da-ka", "大家") #r("(9)", " ") #r("man", "蛮") #r("kau-hyung", "高兴") #r("le.", "来。") 
+#r("Yien-dze", "现在") #r("thing-tuh", "听得") #r("wo,", "话") #r("me", "每") #r("nyoeh", "月") #r("iau", "要") #r(
+  "dzung",
+  "存",
+) #r("s-kwhe", "四块") #r("yang-dien", "洋钱") #r("la", "拉") #r("nyung-'aung", "银行")#footnote[A bank deposit.] #r(
+  "li,",
+  "里",
+) #r("zak-zen", "若然") #r("'eu-seu", "后首") #r("dau-tseu,", "逃走") #r("'ok-tse", "或者") #r("yeu", "有") #r(
+  "sa",
+  "啥",
+) #r("tsho-tshu", "差处") #r("meh,", "末") #r("di-kuh", "第个") #r("dzung-'aung", "存项") #r("iau", "要") #r(
+  "tshoong-koong",
+  "充公",
+) #r("kuh.", "个。")
 
-#r("Yien-dze", "现在") #r("thing-tuh", "听得") #r("wo,", "话") #r("me", "每") #r("nyoeh", "月") #r("iau", "要") #r("dzung", "存") #r("s-kwhe", "四块") #r("yang-dien", "洋钱") #r("la", "拉") #r("nyung-'aung", "银行") #r("li,", "里，") #r("zak-zen", "若然") #r("'eu-seu", "后首") #r("dau-tseu,", "逃走") #r("'ok-tse", "或者") #r("yeu", "有") #r("sa", "啥") #r("tsho-tshu", "差错") #r("meh,", "末") #r("di-kuh", "第个") #r("(1)", " ") #r("dzung-aung", "存款项") #footnote[A bank deposit.] #r("iau", "要") #r("tshoong-koong", "充公") #r("kuh.", "个。") 
+#r("Yien-dze", "现在") #r("'a", "也") #r("thing-tuh", "听得") #r("wo,", "话") #r("sien", "先") #r("iau", "要") #r(
+  "'auh",
+  "学",
+) #r("ih-kuh", "一个") #r("nyoeh,", "月") #r("zak-zen", "若然") #r("'auh", "学") #r("tuh-le,", "得来") #r(
+  "nan-meh",
+  "难末",
+) #r("soen", "算") #r("koong-dien,", "工钱") #r("dan-z", "但是") #r("yien-dze", "现在") #r("le", "来") #r(
+  "kuh",
+  "个",
+) #r("nyan-san", "念三") #r("kuh", "个") #r("nyung", "人") #r("nen-tsoong", "内中") #r("yeu", "有") #r(
+  "ih-pen",
+  "一半",
+) #r("i-kyung", "已经") #r("dau-tseu", "逃走") #r("lau", "咾") #r("'veh", "勿") #r(
+  "dzing-nyoen",
+  "情愿",
+)#footnote[Very willing.] #r("tsoo", "做") #r("di-kuh", "第个") #r("sang-weh,", "生活") #r("hwaung-tshien", "况且") #r(
+  "lau-ti-ts-kuh",
+  "老底子个",
+)#footnote[The old motor men.] #r("too-hau-ke-tsho-ts", "多化开车子") #r("kuh", "个") #r("nyung", "人") #r(
+  "dzang-tsaung",
+  "常莊",
+) #r("tshing", "请") #r("ka.", "假。")#footnote[Ask for leave.]
 
-#r("Yien-dze", "现在") #r("'a", "也") #r("thing-tuh", "听得") #r("wo,", "话") #r("sien", "先") #r("iau", "要") #r("'auh", "学") #r("ih-kuh", "一个") #r("nyoeh,", "月，") #r("zak-zen", "若然") #r("'auh", "学") #r("tuh-le,", "得来") #r("nan-meh", "难末") #r("soen", "算") #r("koong-dien,", "工钱，") #r("dan-z", "但是") #r("yien-dze", "现在") #r("le", "来") #r("kuh", "个") #r("nyan-san", "念三") #r("kuh", "个") #r("nyung", "人") #r("nen-tsoong", "内中") #r("yeu", "有") #r("ih-pen", "一半") #r("i-kyung", "已经") #r("dau-tseu", "逃走") #r("lau", "咾") #r("'veh", "勿") #r("dzing-nyoen", "情愿") #r("tsoo", "做") #r("di-kuh", "第个") #r("sang-weh,", "生活，") #r("hwaung-tshien", "况且") #r("(2)", " ") #r("lau-ti-ts-kuh", "老底子个") #r("too-hau-ke-tsho-ts", "开车子个") #footnote[The old motor men.] #r("kuh", " ") #r("nyung", "人") #r("dzang-tsaung", "常庄") #r("(3)", " ") #r("tshing", "请") #r("ka.", "假。") #footnote[Ask for leave.] 
+#r("Soo-i", "所以") #r("jung-le", "近来") #r("yeu", "有") #r("too-hau", "多化") #r("ma", "买") #r(
+  "phiau-ts-kuh",
+  "票子个",
+)#footnote[Man who sells tickets.] #r("nyung", "人") #r("leh-la", "拉拉") #r("tsoo", "做") #r("di-kuh", "第个") #r(
+  "sang-weh.",
+  "生活。",
+) #r("Yi", "又") #r("thing-tuh", "听得") #r("wo,", "话") #r("iung-we", "因为") #r("koong-s-li", "公司里") #r(
+  "thuh-hyoong,",
+  "忒兇",
+)#footnote[Too severe.] #r("me", "每") #r("nyoeh", "月") #r("koong-dien", "工钱") #r("'veh", "勿") #r("doo,", "大") #r(
+  "yeu",
+  "有",
+) #r("ih", "一") #r("ngan", "颜") #r("tsoo", "做") #r("tsho", "差") #r("meh,", "末") #r("zieu", "就要") #r(
+  "iau",
+  "罚",
+) #r("vah", "个") #r("kuh,", "况且") #r("hwaung-tshien", "做") #r("tsoo", "生活") #r("sang-weh", "个") #r(
+  "kuh",
+  "辰光",
+) #r("zung-kwaung,", "也") #r("'a", "忒") #r("thuh", "长") #r("dzang", "远") #r("yoen.", "。")
 
-#r("Soo-i", "所以") #r("jung-le", "近来") #r("yeu", "有") #r("too-hau", "多化") #r("(4)", " ") #r("ma", "买") #r("phiau-ts-kuh", "票子个") #footnote[Man who sells tickets.] #r("nyung", "人") #r("leh-la", "拉拉") #r("tsoo", "做") #r("di-kuh", "第个") #r("sang-weh.", "生活。") 
-#r("Yi", "又") #r("thing-tuh", "听得") #r("wo,", "话") #r("iung-we", "因为") #r("koong-s-li", "公司里") #r("(5)", " ") #r("thuh-hyoong,", "忒凶，") #footnote[Too severe.] #r("me", "每") #r("nyoeh", "月") #r("koong-dien", "工钱") #r("'veh", "勿") #r("doo,", "大") #r("yeu", "有") #r("ih", "一") #r("ngan", "颜") #r("tsoo", "做") #r("tsho", "差") #r("meh,", "末") #r("zieu", "就") #r("iau", "要") #r("vah", "罚") #r("kuh,", "个，") #r("hwaung-tshien", "况且") #r("tsoo", "做") #r("sang-weh", "生活") #r("kuh", "个") #r("zung-kwaung,", "辰光") #r("'a", "也") #r("thuh", "忒") #r("dzang", "长") #r("yoen.", "远。") 
-
-#r("Soo-i", "所以") #r("yeu", "有") #r("kyau-kwan", "交关") #r("nyung", "人") #r("'veh", "勿") #r("kau-hyung", "高兴") #r("tsoo", "做") #r("di", "第") #r("kuh", "个") #r("sang-i", "生意") #r("tse.", "哉。") 
-#r("Tsau", "照") #r("ngoo", "我") #r("siang-chi-le,", "想起来") #r("(6)", " ") #r("dien-tsho", "电气") #r("koong-s", "公司") #footnote[Tram company.] #r("iung-ke", "应该") #r("hau-hau", "好好") #r("nung", "能") #r("de", "待") #r("khe", "开") #r("tsho-ts", "车子") #r("kuh", "个") #r("nyung,", "人，") #r("kyi-zen", "既然") #r("yeu", "有") #r("vah", "罚") #r("meh,", "末") #r("iung-ke", "应该") #r("yeu", "有") #r("(7)", " ") #r("saung,", "赏，") #footnote[Present, reward.] #r("zeh-ke", "实在") #r("tsoo", "做") #r("meh,", "末") #r("nyung", "人") #r("khung", "肯") #r("tau", "到") #r("koong-s", "公司") #r("li", "里") #r("le", "来") #r("tsoo", "做") #r("z-thi", "事体") #r("tse.", "哉。") #r("'Veh-zen", "否则") #r("meh,", "末") #r("nyung", "人") #r("tsoong", "终") #r("'veh", "勿") #r("khung", "肯") #r("le", "来") #r("kuh.", "个。")
+#r("Soo-i", "所以") #r("yeu", "有") #r("kyau-kwan", "交关") #r("nyung", "人") #r("'veh", "勿") #r(
+  "kau-hyung",
+  "高兴",
+) #r("tsoo", "做") #r("di", "第") #r("kuh", "个") #r("sang-i", "生意") #r("tse.", "哉。") #r("Tsau", "照") #r(
+  "ngoo",
+  "我",
+) #r("siang-chi-le,", "想起来") #r("dien-chi", "电车") #r("koong-s", "公司")#footnote[Tram company.] #r(
+  "iung-ke",
+  "应该",
+) #r("hau-hau", "好好") #r("nung", "能") #r("de", "待") #r("khe", "开") #r("tsho-ts", "车子") #r("kuh", "个") #r(
+  "nyung,",
+  "人",
+) #r("kyi-zen", "既然") #r("yeu", "有") #r("vah", "罚") #r("meh,", "末") #r("iung-ke", "应该") #r("yeu", "有") #r(
+  "saung,",
+  "赏",
+)#footnote[Present, reward.] #r("zeh-ke", "实盖") #r("tsoo", "做") #r("meh,", "末") #r("nyung", "人") #r(
+  "khung",
+  "肯",
+) #r("tau", "到") #r("koong-s", "公司") #r("li", "里") #r("le", "来") #r("tsoo", "做") #r("z-thi", "事体") #r(
+  "tse.",
+  "哉。",
+) #r("'Veh-zen", "勿然") #r("meh,", "末") #r("nyung", "人") #r("tsoong", "终") #r("'veh", "勿") #r("khung", "肯") #r(
+  "le",
+  "来",
+) #r("kuh.", "个。")
