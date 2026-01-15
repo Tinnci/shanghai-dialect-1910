@@ -23,23 +23,39 @@ This skill allows the agent to perform deep quality analysis on the Shanghai dia
    - Scores files based on a weighted anomaly count.
    - Categorizes files into Critical, High, Medium, and Low priority for manual proofreading.
 
+4. **Auto-Fix (`fix`)**:
+   - Automatically repairs Ruby pairs with mismatched character/syllable counts.
+   - Uses a pronunciation database built from the entire corpus.
+   - Supports dry-run, interactive, and auto modes.
+
 ## Usage
 
 The agent should invoke the `xtask.py` runner to perform these tasks.
 
 ```bash
-# General full analysis
+# Analysis
 uv run python xtask.py analyze all
-
-# Specific analysis types
-uv run python xtask.py analyze phonetic
 uv run python xtask.py analyze displacement
-uv run python xtask.py analyze priority
+
+# Fixing (dry-run first!)
+uv run python xtask.py fix lesson-26 --dry-run
+uv run python xtask.py fix lesson-26 --interactive
+uv run python xtask.py fix --all --auto --no-backup
 ```
 
-## Strategy for Analysis
+## Fix Command Options
 
-1. **Analyze All First**: Always run `analyze all` to get a holistic view of the project's health.
-2. **Heal Shifts First**: Check the `displacement` report. Systemic shifts (Alignment) often cause hundreds of false-positive phonetic errors. Fixing a single missing character can often "clean" an entire file.
-3. **Targeted Proofreading**: Use the `priority` report to decide which `.typ` files to open first.
-4. **Contextual Fixing**: Use the `diagnostics` provided in the output to jump to the specific character in the source file.
+| Option | Description |
+|--------|-------------|
+| `--dry-run` | Preview fixes without modifying files |
+| `-i, --interactive` | Confirm each fix with y/n/s/q |
+| `--auto` | Apply all high-confidence fixes automatically |
+| `--no-backup` | Skip creating `.bak` backup files |
+
+## Strategy for Analysis & Repair
+
+1. **Analyze All First**: Run `analyze displacement` to identify files with alignment issues.
+2. **Dry-Run Fix**: Use `fix <file> --dry-run` to preview what would be changed.
+3. **Interactive Fix**: Use `fix <file> -i` to carefully review and apply fixes.
+4. **Verify**: Re-run `analyze displacement` to confirm the file is now clean.
+

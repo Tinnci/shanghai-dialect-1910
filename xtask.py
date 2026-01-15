@@ -11,6 +11,7 @@ from src.analyzers.displacement import analyze_displacement
 from src.analyzers.stats import generate_priority_list
 from src.tasks.pdf_extract import run_extraction
 from src.tasks.jxl_convert import run_conversion
+from src.fixer import run_fixer
 
 def main():
     parser = argparse.ArgumentParser(description="Shanghai Dialect Project XTask Runner")
@@ -20,12 +21,20 @@ def main():
     parser_analyze = subparsers.add_parser("analyze", help="Run quality analysis tools")
     parser_analyze.add_argument("type", choices=['phonetic', 'displacement', 'priority', 'all'], help="Analysis type")
     
+    # Fix Commands
+    parser_fix = subparsers.add_parser("fix", help="Auto-fix Ruby pair issues")
+    parser_fix.add_argument("target", nargs='?', default="--all", help="Target file (e.g., lesson-26) or --all")
+    parser_fix.add_argument("--dry-run", action="store_true", help="Show fixes without applying")
+    parser_fix.add_argument("--interactive", "-i", action="store_true", help="Confirm each fix")
+    parser_fix.add_argument("--auto", action="store_true", help="Apply all fixes without confirmation")
+    parser_fix.add_argument("--no-backup", action="store_true", help="Don't backup files before fixing")
+    
     # Task Commands
     subparsers.add_parser("extract", help="Extract images and pages from source PDF")
     subparsers.add_parser("convert", help="Convert extracted images to JPEG XL")
     
     # Global args
-    parser.add_argument('--dir', type=str, default="./typst_source/contents/lessons", help="Path to lessons directory (for analysis)")
+    parser.add_argument('--dir', type=str, default="./typst_source/contents/lessons", help="Path to lessons directory")
     parser.add_argument('--root', type=str, default=".", help="Project root directory")
     
     args = parser.parse_args()
@@ -43,6 +52,16 @@ def main():
         
     elif args.command == "convert":
         run_conversion(project_root)
+        
+    elif args.command == "fix":
+        run_fixer(
+            lessons_dir=lessons_dir,
+            target=args.target,
+            dry_run=args.dry_run,
+            interactive=args.interactive,
+            auto=args.auto,
+            backup=not args.no_backup
+        )
         
     elif args.command == "analyze":
         print(f"Loading lessons from: {lessons_dir}")
