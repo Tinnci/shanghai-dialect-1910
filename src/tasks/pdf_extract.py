@@ -1,18 +1,3 @@
-#!/usr/bin/env python3
-"""
-Shanghai Dialect Digitizer - PDF Image Extractor
-=================================================
-
-This script extracts all images from the PDF book
-"Shanghai Dialect Exercises in Romanized and Character with Key to Pronunciation and English Index"
-
-Uses an improved Johnny Decimal Index system for organization:
-- 10-19: Preliminary (Cover, Title, Contents)
-- 20-29: Pronunciation Guide & Keys
-- 30-39: Lessons / Exercises (Main Content)
-- 40-49: Appendices & Index
-- 90-99: Metadata & Full Page Renders
-"""
 
 import fitz  # PyMuPDF
 from pathlib import Path
@@ -21,10 +6,9 @@ import io
 import json
 from datetime import datetime
 
-
 # Configuration
-PDF_PATH = Path("Shanghai Dialect Exercises in Romanized and Character with Key to Pronunciation and English Index.pdf")
-OUTPUT_BASE = Path("digitized")
+PDF_FILENAME = "Shanghai Dialect Exercises in Romanized and Character with Key to Pronunciation and English Index.pdf"
+OUTPUT_BASE_NAME = "digitized"
 
 # Johnny Decimal Category Definitions
 JOHNNY_DECIMAL_STRUCTURE = {
@@ -62,7 +46,6 @@ JOHNNY_DECIMAL_STRUCTURE = {
     }
 }
 
-
 def create_directory_structure(base_path: Path) -> dict:
     """Create the Johnny Decimal directory structure."""
     created_dirs = {}
@@ -78,7 +61,6 @@ def create_directory_structure(base_path: Path) -> dict:
             created_dirs[f"{category}/{code}"] = str(subdir_path)
     
     return created_dirs
-
 
 def extract_embedded_images(pdf_doc, output_dir: Path, log: list) -> int:
     """Extract all embedded images from the PDF."""
@@ -140,7 +122,6 @@ def extract_embedded_images(pdf_doc, output_dir: Path, log: list) -> int:
     
     return image_count
 
-
 def render_full_pages(pdf_doc, output_dir: Path, log: list, dpi: int = 150) -> int:
     """Render all pages as high-quality images."""
     pages_dir = output_dir / "90-99_metadata" / "91_full-page-renders"
@@ -178,7 +159,6 @@ def render_full_pages(pdf_doc, output_dir: Path, log: list, dpi: int = 150) -> i
     
     return total_pages
 
-
 def categorize_pages_by_content(pdf_doc, output_dir: Path, log: list):
     """
     Analyze PDF structure and create symbolic links or copies
@@ -187,8 +167,6 @@ def categorize_pages_by_content(pdf_doc, output_dir: Path, log: list):
     print("\n📚 Analyzing PDF structure for categorization...")
     
     total_pages = len(pdf_doc)
-    
-    # Create a manifest for page categorization
     categories = {
         "preliminary": [],
         "pronunciation": [],
@@ -196,7 +174,6 @@ def categorize_pages_by_content(pdf_doc, output_dir: Path, log: list):
         "appendices": [],
     }
     
-    # Analyze table of contents if available
     toc = pdf_doc.get_toc()
     
     if toc:
@@ -216,17 +193,10 @@ def categorize_pages_by_content(pdf_doc, output_dir: Path, log: list):
         })
     else:
         print("  No embedded table of contents found - using page-based heuristics")
-        
-        # Heuristic categorization based on typical book structure
-        # First few pages: preliminary
         preliminary_end = min(10, total_pages)
         categories["preliminary"] = list(range(1, preliminary_end + 1))
-        
-        # Last portion: appendices/index
         appendix_start = max(total_pages - 30, preliminary_end + 1)
         categories["appendices"] = list(range(appendix_start, total_pages + 1))
-        
-        # Middle section: lessons
         categories["lessons"] = list(range(preliminary_end + 1, appendix_start))
         
         log.append({
@@ -237,7 +207,6 @@ def categorize_pages_by_content(pdf_doc, output_dir: Path, log: list):
         })
     
     return categories
-
 
 def create_readme(output_dir: Path, pdf_info: dict, stats: dict):
     """Create a README file documenting the extraction."""
@@ -262,36 +231,10 @@ This archive uses an improved Johnny Decimal indexing system:
 
 ```
 10-19_preliminary/        # Cover, title pages, preface, contents
-├── 11_cover/
-├── 12_title-pages/
-├── 13_preface/
-├── 14_table-of-contents/
-└── 15_introduction/
-
 20-29_pronunciation-guide/  # Pronunciation keys and phonetic guides
-├── 21_key-to-pronunciation/
-├── 22_tone-charts/
-├── 23_romanization-system/
-└── 24_phonetic-tables/
-
 30-39_lessons/            # Main lesson content
-├── 31_lesson-01-10/
-├── 32_lesson-11-20/
-├── 33_lesson-21-30/
-├── 34_lesson-31-40/
-├── 35_lesson-41-50/
-└── 36_additional-exercises/
-
 40-49_appendices/         # Indices and supplementary materials
-├── 41_english-index/
-├── 42_character-index/
-├── 43_vocabulary-lists/
-└── 44_supplementary-materials/
-
 90-99_metadata/           # Full renders and extraction data
-├── 91_full-page-renders/   # All pages as high-res PNG
-├── 92_embedded-images/     # Extracted embedded images
-└── 93_extraction-log/      # JSON logs of extraction process
 ```
 
 ## 🔍 How to Use
@@ -300,84 +243,54 @@ This archive uses an improved Johnny Decimal indexing system:
 2. **Embedded Images**: Check `90-99_metadata/92_embedded-images/` for any embedded graphics
 3. **Extraction Log**: See `90-99_metadata/93_extraction-log/` for detailed extraction metadata
 
-## ⚠️ Notes
-
-- All page renders are at {stats.get('render_dpi', 150)} DPI for high-quality viewing
-- Image filenames follow the pattern: `page_XXXX.png` (4-digit zero-padded page numbers)
-- This is a digital preservation copy for study and reference purposes
-
 ---
 *Generated by Shanghai Dialect Digitizer on {stats.get('extraction_date', 'Unknown')}*
 """
-    
     readme_path = output_dir / "README.md"
     readme_path.write_text(readme_content, encoding='utf-8')
     print(f"\n📝 Created README at {readme_path}")
 
+def run_extraction(project_root: Path):
+    """Main entry point for extraction task"""
+    pdf_path = project_root / PDF_FILENAME
+    output_base = project_root / OUTPUT_BASE_NAME
 
-def main():
     print("=" * 60)
     print("Shanghai Dialect Digitizer - PDF Image Extractor")
     print("=" * 60)
     
-    # Check if PDF exists
-    if not PDF_PATH.exists():
-        print(f"❌ Error: PDF file not found at {PDF_PATH}")
+    if not pdf_path.exists():
+        print(f"❌ Error: PDF file not found at {pdf_path}")
         return
     
-    print(f"\n📂 Source PDF: {PDF_PATH}")
-    print(f"   File size: {PDF_PATH.stat().st_size / (1024*1024):.2f} MB")
-    
-    # Create directory structure
+    print(f"\n📂 Source PDF: {pdf_path}")
+    print(f"   File size: {pdf_path.stat().st_size / (1024*1024):.2f} MB")
     print(f"\n🗂️  Creating Johnny Decimal directory structure...")
-    created_dirs = create_directory_structure(OUTPUT_BASE)
+    created_dirs = create_directory_structure(output_base)
     print(f"   Created {len(created_dirs)} directories")
     
-    # Open PDF
     print(f"\n📖 Opening PDF document...")
-    pdf_doc = fitz.open(str(PDF_PATH))
+    pdf_doc = fitz.open(str(pdf_path))
     
-    # Get PDF metadata
     pdf_info = {
         "page_count": len(pdf_doc),
         "title": pdf_doc.metadata.get("title", ""),
         "author": pdf_doc.metadata.get("author", ""),
-        "subject": pdf_doc.metadata.get("subject", ""),
-        "keywords": pdf_doc.metadata.get("keywords", ""),
-        "creator": pdf_doc.metadata.get("creator", ""),
-        "producer": pdf_doc.metadata.get("producer", ""),
-        "creationDate": pdf_doc.metadata.get("creationDate", ""),
-        "modDate": pdf_doc.metadata.get("modDate", ""),
     }
     
     print(f"   Total pages: {pdf_info['page_count']}")
-    if pdf_info['title']:
-        print(f"   Title: {pdf_info['title']}")
-    if pdf_info['author']:
-        print(f"   Author: {pdf_info['author']}")
     
-    extraction_log = []
-    extraction_log.append({
-        "type": "pdf_metadata",
-        "data": pdf_info
-    })
-    
-    # Extract embedded images
-    embedded_count = extract_embedded_images(pdf_doc, OUTPUT_BASE, extraction_log)
+    extraction_log = [{"type": "pdf_metadata", "data": pdf_info}]
+    embedded_count = extract_embedded_images(pdf_doc, output_base, extraction_log)
     print(f"\n✅ Extracted {embedded_count} embedded images")
     
-    # Render full pages
-    render_dpi = 150  # Good balance of quality and file size
-    pages_rendered = render_full_pages(pdf_doc, OUTPUT_BASE, extraction_log, dpi=render_dpi)
+    render_dpi = 150
+    pages_rendered = render_full_pages(pdf_doc, output_base, extraction_log, dpi=render_dpi)
     print(f"\n✅ Rendered {pages_rendered} full pages")
     
-    # Analyze and categorize content
-    categories = categorize_pages_by_content(pdf_doc, OUTPUT_BASE, extraction_log)
-    
-    # Close PDF
+    categorize_pages_by_content(pdf_doc, output_base, extraction_log)
     pdf_doc.close()
     
-    # Statistics
     stats = {
         "pages_rendered": pages_rendered,
         "embedded_images": embedded_count,
@@ -385,28 +298,15 @@ def main():
         "extraction_date": datetime.now().isoformat(),
     }
     
-    # Save extraction log
-    log_dir = OUTPUT_BASE / "90-99_metadata" / "93_extraction-log"
+    log_dir = output_base / "90-99_metadata" / "93_extraction-log"
     log_path = log_dir / "extraction_log.json"
+    log_dir.mkdir(parents=True, exist_ok=True)
     with open(log_path, "w", encoding="utf-8") as f:
-        json.dump({
-            "metadata": stats,
-            "pdf_info": pdf_info,
-            "log": extraction_log
-        }, f, indent=2, ensure_ascii=False)
+        json.dump({"metadata": stats, "pdf_info": pdf_info, "log": extraction_log}, f, indent=2, ensure_ascii=False)
     print(f"\n📋 Saved extraction log to {log_path}")
     
-    # Create README
-    create_readme(OUTPUT_BASE, pdf_info, stats)
+    create_readme(output_base, pdf_info, stats)
     
     print("\n" + "=" * 60)
     print("🎉 Extraction Complete!")
     print("=" * 60)
-    print(f"\n📁 Output directory: {OUTPUT_BASE.absolute()}")
-    print(f"   - Full page renders: {OUTPUT_BASE}/90-99_metadata/91_full-page-renders/")
-    print(f"   - Embedded images: {OUTPUT_BASE}/90-99_metadata/92_embedded-images/")
-    print(f"   - Extraction log: {OUTPUT_BASE}/90-99_metadata/93_extraction-log/")
-
-
-if __name__ == "__main__":
-    main()

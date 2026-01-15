@@ -3,7 +3,7 @@
     {
       "char": "我",
       "main": "ngoo",
-      "main_count": 354,
+      "main_count": 358,
       "alt": "ngeo",
       "alt_count": 1,
       "similarity": 0.75,
@@ -33,7 +33,7 @@
     {
       "char": "咾",
       "main": "lau",
-      "main_count": 1046,
+      "main_count": 1050,
       "alt": "lauk",
       "alt_count": 1,
       "similarity": 0.75,
@@ -48,7 +48,7 @@
     {
       "char": "块",
       "main": "kwhe",
-      "main_count": 67,
+      "main_count": 66,
       "alt": "kwe",
       "alt_count": 1,
       "similarity": 0.75,
@@ -63,7 +63,7 @@
     {
       "char": "钱",
       "main": "dien",
-      "main_count": 177,
+      "main_count": 178,
       "alt": "dzen",
       "alt_count": 1,
       "similarity": 0.75,
@@ -78,7 +78,7 @@
     {
       "char": "钱",
       "main": "dien",
-      "main_count": 177,
+      "main_count": 178,
       "alt": "dieng",
       "alt_count": 1,
       "similarity": 0.8,
@@ -108,7 +108,7 @@
     {
       "char": "好",
       "main": "hau",
-      "main_count": 337,
+      "main_count": 340,
       "alt": "hyau",
       "alt_count": 1,
       "similarity": 0.75,
@@ -138,7 +138,7 @@
     {
       "char": "见",
       "main": "kyien",
-      "main_count": 166,
+      "main_count": 164,
       "alt": "hyien",
       "alt_count": 1,
       "similarity": 0.8,
@@ -153,7 +153,7 @@
     {
       "char": "见",
       "main": "kyien",
-      "main_count": 166,
+      "main_count": 164,
       "alt": "kyieh",
       "alt_count": 1,
       "similarity": 0.8,
@@ -162,6 +162,21 @@
           "lesson-30.typ",
           "khoen-kyieh",
           "看见"
+        ]
+      ]
+    },
+    {
+      "char": "见",
+      "main": "kyien",
+      "main_count": 164,
+      "alt": "khien",
+      "alt_count": 1,
+      "similarity": 0.8,
+      "examples": [
+        [
+          "lesson-47.typ",
+          "thing-khien",
+          "听见"
         ]
       ]
     },
@@ -198,7 +213,7 @@
     {
       "char": "着",
       "main": "dzak",
-      "main_count": 109,
+      "main_count": 111,
       "alt": "dsak",
       "alt_count": 2,
       "similarity": 0.75,
@@ -218,7 +233,7 @@
     {
       "char": "着",
       "main": "dzak",
-      "main_count": 109,
+      "main_count": 111,
       "alt": "zak",
       "alt_count": 2,
       "similarity": 0.75,
@@ -343,7 +358,7 @@
     {
       "char": "就",
       "main": "zieu",
-      "main_count": 218,
+      "main_count": 222,
       "alt": "zieh",
       "alt_count": 1,
       "similarity": 0.75,
@@ -358,7 +373,7 @@
     {
       "char": "经",
       "main": "kyung",
-      "main_count": 58,
+      "main_count": 59,
       "alt": "hyung",
       "alt_count": 1,
       "similarity": 0.8,
@@ -373,7 +388,7 @@
     {
       "char": "清",
       "main": "tshing",
-      "main_count": 24,
+      "main_count": 25,
       "alt": "tsing",
       "alt_count": 1,
       "similarity": 0.83,
@@ -388,7 +403,7 @@
     {
       "char": "出",
       "main": "tsheh",
-      "main_count": 168,
+      "main_count": 169,
       "alt": "tseh",
       "alt_count": 1,
       "similarity": 0.8,
@@ -403,7 +418,7 @@
     {
       "char": "出",
       "main": "tsheh",
-      "main_count": 168,
+      "main_count": 169,
       "alt": "theh",
       "alt_count": 1,
       "similarity": 0.8,
@@ -463,7 +478,7 @@
     {
       "char": "几",
       "main": "kyi",
-      "main_count": 149,
+      "main_count": 151,
       "alt": "kyih",
       "alt_count": 2,
       "similarity": 0.75,
@@ -483,7 +498,7 @@
     {
       "char": "招",
       "main": "tsau",
-      "main_count": 5,
+      "main_count": 4,
       "alt": "lsau",
       "alt_count": 1,
       "similarity": 0.75,
@@ -498,7 +513,7 @@
     {
       "char": "交",
       "main": "kyau",
-      "main_count": 15,
+      "main_count": 16,
       "alt": "kau",
       "alt_count": 1,
       "similarity": 0.75,
@@ -513,7 +528,7 @@
     {
       "char": "交",
       "main": "kyau",
-      "main_count": 15,
+      "main_count": 16,
       "alt": "kyan",
       "alt_count": 1,
       "similarity": 0.75,
@@ -528,7 +543,7 @@
     {
       "char": "巡",
       "main": "dzing",
-      "main_count": 56,
+      "main_count": 58,
       "alt": "zing",
       "alt_count": 1,
       "similarity": 0.8,
@@ -543,7 +558,7 @@
     {
       "char": "脱",
       "main": "theh",
-      "main_count": 148,
+      "main_count": 145,
       "alt": "teh",
       "alt_count": 1,
       "similarity": 0.75,
@@ -558,7 +573,7 @@
     {
       "char": "脱",
       "main": "theh",
-      "main_count": 148,
+      "main_count": 145,
       "alt": "thuh",
       "alt_count": 1,
       "similarity": 0.75,
@@ -573,7 +588,7 @@
     {
       "char": "脱",
       "main": "theh",
-      "main_count": 148,
+      "main_count": 145,
       "alt": "thoeh",
       "alt_count": 1,
       "similarity": 0.8,
@@ -588,7 +603,7 @@
     {
       "char": "规",
       "main": "kwe",
-      "main_count": 12,
+      "main_count": 13,
       "alt": "kwhe",
       "alt_count": 2,
       "similarity": 0.75,
@@ -608,7 +623,7 @@
     {
       "char": "叫",
       "main": "kyau",
-      "main_count": 82,
+      "main_count": 83,
       "alt": "kau",
       "alt_count": 1,
       "similarity": 0.75,
@@ -678,7 +693,7 @@
     {
       "char": "落",
       "main": "lauh",
-      "main_count": 44,
+      "main_count": 43,
       "alt": "lau",
       "alt_count": 1,
       "similarity": 0.75,
@@ -753,7 +768,7 @@
     {
       "char": "二",
       "main": "nyi",
-      "main_count": 31,
+      "main_count": 32,
       "alt": "nyih",
       "alt_count": 2,
       "similarity": 0.75,
@@ -923,7 +938,7 @@
     {
       "char": "在",
       "main": "dze",
-      "main_count": 118,
+      "main_count": 120,
       "alt": "dzeh",
       "alt_count": 1,
       "similarity": 0.75,
@@ -973,7 +988,7 @@
     {
       "char": "作",
       "main": "tsauh",
-      "main_count": 16,
+      "main_count": 15,
       "alt": "tzauh",
       "alt_count": 1,
       "similarity": 0.8,
@@ -988,7 +1003,7 @@
     {
       "char": "面",
       "main": "mien",
-      "main_count": 63,
+      "main_count": 66,
       "alt": "pien",
       "alt_count": 1,
       "similarity": 0.75,
@@ -1003,7 +1018,7 @@
     {
       "char": "分",
       "main": "fung",
-      "main_count": 27,
+      "main_count": 30,
       "alt": "zung",
       "alt_count": 1,
       "similarity": 0.75,
@@ -1033,7 +1048,7 @@
     {
       "char": "尽",
       "main": "dzing",
-      "main_count": 9,
+      "main_count": 8,
       "alt": "zing",
       "alt_count": 1,
       "similarity": 0.8,
@@ -1098,7 +1113,7 @@
     {
       "char": "东",
       "main": "toong",
-      "main_count": 49,
+      "main_count": 48,
       "alt": "loong",
       "alt_count": 1,
       "similarity": 0.8,
@@ -1142,6 +1157,21 @@
           "lesson-18.typ",
           "dzong",
           "从"
+        ]
+      ]
+    },
+    {
+      "char": "脚",
+      "main": "kyak",
+      "main_count": 84,
+      "alt": "hyak",
+      "alt_count": 1,
+      "similarity": 0.75,
+      "examples": [
+        [
+          "lesson-46.typ",
+          "hyak-sung,",
+          "脚声"
         ]
       ]
     },
@@ -1210,25 +1240,20 @@
       "main": "hyih",
       "main_count": 57,
       "alt": "kyih",
-      "alt_count": 2,
+      "alt_count": 1,
       "similarity": 0.75,
       "examples": [
         [
           "lesson-144.typ",
           "kyih",
           "歇"
-        ],
-        [
-          "lesson-48.typ",
-          "ih-kyih",
-          "一歇"
         ]
       ]
     },
     {
       "char": "烦",
       "main": "van",
-      "main_count": 22,
+      "main_count": 23,
       "alt": "'van",
       "alt_count": 1,
       "similarity": 0.75,
@@ -1243,7 +1268,7 @@
     {
       "char": "车",
       "main": "tsho",
-      "main_count": 184,
+      "main_count": 187,
       "alt": "tho",
       "alt_count": 1,
       "similarity": 0.75,
@@ -1273,7 +1298,7 @@
     {
       "char": "棚",
       "main": "bang",
-      "main_count": 12,
+      "main_count": 11,
       "alt": "bang”",
       "alt_count": 1,
       "similarity": 0.8,
@@ -1318,7 +1343,7 @@
     {
       "char": "官",
       "main": "kwen",
-      "main_count": 39,
+      "main_count": 40,
       "alt": "kwen)",
       "alt_count": 2,
       "similarity": 0.8,
@@ -1558,7 +1583,7 @@
     {
       "char": "忒",
       "main": "thuh",
-      "main_count": 25,
+      "main_count": 26,
       "alt": "tuh",
       "alt_count": 1,
       "similarity": 0.75,
@@ -1648,7 +1673,7 @@
     {
       "char": "直",
       "main": "dzuh",
-      "main_count": 18,
+      "main_count": 19,
       "alt": "dsuh",
       "alt_count": 1,
       "similarity": 0.75,
@@ -1663,7 +1688,7 @@
     {
       "char": "拢",
       "main": "loong",
-      "main_count": 26,
+      "main_count": 29,
       "alt": "long",
       "alt_count": 1,
       "similarity": 0.8,
@@ -1723,7 +1748,7 @@
     {
       "char": "杭",
       "main": "'aung",
-      "main_count": 6,
+      "main_count": 5,
       "alt": "aung",
       "alt_count": 1,
       "similarity": 0.8,
@@ -1787,16 +1812,16 @@
     },
     {
       "char": "爆",
-      "main": "pau",
-      "main_count": 2,
-      "alt": "phau",
+      "main": "phau",
+      "main_count": 1,
+      "alt": "pau",
       "alt_count": 1,
       "similarity": 0.75,
       "examples": [
         [
-          "lesson-116.typ",
-          "phau-dzang,",
-          "爆仗，"
+          "lesson-85.typ",
+          "pau-khe-le,",
+          "爆开来，"
         ]
       ]
     },
@@ -2104,19 +2129,14 @@
       "char": "闻",
       "main": "vung",
       "main_count": 15,
-      "alt": "mung",
-      "alt_count": 2,
-      "similarity": 0.75,
+      "alt": "vaung",
+      "alt_count": 1,
+      "similarity": 0.8,
       "examples": [
         [
-          "lesson-53.typ",
-          "mung-dzak-ts",
-          "闻着之"
-        ],
-        [
-          "lesson-68.typ",
-          "mung-dzak-ts",
-          "闻着之"
+          "lesson-47.typ",
+          "sing-vaung-ts,",
+          "新闻纸，"
         ]
       ]
     },
@@ -2197,16 +2217,16 @@
     },
     {
       "char": "泉",
-      "main": "zien",
-      "main_count": 2,
-      "alt": "dzien",
+      "main": "dzien",
+      "main_count": 1,
+      "alt": "zien",
       "alt_count": 1,
       "similarity": 0.8,
       "examples": [
         [
-          "lesson-151.typ",
-          "dzien-ngan",
-          "泉眼"
+          "lesson-79.typ",
+          "zien-s,",
+          "泉水。"
         ]
       ]
     },
@@ -2290,14 +2310,9 @@
       "main": "sieu",
       "main_count": 5,
       "alt": "seu",
-      "alt_count": 2,
+      "alt_count": 1,
       "similarity": 0.75,
       "examples": [
-        [
-          "lesson-50.typ",
-          "seu-tsauh",
-          "修作"
-        ],
         [
           "lesson-50.typ",
           "seu-tsauh",
@@ -2385,7 +2400,7 @@
     {
       "char": "咾",
       "main": "lau",
-      "main_count": 1046,
+      "main_count": 1050,
       "alt": "lauh",
       "alt_count": 4,
       "similarity": 0.75,
@@ -2412,9 +2427,9 @@
     {
       "char": "上",
       "main": "laung",
-      "main_count": 332,
+      "main_count": 337,
       "alt": "zaung",
-      "alt_count": 150,
+      "alt_count": 154,
       "similarity": 0.8,
       "examples": [
         [
@@ -2439,7 +2454,7 @@
     {
       "char": "钱",
       "main": "dien",
-      "main_count": 177,
+      "main_count": 178,
       "alt": "dzien",
       "alt_count": 4,
       "similarity": 0.8,
@@ -2466,7 +2481,7 @@
     {
       "char": "勿",
       "main": "'veh",
-      "main_count": 669,
+      "main_count": 672,
       "alt": "veh",
       "alt_count": 7,
       "similarity": 0.75,
@@ -2493,7 +2508,7 @@
     {
       "char": "勿",
       "main": "'veh",
-      "main_count": 669,
+      "main_count": 672,
       "alt": "'vch",
       "alt_count": 15,
       "similarity": 0.75,
@@ -2520,7 +2535,7 @@
     {
       "char": "勿",
       "main": "'veh",
-      "main_count": 669,
+      "main_count": 672,
       "alt": "‘veh",
       "alt_count": 3,
       "similarity": 0.75,
@@ -2574,7 +2589,7 @@
     {
       "char": "曾",
       "main": "zung",
-      "main_count": 34,
+      "main_count": 35,
       "alt": "dzung",
       "alt_count": 5,
       "similarity": 0.8,
@@ -2603,7 +2618,7 @@
       "main": "'ang",
       "main_count": 60,
       "alt": "'aung",
-      "alt_count": 29,
+      "alt_count": 28,
       "similarity": 0.8,
       "examples": [
         [
@@ -2655,7 +2670,7 @@
     {
       "char": "规",
       "main": "kwe",
-      "main_count": 12,
+      "main_count": 13,
       "alt": "kwen",
       "alt_count": 8,
       "similarity": 0.75,
@@ -2682,9 +2697,9 @@
     {
       "char": "生",
       "main": "sang",
-      "main_count": 208,
+      "main_count": 207,
       "alt": "sung",
-      "alt_count": 33,
+      "alt_count": 35,
       "similarity": 0.75,
       "examples": [
         [
@@ -2790,7 +2805,7 @@
     {
       "char": "俗",
       "main": "zok",
-      "main_count": 18,
+      "main_count": 19,
       "alt": "dzok",
       "alt_count": 3,
       "similarity": 0.75,
@@ -2871,7 +2886,7 @@
     {
       "char": "眼",
       "main": "ngan",
-      "main_count": 22,
+      "main_count": 23,
       "alt": "gan",
       "alt_count": 6,
       "similarity": 0.75,
@@ -2898,7 +2913,7 @@
     {
       "char": "分",
       "main": "fung",
-      "main_count": 27,
+      "main_count": 30,
       "alt": "vung",
       "alt_count": 11,
       "similarity": 0.75,
@@ -2925,9 +2940,9 @@
     {
       "char": "脚",
       "main": "kyak",
-      "main_count": 87,
+      "main_count": 84,
       "alt": "kyah",
-      "alt_count": 11,
+      "alt_count": 10,
       "similarity": 0.75,
       "examples": [
         [
@@ -2952,7 +2967,7 @@
     {
       "char": "问",
       "main": "mung",
-      "main_count": 51,
+      "main_count": 52,
       "alt": "vung",
       "alt_count": 7,
       "similarity": 0.75,
@@ -3089,7 +3104,7 @@
       "main": "tsen",
       "main_count": 52,
       "alt": "tse",
-      "alt_count": 3,
+      "alt_count": 4,
       "similarity": 0.75,
       "examples": [
         [
@@ -3193,6 +3208,33 @@
       "fin_match": false
     },
     {
+      "char": "闻",
+      "main": "vung",
+      "main_count": 15,
+      "alt": "mung",
+      "alt_count": 3,
+      "similarity": 0.75,
+      "examples": [
+        [
+          "lesson-53.typ",
+          "mung-dzak-ts",
+          "闻着之"
+        ],
+        [
+          "lesson-58.typ",
+          "mung-dzak",
+          "闻着"
+        ],
+        [
+          "lesson-68.typ",
+          "mung-dzak-ts",
+          "闻着之"
+        ]
+      ],
+      "init_match": false,
+      "fin_match": true
+    },
+    {
       "char": "汗",
       "main": "'oen",
       "main_count": 7,
@@ -3224,7 +3266,7 @@
     {
       "char": "有",
       "main": "yeu",
-      "main_count": 796,
+      "main_count": 805,
       "alt": "yeu-kuh",
       "alt_count": 1,
       "similarity": 0.43,
@@ -3239,157 +3281,22 @@
     {
       "char": "有",
       "main": "yeu",
-      "main_count": 796,
-      "alt": "da-ka",
+      "main_count": 805,
+      "alt": "wo",
       "alt_count": 1,
       "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "da-ka",
-          "有"
-        ]
-      ]
-    },
-    {
-      "char": "有",
-      "main": "yeu",
-      "main_count": 796,
-      "alt": "kuh",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "yi-kuh",
-          "就有"
-        ]
-      ]
-    },
-    {
-      "char": "有",
-      "main": "yeu",
-      "main_count": 796,
-      "alt": "dzing",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "dzing-boo,",
-          "有个"
-        ]
-      ]
-    },
-    {
-      "char": "有",
-      "main": "yeu",
-      "main_count": 796,
-      "alt": "khoen",
-      "alt_count": 1,
-      "similarity": 0.2,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "khoen-seu",
-          "有个"
-        ]
-      ]
-    },
-    {
-      "char": "有",
-      "main": "yeu",
-      "main_count": 796,
-      "alt": "toong",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "toong-mien",
-          "有个"
-        ]
-      ]
-    },
-    {
-      "char": "有",
-      "main": "yeu",
-      "main_count": 796,
-      "alt": "chi",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "chi",
-          "有"
-        ]
-      ]
-    },
-    {
-      "char": "有",
-      "main": "yeu",
-      "main_count": 796,
-      "alt": "mau",
-      "alt_count": 1,
-      "similarity": 0.33,
       "examples": [
         [
           "lesson-47.typ",
-          "mau-bing",
-          "有人"
-        ]
-      ]
-    },
-    {
-      "char": "有",
-      "main": "yeu",
-      "main_count": 796,
-      "alt": "lau",
-      "alt_count": 1,
-      "similarity": 0.33,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "lau",
+          "wo,",
           "有"
-        ]
-      ]
-    },
-    {
-      "char": "有",
-      "main": "yeu",
-      "main_count": 796,
-      "alt": "di-kuh",
-      "alt_count": 1,
-      "similarity": 0.17,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "di-kuh",
-          "有"
-        ]
-      ]
-    },
-    {
-      "char": "有",
-      "main": "yeu",
-      "main_count": 796,
-      "alt": "'au",
-      "alt_count": 1,
-      "similarity": 0.33,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "'au-lieu-phe,",
-          "有一个"
         ]
       ]
     },
     {
       "char": "个",
       "main": "kuh",
-      "main_count": 2770,
+      "main_count": 2794,
       "alt": "kub",
       "alt_count": 1,
       "similarity": 0.67,
@@ -3404,7 +3311,7 @@
     {
       "char": "个",
       "main": "kuh",
-      "main_count": 2770,
+      "main_count": 2794,
       "alt": "mung-kuh",
       "alt_count": 1,
       "similarity": 0.38,
@@ -3419,7 +3326,7 @@
     {
       "char": "个",
       "main": "kuh",
-      "main_count": 2770,
+      "main_count": 2794,
       "alt": "ih",
       "alt_count": 1,
       "similarity": 0.33,
@@ -3434,7 +3341,7 @@
     {
       "char": "个",
       "main": "kuh",
-      "main_count": 2770,
+      "main_count": 2794,
       "alt": "tsang",
       "alt_count": 1,
       "similarity": 0.0,
@@ -3449,7 +3356,7 @@
     {
       "char": "个",
       "main": "kuh",
-      "main_count": 2770,
+      "main_count": 2794,
       "alt": "le",
       "alt_count": 1,
       "similarity": 0.0,
@@ -3464,7 +3371,7 @@
     {
       "char": "个",
       "main": "kuh",
-      "main_count": 2770,
+      "main_count": 2794,
       "alt": "loo-kuh",
       "alt_count": 1,
       "similarity": 0.43,
@@ -3479,7 +3386,7 @@
     {
       "char": "个",
       "main": "kuh",
-      "main_count": 2770,
+      "main_count": 2794,
       "alt": "laung-kuh",
       "alt_count": 1,
       "similarity": 0.33,
@@ -3494,7 +3401,7 @@
     {
       "char": "个",
       "main": "kuh",
-      "main_count": 2770,
+      "main_count": 2794,
       "alt": "tau",
       "alt_count": 1,
       "similarity": 0.0,
@@ -3509,7 +3416,7 @@
     {
       "char": "个",
       "main": "kuh",
-      "main_count": 2770,
+      "main_count": 2794,
       "alt": "li-kuh",
       "alt_count": 1,
       "similarity": 0.5,
@@ -3524,7 +3431,7 @@
     {
       "char": "个",
       "main": "kuh",
-      "main_count": 2770,
+      "main_count": 2794,
       "alt": "yeu-kuh",
       "alt_count": 1,
       "similarity": 0.43,
@@ -3539,7 +3446,7 @@
     {
       "char": "个",
       "main": "kuh",
-      "main_count": 2770,
+      "main_count": 2794,
       "alt": "yeu",
       "alt_count": 2,
       "similarity": 0.0,
@@ -3559,7 +3466,7 @@
     {
       "char": "个",
       "main": "kuh",
-      "main_count": 2770,
+      "main_count": 2794,
       "alt": "ka-kuh",
       "alt_count": 1,
       "similarity": 0.5,
@@ -3574,7 +3481,7 @@
     {
       "char": "个",
       "main": "kuh",
-      "main_count": 2770,
+      "main_count": 2794,
       "alt": "huh",
       "alt_count": 1,
       "similarity": 0.67,
@@ -3589,7 +3496,7 @@
     {
       "char": "个",
       "main": "kuh",
-      "main_count": 2770,
+      "main_count": 2794,
       "alt": "tsan-me",
       "alt_count": 1,
       "similarity": 0.0,
@@ -3604,7 +3511,7 @@
     {
       "char": "个",
       "main": "kuh",
-      "main_count": 2770,
+      "main_count": 2794,
       "alt": "mau-hyien-kuh",
       "alt_count": 1,
       "similarity": 0.23,
@@ -3619,7 +3526,7 @@
     {
       "char": "个",
       "main": "kuh",
-      "main_count": 2770,
+      "main_count": 2794,
       "alt": "pau-wan",
       "alt_count": 1,
       "similarity": 0.14,
@@ -3634,262 +3541,7 @@
     {
       "char": "个",
       "main": "kuh",
-      "main_count": 2770,
-      "alt": "kyien",
-      "alt_count": 1,
-      "similarity": 0.2,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "khoen-kyien",
-          "一个"
-        ]
-      ]
-    },
-    {
-      "char": "个",
-      "main": "kuh",
-      "main_count": 2770,
-      "alt": "pi",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "kyau-pi,",
-          "几个"
-        ]
-      ]
-    },
-    {
-      "char": "个",
-      "main": "kuh",
-      "main_count": 2770,
-      "alt": "boo",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "dzing-boo,",
-          "有个"
-        ]
-      ]
-    },
-    {
-      "char": "个",
-      "main": "kuh",
-      "main_count": 2770,
-      "alt": "seu",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "khoen-seu",
-          "有个"
-        ]
-      ]
-    },
-    {
-      "char": "个",
-      "main": "kuh",
-      "main_count": 2770,
-      "alt": "mien",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "toong-mien",
-          "有个"
-        ]
-      ]
-    },
-    {
-      "char": "个",
-      "main": "kuh",
-      "main_count": 2770,
-      "alt": "hau",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "i-hau",
-          "病个"
-        ]
-      ]
-    },
-    {
-      "char": "个",
-      "main": "kuh",
-      "main_count": 2770,
-      "alt": "nyung",
-      "alt_count": 1,
-      "similarity": 0.2,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "bing-nyung",
-          "第个"
-        ]
-      ]
-    },
-    {
-      "char": "个",
-      "main": "kuh",
-      "main_count": 2770,
-      "alt": "zu",
-      "alt_count": 1,
-      "similarity": 0.33,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "soong-zu",
-          "益个。"
-        ]
-      ]
-    },
-    {
-      "char": "个",
-      "main": "kuh",
-      "main_count": 2770,
-      "alt": "m-meh-kuh",
-      "alt_count": 1,
-      "similarity": 0.33,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "m-meh-kuh",
-          "个"
-        ]
-      ]
-    },
-    {
-      "char": "个",
-      "main": "kuh",
-      "main_count": 2770,
-      "alt": "vah",
-      "alt_count": 1,
-      "similarity": 0.33,
-      "examples": [
-        [
-          "lesson-55.typ",
-          "vah",
-          "个"
-        ]
-      ]
-    },
-    {
-      "char": "个",
-      "main": "kuh",
-      "main_count": 2770,
-      "alt": "sang-weh",
-      "alt_count": 1,
-      "similarity": 0.12,
-      "examples": [
-        [
-          "lesson-55.typ",
-          "sang-weh",
-          "个"
-        ]
-      ]
-    },
-    {
-      "char": "个",
-      "main": "kuh",
-      "main_count": 2770,
-      "alt": "siau-an",
-      "alt_count": 1,
-      "similarity": 0.14,
-      "examples": [
-        [
-          "lesson-56.typ",
-          "siau-an",
-          "个"
-        ]
-      ]
-    },
-    {
-      "char": "个",
-      "main": "kuh",
-      "main_count": 2770,
-      "alt": "di-faung",
-      "alt_count": 1,
-      "similarity": 0.12,
-      "examples": [
-        [
-          "lesson-56.typ",
-          "di-faung",
-          "个"
-        ]
-      ]
-    },
-    {
-      "char": "个",
-      "main": "kuh",
-      "main_count": 2770,
-      "alt": "la",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-56.typ",
-          "la",
-          "个。"
-        ]
-      ]
-    },
-    {
-      "char": "个",
-      "main": "kuh",
-      "main_count": 2770,
-      "alt": "ts",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "tshung-ts",
-          "来个"
-        ]
-      ]
-    },
-    {
-      "char": "个",
-      "main": "kuh",
-      "main_count": 2770,
-      "alt": "phe",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "'au-lieu-phe,",
-          "有一个"
-        ]
-      ]
-    },
-    {
-      "char": "个",
-      "main": "kuh",
-      "main_count": 2770,
-      "alt": "tse",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "chi-tse,",
-          "伊个"
-        ]
-      ]
-    },
-    {
-      "char": "个",
-      "main": "kuh",
-      "main_count": 2770,
+      "main_count": 2794,
       "alt": "nyoeh",
       "alt_count": 1,
       "similarity": 0.2,
@@ -3904,7 +3556,7 @@
     {
       "char": "个",
       "main": "kuh",
-      "main_count": 2770,
+      "main_count": 2794,
       "alt": "knh",
       "alt_count": 1,
       "similarity": 0.67,
@@ -3919,7 +3571,7 @@
     {
       "char": "个",
       "main": "kuh",
-      "main_count": 2770,
+      "main_count": 2794,
       "alt": "koo",
       "alt_count": 1,
       "similarity": 0.33,
@@ -3934,7 +3586,7 @@
     {
       "char": "走",
       "main": "tseu",
-      "main_count": 139,
+      "main_count": 142,
       "alt": "ngoo",
       "alt_count": 1,
       "similarity": 0.0,
@@ -3947,54 +3599,9 @@
       ]
     },
     {
-      "char": "走",
-      "main": "tseu",
-      "main_count": 139,
-      "alt": "dzing",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "dzing-boo,",
-          "走到"
-        ]
-      ]
-    },
-    {
-      "char": "我",
-      "main": "ngoo",
-      "main_count": 354,
-      "alt": "liang-tien",
-      "alt_count": 1,
-      "similarity": 0.2,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "liang-tien",
-          "我"
-        ]
-      ]
-    },
-    {
-      "char": "我",
-      "main": "ngoo",
-      "main_count": 354,
-      "alt": "mien-ts",
-      "alt_count": 1,
-      "similarity": 0.14,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "mien-ts",
-          "我"
-        ]
-      ]
-    },
-    {
       "char": "字",
       "main": "z",
-      "main_count": 27,
+      "main_count": 28,
       "alt": "zi",
       "alt_count": 1,
       "similarity": 0.5,
@@ -4009,7 +3616,7 @@
     {
       "char": "间",
       "main": "kan",
-      "main_count": 67,
+      "main_count": 68,
       "alt": "ts",
       "alt_count": 1,
       "similarity": 0.0,
@@ -4024,7 +3631,7 @@
     {
       "char": "里",
       "main": "li",
-      "main_count": 502,
+      "main_count": 494,
       "alt": "li?”",
       "alt_count": 1,
       "similarity": 0.5,
@@ -4037,26 +3644,11 @@
       ]
     },
     {
-      "char": "里",
-      "main": "li",
-      "main_count": 502,
-      "alt": "nyung",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "nyung",
-          "里"
-        ]
-      ]
-    },
-    {
       "char": "一",
       "main": "ih",
-      "main_count": 802,
+      "main_count": 805,
       "alt": "i",
-      "alt_count": 5,
+      "alt_count": 4,
       "similarity": 0.5,
       "examples": [
         [
@@ -4079,7 +3671,7 @@
     {
       "char": "一",
       "main": "ih",
-      "main_count": 802,
+      "main_count": 805,
       "alt": "tau",
       "alt_count": 1,
       "similarity": 0.0,
@@ -4094,7 +3686,7 @@
     {
       "char": "一",
       "main": "ih",
-      "main_count": 802,
+      "main_count": 805,
       "alt": "ih-ya",
       "alt_count": 1,
       "similarity": 0.4,
@@ -4109,7 +3701,7 @@
     {
       "char": "一",
       "main": "ih",
-      "main_count": 802,
+      "main_count": 805,
       "alt": "ih-z",
       "alt_count": 1,
       "similarity": 0.5,
@@ -4124,7 +3716,7 @@
     {
       "char": "一",
       "main": "ih",
-      "main_count": 802,
+      "main_count": 805,
       "alt": "yi",
       "alt_count": 1,
       "similarity": 0.0,
@@ -4139,52 +3731,7 @@
     {
       "char": "一",
       "main": "ih",
-      "main_count": 802,
-      "alt": "khoen",
-      "alt_count": 1,
-      "similarity": 0.2,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "khoen-kyien",
-          "一个"
-        ]
-      ]
-    },
-    {
-      "char": "一",
-      "main": "ih",
-      "main_count": 802,
-      "alt": "be",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "be-la.",
-          "一家，"
-        ]
-      ]
-    },
-    {
-      "char": "一",
-      "main": "ih",
-      "main_count": 802,
-      "alt": "lieu",
-      "alt_count": 1,
-      "similarity": 0.25,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "'au-lieu-phe,",
-          "有一个"
-        ]
-      ]
-    },
-    {
-      "char": "一",
-      "main": "ih",
-      "main_count": 802,
+      "main_count": 805,
       "alt": "in",
       "alt_count": 1,
       "similarity": 0.5,
@@ -4259,18 +3806,13 @@
     {
       "char": "咾",
       "main": "lau",
-      "main_count": 1046,
+      "main_count": 1050,
       "alt": "la",
-      "alt_count": 2,
+      "alt_count": 1,
       "similarity": 0.67,
       "examples": [
         [
           "lesson-126.typ",
-          "la",
-          "咾"
-        ],
-        [
-          "lesson-47.typ",
           "la",
           "咾"
         ]
@@ -4279,7 +3821,7 @@
     {
       "char": "咾",
       "main": "lau",
-      "main_count": 1046,
+      "main_count": 1050,
       "alt": "koong-kyung",
       "alt_count": 2,
       "similarity": 0.09,
@@ -4299,29 +3841,14 @@
     {
       "char": "咾",
       "main": "lau",
-      "main_count": 1046,
-      "alt": "laung",
-      "alt_count": 1,
-      "similarity": 0.6,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "laung,",
-          "咾"
-        ]
-      ]
-    },
-    {
-      "char": "咾",
-      "main": "lau",
-      "main_count": 1046,
-      "alt": "san",
+      "main_count": 1050,
+      "alt": "seu",
       "alt_count": 1,
       "similarity": 0.33,
       "examples": [
         [
-          "lesson-46.typ",
-          "san",
+          "lesson-49.typ",
+          "seu",
           "咾"
         ]
       ]
@@ -4329,177 +3856,7 @@
     {
       "char": "咾",
       "main": "lau",
-      "main_count": 1046,
-      "alt": "meh",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "meh,",
-          "咾"
-        ]
-      ]
-    },
-    {
-      "char": "咾",
-      "main": "lau",
-      "main_count": 1046,
-      "alt": "le",
-      "alt_count": 2,
-      "similarity": 0.33,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "le",
-          "咾"
-        ],
-        [
-          "lesson-96.typ",
-          "le",
-          "咾"
-        ]
-      ]
-    },
-    {
-      "char": "咾",
-      "main": "lau",
-      "main_count": 1046,
-      "alt": "mau-bing-kuh",
-      "alt_count": 1,
-      "similarity": 0.17,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "mau-bing-kuh",
-          "咾"
-        ]
-      ]
-    },
-    {
-      "char": "咾",
-      "main": "lau",
-      "main_count": 1046,
-      "alt": "yeu",
-      "alt_count": 1,
-      "similarity": 0.33,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "yeu",
-          "咾"
-        ]
-      ]
-    },
-    {
-      "char": "咾",
-      "main": "lau",
-      "main_count": 1046,
-      "alt": "tien",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-56.typ",
-          "tien",
-          "咾"
-        ]
-      ]
-    },
-    {
-      "char": "咾",
-      "main": "lau",
-      "main_count": 1046,
-      "alt": "tsho",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "tsho",
-          "咾"
-        ]
-      ]
-    },
-    {
-      "char": "咾",
-      "main": "lau",
-      "main_count": 1046,
-      "alt": "nan-meh",
-      "alt_count": 1,
-      "similarity": 0.14,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "Nan-meh",
-          "咾"
-        ]
-      ]
-    },
-    {
-      "char": "咾",
-      "main": "lau",
-      "main_count": 1046,
-      "alt": "tsoong",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "tsoong",
-          "咾"
-        ]
-      ]
-    },
-    {
-      "char": "咾",
-      "main": "lau",
-      "main_count": 1046,
-      "alt": "tau-ts",
-      "alt_count": 1,
-      "similarity": 0.33,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "tau-ts",
-          "咾"
-        ]
-      ]
-    },
-    {
-      "char": "咾",
-      "main": "lau",
-      "main_count": 1046,
-      "alt": "tah-khak",
-      "alt_count": 1,
-      "similarity": 0.12,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "tah-khak",
-          "咾"
-        ]
-      ]
-    },
-    {
-      "char": "咾",
-      "main": "lau",
-      "main_count": 1046,
-      "alt": "na",
-      "alt_count": 1,
-      "similarity": 0.33,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "na",
-          "咾"
-        ]
-      ]
-    },
-    {
-      "char": "咾",
-      "main": "lau",
-      "main_count": 1046,
+      "main_count": 1050,
       "alt": "keh-lau",
       "alt_count": 1,
       "similarity": 0.43,
@@ -4512,9 +3869,24 @@
       ]
     },
     {
+      "char": "咾",
+      "main": "lau",
+      "main_count": 1050,
+      "alt": "le",
+      "alt_count": 1,
+      "similarity": 0.33,
+      "examples": [
+        [
+          "lesson-96.typ",
+          "le",
+          "咾"
+        ]
+      ]
+    },
+    {
       "char": "拉",
       "main": "la",
-      "main_count": 1063,
+      "main_count": 1080,
       "alt": "leh",
       "alt_count": 22,
       "similarity": 0.33,
@@ -4539,7 +3911,7 @@
     {
       "char": "拉",
       "main": "la",
-      "main_count": 1063,
+      "main_count": 1080,
       "alt": "la-kuh",
       "alt_count": 1,
       "similarity": 0.33,
@@ -4554,7 +3926,7 @@
     {
       "char": "拉",
       "main": "la",
-      "main_count": 1063,
+      "main_count": 1080,
       "alt": "leh-la",
       "alt_count": 1,
       "similarity": 0.33,
@@ -4569,7 +3941,7 @@
     {
       "char": "拉",
       "main": "la",
-      "main_count": 1063,
+      "main_count": 1080,
       "alt": "li",
       "alt_count": 2,
       "similarity": 0.5,
@@ -4589,7 +3961,7 @@
     {
       "char": "拉",
       "main": "la",
-      "main_count": 1063,
+      "main_count": 1080,
       "alt": "nyung",
       "alt_count": 1,
       "similarity": 0.0,
@@ -4604,7 +3976,7 @@
     {
       "char": "拉",
       "main": "la",
-      "main_count": 1063,
+      "main_count": 1080,
       "alt": "ke",
       "alt_count": 1,
       "similarity": 0.0,
@@ -4619,7 +3991,7 @@
     {
       "char": "拉",
       "main": "la",
-      "main_count": 1063,
+      "main_count": 1080,
       "alt": "kuh",
       "alt_count": 1,
       "similarity": 0.0,
@@ -4634,79 +4006,14 @@
     {
       "char": "拉",
       "main": "la",
-      "main_count": 1063,
-      "alt": "lau",
-      "alt_count": 2,
-      "similarity": 0.67,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "lau,",
-          "拉"
-        ],
-        [
-          "lesson-57.typ",
-          "lau",
-          "拉"
-        ]
-      ]
-    },
-    {
-      "char": "拉",
-      "main": "la",
-      "main_count": 1063,
-      "alt": "doo",
+      "main_count": 1080,
+      "alt": "hau",
       "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "Iung-doo",
-          "伊拉，"
-        ]
-      ]
-    },
-    {
-      "char": "拉",
-      "main": "la",
-      "main_count": 1063,
-      "alt": "ka",
-      "alt_count": 1,
-      "similarity": 0.5,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "i-diau-ka,",
-          "派伊拉"
-        ]
-      ]
-    },
-    {
-      "char": "拉",
-      "main": "la",
-      "main_count": 1063,
-      "alt": "kwhe",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "i-kwhe",
-          "伊拉"
-        ]
-      ]
-    },
-    {
-      "char": "拉",
-      "main": "la",
-      "main_count": 1063,
-      "alt": "van-nan",
-      "alt_count": 1,
-      "similarity": 0.14,
+      "similarity": 0.33,
       "examples": [
         [
           "lesson-47.typ",
-          "van-nan",
+          "hau",
           "拉"
         ]
       ]
@@ -4714,97 +4021,7 @@
     {
       "char": "拉",
       "main": "la",
-      "main_count": 1063,
-      "alt": "la-kuh-nyung",
-      "alt_count": 1,
-      "similarity": 0.17,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "la-kuh-nyung",
-          "拉"
-        ]
-      ]
-    },
-    {
-      "char": "拉",
-      "main": "la",
-      "main_count": 1063,
-      "alt": "khien",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "thing-khien",
-          "睏拉"
-        ]
-      ]
-    },
-    {
-      "char": "拉",
-      "main": "la",
-      "main_count": 1063,
-      "alt": "yeu",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "yeu",
-          "拉"
-        ]
-      ]
-    },
-    {
-      "char": "拉",
-      "main": "la",
-      "main_count": 1063,
-      "alt": "ling",
-      "alt_count": 1,
-      "similarity": 0.25,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "ling",
-          "拉"
-        ]
-      ]
-    },
-    {
-      "char": "拉",
-      "main": "la",
-      "main_count": 1063,
-      "alt": "khe",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-56.typ",
-          "khe",
-          "拉"
-        ]
-      ]
-    },
-    {
-      "char": "拉",
-      "main": "la",
-      "main_count": 1063,
-      "alt": "baung-pien",
-      "alt_count": 1,
-      "similarity": 0.1,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "baung-pien",
-          "拉"
-        ]
-      ]
-    },
-    {
-      "char": "拉",
-      "main": "la",
-      "main_count": 1063,
+      "main_count": 1080,
       "alt": "lieu-lauh",
       "alt_count": 1,
       "similarity": 0.22,
@@ -4819,7 +4036,7 @@
     {
       "char": "子",
       "main": "ts",
-      "main_count": 393,
+      "main_count": 392,
       "alt": "laung",
       "alt_count": 1,
       "similarity": 0.0,
@@ -4834,7 +4051,7 @@
     {
       "char": "子",
       "main": "ts",
-      "main_count": 393,
+      "main_count": 392,
       "alt": "la",
       "alt_count": 1,
       "similarity": 0.0,
@@ -4849,7 +4066,7 @@
     {
       "char": "上",
       "main": "laung",
-      "main_count": 332,
+      "main_count": 337,
       "alt": "zaung-deu",
       "alt_count": 1,
       "similarity": 0.44,
@@ -4864,7 +4081,7 @@
     {
       "char": "上",
       "main": "laung",
-      "main_count": 332,
+      "main_count": 337,
       "alt": "ts",
       "alt_count": 1,
       "similarity": 0.0,
@@ -4877,24 +4094,9 @@
       ]
     },
     {
-      "char": "上",
-      "main": "laung",
-      "main_count": 332,
-      "alt": "kuh",
-      "alt_count": 1,
-      "similarity": 0.2,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "le-kuh,",
-          "车上"
-        ]
-      ]
-    },
-    {
       "char": "之",
       "main": "ts",
-      "main_count": 801,
+      "main_count": 806,
       "alt": "teu-ts",
       "alt_count": 1,
       "similarity": 0.33,
@@ -4909,7 +4111,7 @@
     {
       "char": "之",
       "main": "ts",
-      "main_count": 801,
+      "main_count": 806,
       "alt": "dzu",
       "alt_count": 1,
       "similarity": 0.0,
@@ -4924,7 +4126,7 @@
     {
       "char": "之",
       "main": "ts",
-      "main_count": 801,
+      "main_count": 806,
       "alt": "tse",
       "alt_count": 1,
       "similarity": 0.67,
@@ -4939,7 +4141,7 @@
     {
       "char": "之",
       "main": "ts",
-      "main_count": 801,
+      "main_count": 806,
       "alt": "ls",
       "alt_count": 2,
       "similarity": 0.5,
@@ -4959,7 +4161,7 @@
     {
       "char": "之",
       "main": "ts",
-      "main_count": 801,
+      "main_count": 806,
       "alt": "z",
       "alt_count": 1,
       "similarity": 0.0,
@@ -4974,7 +4176,7 @@
     {
       "char": "之",
       "main": "ts",
-      "main_count": 801,
+      "main_count": 806,
       "alt": "tau",
       "alt_count": 1,
       "similarity": 0.33,
@@ -4989,87 +4191,7 @@
     {
       "char": "之",
       "main": "ts",
-      "main_count": 801,
-      "alt": "zen",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "hweh-zen",
-          "吹之"
-        ]
-      ]
-    },
-    {
-      "char": "之",
-      "main": "ts",
-      "main_count": 801,
-      "alt": "kuh",
-      "alt_count": 2,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "di-kuh",
-          "免之"
-        ],
-        [
-          "lesson-73.typ",
-          "nyung-kuh",
-          "人之"
-        ]
-      ]
-    },
-    {
-      "char": "之",
-      "main": "ts",
-      "main_count": 801,
-      "alt": "we",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "Di-we",
-          "带之"
-        ]
-      ]
-    },
-    {
-      "char": "之",
-      "main": "ts",
-      "main_count": 801,
-      "alt": "suh",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "hoo-suh.",
-          "趁之"
-        ]
-      ]
-    },
-    {
-      "char": "之",
-      "main": "ts",
-      "main_count": 801,
-      "alt": "tsing",
-      "alt_count": 1,
-      "similarity": 0.4,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "ngan-tsing",
-          "呼之"
-        ]
-      ]
-    },
-    {
-      "char": "之",
-      "main": "ts",
-      "main_count": 801,
+      "main_count": 806,
       "alt": "kyi",
       "alt_count": 1,
       "similarity": 0.0,
@@ -5084,7 +4206,22 @@
     {
       "char": "之",
       "main": "ts",
-      "main_count": 801,
+      "main_count": 806,
+      "alt": "kuh",
+      "alt_count": 1,
+      "similarity": 0.0,
+      "examples": [
+        [
+          "lesson-73.typ",
+          "nyung-kuh",
+          "人之"
+        ]
+      ]
+    },
+    {
+      "char": "之",
+      "main": "ts",
+      "main_count": 806,
       "alt": "tau-ts",
       "alt_count": 1,
       "similarity": 0.33,
@@ -5099,7 +4236,7 @@
     {
       "char": "去",
       "main": "chi",
-      "main_count": 404,
+      "main_count": 406,
       "alt": "jeu",
       "alt_count": 1,
       "similarity": 0.0,
@@ -5114,37 +4251,7 @@
     {
       "char": "去",
       "main": "chi",
-      "main_count": 404,
-      "alt": "yi-la",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "yi-la",
-          "去"
-        ]
-      ]
-    },
-    {
-      "char": "去",
-      "main": "chi",
-      "main_count": 404,
-      "alt": "khoen-seu",
-      "alt_count": 1,
-      "similarity": 0.11,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "khoen-seu,",
-          "去"
-        ]
-      ]
-    },
-    {
-      "char": "去",
-      "main": "chi",
-      "main_count": 404,
+      "main_count": 406,
       "alt": "theh",
       "alt_count": 1,
       "similarity": 0.25,
@@ -5159,22 +4266,7 @@
     {
       "char": "去",
       "main": "chi",
-      "main_count": 404,
-      "alt": "yang-dien",
-      "alt_count": 1,
-      "similarity": 0.11,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "yang-dien",
-          "去"
-        ]
-      ]
-    },
-    {
-      "char": "去",
-      "main": "chi",
-      "main_count": 404,
+      "main_count": 406,
       "alt": "lau",
       "alt_count": 1,
       "similarity": 0.0,
@@ -5189,7 +4281,7 @@
     {
       "char": "去",
       "main": "chi",
-      "main_count": 404,
+      "main_count": 406,
       "alt": "khoen",
       "alt_count": 1,
       "similarity": 0.2,
@@ -5204,7 +4296,7 @@
     {
       "char": "哉",
       "main": "tse",
-      "main_count": 198,
+      "main_count": 197,
       "alt": "lau",
       "alt_count": 1,
       "similarity": 0.0,
@@ -5219,7 +4311,7 @@
     {
       "char": "用",
       "main": "yoong",
-      "main_count": 144,
+      "main_count": 143,
       "alt": "mo",
       "alt_count": 1,
       "similarity": 0.2,
@@ -5282,24 +4374,9 @@
       ]
     },
     {
-      "char": "三",
-      "main": "san",
-      "main_count": 93,
-      "alt": "pok",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "Pok-kyung-loo",
-          "三逮头"
-        ]
-      ]
-    },
-    {
       "char": "块",
       "main": "kwhe",
-      "main_count": 67,
+      "main_count": 66,
       "alt": "i-kwhe",
       "alt_count": 1,
       "similarity": 0.67,
@@ -5314,7 +4391,7 @@
     {
       "char": "块",
       "main": "kwhe",
-      "main_count": 67,
+      "main_count": 66,
       "alt": "khwe",
       "alt_count": 9,
       "similarity": 0.5,
@@ -5339,7 +4416,7 @@
     {
       "char": "块",
       "main": "kwhe",
-      "main_count": 67,
+      "main_count": 66,
       "alt": "yang",
       "alt_count": 1,
       "similarity": 0.0,
@@ -5354,7 +4431,7 @@
     {
       "char": "块",
       "main": "kwhe",
-      "main_count": 67,
+      "main_count": 66,
       "alt": "pak-kwhe",
       "alt_count": 1,
       "similarity": 0.5,
@@ -5369,7 +4446,22 @@
     {
       "char": "块",
       "main": "kwhe",
-      "main_count": 67,
+      "main_count": 66,
+      "alt": "pak",
+      "alt_count": 1,
+      "similarity": 0.0,
+      "examples": [
+        [
+          "lesson-57.typ",
+          "pak",
+          "块"
+        ]
+      ]
+    },
+    {
+      "char": "块",
+      "main": "kwhe",
+      "main_count": 66,
       "alt": "thoo",
       "alt_count": 1,
       "similarity": 0.0,
@@ -5382,39 +4474,9 @@
       ]
     },
     {
-      "char": "洋",
-      "main": "yang",
-      "main_count": 115,
-      "alt": "ta",
-      "alt_count": 1,
-      "similarity": 0.25,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "ta-ts",
-          "洋钱"
-        ]
-      ]
-    },
-    {
-      "char": "洋",
-      "main": "yang",
-      "main_count": 115,
-      "alt": "nan",
-      "alt_count": 1,
-      "similarity": 0.5,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "nan-meh",
-          "洋钱"
-        ]
-      ]
-    },
-    {
       "char": "钱",
       "main": "dien",
-      "main_count": 177,
+      "main_count": 178,
       "alt": "zeh",
       "alt_count": 1,
       "similarity": 0.25,
@@ -5423,36 +4485,6 @@
           "lesson-154.typ",
           "gah-zeh",
           "价钱。"
-        ]
-      ]
-    },
-    {
-      "char": "钱",
-      "main": "dien",
-      "main_count": 177,
-      "alt": "ts",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "ta-ts",
-          "洋钱"
-        ]
-      ]
-    },
-    {
-      "char": "钱",
-      "main": "dien",
-      "main_count": 177,
-      "alt": "meh",
-      "alt_count": 1,
-      "similarity": 0.25,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "nan-meh",
-          "洋钱"
         ]
       ]
     },
@@ -5496,7 +4528,7 @@
       "main": "tsak",
       "main_count": 62,
       "alt": "tsuh",
-      "alt_count": 22,
+      "alt_count": 21,
       "similarity": 0.5,
       "examples": [
         [
@@ -5534,15 +4566,30 @@
     {
       "char": "好",
       "main": "hau",
-      "main_count": 337,
-      "alt": "sang",
+      "main_count": 340,
+      "alt": "tah",
       "alt_count": 1,
-      "similarity": 0.25,
+      "similarity": 0.33,
       "examples": [
         [
           "lesson-47.typ",
-          "i-sang,",
-          "医好"
+          "tah",
+          "好"
+        ]
+      ]
+    },
+    {
+      "char": "好",
+      "main": "hau",
+      "main_count": 340,
+      "alt": "ting-hau",
+      "alt_count": 1,
+      "similarity": 0.38,
+      "examples": [
+        [
+          "lesson-47.typ",
+          "ting-hau",
+          "好"
         ]
       ]
     },
@@ -5639,7 +4686,7 @@
     {
       "char": "看",
       "main": "khoen",
-      "main_count": 285,
+      "main_count": 290,
       "alt": "thing",
       "alt_count": 3,
       "similarity": 0.2,
@@ -5664,67 +4711,7 @@
     {
       "char": "看",
       "main": "khoen",
-      "main_count": 285,
-      "alt": "yi",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "yi-la",
-          "看守，"
-        ]
-      ]
-    },
-    {
-      "char": "看",
-      "main": "khoen",
-      "main_count": 285,
-      "alt": "yeu",
-      "alt_count": 1,
-      "similarity": 0.2,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "yeu-kuh",
-          "看守。"
-        ]
-      ]
-    },
-    {
-      "char": "看",
-      "main": "khoen",
-      "main_count": 285,
-      "alt": "fah-tsuh",
-      "alt_count": 1,
-      "similarity": 0.12,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "fah-tsuh.",
-          "看"
-        ]
-      ]
-    },
-    {
-      "char": "看",
-      "main": "khoen",
-      "main_count": 285,
-      "alt": "soo",
-      "alt_count": 1,
-      "similarity": 0.2,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "soo-i",
-          "看着"
-        ]
-      ]
-    },
-    {
-      "char": "看",
-      "main": "khoen",
-      "main_count": 285,
+      "main_count": 290,
       "alt": "s-s",
       "alt_count": 1,
       "similarity": 0.0,
@@ -5739,7 +4726,7 @@
     {
       "char": "看",
       "main": "khoen",
-      "main_count": 285,
+      "main_count": 290,
       "alt": "khoen-khoen",
       "alt_count": 1,
       "similarity": 0.45,
@@ -5754,7 +4741,7 @@
     {
       "char": "见",
       "main": "kyien",
-      "main_count": 166,
+      "main_count": 164,
       "alt": "we",
       "alt_count": 1,
       "similarity": 0.2,
@@ -5769,22 +4756,7 @@
     {
       "char": "见",
       "main": "kyien",
-      "main_count": 166,
-      "alt": "kuh",
-      "alt_count": 1,
-      "similarity": 0.2,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "di-kuh",
-          "听见"
-        ]
-      ]
-    },
-    {
-      "char": "见",
-      "main": "kyien",
-      "main_count": 166,
+      "main_count": 164,
       "alt": "chi",
       "alt_count": 1,
       "similarity": 0.2,
@@ -5799,7 +4771,7 @@
     {
       "char": "地",
       "main": "di",
-      "main_count": 180,
+      "main_count": 181,
       "alt": "zaung",
       "alt_count": 1,
       "similarity": 0.0,
@@ -5812,24 +4784,9 @@
       ]
     },
     {
-      "char": "地",
-      "main": "di",
-      "main_count": 180,
-      "alt": "kauh",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-56.typ",
-          "kauh-tshu",
-          "地方"
-        ]
-      ]
-    },
-    {
       "char": "人",
       "main": "nyung",
-      "main_count": 816,
+      "main_count": 814,
       "alt": "nyung-ts",
       "alt_count": 1,
       "similarity": 0.62,
@@ -5844,7 +4801,7 @@
     {
       "char": "人",
       "main": "nyung",
-      "main_count": 816,
+      "main_count": 814,
       "alt": "kuh",
       "alt_count": 1,
       "similarity": 0.2,
@@ -5859,7 +4816,7 @@
     {
       "char": "人",
       "main": "nyung",
-      "main_count": 816,
+      "main_count": 814,
       "alt": "nyien-nyung",
       "alt_count": 1,
       "similarity": 0.45,
@@ -5874,7 +4831,7 @@
     {
       "char": "人",
       "main": "nyung",
-      "main_count": 816,
+      "main_count": 814,
       "alt": "tshu",
       "alt_count": 1,
       "similarity": 0.0,
@@ -5889,7 +4846,7 @@
     {
       "char": "人",
       "main": "nyung",
-      "main_count": 816,
+      "main_count": 814,
       "alt": "tung",
       "alt_count": 1,
       "similarity": 0.6,
@@ -5902,71 +4859,11 @@
       ]
     },
     {
-      "char": "人",
-      "main": "nyung",
-      "main_count": 816,
-      "alt": "ming",
-      "alt_count": 1,
-      "similarity": 0.4,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "pau-ming",
-          "病人"
-        ]
-      ]
-    },
-    {
-      "char": "人",
-      "main": "nyung",
-      "main_count": 816,
-      "alt": "bing",
-      "alt_count": 1,
-      "similarity": 0.4,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "mau-bing",
-          "有人"
-        ]
-      ]
-    },
-    {
-      "char": "人",
-      "main": "nyung",
-      "main_count": 816,
-      "alt": "li",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "li",
-          "人"
-        ]
-      ]
-    },
-    {
-      "char": "人",
-      "main": "nyung",
-      "main_count": 816,
-      "alt": "bing-nyung",
-      "alt_count": 1,
-      "similarity": 0.5,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "bing-nyung",
-          "人"
-        ]
-      ]
-    },
-    {
       "char": "也",
       "main": "'a",
-      "main_count": 289,
+      "main_count": 294,
       "alt": "yan",
-      "alt_count": 50,
+      "alt_count": 51,
       "similarity": 0.33,
       "examples": [
         [
@@ -5989,7 +4886,7 @@
     {
       "char": "也",
       "main": "'a",
-      "main_count": 289,
+      "main_count": 294,
       "alt": "ye",
       "alt_count": 1,
       "similarity": 0.0,
@@ -5997,36 +4894,6 @@
         [
           "lesson-54.typ",
           "Ye",
-          "也"
-        ]
-      ]
-    },
-    {
-      "char": "也",
-      "main": "'a",
-      "main_count": 289,
-      "alt": "zung-kwaung",
-      "alt_count": 1,
-      "similarity": 0.09,
-      "examples": [
-        [
-          "lesson-55.typ",
-          "zung-kwaung,",
-          "也"
-        ]
-      ]
-    },
-    {
-      "char": "也",
-      "main": "'a",
-      "main_count": 289,
-      "alt": "kuh",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "kuh",
           "也"
         ]
       ]
@@ -6047,24 +4914,9 @@
       ]
     },
     {
-      "char": "吃",
-      "main": "chuh",
-      "main_count": 146,
-      "alt": "yi",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "yi",
-          "吃"
-        ]
-      ]
-    },
-    {
       "char": "来",
       "main": "le",
-      "main_count": 614,
+      "main_count": 617,
       "alt": "le-kuh",
       "alt_count": 1,
       "similarity": 0.33,
@@ -6079,7 +4931,7 @@
     {
       "char": "来",
       "main": "le",
-      "main_count": 614,
+      "main_count": 617,
       "alt": "la-le",
       "alt_count": 1,
       "similarity": 0.4,
@@ -6094,7 +4946,7 @@
     {
       "char": "来",
       "main": "le",
-      "main_count": 614,
+      "main_count": 617,
       "alt": "la",
       "alt_count": 2,
       "similarity": 0.5,
@@ -6114,7 +4966,7 @@
     {
       "char": "来",
       "main": "le",
-      "main_count": 614,
+      "main_count": 617,
       "alt": "mau",
       "alt_count": 1,
       "similarity": 0.0,
@@ -6129,7 +4981,7 @@
     {
       "char": "来",
       "main": "le",
-      "main_count": 614,
+      "main_count": 617,
       "alt": "meh",
       "alt_count": 2,
       "similarity": 0.33,
@@ -6149,52 +5001,7 @@
     {
       "char": "来",
       "main": "le",
-      "main_count": 614,
-      "alt": "pien",
-      "alt_count": 1,
-      "similarity": 0.25,
-      "examples": [
-        [
-          "lesson-49.typ",
-          "koo-pien.",
-          "过来。"
-        ]
-      ]
-    },
-    {
-      "char": "来",
-      "main": "le",
-      "main_count": 614,
-      "alt": "iau",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "iau",
-          "来"
-        ]
-      ]
-    },
-    {
-      "char": "来",
-      "main": "le",
-      "main_count": 614,
-      "alt": "tshung",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "tshung-ts",
-          "来个"
-        ]
-      ]
-    },
-    {
-      "char": "来",
-      "main": "le",
-      "main_count": 614,
+      "main_count": 617,
       "alt": "pien-le",
       "alt_count": 1,
       "similarity": 0.29,
@@ -6209,7 +5016,7 @@
     {
       "char": "勿",
       "main": "'veh",
-      "main_count": 669,
+      "main_count": 672,
       "alt": "勿",
       "alt_count": 1,
       "similarity": 0.0,
@@ -6218,81 +5025,6 @@
           "lesson-144.typ",
           "勿",
           "勿"
-        ]
-      ]
-    },
-    {
-      "char": "勿",
-      "main": "'veh",
-      "main_count": 669,
-      "alt": "deu",
-      "alt_count": 1,
-      "similarity": 0.25,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "zien-deu-kuh",
-          "想勿出"
-        ]
-      ]
-    },
-    {
-      "char": "勿",
-      "main": "'veh",
-      "main_count": 669,
-      "alt": "li",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "li-kuh",
-          "勿曾"
-        ]
-      ]
-    },
-    {
-      "char": "勿",
-      "main": "'veh",
-      "main_count": 669,
-      "alt": "sing-tse-le",
-      "alt_count": 1,
-      "similarity": 0.09,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "sing-tse-le",
-          "勿"
-        ]
-      ]
-    },
-    {
-      "char": "勿",
-      "main": "'veh",
-      "main_count": 669,
-      "alt": "we",
-      "alt_count": 1,
-      "similarity": 0.25,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "We-ts",
-          "勿要"
-        ]
-      ]
-    },
-    {
-      "char": "勿",
-      "main": "'veh",
-      "main_count": 669,
-      "alt": "z",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "z-thi,",
-          "勿要"
         ]
       ]
     },
@@ -6308,21 +5040,6 @@
           "lesson-107.typ",
           "lau,",
           "能"
-        ]
-      ]
-    },
-    {
-      "char": "能",
-      "main": "nung",
-      "main_count": 116,
-      "alt": "ka",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "ka-theh",
-          "能彀"
         ]
       ]
     },
@@ -6399,7 +5116,7 @@
     {
       "char": "着",
       "main": "dzak",
-      "main_count": 109,
+      "main_count": 111,
       "alt": "tsak",
       "alt_count": 34,
       "similarity": 0.5,
@@ -6424,7 +5141,7 @@
     {
       "char": "着",
       "main": "dzak",
-      "main_count": 109,
+      "main_count": 111,
       "alt": "kuh",
       "alt_count": 1,
       "similarity": 0.0,
@@ -6439,22 +5156,7 @@
     {
       "char": "着",
       "main": "dzak",
-      "main_count": 109,
-      "alt": "i",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "soo-i",
-          "看着"
-        ]
-      ]
-    },
-    {
-      "char": "着",
-      "main": "dzak",
-      "main_count": 109,
+      "main_count": 111,
       "alt": "tsah",
       "alt_count": 1,
       "similarity": 0.25,
@@ -6469,7 +5171,7 @@
     {
       "char": "着",
       "main": "dzak",
-      "main_count": 109,
+      "main_count": 111,
       "alt": "khoen",
       "alt_count": 1,
       "similarity": 0.0,
@@ -6484,7 +5186,7 @@
     {
       "char": "天",
       "main": "thien",
-      "main_count": 111,
+      "main_count": 108,
       "alt": "nyih",
       "alt_count": 1,
       "similarity": 0.2,
@@ -6514,7 +5216,7 @@
     {
       "char": "要",
       "main": "iau",
-      "main_count": 577,
+      "main_count": 582,
       "alt": "iau-kuh",
       "alt_count": 1,
       "similarity": 0.43,
@@ -6529,82 +5231,7 @@
     {
       "char": "要",
       "main": "iau",
-      "main_count": 577,
-      "alt": "kaung-lung",
-      "alt_count": 1,
-      "similarity": 0.2,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "kaung-lung",
-          "要"
-        ]
-      ]
-    },
-    {
-      "char": "要",
-      "main": "iau",
-      "main_count": 577,
-      "alt": "khoen-dzak",
-      "alt_count": 1,
-      "similarity": 0.1,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "khoen-dzak",
-          "要"
-        ]
-      ]
-    },
-    {
-      "char": "要",
-      "main": "iau",
-      "main_count": 577,
-      "alt": "nyi",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "nyi",
-          "要"
-        ]
-      ]
-    },
-    {
-      "char": "要",
-      "main": "iau",
-      "main_count": 577,
-      "alt": "ts",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "We-ts",
-          "勿要"
-        ]
-      ]
-    },
-    {
-      "char": "要",
-      "main": "iau",
-      "main_count": 577,
-      "alt": "thi",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "z-thi,",
-          "勿要"
-        ]
-      ]
-    },
-    {
-      "char": "要",
-      "main": "iau",
-      "main_count": 577,
+      "main_count": 582,
       "alt": "zak",
       "alt_count": 1,
       "similarity": 0.33,
@@ -6613,51 +5240,6 @@
           "lesson-96.typ",
           "Zak-z",
           "要是"
-        ]
-      ]
-    },
-    {
-      "char": "当",
-      "main": "taung",
-      "main_count": 113,
-      "alt": "ting",
-      "alt_count": 1,
-      "similarity": 0.6,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "ting-hau",
-          "当中。"
-        ]
-      ]
-    },
-    {
-      "char": "体",
-      "main": "thi",
-      "main_count": 178,
-      "alt": "wo",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "bak-wo,",
-          "事体"
-        ]
-      ]
-    },
-    {
-      "char": "体",
-      "main": "thi",
-      "main_count": 178,
-      "alt": "z",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "dan-z",
-          "事体"
         ]
       ]
     },
@@ -6739,7 +5321,7 @@
     {
       "char": "话",
       "main": "wo",
-      "main_count": 332,
+      "main_count": 333,
       "alt": "yi",
       "alt_count": 1,
       "similarity": 0.0,
@@ -6754,29 +5336,14 @@
     {
       "char": "话",
       "main": "wo",
-      "main_count": 332,
-      "alt": "kuh",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "ih-kuh",
-          "白话，"
-        ]
-      ]
-    },
-    {
-      "char": "话",
-      "main": "wo",
-      "main_count": 332,
-      "alt": "dzen-khe",
+      "main_count": 333,
+      "alt": "nyung",
       "alt_count": 1,
       "similarity": 0.0,
       "examples": [
         [
           "lesson-47.typ",
-          "dzen-khe",
+          "nyung",
           "话，"
         ]
       ]
@@ -6784,7 +5351,7 @@
     {
       "char": "下",
       "main": "'au",
-      "main_count": 105,
+      "main_count": 108,
       "alt": "ti",
       "alt_count": 1,
       "similarity": 0.0,
@@ -6799,7 +5366,7 @@
     {
       "char": "下",
       "main": "'au",
-      "main_count": 105,
+      "main_count": 108,
       "alt": "au",
       "alt_count": 1,
       "similarity": 0.67,
@@ -6814,7 +5381,7 @@
     {
       "char": "下",
       "main": "'au",
-      "main_count": 105,
+      "main_count": 108,
       "alt": "ya",
       "alt_count": 2,
       "similarity": 0.33,
@@ -6834,7 +5401,7 @@
     {
       "char": "到",
       "main": "tau",
-      "main_count": 533,
+      "main_count": 534,
       "alt": "yi",
       "alt_count": 1,
       "similarity": 0.0,
@@ -6849,7 +5416,7 @@
     {
       "char": "到",
       "main": "tau",
-      "main_count": 533,
+      "main_count": 534,
       "alt": "tung-tau",
       "alt_count": 1,
       "similarity": 0.38,
@@ -6864,7 +5431,7 @@
     {
       "char": "到",
       "main": "tau",
-      "main_count": 533,
+      "main_count": 534,
       "alt": "'ang",
       "alt_count": 1,
       "similarity": 0.25,
@@ -6872,81 +5439,6 @@
         [
           "lesson-17.typ",
           "'ang",
-          "到"
-        ]
-      ]
-    },
-    {
-      "char": "到",
-      "main": "tau",
-      "main_count": 533,
-      "alt": "yi-la",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "yi-la,",
-          "到"
-        ]
-      ]
-    },
-    {
-      "char": "到",
-      "main": "tau",
-      "main_count": 533,
-      "alt": "yeu-kuh",
-      "alt_count": 1,
-      "similarity": 0.14,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "yeu-kuh",
-          "到"
-        ]
-      ]
-    },
-    {
-      "char": "到",
-      "main": "tau",
-      "main_count": 533,
-      "alt": "laung",
-      "alt_count": 1,
-      "similarity": 0.4,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "laung",
-          "到"
-        ]
-      ]
-    },
-    {
-      "char": "到",
-      "main": "tau",
-      "main_count": 533,
-      "alt": "boo",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "dzing-boo,",
-          "走到"
-        ]
-      ]
-    },
-    {
-      "char": "到",
-      "main": "tau",
-      "main_count": 533,
-      "alt": "pak",
-      "alt_count": 1,
-      "similarity": 0.33,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "pak",
           "到"
         ]
       ]
@@ -6969,7 +5461,7 @@
     {
       "char": "六",
       "main": "lok",
-      "main_count": 25,
+      "main_count": 26,
       "alt": "zeh",
       "alt_count": 1,
       "similarity": 0.0,
@@ -6984,7 +5476,7 @@
     {
       "char": "日",
       "main": "nyih",
-      "main_count": 177,
+      "main_count": 178,
       "alt": "zeh",
       "alt_count": 8,
       "similarity": 0.25,
@@ -7009,7 +5501,7 @@
     {
       "char": "日",
       "main": "nyih",
-      "main_count": 177,
+      "main_count": 178,
       "alt": "nyili",
       "alt_count": 1,
       "similarity": 0.6,
@@ -7039,7 +5531,7 @@
     {
       "char": "若",
       "main": "zak",
-      "main_count": 139,
+      "main_count": 138,
       "alt": "zah",
       "alt_count": 3,
       "similarity": 0.67,
@@ -7134,7 +5626,7 @@
     {
       "char": "末",
       "main": "meh",
-      "main_count": 817,
+      "main_count": 818,
       "alt": "ke",
       "alt_count": 2,
       "similarity": 0.33,
@@ -7154,7 +5646,7 @@
     {
       "char": "末",
       "main": "meh",
-      "main_count": 817,
+      "main_count": 818,
       "alt": "lau",
       "alt_count": 2,
       "similarity": 0.0,
@@ -7174,7 +5666,7 @@
     {
       "char": "末",
       "main": "meh",
-      "main_count": 817,
+      "main_count": 818,
       "alt": "yi-meh",
       "alt_count": 1,
       "similarity": 0.5,
@@ -7189,7 +5681,7 @@
     {
       "char": "末",
       "main": "meh",
-      "main_count": 817,
+      "main_count": 818,
       "alt": "ma-ts",
       "alt_count": 1,
       "similarity": 0.2,
@@ -7204,29 +5696,14 @@
     {
       "char": "末",
       "main": "meh",
-      "main_count": 817,
-      "alt": "jang",
+      "main_count": 818,
+      "alt": "kuh",
       "alt_count": 1,
-      "similarity": 0.0,
+      "similarity": 0.33,
       "examples": [
         [
-          "lesson-46.typ",
-          "jang-dau",
-          "末脚"
-        ]
-      ]
-    },
-    {
-      "char": "末",
-      "main": "meh",
-      "main_count": 817,
-      "alt": "van-i",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "van-i",
+          "lesson-49.typ",
+          "kuh",
           "末"
         ]
       ]
@@ -7234,37 +5711,7 @@
     {
       "char": "末",
       "main": "meh",
-      "main_count": 817,
-      "alt": "too-chi-le",
-      "alt_count": 1,
-      "similarity": 0.1,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "too-chi-le.",
-          "末"
-        ]
-      ]
-    },
-    {
-      "char": "末",
-      "main": "meh",
-      "main_count": 817,
-      "alt": "dzak",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "kauh-dzak",
-          "难末"
-        ]
-      ]
-    },
-    {
-      "char": "末",
-      "main": "meh",
-      "main_count": 817,
+      "main_count": 818,
       "alt": "le",
       "alt_count": 1,
       "similarity": 0.33,
@@ -7277,17 +5724,32 @@
       ]
     },
     {
-      "char": "以",
-      "main": "i",
-      "main_count": 312,
-      "alt": "bing",
+      "char": "搭",
+      "main": "tah",
+      "main_count": 110,
+      "alt": "bing-nyung",
       "alt_count": 1,
-      "similarity": 0.25,
+      "similarity": 0.0,
       "examples": [
         [
           "lesson-47.typ",
-          "mau-bing,",
-          "所以"
+          "bing-nyung",
+          "搭"
+        ]
+      ]
+    },
+    {
+      "char": "搭",
+      "main": "tah",
+      "main_count": 110,
+      "alt": "yau",
+      "alt_count": 1,
+      "similarity": 0.33,
+      "examples": [
+        [
+          "lesson-48.typ",
+          "yau-tsho-meh,",
+          "搭差末，"
         ]
       ]
     },
@@ -7311,35 +5773,25 @@
       "main": "dau",
       "main_count": 32,
       "alt": "tau",
-      "alt_count": 1,
+      "alt_count": 2,
       "similarity": 0.67,
       "examples": [
         [
           "lesson-31.typ",
           "'veh-gah-tau",
           "勿轧淘"
-        ]
-      ]
-    },
-    {
-      "char": "头",
-      "main": "deu",
-      "main_count": 380,
-      "alt": "loo",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
+        ],
         [
-          "lesson-46.typ",
-          "Pok-kyung-loo",
-          "三逮头"
+          "lesson-57.typ",
+          "gah-tau",
+          "轧淘"
         ]
       ]
     },
     {
       "char": "头",
       "main": "deu",
-      "main_count": 380,
+      "main_count": 379,
       "alt": "zaung-deu",
       "alt_count": 1,
       "similarity": 0.33,
@@ -7354,7 +5806,7 @@
     {
       "char": "头",
       "main": "deu",
-      "main_count": 380,
+      "main_count": 379,
       "alt": "dau",
       "alt_count": 1,
       "similarity": 0.67,
@@ -7369,7 +5821,7 @@
     {
       "char": "伊",
       "main": "yi",
-      "main_count": 1026,
+      "main_count": 1042,
       "alt": "i",
       "alt_count": 102,
       "similarity": 0.5,
@@ -7394,7 +5846,7 @@
     {
       "char": "伊",
       "main": "yi",
-      "main_count": 1026,
+      "main_count": 1042,
       "alt": "tau",
       "alt_count": 1,
       "similarity": 0.0,
@@ -7409,9 +5861,9 @@
     {
       "char": "伊",
       "main": "yi",
-      "main_count": 1026,
+      "main_count": 1042,
       "alt": "yi-kuh",
-      "alt_count": 3,
+      "alt_count": 2,
       "similarity": 0.33,
       "examples": [
         [
@@ -7423,18 +5875,13 @@
           "lesson-134.typ",
           "yi-kuh",
           "伊"
-        ],
-        [
-          "lesson-57.typ",
-          "yi-kuh",
-          "伊"
         ]
       ]
     },
     {
       "char": "伊",
       "main": "yi",
-      "main_count": 1026,
+      "main_count": 1042,
       "alt": "yi.”",
       "alt_count": 1,
       "similarity": 0.5,
@@ -7449,7 +5896,7 @@
     {
       "char": "伊",
       "main": "yi",
-      "main_count": 1026,
+      "main_count": 1042,
       "alt": "ih",
       "alt_count": 1,
       "similarity": 0.0,
@@ -7464,7 +5911,7 @@
     {
       "char": "伊",
       "main": "yi",
-      "main_count": 1026,
+      "main_count": 1042,
       "alt": "na",
       "alt_count": 1,
       "similarity": 0.0,
@@ -7479,192 +5926,37 @@
     {
       "char": "伊",
       "main": "yi",
-      "main_count": 1026,
+      "main_count": 1042,
       "alt": "iung",
-      "alt_count": 2,
+      "alt_count": 1,
       "similarity": 0.0,
       "examples": [
         [
           "lesson-26.typ",
           "iung-ke",
           "伊拉"
-        ],
-        [
-          "lesson-46.typ",
-          "Iung-doo",
-          "伊拉，"
         ]
       ]
     },
     {
-      "char": "伊",
-      "main": "yi",
-      "main_count": 1026,
-      "alt": "diau",
-      "alt_count": 1,
-      "similarity": 0.25,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "i-diau-ka,",
-          "派伊拉"
-        ]
-      ]
-    },
-    {
-      "char": "伊",
-      "main": "yi",
-      "main_count": 1026,
-      "alt": "sing-vaung-ts",
-      "alt_count": 1,
-      "similarity": 0.08,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "sing-vaung-ts,",
-          "伊"
-        ]
-      ]
-    },
-    {
-      "char": "伊",
-      "main": "yi",
-      "main_count": 1026,
-      "alt": "le",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "le",
-          "伊"
-        ]
-      ]
-    },
-    {
-      "char": "伊",
-      "main": "yi",
-      "main_count": 1026,
-      "alt": "bi-joen",
-      "alt_count": 1,
-      "similarity": 0.14,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "bi-joen",
-          "伊"
-        ]
-      ]
-    },
-    {
-      "char": "伊",
-      "main": "yi",
-      "main_count": 1026,
-      "alt": "theu",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "theu",
-          "伊"
-        ]
-      ]
-    },
-    {
-      "char": "伊",
-      "main": "yi",
-      "main_count": 1026,
-      "alt": "loong-tsoong",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "loong-tsoong",
-          "伊"
-        ]
-      ]
-    },
-    {
-      "char": "伊",
-      "main": "yi",
-      "main_count": 1026,
-      "alt": "chi",
+      "char": "为",
+      "main": "we",
+      "main_count": 230,
+      "alt": "duh-we",
       "alt_count": 1,
       "similarity": 0.33,
       "examples": [
         [
-          "lesson-57.typ",
-          "chi-tse,",
-          "伊个"
-        ]
-      ]
-    },
-    {
-      "char": "为",
-      "main": "we",
-      "main_count": 228,
-      "alt": "tshu",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
           "lesson-47.typ",
-          "iuh-tshu.",
-          "特为"
-        ]
-      ]
-    },
-    {
-      "char": "为",
-      "main": "we",
-      "main_count": 228,
-      "alt": "we-ts",
-      "alt_count": 1,
-      "similarity": 0.4,
-      "examples": [
-        [
-          "lesson-58.typ",
-          "we-ts",
+          "duh-we",
           "为"
-        ]
-      ]
-    },
-    {
-      "char": "事",
-      "main": "z",
-      "main_count": 247,
-      "alt": "bak",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "bak-wo,",
-          "事体"
-        ]
-      ]
-    },
-    {
-      "char": "事",
-      "main": "z",
-      "main_count": 247,
-      "alt": "dan",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "dan-z",
-          "事体"
         ]
       ]
     },
     {
       "char": "做",
       "main": "tsoo",
-      "main_count": 220,
+      "main_count": 221,
       "alt": "tsoo-tuh",
       "alt_count": 1,
       "similarity": 0.5,
@@ -7679,7 +5971,7 @@
     {
       "char": "做",
       "main": "tsoo",
-      "main_count": 220,
+      "main_count": 221,
       "alt": "tsoo-z",
       "alt_count": 1,
       "similarity": 0.67,
@@ -7694,7 +5986,7 @@
     {
       "char": "做",
       "main": "tsoo",
-      "main_count": 220,
+      "main_count": 221,
       "alt": "pih",
       "alt_count": 1,
       "similarity": 0.0,
@@ -7702,36 +5994,6 @@
         [
           "lesson-143.typ",
           "pih",
-          "做"
-        ]
-      ]
-    },
-    {
-      "char": "做",
-      "main": "tsoo",
-      "main_count": 220,
-      "alt": "hwaung-tshien",
-      "alt_count": 1,
-      "similarity": 0.15,
-      "examples": [
-        [
-          "lesson-55.typ",
-          "hwaung-tshien",
-          "做"
-        ]
-      ]
-    },
-    {
-      "char": "做",
-      "main": "tsoo",
-      "main_count": 220,
-      "alt": "tsu-we",
-      "alt_count": 1,
-      "similarity": 0.33,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "tsu-we",
           "做"
         ]
       ]
@@ -7754,7 +6016,7 @@
     {
       "char": "就",
       "main": "zieu",
-      "main_count": 218,
+      "main_count": 222,
       "alt": "tan",
       "alt_count": 2,
       "similarity": 0.0,
@@ -7772,69 +6034,9 @@
       ]
     },
     {
-      "char": "就",
-      "main": "zieu",
-      "main_count": 218,
-      "alt": "yi",
-      "alt_count": 1,
-      "similarity": 0.25,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "yi-kuh",
-          "就有"
-        ]
-      ]
-    },
-    {
-      "char": "就",
-      "main": "zieu",
-      "main_count": 218,
-      "alt": "dzing-boo",
-      "alt_count": 1,
-      "similarity": 0.22,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "dzing-boo",
-          "就"
-        ]
-      ]
-    },
-    {
-      "char": "就",
-      "main": "zieu",
-      "main_count": 218,
-      "alt": "liang",
-      "alt_count": 1,
-      "similarity": 0.2,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "liang",
-          "就"
-        ]
-      ]
-    },
-    {
-      "char": "就",
-      "main": "zieu",
-      "main_count": 218,
-      "alt": "chung-chung",
-      "alt_count": 1,
-      "similarity": 0.09,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "chung-chung",
-          "就"
-        ]
-      ]
-    },
-    {
       "char": "是",
       "main": "z",
-      "main_count": 808,
+      "main_count": 816,
       "alt": "meh",
       "alt_count": 2,
       "similarity": 0.0,
@@ -7854,7 +6056,7 @@
     {
       "char": "是",
       "main": "z",
-      "main_count": 808,
+      "main_count": 816,
       "alt": "'veh",
       "alt_count": 1,
       "similarity": 0.0,
@@ -7869,7 +6071,7 @@
     {
       "char": "是",
       "main": "z",
-      "main_count": 808,
+      "main_count": 816,
       "alt": "kyeu-hoo",
       "alt_count": 1,
       "similarity": 0.0,
@@ -7884,7 +6086,7 @@
     {
       "char": "是",
       "main": "z",
-      "main_count": 808,
+      "main_count": 816,
       "alt": "zeh-ke",
       "alt_count": 1,
       "similarity": 0.17,
@@ -7899,102 +6101,7 @@
     {
       "char": "是",
       "main": "z",
-      "main_count": 808,
-      "alt": "yi",
-      "alt_count": 2,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "yi",
-          "是"
-        ],
-        [
-          "lesson-57.typ",
-          "yi",
-          "是"
-        ]
-      ]
-    },
-    {
-      "char": "是",
-      "main": "z",
-      "main_count": 808,
-      "alt": "ngoo",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "Ngoo",
-          "是"
-        ]
-      ]
-    },
-    {
-      "char": "是",
-      "main": "z",
-      "main_count": 808,
-      "alt": "li",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "li,",
-          "是"
-        ]
-      ]
-    },
-    {
-      "char": "是",
-      "main": "z",
-      "main_count": 808,
-      "alt": "di-faung",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-56.typ",
-          "di-faung",
-          "是"
-        ]
-      ]
-    },
-    {
-      "char": "是",
-      "main": "z",
-      "main_count": 808,
-      "alt": "tshoen",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "tshoen",
-          "是"
-        ]
-      ]
-    },
-    {
-      "char": "是",
-      "main": "z",
-      "main_count": 808,
-      "alt": "ien",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "hyang-ien,",
-          "但是"
-        ]
-      ]
-    },
-    {
-      "char": "是",
-      "main": "z",
-      "main_count": 808,
+      "main_count": 816,
       "alt": "s",
       "alt_count": 1,
       "similarity": 0.0,
@@ -8003,21 +6110,6 @@
           "lesson-81.typ",
           "Zak-s",
           "若是"
-        ]
-      ]
-    },
-    {
-      "char": "处",
-      "main": "tshu",
-      "main_count": 52,
-      "alt": "kok",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-56.typ",
-          "Tsoong-kok",
-          "各处"
         ]
       ]
     },
@@ -8037,69 +6129,9 @@
       ]
     },
     {
-      "char": "已",
-      "main": "i",
-      "main_count": 45,
-      "alt": "tshing",
-      "alt_count": 1,
-      "similarity": 0.17,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "tshing-kyih",
-          "已经"
-        ]
-      ]
-    },
-    {
-      "char": "已",
-      "main": "i",
-      "main_count": 45,
-      "alt": "tsho",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "tsho-dzan",
-          "已经"
-        ]
-      ]
-    },
-    {
-      "char": "经",
-      "main": "kyung",
-      "main_count": 58,
-      "alt": "kyih",
-      "alt_count": 1,
-      "similarity": 0.4,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "tshing-kyih",
-          "已经"
-        ]
-      ]
-    },
-    {
-      "char": "经",
-      "main": "kyung",
-      "main_count": 58,
-      "alt": "dzan",
-      "alt_count": 1,
-      "similarity": 0.2,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "tsho-dzan",
-          "已经"
-        ]
-      ]
-    },
-    {
       "char": "讲",
       "main": "kaung",
-      "main_count": 55,
+      "main_count": 57,
       "alt": "lung",
       "alt_count": 1,
       "similarity": 0.6,
@@ -8108,36 +6140,6 @@
           "lesson-124.typ",
           "Lung-tau",
           "讲到"
-        ]
-      ]
-    },
-    {
-      "char": "定",
-      "main": "ding",
-      "main_count": 61,
-      "alt": "sung",
-      "alt_count": 1,
-      "similarity": 0.5,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "i-sung",
-          "一定"
-        ]
-      ]
-    },
-    {
-      "char": "但",
-      "main": "dan",
-      "main_count": 149,
-      "alt": "hyang",
-      "alt_count": 1,
-      "similarity": 0.4,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "hyang-ien,",
-          "但是"
         ]
       ]
     },
@@ -8174,7 +6176,7 @@
     {
       "char": "曾",
       "main": "zung",
-      "main_count": 34,
+      "main_count": 35,
       "alt": "tsung",
       "alt_count": 1,
       "similarity": 0.6,
@@ -8187,24 +6189,9 @@
       ]
     },
     {
-      "char": "曾",
-      "main": "zung",
-      "main_count": 34,
-      "alt": "kuh",
-      "alt_count": 1,
-      "similarity": 0.25,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "li-kuh",
-          "勿曾"
-        ]
-      ]
-    },
-    {
       "char": "清",
       "main": "tshing",
-      "main_count": 24,
+      "main_count": 25,
       "alt": "chi",
       "alt_count": 1,
       "similarity": 0.33,
@@ -8217,39 +6204,9 @@
       ]
     },
     {
-      "char": "清",
-      "main": "tshing",
-      "main_count": 24,
-      "alt": "'ok",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "'ok-tse",
-          "清洁"
-        ]
-      ]
-    },
-    {
-      "char": "所",
-      "main": "soo",
-      "main_count": 225,
-      "alt": "mau",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "mau-bing,",
-          "所以"
-        ]
-      ]
-    },
-    {
       "char": "第",
       "main": "di",
-      "main_count": 368,
+      "main_count": 375,
       "alt": "tsh",
       "alt_count": 1,
       "similarity": 0.0,
@@ -8264,7 +6221,7 @@
     {
       "char": "第",
       "main": "di",
-      "main_count": 368,
+      "main_count": 375,
       "alt": "paung",
       "alt_count": 1,
       "similarity": 0.0,
@@ -8277,39 +6234,9 @@
       ]
     },
     {
-      "char": "第",
-      "main": "di",
-      "main_count": 368,
-      "alt": "bing",
-      "alt_count": 1,
-      "similarity": 0.25,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "bing-nyung",
-          "第个"
-        ]
-      ]
-    },
-    {
-      "char": "位",
-      "main": "we",
-      "main_count": 35,
-      "alt": "kuh",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "theu-kuh.",
-          "诸位"
-        ]
-      ]
-    },
-    {
       "char": "出",
       "main": "tsheh",
-      "main_count": 168,
+      "main_count": 169,
       "alt": "tshau",
       "alt_count": 1,
       "similarity": 0.6,
@@ -8324,7 +6251,7 @@
     {
       "char": "出",
       "main": "tsheh",
-      "main_count": 168,
+      "main_count": 169,
       "alt": "nyung",
       "alt_count": 1,
       "similarity": 0.0,
@@ -8333,21 +6260,6 @@
           "lesson-28.typ",
           "nyui-nyung",
           "跳出"
-        ]
-      ]
-    },
-    {
-      "char": "出",
-      "main": "tsheh",
-      "main_count": 168,
-      "alt": "kuh",
-      "alt_count": 1,
-      "similarity": 0.2,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "zien-deu-kuh",
-          "想勿出"
         ]
       ]
     },
@@ -8369,7 +6281,7 @@
     {
       "char": "论",
       "main": "lung",
-      "main_count": 30,
+      "main_count": 31,
       "alt": "dan",
       "alt_count": 1,
       "similarity": 0.25,
@@ -8408,6 +6320,21 @@
           "lesson-142.typ",
           "i-ba",
           "排"
+        ]
+      ]
+    },
+    {
+      "char": "顶",
+      "main": "ting",
+      "main_count": 77,
+      "alt": "nyung",
+      "alt_count": 1,
+      "similarity": 0.4,
+      "examples": [
+        [
+          "lesson-47.typ",
+          "nyung,",
+          "顶"
         ]
       ]
     },
@@ -8459,7 +6386,7 @@
     {
       "char": "者",
       "main": "tse",
-      "main_count": 152,
+      "main_count": 155,
       "alt": "ts",
       "alt_count": 1,
       "similarity": 0.67,
@@ -8474,7 +6401,7 @@
     {
       "char": "者",
       "main": "tse",
-      "main_count": 152,
+      "main_count": 155,
       "alt": "lih-tse",
       "alt_count": 1,
       "similarity": 0.43,
@@ -8599,7 +6526,7 @@
     {
       "char": "等",
       "main": "tung",
-      "main_count": 55,
+      "main_count": 56,
       "alt": "z",
       "alt_count": 1,
       "similarity": 0.0,
@@ -8614,7 +6541,7 @@
     {
       "char": "等",
       "main": "tung",
-      "main_count": 55,
+      "main_count": 56,
       "alt": "dzoo",
       "alt_count": 1,
       "similarity": 0.0,
@@ -8629,7 +6556,7 @@
     {
       "char": "实",
       "main": "zeh",
-      "main_count": 125,
+      "main_count": 128,
       "alt": "seh",
       "alt_count": 1,
       "similarity": 0.67,
@@ -8644,22 +6571,7 @@
     {
       "char": "实",
       "main": "zeh",
-      "main_count": 125,
-      "alt": "tsoong",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "tsoong-tok,",
-          "实在"
-        ]
-      ]
-    },
-    {
-      "char": "实",
-      "main": "zeh",
-      "main_count": 125,
+      "main_count": 128,
       "alt": "zek",
       "alt_count": 1,
       "similarity": 0.67,
@@ -8667,14 +6579,14 @@
         [
           "lesson-48.typ",
           "Zek-ke-kuh",
-          "实在个"
+          "实盖个"
         ]
       ]
     },
     {
       "char": "盖",
       "main": "ke",
-      "main_count": 59,
+      "main_count": 61,
       "alt": "keh",
       "alt_count": 51,
       "similarity": 0.67,
@@ -8699,7 +6611,7 @@
     {
       "char": "盖",
       "main": "ke",
-      "main_count": 59,
+      "main_count": 61,
       "alt": "zeh",
       "alt_count": 2,
       "similarity": 0.33,
@@ -8719,7 +6631,7 @@
     {
       "char": "盖",
       "main": "ke",
-      "main_count": 59,
+      "main_count": 61,
       "alt": "kuh",
       "alt_count": 2,
       "similarity": 0.33,
@@ -8733,6 +6645,21 @@
           "lesson-43.typ",
           "kuh-meh,",
           "盖末"
+        ]
+      ]
+    },
+    {
+      "char": "常",
+      "main": "dzang",
+      "main_count": 87,
+      "alt": "kwe",
+      "alt_count": 1,
+      "similarity": 0.0,
+      "examples": [
+        [
+          "lesson-47.typ",
+          "kwe-kyui;",
+          "常规；"
         ]
       ]
     },
@@ -8784,9 +6711,9 @@
     {
       "char": "大",
       "main": "doo",
-      "main_count": 201,
+      "main_count": 199,
       "alt": "da",
-      "alt_count": 94,
+      "alt_count": 95,
       "similarity": 0.33,
       "examples": [
         [
@@ -8809,7 +6736,7 @@
     {
       "char": "大",
       "main": "doo",
-      "main_count": 201,
+      "main_count": 199,
       "alt": "dzung",
       "alt_count": 4,
       "similarity": 0.2,
@@ -8834,7 +6761,7 @@
     {
       "char": "大",
       "main": "doo",
-      "main_count": 201,
+      "main_count": 199,
       "alt": "too",
       "alt_count": 2,
       "similarity": 0.67,
@@ -8854,7 +6781,7 @@
     {
       "char": "大",
       "main": "doo",
-      "main_count": 201,
+      "main_count": 199,
       "alt": "ta",
       "alt_count": 1,
       "similarity": 0.0,
@@ -8869,7 +6796,7 @@
     {
       "char": "大",
       "main": "doo",
-      "main_count": 201,
+      "main_count": 199,
       "alt": "doo-kuh",
       "alt_count": 2,
       "similarity": 0.43,
@@ -8889,7 +6816,7 @@
     {
       "char": "不",
       "main": "pih",
-      "main_count": 37,
+      "main_count": 36,
       "alt": "'veh",
       "alt_count": 7,
       "similarity": 0.25,
@@ -8914,7 +6841,7 @@
     {
       "char": "不",
       "main": "pih",
-      "main_count": 37,
+      "main_count": 36,
       "alt": "peh",
       "alt_count": 4,
       "similarity": 0.67,
@@ -8939,7 +6866,7 @@
     {
       "char": "不",
       "main": "pih",
-      "main_count": 37,
+      "main_count": 36,
       "alt": "pih-koo",
       "alt_count": 1,
       "similarity": 0.43,
@@ -8954,7 +6881,7 @@
     {
       "char": "化",
       "main": "hau",
-      "main_count": 175,
+      "main_count": 173,
       "alt": "hwo",
       "alt_count": 4,
       "similarity": 0.33,
@@ -8979,7 +6906,7 @@
     {
       "char": "化",
       "main": "hau",
-      "main_count": 175,
+      "main_count": 173,
       "alt": "hoo",
       "alt_count": 1,
       "similarity": 0.33,
@@ -8994,7 +6921,7 @@
     {
       "char": "拨",
       "main": "peh",
-      "main_count": 135,
+      "main_count": 136,
       "alt": "pan",
       "alt_count": 1,
       "similarity": 0.33,
@@ -9009,7 +6936,7 @@
     {
       "char": "拨",
       "main": "peh",
-      "main_count": 135,
+      "main_count": 136,
       "alt": "peh-noong",
       "alt_count": 1,
       "similarity": 0.33,
@@ -9017,36 +6944,6 @@
         [
           "lesson-40.typ",
           "peh-noong",
-          "拨"
-        ]
-      ]
-    },
-    {
-      "char": "拨",
-      "main": "peh",
-      "main_count": 135,
-      "alt": "kau-san",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "kau-san",
-          "拨"
-        ]
-      ]
-    },
-    {
-      "char": "拨",
-      "main": "peh",
-      "main_count": 135,
-      "alt": "yi",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-55.typ",
-          "yi",
           "拨"
         ]
       ]
@@ -9073,66 +6970,6 @@
           "lesson-31.typ",
           "lau-ban.",
           "老班。"
-        ]
-      ]
-    },
-    {
-      "char": "外",
-      "main": "nga",
-      "main_count": 103,
-      "alt": "peh",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-55.typ",
-          "peh",
-          "外"
-        ]
-      ]
-    },
-    {
-      "char": "国",
-      "main": "kok",
-      "main_count": 249,
-      "alt": "ts",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "tsh-ts",
-          "中国"
-        ]
-      ]
-    },
-    {
-      "char": "中",
-      "main": "tsoong",
-      "main_count": 150,
-      "alt": "tsh",
-      "alt_count": 1,
-      "similarity": 0.33,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "tsh-ts",
-          "中国"
-        ]
-      ]
-    },
-    {
-      "char": "中",
-      "main": "tsoong",
-      "main_count": 150,
-      "alt": "hau",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "ting-hau",
-          "当中。"
         ]
       ]
     },
@@ -9199,22 +7036,7 @@
     {
       "char": "几",
       "main": "kyi",
-      "main_count": 149,
-      "alt": "kyau",
-      "alt_count": 1,
-      "similarity": 0.5,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "kyau-pi,",
-          "几个"
-        ]
-      ]
-    },
-    {
-      "char": "几",
-      "main": "kyi",
-      "main_count": 149,
+      "main_count": 151,
       "alt": "hyi",
       "alt_count": 1,
       "similarity": 0.67,
@@ -9229,7 +7051,7 @@
     {
       "char": "脱",
       "main": "theh",
-      "main_count": 148,
+      "main_count": 145,
       "alt": "thoch",
       "alt_count": 2,
       "similarity": 0.6,
@@ -9249,22 +7071,22 @@
     {
       "char": "脱",
       "main": "theh",
-      "main_count": 148,
-      "alt": "hoo",
+      "main_count": 145,
+      "alt": "wa",
       "alt_count": 1,
-      "similarity": 0.25,
+      "similarity": 0.0,
       "examples": [
         [
-          "lesson-57.typ",
-          "yang-hoo",
-          "戒脱"
+          "lesson-49.typ",
+          "saung-wa",
+          "弹脱"
         ]
       ]
     },
     {
       "char": "脱",
       "main": "theh",
-      "main_count": 148,
+      "main_count": 145,
       "alt": "tuh",
       "alt_count": 1,
       "similarity": 0.5,
@@ -9279,7 +7101,7 @@
     {
       "char": "想",
       "main": "siang",
-      "main_count": 152,
+      "main_count": 151,
       "alt": "siang-chi",
       "alt_count": 1,
       "similarity": 0.56,
@@ -9292,24 +7114,9 @@
       ]
     },
     {
-      "char": "想",
-      "main": "siang",
-      "main_count": 152,
-      "alt": "zien",
-      "alt_count": 1,
-      "similarity": 0.4,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "zien-deu-kuh",
-          "想勿出"
-        ]
-      ]
-    },
-    {
       "char": "后",
       "main": "'eu",
-      "main_count": 100,
+      "main_count": 99,
       "alt": "eu",
       "alt_count": 2,
       "similarity": 0.67,
@@ -9327,39 +7134,24 @@
       ]
     },
     {
-      "char": "新",
-      "main": "sing",
-      "main_count": 62,
-      "alt": "zien",
+      "char": "规",
+      "main": "kwe",
+      "main_count": 13,
+      "alt": "kyui",
       "alt_count": 1,
       "similarity": 0.25,
       "examples": [
         [
           "lesson-47.typ",
-          "Zien-nyih-ts",
-          "新闻纸"
-        ]
-      ]
-    },
-    {
-      "char": "法",
-      "main": "fah",
-      "main_count": 74,
-      "alt": "di",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "di-kuh",
-          "法则。"
+          "kwe-kyui;",
+          "常规；"
         ]
       ]
     },
     {
       "char": "得",
       "main": "tuh",
-      "main_count": 276,
+      "main_count": 278,
       "alt": "ngen",
       "alt_count": 1,
       "similarity": 0.0,
@@ -9374,7 +7166,7 @@
     {
       "char": "得",
       "main": "tuh",
-      "main_count": 276,
+      "main_count": 278,
       "alt": "lau",
       "alt_count": 1,
       "similarity": 0.0,
@@ -9389,7 +7181,7 @@
     {
       "char": "得",
       "main": "tuh",
-      "main_count": 276,
+      "main_count": 278,
       "alt": "luh",
       "alt_count": 1,
       "similarity": 0.67,
@@ -9402,24 +7194,9 @@
       ]
     },
     {
-      "char": "生",
-      "main": "sang",
-      "main_count": 208,
-      "alt": "nyien",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "kyi-nyien",
-          "医生"
-        ]
-      ]
-    },
-    {
       "char": "望",
       "main": "maung",
-      "main_count": 21,
+      "main_count": 23,
       "alt": "khoen",
       "alt_count": 1,
       "similarity": 0.0,
@@ -9434,7 +7211,7 @@
     {
       "char": "长",
       "main": "dzang",
-      "main_count": 26,
+      "main_count": 27,
       "alt": "tsang",
       "alt_count": 10,
       "similarity": 0.6,
@@ -9453,21 +7230,6 @@
           "lesson-149.typ",
           "tsang-tsok",
           "长足"
-        ]
-      ]
-    },
-    {
-      "char": "长",
-      "main": "dzang",
-      "main_count": 26,
-      "alt": "thuh",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-55.typ",
-          "thuh",
-          "长"
         ]
       ]
     },
@@ -9514,7 +7276,7 @@
     {
       "char": "海",
       "main": "he",
-      "main_count": 94,
+      "main_count": 96,
       "alt": "he-ts",
       "alt_count": 1,
       "similarity": 0.4,
@@ -9547,24 +7309,9 @@
       ]
     },
     {
-      "char": "各",
-      "main": "kauh",
-      "main_count": 67,
-      "alt": "tsoong",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-56.typ",
-          "Tsoong-kok",
-          "各处"
-        ]
-      ]
-    },
-    {
       "char": "落",
       "main": "lauh",
-      "main_count": 44,
+      "main_count": 43,
       "alt": "yui",
       "alt_count": 1,
       "similarity": 0.25,
@@ -9719,7 +7466,7 @@
     {
       "char": "州",
       "main": "tseu",
-      "main_count": 25,
+      "main_count": 24,
       "alt": "koo",
       "alt_count": 1,
       "similarity": 0.0,
@@ -9747,36 +7494,6 @@
       ]
     },
     {
-      "char": "气",
-      "main": "chi",
-      "main_count": 107,
-      "alt": "tsang-boong",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "tsang-boong",
-          "气"
-        ]
-      ]
-    },
-    {
-      "char": "样",
-      "main": "yang",
-      "main_count": 110,
-      "alt": "hau-ziang",
-      "alt_count": 1,
-      "similarity": 0.33,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "hau-ziang",
-          "样。"
-        ]
-      ]
-    },
-    {
       "char": "概",
       "main": "ke",
       "main_count": 11,
@@ -9794,7 +7511,7 @@
     {
       "char": "过",
       "main": "koo",
-      "main_count": 128,
+      "main_count": 127,
       "alt": "liak-we",
       "alt_count": 1,
       "similarity": 0.14,
@@ -9809,7 +7526,7 @@
     {
       "char": "开",
       "main": "khe",
-      "main_count": 104,
+      "main_count": 106,
       "alt": "ke",
       "alt_count": 1,
       "similarity": 0.67,
@@ -9822,39 +7539,9 @@
       ]
     },
     {
-      "char": "开",
-      "main": "khe",
-      "main_count": 104,
-      "alt": "nyung",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-56.typ",
-          "nyung",
-          "开"
-        ]
-      ]
-    },
-    {
       "char": "店",
       "main": "tien",
-      "main_count": 48,
-      "alt": "kuh",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-56.typ",
-          "kuh",
-          "店"
-        ]
-      ]
-    },
-    {
-      "char": "店",
-      "main": "tien",
-      "main_count": 48,
+      "main_count": 49,
       "alt": "kwen",
       "alt_count": 1,
       "similarity": 0.5,
@@ -9869,7 +7556,7 @@
     {
       "char": "轧",
       "main": "gah",
-      "main_count": 14,
+      "main_count": 15,
       "alt": "gwan",
       "alt_count": 1,
       "similarity": 0.5,
@@ -9939,7 +7626,7 @@
     {
       "char": "火",
       "main": "hoo",
-      "main_count": 85,
+      "main_count": 86,
       "alt": "hoò",
       "alt_count": 1,
       "similarity": 0.67,
@@ -9954,7 +7641,7 @@
     {
       "char": "火",
       "main": "hoo",
-      "main_count": 85,
+      "main_count": 86,
       "alt": "ts",
       "alt_count": 1,
       "similarity": 0.0,
@@ -9969,7 +7656,7 @@
     {
       "char": "火",
       "main": "hoo",
-      "main_count": 85,
+      "main_count": 86,
       "alt": "hyien",
       "alt_count": 1,
       "similarity": 0.2,
@@ -9982,24 +7669,9 @@
       ]
     },
     {
-      "char": "火",
-      "main": "hoo",
-      "main_count": 85,
-      "alt": "'veh",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "'veh-zung",
-          "火车"
-        ]
-      ]
-    },
-    {
       "char": "半",
       "main": "pen",
-      "main_count": 40,
+      "main_count": 41,
       "alt": "pan",
       "alt_count": 1,
       "similarity": 0.67,
@@ -10014,7 +7686,7 @@
     {
       "char": "半",
       "main": "pen",
-      "main_count": 40,
+      "main_count": 41,
       "alt": "lau",
       "alt_count": 1,
       "similarity": 0.0,
@@ -10027,24 +7699,9 @@
       ]
     },
     {
-      "char": "钟",
-      "main": "tsoong",
-      "main_count": 43,
-      "alt": "hoo-ts",
-      "alt_count": 1,
-      "similarity": 0.17,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "hoo-ts",
-          "钟"
-        ]
-      ]
-    },
-    {
       "char": "伲",
       "main": "nyi",
-      "main_count": 96,
+      "main_count": 88,
       "alt": "noong",
       "alt_count": 1,
       "similarity": 0.2,
@@ -10059,7 +7716,7 @@
     {
       "char": "伲",
       "main": "nyi",
-      "main_count": 96,
+      "main_count": 88,
       "alt": "ngoo-nyi",
       "alt_count": 1,
       "similarity": 0.38,
@@ -10094,7 +7751,7 @@
     {
       "char": "难",
       "main": "nan",
-      "main_count": 197,
+      "main_count": 198,
       "alt": "zeh",
       "alt_count": 1,
       "similarity": 0.0,
@@ -10103,36 +7760,6 @@
           "lesson-41.typ",
           "van-zeh,",
           "烦难，"
-        ]
-      ]
-    },
-    {
-      "char": "难",
-      "main": "nan",
-      "main_count": 197,
-      "alt": "i",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "soo-i",
-          "烦难"
-        ]
-      ]
-    },
-    {
-      "char": "难",
-      "main": "nan",
-      "main_count": 197,
-      "alt": "kauh",
-      "alt_count": 1,
-      "similarity": 0.25,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "kauh-dzak",
-          "难末"
         ]
       ]
     },
@@ -10172,21 +7799,6 @@
       ]
     },
     {
-      "char": "家",
-      "main": "ka",
-      "main_count": 155,
-      "alt": "la",
-      "alt_count": 1,
-      "similarity": 0.5,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "be-la.",
-          "一家，"
-        ]
-      ]
-    },
-    {
       "char": "睏",
       "main": "kwhung",
       "main_count": 33,
@@ -10202,24 +7814,9 @@
       ]
     },
     {
-      "char": "睏",
-      "main": "kwhung",
-      "main_count": 33,
-      "alt": "thing",
-      "alt_count": 1,
-      "similarity": 0.5,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "thing-khien",
-          "睏拉"
-        ]
-      ]
-    },
-    {
       "char": "二",
       "main": "nyi",
-      "main_count": 31,
+      "main_count": 32,
       "alt": "liang",
       "alt_count": 1,
       "similarity": 0.0,
@@ -10254,7 +7851,7 @@
     {
       "char": "担",
       "main": "tan",
-      "main_count": 28,
+      "main_count": 27,
       "alt": "nyah",
       "alt_count": 1,
       "similarity": 0.25,
@@ -10287,54 +7884,9 @@
       ]
     },
     {
-      "char": "打",
-      "main": "tang",
-      "main_count": 86,
-      "alt": "kheu",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "kheu",
-          "打"
-        ]
-      ]
-    },
-    {
-      "char": "四",
-      "main": "s",
-      "main_count": 51,
-      "alt": "yi",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "yi-kuh",
-          "四面"
-        ]
-      ]
-    },
-    {
-      "char": "明",
-      "main": "ming",
-      "main_count": 47,
-      "alt": "kuh",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "di-kuh",
-          "报明"
-        ]
-      ]
-    },
-    {
       "char": "白",
       "main": "bak",
-      "main_count": 39,
+      "main_count": 38,
       "alt": "beh",
       "alt_count": 6,
       "similarity": 0.33,
@@ -10359,7 +7911,7 @@
     {
       "char": "白",
       "main": "bak",
-      "main_count": 39,
+      "main_count": 38,
       "alt": "bah",
       "alt_count": 1,
       "similarity": 0.67,
@@ -10368,21 +7920,6 @@
           "lesson-24.typ",
           "bah-thih-doong",
           "白铁桶"
-        ]
-      ]
-    },
-    {
-      "char": "白",
-      "main": "bak",
-      "main_count": 39,
-      "alt": "ih",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "ih-kuh",
-          "白话，"
         ]
       ]
     },
@@ -10404,7 +7941,7 @@
     {
       "char": "强",
       "main": "jang",
-      "main_count": 26,
+      "main_count": 27,
       "alt": "chang",
       "alt_count": 5,
       "similarity": 0.6,
@@ -10427,36 +7964,6 @@
       ]
     },
     {
-      "char": "强",
-      "main": "jang",
-      "main_count": 26,
-      "alt": "iung",
-      "alt_count": 1,
-      "similarity": 0.5,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "iung-we",
-          "强盗"
-        ]
-      ]
-    },
-    {
-      "char": "盗",
-      "main": "dau",
-      "main_count": 11,
-      "alt": "we",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "iung-we",
-          "强盗"
-        ]
-      ]
-    },
-    {
       "char": "送",
       "main": "soong",
       "main_count": 40,
@@ -10474,7 +7981,7 @@
     {
       "char": "时",
       "main": "z",
-      "main_count": 90,
+      "main_count": 89,
       "alt": "dzang",
       "alt_count": 1,
       "similarity": 0.2,
@@ -10489,7 +7996,7 @@
     {
       "char": "时",
       "main": "z",
-      "main_count": 90,
+      "main_count": 89,
       "alt": "laung",
       "alt_count": 2,
       "similarity": 0.0,
@@ -10587,21 +8094,6 @@
       ]
     },
     {
-      "char": "听",
-      "main": "thing",
-      "main_count": 111,
-      "alt": "di",
-      "alt_count": 1,
-      "similarity": 0.2,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "di-kuh",
-          "听见"
-        ]
-      ]
-    },
-    {
       "char": "太",
       "main": "tha",
       "main_count": 13,
@@ -10632,21 +8124,6 @@
       ]
     },
     {
-      "char": "坐",
-      "main": "zoo",
-      "main_count": 67,
-      "alt": "hoo-tsho",
-      "alt_count": 1,
-      "similarity": 0.25,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "hoo-tsho",
-          "坐"
-        ]
-      ]
-    },
-    {
       "char": "那",
       "main": "na",
       "main_count": 14,
@@ -10672,54 +8149,9 @@
       ]
     },
     {
-      "char": "病",
-      "main": "bing",
-      "main_count": 70,
-      "alt": "i",
-      "alt_count": 1,
-      "similarity": 0.25,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "i-hau",
-          "病个"
-        ]
-      ]
-    },
-    {
-      "char": "病",
-      "main": "bing",
-      "main_count": 70,
-      "alt": "kyui",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "kwe-kyui;",
-          "毛病"
-        ]
-      ]
-    },
-    {
-      "char": "病",
-      "main": "bing",
-      "main_count": 70,
-      "alt": "pau",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "pau-ming",
-          "病人"
-        ]
-      ]
-    },
-    {
       "char": "自",
       "main": "z",
-      "main_count": 56,
+      "main_count": 54,
       "alt": "z-ka",
       "alt_count": 1,
       "similarity": 0.25,
@@ -10764,7 +8196,7 @@
     {
       "char": "边",
       "main": "pien",
-      "main_count": 45,
+      "main_count": 47,
       "alt": "han",
       "alt_count": 1,
       "similarity": 0.25,
@@ -10779,7 +8211,7 @@
     {
       "char": "边",
       "main": "pien",
-      "main_count": 45,
+      "main_count": 47,
       "alt": "taung",
       "alt_count": 1,
       "similarity": 0.2,
@@ -10794,7 +8226,7 @@
     {
       "char": "边",
       "main": "pien",
-      "main_count": 45,
+      "main_count": 47,
       "alt": "thaung",
       "alt_count": 2,
       "similarity": 0.17,
@@ -10808,21 +8240,6 @@
           "lesson-13.typ",
           "thaung",
           "边"
-        ]
-      ]
-    },
-    {
-      "char": "边",
-      "main": "pien",
-      "main_count": 45,
-      "alt": "kuh",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "ih-kuh",
-          "旁边"
         ]
       ]
     },
@@ -10872,24 +8289,9 @@
       ]
     },
     {
-      "char": "旁",
-      "main": "baung",
-      "main_count": 4,
-      "alt": "ih",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "ih-kuh",
-          "旁边"
-        ]
-      ]
-    },
-    {
       "char": "烧",
       "main": "sau",
-      "main_count": 36,
+      "main_count": 37,
       "alt": "sau-kuh",
       "alt_count": 1,
       "similarity": 0.43,
@@ -10904,7 +8306,7 @@
     {
       "char": "味",
       "main": "mi",
-      "main_count": 3,
+      "main_count": 2,
       "alt": "me",
       "alt_count": 1,
       "similarity": 0.5,
@@ -10989,9 +8391,9 @@
     {
       "char": "在",
       "main": "dze",
-      "main_count": 118,
+      "main_count": 120,
       "alt": "ke",
-      "alt_count": 29,
+      "alt_count": 28,
       "similarity": 0.33,
       "examples": [
         [
@@ -11014,7 +8416,7 @@
     {
       "char": "在",
       "main": "dze",
-      "main_count": 118,
+      "main_count": 120,
       "alt": "la",
       "alt_count": 3,
       "similarity": 0.0,
@@ -11039,22 +8441,7 @@
     {
       "char": "在",
       "main": "dze",
-      "main_count": 118,
-      "alt": "tok",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "tsoong-tok,",
-          "实在"
-        ]
-      ]
-    },
-    {
-      "char": "在",
-      "main": "dze",
-      "main_count": 118,
+      "main_count": 120,
       "alt": "zen",
       "alt_count": 3,
       "similarity": 0.33,
@@ -11080,13 +8467,13 @@
       "char": "拿",
       "main": "nau",
       "main_count": 101,
-      "alt": "ih-ding",
+      "alt": "lau",
       "alt_count": 1,
-      "similarity": 0.0,
+      "similarity": 0.67,
       "examples": [
         [
           "lesson-47.typ",
-          "ih-ding",
+          "lau,",
           "拿"
         ]
       ]
@@ -11094,7 +8481,7 @@
     {
       "char": "底",
       "main": "ti",
-      "main_count": 11,
+      "main_count": 12,
       "alt": "'au",
       "alt_count": 1,
       "similarity": 0.0,
@@ -11109,7 +8496,7 @@
     {
       "char": "无",
       "main": "m",
-      "main_count": 104,
+      "main_count": 105,
       "alt": "“m",
       "alt_count": 1,
       "similarity": 0.5,
@@ -11124,7 +8511,7 @@
     {
       "char": "无",
       "main": "m",
-      "main_count": 104,
+      "main_count": 105,
       "alt": "m-meh",
       "alt_count": 1,
       "similarity": 0.2,
@@ -11139,22 +8526,7 @@
     {
       "char": "无",
       "main": "m",
-      "main_count": 104,
-      "alt": "tse",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "tse-hau",
-          "无没"
-        ]
-      ]
-    },
-    {
-      "char": "无",
-      "main": "m",
-      "main_count": 104,
+      "main_count": 105,
       "alt": "voo",
       "alt_count": 2,
       "similarity": 0.0,
@@ -11172,21 +8544,6 @@
       ]
     },
     {
-      "char": "益",
-      "main": "iuh",
-      "main_count": 10,
-      "alt": "soong",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "soong-zu",
-          "益个。"
-        ]
-      ]
-    },
-    {
       "char": "笨",
       "main": "bung",
       "main_count": 13,
@@ -11198,21 +8555,6 @@
           "lesson-86.typ",
           "lau-zeh",
           "笨质"
-        ]
-      ]
-    },
-    {
-      "char": "劝",
-      "main": "choen",
-      "main_count": 7,
-      "alt": "z",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "z",
-          "劝"
         ]
       ]
     },
@@ -11328,21 +8670,6 @@
           "lesson-140.typ",
           "hoo-ji,",
           "影计"
-        ]
-      ]
-    },
-    {
-      "char": "眼",
-      "main": "ngan",
-      "main_count": 22,
-      "alt": "'veh",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "'Veh-too",
-          "眼睛"
         ]
       ]
     },
@@ -11464,7 +8791,7 @@
     {
       "char": "作",
       "main": "tsauh",
-      "main_count": 16,
+      "main_count": 15,
       "alt": "tsoo",
       "alt_count": 1,
       "similarity": 0.4,
@@ -11494,7 +8821,7 @@
     {
       "char": "面",
       "main": "mien",
-      "main_count": 63,
+      "main_count": 66,
       "alt": "dzuh",
       "alt_count": 1,
       "similarity": 0.0,
@@ -11509,7 +8836,7 @@
     {
       "char": "面",
       "main": "mien",
-      "main_count": 63,
+      "main_count": 66,
       "alt": "hyang",
       "alt_count": 2,
       "similarity": 0.2,
@@ -11529,35 +8856,15 @@
     {
       "char": "面",
       "main": "mien",
-      "main_count": 63,
-      "alt": "kuh",
-      "alt_count": 2,
+      "main_count": 66,
+      "alt": "pah",
+      "alt_count": 1,
       "similarity": 0.0,
       "examples": [
         [
-          "lesson-46.typ",
-          "yeu-kuh",
-          "东面"
-        ],
-        [
-          "lesson-57.typ",
-          "yi-kuh",
-          "四面"
-        ]
-      ]
-    },
-    {
-      "char": "面",
-      "main": "mien",
-      "main_count": 63,
-      "alt": "we",
-      "alt_count": 1,
-      "similarity": 0.25,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "iung-we",
-          "南面，"
+          "lesson-48.typ",
+          "pah",
+          "面"
         ]
       ]
     },
@@ -11634,7 +8941,7 @@
     {
       "char": "报",
       "main": "pau",
-      "main_count": 21,
+      "main_count": 22,
       "alt": "yi",
       "alt_count": 1,
       "similarity": 0.0,
@@ -11649,22 +8956,7 @@
     {
       "char": "报",
       "main": "pau",
-      "main_count": 21,
-      "alt": "di",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "di-kuh",
-          "报明"
-        ]
-      ]
-    },
-    {
-      "char": "报",
-      "main": "pau",
-      "main_count": 21,
+      "main_count": 22,
       "alt": "vung",
       "alt_count": 1,
       "similarity": 0.0,
@@ -11732,54 +9024,9 @@
       ]
     },
     {
-      "char": "远",
-      "main": "yoen",
-      "main_count": 9,
-      "alt": "dzang",
-      "alt_count": 1,
-      "similarity": 0.2,
-      "examples": [
-        [
-          "lesson-55.typ",
-          "dzang",
-          "远"
-        ]
-      ]
-    },
-    {
-      "char": "东",
-      "main": "toong",
-      "main_count": 49,
-      "alt": "yeu",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "yeu-kuh",
-          "东面"
-        ]
-      ]
-    },
-    {
-      "char": "南",
-      "main": "nen",
-      "main_count": 18,
-      "alt": "iung",
-      "alt_count": 1,
-      "similarity": 0.25,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "iung-we",
-          "南面，"
-        ]
-      ]
-    },
-    {
       "char": "方",
       "main": "faung",
-      "main_count": 99,
+      "main_count": 100,
       "alt": "he",
       "alt_count": 1,
       "similarity": 0.0,
@@ -11788,36 +9035,6 @@
           "lesson-12.typ",
           "Zaung-he,",
           "地方"
-        ]
-      ]
-    },
-    {
-      "char": "方",
-      "main": "faung",
-      "main_count": 99,
-      "alt": "tshu",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-56.typ",
-          "kauh-tshu",
-          "地方"
-        ]
-      ]
-    },
-    {
-      "char": "住",
-      "main": "dzu",
-      "main_count": 36,
-      "alt": "nau",
-      "alt_count": 1,
-      "similarity": 0.33,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "nau",
-          "住，"
         ]
       ]
     },
@@ -11854,15 +9071,15 @@
     {
       "char": "脚",
       "main": "kyak",
-      "main_count": 87,
-      "alt": "dau",
+      "main_count": 84,
+      "alt": "lau-kyak",
       "alt_count": 1,
-      "similarity": 0.25,
+      "similarity": 0.5,
       "examples": [
         [
-          "lesson-46.typ",
-          "jang-dau",
-          "末脚"
+          "lesson-49.typ",
+          "lau-kyak,",
+          "脚，"
         ]
       ]
     },
@@ -11884,7 +9101,7 @@
     {
       "char": "树",
       "main": "zu",
-      "main_count": 38,
+      "main_count": 39,
       "alt": "di",
       "alt_count": 1,
       "similarity": 0.0,
@@ -11893,21 +9110,6 @@
           "lesson-30.typ",
           "di",
           "树"
-        ]
-      ]
-    },
-    {
-      "char": "睛",
-      "main": "tsing",
-      "main_count": 8,
-      "alt": "too",
-      "alt_count": 1,
-      "similarity": 0.2,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "'Veh-too",
-          "眼睛"
         ]
       ]
     },
@@ -11923,6 +9125,26 @@
           "lesson-151.typ",
           "kauh-yang-kuh",
           "各种个"
+        ]
+      ]
+    },
+    {
+      "char": "此",
+      "main": "tsh",
+      "main_count": 7,
+      "alt": "ts",
+      "alt_count": 2,
+      "similarity": 0.67,
+      "examples": [
+        [
+          "lesson-47.typ",
+          "we-ts",
+          "为此"
+        ],
+        [
+          "lesson-48.typ",
+          "We-ts",
+          "为此"
         ]
       ]
     },
@@ -11948,21 +9170,6 @@
           "lesson-96.typ",
           "jih",
           "及"
-        ]
-      ]
-    },
-    {
-      "char": "香",
-      "main": "hyang",
-      "main_count": 19,
-      "alt": "wak",
-      "alt_count": 1,
-      "similarity": 0.2,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "wak-ts",
-          "香烟"
         ]
       ]
     },
@@ -12042,51 +9249,6 @@
       ]
     },
     {
-      "char": "毛",
-      "main": "mau",
-      "main_count": 46,
-      "alt": "kwe",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "kwe-kyui;",
-          "毛病"
-        ]
-      ]
-    },
-    {
-      "char": "烦",
-      "main": "van",
-      "main_count": 22,
-      "alt": "soo",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "soo-i",
-          "烦难"
-        ]
-      ]
-    },
-    {
-      "char": "诸",
-      "main": "tsu",
-      "main_count": 7,
-      "alt": "theu",
-      "alt_count": 1,
-      "similarity": 0.5,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "theu-kuh.",
-          "诸位"
-        ]
-      ]
-    },
-    {
       "char": "忧",
       "main": "ieu",
       "main_count": 6,
@@ -12119,7 +9281,7 @@
     {
       "char": "堂",
       "main": "daung",
-      "main_count": 26,
+      "main_count": 25,
       "alt": "doong",
       "alt_count": 1,
       "similarity": 0.6,
@@ -12136,7 +9298,7 @@
       "main": "pe",
       "main_count": 20,
       "alt": "be",
-      "alt_count": 4,
+      "alt_count": 5,
       "similarity": 0.5,
       "examples": [
         [
@@ -12150,9 +9312,9 @@
           "背拢"
         ],
         [
-          "lesson-66.typ",
-          "we-be",
-          "违背"
+          "lesson-46.typ",
+          "be-la.",
+          "背拉。"
         ]
       ]
     },
@@ -12183,66 +9345,6 @@
           "lesson-155.typ",
           "kwen-koen.",
           "赏榦？"
-        ]
-      ]
-    },
-    {
-      "char": "车",
-      "main": "tsho",
-      "main_count": 184,
-      "alt": "chi",
-      "alt_count": 1,
-      "similarity": 0.25,
-      "examples": [
-        [
-          "lesson-55.typ",
-          "dien-chi",
-          "电车"
-        ]
-      ]
-    },
-    {
-      "char": "车",
-      "main": "tsho",
-      "main_count": 184,
-      "alt": "le",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "le-kuh,",
-          "车上"
-        ]
-      ]
-    },
-    {
-      "char": "车",
-      "main": "tsho",
-      "main_count": 184,
-      "alt": "zung",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "'veh-zung",
-          "火车"
-        ]
-      ]
-    },
-    {
-      "char": "趁",
-      "main": "tshung",
-      "main_count": 18,
-      "alt": "hoo",
-      "alt_count": 1,
-      "similarity": 0.17,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "hoo-suh.",
-          "趁之"
         ]
       ]
     },
@@ -12369,7 +9471,7 @@
     {
       "char": "棚",
       "main": "bang",
-      "main_count": 12,
+      "main_count": 11,
       "alt": "kauh",
       "alt_count": 1,
       "similarity": 0.25,
@@ -12384,7 +9486,7 @@
     {
       "char": "罚",
       "main": "vah",
-      "main_count": 15,
+      "main_count": 14,
       "alt": "vah-tseu",
       "alt_count": 1,
       "similarity": 0.38,
@@ -12412,21 +9514,6 @@
       ]
     },
     {
-      "char": "彀",
-      "main": "keu",
-      "main_count": 9,
-      "alt": "theh",
-      "alt_count": 1,
-      "similarity": 0.25,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "ka-theh",
-          "能彀"
-        ]
-      ]
-    },
-    {
       "char": "蚀",
       "main": "zeh",
       "main_count": 2,
@@ -12438,21 +9525,6 @@
           "lesson-137.typ",
           "nyoeh-zuh",
           "月蚀"
-        ]
-      ]
-    },
-    {
-      "char": "则",
-      "main": "tsuh",
-      "main_count": 29,
-      "alt": "kuh",
-      "alt_count": 1,
-      "similarity": 0.5,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "di-kuh",
-          "法则。"
         ]
       ]
     },
@@ -12509,7 +9581,7 @@
     {
       "char": "跳",
       "main": "thiau",
-      "main_count": 11,
+      "main_count": 10,
       "alt": "nyui",
       "alt_count": 1,
       "similarity": 0.0,
@@ -12524,7 +9596,7 @@
     {
       "char": "爿",
       "main": "ban",
-      "main_count": 9,
+      "main_count": 10,
       "alt": "ih-ban",
       "alt_count": 1,
       "similarity": 0.5,
@@ -12702,21 +9774,6 @@
       ]
     },
     {
-      "char": "官",
-      "main": "kwen",
-      "main_count": 39,
-      "alt": "mau",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "mau-bing",
-          "官府"
-        ]
-      ]
-    },
-    {
       "char": "哈",
       "main": "sa",
       "main_count": 11,
@@ -12772,6 +9829,21 @@
       ]
     },
     {
+      "char": "燥",
+      "main": "sau",
+      "main_count": 3,
+      "alt": "pau",
+      "alt_count": 1,
+      "similarity": 0.67,
+      "examples": [
+        [
+          "lesson-49.typ",
+          "pau",
+          "燥"
+        ]
+      ]
+    },
+    {
       "char": "质",
       "main": "zeh",
       "main_count": 9,
@@ -12798,21 +9870,6 @@
           "lesson-27.typ",
           "'an-dzang",
           "寻常"
-        ]
-      ]
-    },
-    {
-      "char": "带",
-      "main": "ta",
-      "main_count": 14,
-      "alt": "di",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "Di-we",
-          "带之"
         ]
       ]
     },
@@ -12879,7 +9936,7 @@
     {
       "char": "向",
       "main": "hyang",
-      "main_count": 29,
+      "main_count": 28,
       "alt": "li-hyang",
       "alt_count": 1,
       "similarity": 0.62,
@@ -12894,7 +9951,7 @@
     {
       "char": "向",
       "main": "hyang",
-      "main_count": 29,
+      "main_count": 28,
       "alt": "chi",
       "alt_count": 1,
       "similarity": 0.0,
@@ -12924,22 +9981,7 @@
     {
       "char": "派",
       "main": "pha",
-      "main_count": 9,
-      "alt": "i",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "i-diau-ka,",
-          "派伊拉"
-        ]
-      ]
-    },
-    {
-      "char": "派",
-      "main": "pha",
-      "main_count": 9,
+      "main_count": 14,
       "alt": "mak",
       "alt_count": 2,
       "similarity": 0.0,
@@ -12989,7 +10031,7 @@
     {
       "char": "约",
       "main": "iak",
-      "main_count": 26,
+      "main_count": 27,
       "alt": "kwen",
       "alt_count": 1,
       "similarity": 0.0,
@@ -13004,7 +10046,7 @@
     {
       "char": "约",
       "main": "iak",
-      "main_count": 26,
+      "main_count": 27,
       "alt": "iah",
       "alt_count": 1,
       "similarity": 0.67,
@@ -13107,21 +10149,6 @@
       ]
     },
     {
-      "char": "没",
-      "main": "meh",
-      "main_count": 58,
-      "alt": "hau",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "tse-hau",
-          "无没"
-        ]
-      ]
-    },
-    {
       "char": "左",
       "main": "tsi",
       "main_count": 3,
@@ -13148,6 +10175,21 @@
           "lesson-141.typ",
           "han-iung",
           "喊。"
+        ]
+      ]
+    },
+    {
+      "char": "鞭",
+      "main": "pien",
+      "main_count": 5,
+      "alt": "pi",
+      "alt_count": 1,
+      "similarity": 0.5,
+      "examples": [
+        [
+          "lesson-46.typ",
+          "kyau-pi,",
+          "叫鞭，"
         ]
       ]
     },
@@ -13203,21 +10245,6 @@
           "lesson-125.typ",
           "bau-chi",
           "跑"
-        ]
-      ]
-    },
-    {
-      "char": "医",
-      "main": "i",
-      "main_count": 32,
-      "alt": "kyi",
-      "alt_count": 1,
-      "similarity": 0.33,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "kyi-nyien",
-          "医生"
         ]
       ]
     },
@@ -13387,24 +10414,9 @@
       ]
     },
     {
-      "char": "夏",
-      "main": "'au",
-      "main_count": 17,
-      "alt": "ji",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "ji-thien,",
-          "夏天，"
-        ]
-      ]
-    },
-    {
       "char": "风",
       "main": "foong",
-      "main_count": 25,
+      "main_count": 24,
       "alt": "thuh",
       "alt_count": 1,
       "similarity": 0.0,
@@ -13452,36 +10464,6 @@
       ]
     },
     {
-      "char": "吹",
-      "main": "tsh",
-      "main_count": 13,
-      "alt": "z-thi",
-      "alt_count": 1,
-      "similarity": 0.2,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "z-thi",
-          "吹"
-        ]
-      ]
-    },
-    {
-      "char": "吹",
-      "main": "tsh",
-      "main_count": 13,
-      "alt": "hweh",
-      "alt_count": 1,
-      "similarity": 0.25,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "hweh-zen",
-          "吹之"
-        ]
-      ]
-    },
-    {
       "char": "雨",
       "main": "yui",
       "main_count": 41,
@@ -13523,21 +10505,6 @@
           "lesson-34.typ",
           "sang-chi",
           "声音"
-        ]
-      ]
-    },
-    {
-      "char": "忒",
-      "main": "thuh",
-      "main_count": 25,
-      "alt": "'a",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-55.typ",
-          "'a",
-          "忒"
         ]
       ]
     },
@@ -13589,7 +10556,7 @@
     {
       "char": "求",
       "main": "jeu",
-      "main_count": 13,
+      "main_count": 14,
       "alt": "jeu-jeu",
       "alt_count": 1,
       "similarity": 0.43,
@@ -13664,7 +10631,7 @@
     {
       "char": "八",
       "main": "pah",
-      "main_count": 19,
+      "main_count": 18,
       "alt": "pak",
       "alt_count": 1,
       "similarity": 0.67,
@@ -13772,21 +10739,6 @@
       ]
     },
     {
-      "char": "直",
-      "main": "dzuh",
-      "main_count": 18,
-      "alt": "di-kuh",
-      "alt_count": 1,
-      "similarity": 0.5,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "Di-kuh",
-          "直"
-        ]
-      ]
-    },
-    {
       "char": "完",
       "main": "we",
       "main_count": 11,
@@ -13844,7 +10796,7 @@
     {
       "char": "免",
       "main": "mien",
-      "main_count": 10,
+      "main_count": 11,
       "alt": "bi",
       "alt_count": 1,
       "similarity": 0.25,
@@ -13859,7 +10811,7 @@
     {
       "char": "免",
       "main": "mien",
-      "main_count": 10,
+      "main_count": 11,
       "alt": "theh",
       "alt_count": 1,
       "similarity": 0.25,
@@ -13868,21 +10820,6 @@
           "lesson-131.typ",
           "bi-theh",
           "避免"
-        ]
-      ]
-    },
-    {
-      "char": "免",
-      "main": "mien",
-      "main_count": 10,
-      "alt": "di",
-      "alt_count": 1,
-      "similarity": 0.25,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "di-kuh",
-          "免之"
         ]
       ]
     },
@@ -13898,21 +10835,6 @@
           "lesson-91.typ",
           "yung-kwhe",
           "幸亏"
-        ]
-      ]
-    },
-    {
-      "char": "府",
-      "main": "foo",
-      "main_count": 17,
-      "alt": "bing",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "mau-bing",
-          "官府"
         ]
       ]
     },
@@ -13969,7 +10891,7 @@
     {
       "char": "牌",
       "main": "ba",
-      "main_count": 18,
+      "main_count": 17,
       "alt": "pa",
       "alt_count": 1,
       "similarity": 0.5,
@@ -13984,7 +10906,7 @@
     {
       "char": "倦",
       "main": "joen",
-      "main_count": 4,
+      "main_count": 5,
       "alt": "hyoen",
       "alt_count": 1,
       "similarity": 0.6,
@@ -14029,7 +10951,7 @@
     {
       "char": "皮",
       "main": "bi",
-      "main_count": 38,
+      "main_count": 37,
       "alt": "pi",
       "alt_count": 1,
       "similarity": 0.5,
@@ -14123,21 +11045,6 @@
           "lesson-25.typ",
           "kyui-chi",
           "归去"
-        ]
-      ]
-    },
-    {
-      "char": "醒",
-      "main": "sing",
-      "main_count": 8,
-      "alt": "yang-dien",
-      "alt_count": 1,
-      "similarity": 0.22,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "yang-dien.",
-          "醒"
         ]
       ]
     },
@@ -14516,7 +11423,7 @@
       "main": "phien",
       "main_count": 22,
       "alt": "ban",
-      "alt_count": 7,
+      "alt_count": 6,
       "similarity": 0.2,
       "examples": [
         [
@@ -14714,7 +11621,7 @@
     {
       "char": "包",
       "main": "pau",
-      "main_count": 18,
+      "main_count": 20,
       "alt": "bau",
       "alt_count": 1,
       "similarity": 0.67,
@@ -14748,21 +11655,6 @@
           "lesson-72.typ",
           "'veh-ke",
           "勿敢"
-        ]
-      ]
-    },
-    {
-      "char": "昏",
-      "main": "hwung",
-      "main_count": 2,
-      "alt": "ien",
-      "alt_count": 1,
-      "similarity": 0.2,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "ien,",
-          "昏"
         ]
       ]
     },
@@ -14937,36 +11829,6 @@
       ]
     },
     {
-      "char": "守",
-      "main": "seu",
-      "main_count": 4,
-      "alt": "la",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "yi-la",
-          "看守，"
-        ]
-      ]
-    },
-    {
-      "char": "守",
-      "main": "seu",
-      "main_count": 4,
-      "alt": "kuh",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-46.typ",
-          "yeu-kuh",
-          "看守。"
-        ]
-      ]
-    },
-    {
       "char": "湖",
       "main": "'oo",
       "main_count": 5,
@@ -15108,21 +11970,6 @@
           "lesson-145.typ",
           "hyien-ka-laung-ts,",
           "肩胛上之，"
-        ]
-      ]
-    },
-    {
-      "char": "烟",
-      "main": "ien",
-      "main_count": 72,
-      "alt": "ts",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "wak-ts",
-          "香烟"
         ]
       ]
     },
@@ -15317,51 +12164,6 @@
       ]
     },
     {
-      "char": "扫",
-      "main": "sau",
-      "main_count": 10,
-      "alt": "扫",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-55.typ",
-          "扫",
-          "扫"
-        ]
-      ]
-    },
-    {
-      "char": "闻",
-      "main": "vung",
-      "main_count": 15,
-      "alt": "nyih",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-47.typ",
-          "Zien-nyih-ts",
-          "新闻纸"
-        ]
-      ]
-    },
-    {
-      "char": "祸",
-      "main": "'oo",
-      "main_count": 6,
-      "alt": "oo",
-      "alt_count": 1,
-      "similarity": 0.67,
-      "examples": [
-        [
-          "lesson-59.typ",
-          "oo-wan,",
-          "祸患，"
-        ]
-      ]
-    },
-    {
       "char": "躲",
       "main": "too",
       "main_count": 5,
@@ -15494,9 +12296,9 @@
     {
       "char": "义",
       "main": "tsho",
-      "main_count": 5,
+      "main_count": 4,
       "alt": "nyi",
-      "alt_count": 3,
+      "alt_count": 2,
       "similarity": 0.0,
       "examples": [
         [
@@ -15508,11 +12310,6 @@
           "lesson-30.typ",
           "nyi-chi-kuh",
           "义气个"
-        ],
-        [
-          "lesson-57.typ",
-          "Nyi-zien,",
-          "义泉。"
         ]
       ]
     },
@@ -15779,7 +12576,7 @@
     {
       "char": "咳",
       "main": "kheh",
-      "main_count": 3,
+      "main_count": 2,
       "alt": "'e",
       "alt_count": 1,
       "similarity": 0.25,
@@ -15794,7 +12591,7 @@
     {
       "char": "咳",
       "main": "kheh",
-      "main_count": 3,
+      "main_count": 2,
       "alt": "e",
       "alt_count": 1,
       "similarity": 0.25,
@@ -15803,21 +12600,6 @@
           "lesson-86.typ",
           "doo-hau-lau-E.",
           "大好老咳。"
-        ]
-      ]
-    },
-    {
-      "char": "呼",
-      "main": "hoo",
-      "main_count": 5,
-      "alt": "ngan",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "ngan-tsing",
-          "呼之"
         ]
       ]
     },
@@ -15848,21 +12630,6 @@
           "lesson-62.typ",
           "BO-SEU.",
           "扒窃。"
-        ]
-      ]
-    },
-    {
-      "char": "戒",
-      "main": "ka",
-      "main_count": 11,
-      "alt": "yang",
-      "alt_count": 1,
-      "similarity": 0.25,
-      "examples": [
-        [
-          "lesson-57.typ",
-          "yang-hoo",
-          "戒脱"
         ]
       ]
     },
@@ -15926,7 +12693,7 @@
       "main": "tshiak",
       "main_count": 3,
       "alt": "tsiang",
-      "alt_count": 2,
+      "alt_count": 3,
       "similarity": 0.5,
       "examples": [
         [
@@ -15938,6 +12705,26 @@
           "lesson-57.typ",
           "mo-tsiang.",
           "麻雀。"
+        ],
+        [
+          "lesson-57.typ",
+          "mo-tsiang.",
+          "麻雀。"
+        ]
+      ]
+    },
+    {
+      "char": "衙",
+      "main": "nga",
+      "main_count": 7,
+      "alt": "loong",
+      "alt_count": 1,
+      "similarity": 0.2,
+      "examples": [
+        [
+          "lesson-46.typ",
+          "loong-daung",
+          "衙堂"
         ]
       ]
     },
@@ -16044,26 +12831,16 @@
     {
       "char": "街",
       "main": "ka",
-      "main_count": 11,
-      "alt": "pau-tang-thing",
-      "alt_count": 1,
-      "similarity": 0.07,
+      "main_count": 12,
+      "alt": "loong",
+      "alt_count": 2,
+      "similarity": 0.0,
       "examples": [
         [
           "lesson-46.typ",
-          "Pau-tang-thing",
-          "街，"
-        ]
-      ]
-    },
-    {
-      "char": "街",
-      "main": "ka",
-      "main_count": 11,
-      "alt": "loong",
-      "alt_count": 1,
-      "similarity": 0.0,
-      "examples": [
+          "loong",
+          "街"
+        ],
         [
           "lesson-64.typ",
           "loong-daung",
@@ -16137,32 +12914,32 @@
       ]
     },
     {
-      "char": "逮",
-      "main": "da",
-      "main_count": 2,
-      "alt": "kyung",
+      "char": "弹",
+      "main": "dan",
+      "main_count": 6,
+      "alt": "saung",
       "alt_count": 1,
-      "similarity": 0.0,
+      "similarity": 0.4,
       "examples": [
         [
-          "lesson-46.typ",
-          "Pok-kyung-loo",
-          "三逮头"
+          "lesson-49.typ",
+          "saung-wa",
+          "弹脱"
         ]
       ]
     },
     {
-      "char": "特",
-      "main": "iuh",
+      "char": "划",
+      "main": "wak",
       "main_count": 1,
-      "alt": "duh",
+      "alt": "wo",
       "alt_count": 1,
-      "similarity": 0.67,
+      "similarity": 0.33,
       "examples": [
         [
-          "lesson-47.typ",
-          "duh-we",
-          "特为"
+          "lesson-90.typ",
+          "wo",
+          "划"
         ]
       ]
     },
@@ -16181,6 +12958,5 @@
         ]
       ]
     }
-  ],
-  "tone_sandhi": []
+  ]
 }
