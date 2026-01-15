@@ -58,6 +58,38 @@ def levenshtein_distance(s1: str, s2: str) -> int:
 
 def get_similarity(p1: str, p2: str) -> float:
     """计算两个拼音的相似度 (0-1)"""
+    if not p1 and not p2: return 1.0
+    if not p1 or not p2: return 0.0
     dist = levenshtein_distance(p1, p2)
     max_len = max(len(p1), len(p2), 1)
     return 1 - (dist / max_len)
+
+def get_best_match_offset(expected_list: List[str], actual_list: List[str], current_idx: int, window: int = 3) -> int:
+    """
+    在窗口内寻找最佳匹配偏移量。
+    返回偏移量: -1 (漏字), 0 (匹配), 1 (多字)
+    """
+    if current_idx >= len(actual_list) or current_idx >= len(expected_list):
+        return 0
+    
+    current_sim = get_similarity(expected_list[current_idx], actual_list[current_idx])
+    if current_sim > 0.7:
+        return 0 # 匹配良发
+        
+    # 尝试检测漏字 (实际落后于期望)
+    # Expected: [A, B, C]
+    # Actual:   [A, C] -> 在 idx 1, Actual[1]('C') 匹配 Expected[2]('C')
+    if current_idx + 1 < len(expected_list):
+        lookahead_sim = get_similarity(expected_list[current_idx + 1], actual_list[current_idx])
+        if lookahead_sim > 0.8:
+            return -1 # 期望序列领先，说明实际可能漏了一个词
+            
+    # 尝试检测多字 (实际领先于期望)
+    # Expected: [A, C]
+    # Actual:   [A, B, C] -> 在 idx 1, Actual[2]('C') 匹配 Expected[1]('C')
+    if current_idx + 1 < len(actual_list):
+        lookbehind_sim = get_similarity(expected_list[current_idx], actual_list[current_idx + 1])
+        if lookbehind_sim > 0.8:
+            return 1 # 实际序列领先，说明实际可能多了一个词
+            
+    return 0

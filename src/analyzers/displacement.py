@@ -3,7 +3,7 @@ from pathlib import Path
 from collections import defaultdict
 from typing import List
 from ..loader import LessonFile
-from ..utils import split_characters, get_similarity
+from ..utils import split_characters, get_similarity, get_best_match_offset
 
 def get_page_map(project_root: Path):
     # Try to find PAGE_INDEX.md relative to project root
@@ -27,67 +27,85 @@ def get_page_map(project_root: Path):
 
 def analyze_displacement(lessons: List[LessonFile], project_root: Path):
     """
-    分析文本位移/错位情况
+    分析文本位移/错位情况 (诊断式报告)
     """
-    # 预加载全书字符-音节分布以确定“主流读音”
+    # 1. 建立主流读音基准
     char_counts = defaultdict(lambda: defaultdict(int))
-    
     for lesson in lessons:
         for pair in lesson.pairs:
             p_parts = re.split(r'[-\s]', pair.normalized_pinyin)
             h_chars = split_characters(pair.hanzi)
-            
             if len(p_parts) == len(h_chars):
                 for c, p in zip(h_chars, p_parts):
                     char_counts[c][p] += 1
-            elif len(h_chars) == 1:
-                char_counts[h_chars[0]][p_parts[0]] += 1
 
-    main_prons = {c: max(ps.keys(), key=lambda x: ps[x]) for c, ps in char_counts.items()}
+    main_prons = {c: max(ps.keys(), key=lambda x: ps[x]) for c, ps in char_counts.items() if ps}
     page_map = get_page_map(project_root)
-    
     file_severity = []
 
     for lesson in lessons:
+        diagnostics = []
         mismatch_count = 0
         total_chars = 0
+        
+        # 将文件内所有对整合成序列以便进行滑动窗口分析
+        expected_seq = []
+        actual_seq = []
+        source_pairs = [] # 记录来源以便回溯
+
+        for pair in lesson.pairs:
+            p_parts = re.split(r'[-\s]', pair.normalized_pinyin)
+            h_chars = split_characters(pair.hanzi)
+            for i, c in enumerate(h_chars):
+                expected_seq.append(main_prons.get(c, ""))
+                actual_seq.append(p_parts[i] if i < len(p_parts) else "")
+                source_pairs.append(pair)
+
+        # 2. 诊断偏移
+        i = 0
+        while i < len(actual_seq):
+            total_chars += 1
+            exp = expected_seq[i]
+            act = actual_seq[i]
+            
+            sim = get_similarity(exp, act)
+            if sim < 0.6:
+                # 触发位移检测
+                offset = get_best_match_offset(expected_seq, actual_seq, i)
+                if offset == -1:
+                    diagnostics.append(f"[ALIGN-L] 漏字偏移 at '{source_pairs[i].hanzi}'")
+                    mismatch_count += 5 # 权重加重
+                elif offset == 1:
+                    diagnostics.append(f"[ALIGN-R] 多字偏移 at '{source_pairs[i].hanzi}'")
+                    mismatch_count += 5
+                else:
+                    mismatch_count += 1
+            i += 1
+        
+        mismatch_rate = mismatch_count / total_chars if total_chars > 0 else 0
         
         try:
             lesson_num = int(re.search(r'lesson-(\d+)', lesson.filename).group(1))
         except:
             lesson_num = 0
             
-        for pair in lesson.pairs:
-            p_parts = re.split(r'[-\s]', pair.normalized_pinyin)
-            h_chars = split_characters(pair.hanzi)
-            
-            for i, c in enumerate(h_chars):
-                total_chars += 1
-                if c in main_prons:
-                    expected = main_prons[c]
-                    actual = p_parts[i] if i < len(p_parts) else ""
-                    # 相似度低于 0.6 判定为潜在位移
-                    if get_similarity(expected, actual) < 0.6:
-                        mismatch_count += 1
-        
-        mismatch_rate = mismatch_count / total_chars if total_chars > 0 else 0
         file_severity.append({
             "lesson": lesson_num,
             "filename": lesson.filename,
             "page": page_map.get(lesson_num, "?"),
             "mismatch_count": mismatch_count,
             "total_chars": total_chars,
-            "mismatch_rate": mismatch_rate
+            "mismatch_rate": mismatch_rate,
+            "diagnostics": diagnostics[:3] # 只保留前三个主要诊断
         })
 
-    # 排序
+    # 3. 输出报告 (精要版)
     file_severity.sort(key=lambda x: -x['mismatch_rate'])
     
-    print("\n" + "="*80)
-    print("错位分析 (Displacement Analysis)")
-    print("="*80)
-    print(f"{'课号':<6} | {'页码':<8} | {'错位率':<8} | {'不匹配数':<8} | {'文件名'}")
-    print("-" * 65)
+    print("\n" + "="*90)
+    print(f"{'课号':<5} | {'错位率':<8} | {'诊断结论 (Top Diagnostics)':<40} | {'文件名'}")
+    print("-" * 90)
     
-    for item in file_severity[:15]: 
-        print(f"{item['lesson']:<6} | {item['page']:<8} | {item['mismatch_rate']:<8.1%} | {item['mismatch_count']:<8} | {item['filename']}")
+    for item in file_severity[:15]:
+        diag_str = ", ".join(item['diagnostics']) if item['diagnostics'] else "[CLEAN]"
+        print(f"{item['lesson']:<5} | {item['mismatch_rate']:<8.1%} | {diag_str:<40} | {item['filename']}")
