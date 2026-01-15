@@ -3,35 +3,52 @@
 
 支持 1910 年教会罗马字 (Church Romanization) 与现代吴语学堂拼音 (Wugniu Pinyin) 之间的转换和相似度比较。
 
-两种方案的主要系统性差异：
+==============================================================================
+教会罗马字规则来源: preliminary.typ (Key to the Pronunciation)
+==============================================================================
 
-声母对应:
+声母对应 (Initials):
 | 教会罗马字 | 吴语学堂 | IPA  | 说明 |
 |-----------|---------|------|------|
-| ny        | gn      | ɲ    | 日母 |
+| ny        | gn      | ɲ    | 日母 ("ni" in spaniel) |
 | ng        | ng      | ŋ    | 疑母 |
-| dz        | j/z     | dz/z | 从母 |
-| ts        | c       | ts   | 精母 |
-| tsh       | ch      | tsʰ  | 清母 |
-| s         | s/sh    | s/ʃ  | 心母 |
-| z         | zh/z    | z    | 邪母 |
+| ky        | c/j     | tɕ   | 见母腭化 ("ch" without aspiration) |
+| ch        | ch/q    | tɕʰ  | 清母送气 ("ch" in church) |
+| hy        | sh/x    | ɕ    | 晓母腭化 ("ti" in Portia) |
+| tsh       | tsh/ch  | tsʰ  | 清母送气 |
+| dz        | j/z/dz  | dz   | 从母 |
+| ts        | ts/c    | ts   | 精母 |
+| th        | th      | tʰ   | 透母 ("th" in Thomas, NOT thing!) |
 | kh        | kh      | kʰ   | 溪母 |
-| '         | gh/'    | ʔ    | 影母 |
+| kwh       | khw     | kʷʰ  | 溪母合口 |
+| 'v        | v/w     | v    | 微母 (高调) |
+| v         | v/w     | v    | 微母 (低调) |
+| j         | j/zh    | dʑ   | 日母 (低调) |
+| gw        | ghw     | ɡʷ   | 群母合口 |
 
-韵母对应 (入声用 -h vs -q):
+韵母对应 (Finals - 入声用 -h/-k vs -q):
 | 教会罗马字 | 吴语学堂 | IPA  | 说明 |
 |-----------|---------|------|------|
+| ah        | aq      | aʔ   | 入声 ("a" in at) |
+| ak        | aq      | aʔ   | 入声 ("a" in what) |
+| eh        | eq      | eʔ   | 入声 ("e" in let) |
 | ih        | iq      | iʔ   | 入声 |
-| eh        | eq      | eʔ   | 入声 |
-| ah        | aq      | aʔ   | 入声 |
 | oh        | oq      | oʔ   | 入声 |
 | uh        | uq      | uʔ   | 入声 |
-| aung      | aon     | ɔ̃    | 鼻化 |
-| ung       | on      | oŋ   | 通摄 |
-| oong      | on      | oŋ   | 通摄 |
-| eu        | oe      | ø    | 流摄 |
-| au        | ao      | ɔ    | 效摄 |
-| ieu       | iau     | iɔ   | 效摄 |
+| auh       | auq     | ɔʔ   | 入声 |
+| oeh       | oeq     | øʔ   | 入声 |
+| iah       | iaq     | iaʔ  | 入声 |
+| iak       | iaq     | iaʔ  | 入声 |
+| aung      | aon     | ɔ̃    | 鼻化韵 ("ng" in song) |
+| ang       | an/aon  | ã/ɔ̃  | 鼻化韵 ("a" in far + ng) |
+| oong      | on      | oŋ   | 通摄 ("o" in bone + ng) |
+| ung       | on/un   | oŋ   | 通摄 |
+| oe        | oe      | ø    | 遇摄 (German ö) |
+| eu        | oe/eu   | ø    | 流摄 (French "eu" in Monsieur) |
+
+特殊说明:
+- "leh-la" (拉拉) 中的 "leh" 实际是入声 leq (勒)，表示进行态
+- 入声 -h/-k 结尾表示喉塞尾 /-ʔ/，元音突然结束
 """
 
 import re
@@ -41,32 +58,49 @@ from dataclasses import dataclass
 # ============ 声母映射 ============
 # 教会罗马字 -> 吴语学堂 (1:N 映射)
 INITIAL_CHURCH_TO_WUGNIU = {
-    "ny": ["gn"],
+    # 日母
+    "ny": ["gn", "ni"],
+    # 疑母
     "ng": ["ng"],
+    # 见系
+    "ky": ["c", "j", "ci"],      # 见母腭化
+    "ch": ["ch", "q", "tsh"],    # 清母送气
+    "hy": ["sh", "x", "hi"],     # 晓母腭化
+    "kh": ["kh"],
+    "kwh": ["khw", "khu"],
+    "kw": ["kw", "ku", "gw"],
+    "k": ["k", "c"],
+    "gw": ["ghw", "gu"],
+    "g": ["g", "gh"],
+    # 精系
+    "tsh": ["tsh", "ch"],
+    "ts": ["ts", "c"],
     "dz": ["j", "z", "dz"],
-    "ts": ["c", "ts"],
-    "tsh": ["ch", "tsh"],
     "s": ["s", "sh"],
     "z": ["z", "zh"],
-    "kh": ["kh"],
-    "k": ["k", "c"],  # 见母在某些环境下
+    # 端系
+    "th": ["th"],
+    "t": ["t"],
+    "d": ["d"],
+    # 帮系
+    "ph": ["ph"],
+    "p": ["p"],
+    "b": ["b"],
+    # 微母
+    "'v": ["v", "w"],
+    "v": ["v", "w"],
+    # 其他
     "gh": ["gh"],
-    "'": ["gh", "'", ""],  # 影母
-    "h": ["h", "gh"],
+    "h": ["h", "gh", "hh"],
+    "hw": ["hw", "hu", "f"],
+    "f": ["f"],
     "m": ["m"],
     "n": ["n"],
-    "l": ["l"],
-    "v": ["v", "w"],
-    "f": ["f"],
-    "p": ["p"],
-    "ph": ["ph"],
-    "b": ["b"],
-    "t": ["t"],
-    "th": ["th"],
-    "d": ["d"],
-    "j": ["j", "zh"],
-    "ch": ["ch", "q"],
-    "sh": ["sh", "x"],
+    "l": ["l", "lh"],
+    "j": ["j", "zh", "ni"],
+    "y": ["y", "ghi", "i"],
+    "w": ["w", "ghu", "u", "v"],
+    "'": ["gh", "'", "hh", ""],  # 影母/喉塞
     "": [""],  # 零声母
 }
 

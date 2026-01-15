@@ -81,3 +81,33 @@ uv run python xtask.py fix lesson-26 -i   # Interactively review complex issues
 5. **Interactive Polish**: For files with high mismatch remaining, use `fix <target> --interactive`. Use the "📖 全书用例" (Corpus Examples) in the output as your primary reference for deciding `y/n`.
 6. **Final Verification**: Re-run `analyze displacement` to confirm the file is now [CLEAN].
 
+## Important Phonetic Notes
+
+### The `leh-la` (拉拉) Case
+- `leh` is **NOT** a misspelling of `la`
+- `leh` = 入声 `leq` = "勒" (perfective/progressive aspect marker)
+- `la` = "拉" (locative particle)
+- Together `leh-la` represents the grammatical structure "勒拉" (in/at/while doing)
+- This is a **correct** and **intentional** transcription
+
+### Rusheng (入声) Finals
+Per `preliminary.typ`:
+- `-h` and `-k` indicate **abrupt vowel ending** (glottal stop /ʔ/)
+- `ah` = "a" in "at", `eh` = "e" in "let", `ih` = short "i" in "it"
+- These map to Wugniu `-q` endings (`aq`, `eq`, `iq`, etc.)
+
+## Shell Usage ⚠️
+
+**IMPORTANT**: Always use `bash -c '...'` wrapper for complex shell commands, especially when:
+- Using pipes (`|`)
+- Using redirection (`>`, `2>&1`)
+- Using special characters or quotes
+
+This avoids Fish shell syntax differences. Example:
+```bash
+# ✓ Correct
+bash -c 'grep "pattern" file.txt | head -10'
+
+# ✓ For git commits with multi-line messages
+bash -c 'git commit -m "Short message"'
+```
