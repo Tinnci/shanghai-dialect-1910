@@ -37,11 +37,16 @@ This skill allows the agent to perform deep quality analysis on the Shanghai dia
    - **Feature-Based Similarity**: Uses phonological feature vectors (place, manner, voicing, etc.) to calculate precise similarity scores.
    - **Knowledge Persistence**: Saves learned rules to `.agent/data/phonetic_rules.json` for consistent decision making.
 
-6. **Phonetic Conversion & Export (`g2p`, `export-ipa`)**:
-   - **Hybrid G2P Engine**: Combines static 1910 rules with dynamic rule-based prediction for modern Wugniu Pinyin.
-   - **IPA Generation**: Converts Church Romanization to International Phonetic Alphabet (IPA).
-   - **Modern Prediction**: Predicts modern Wugniu spelling with confidence scores based on learned rules.
-   - **Data Export**: Exports all lessons to structured JSONL format (`shanghai_dialect_ipa.jsonl`) containing Hanzi, Pott, IPA, and predicted Wugniu tokens.
+6. **TTS Inference & Frontend (`g2p`, `shanghai_cleaners`)**:
+   - **Decoupled G2P Engine**: Native 1910 Pott-to-IPA conversion without `espeak` dependency.
+   - **Matcha-TTS Integration**: Built-in 🍵 Matcha-TTS (Flow Matching) support via root `uv` workspace.
+   - **Shanghai Phoneme Set**: Custom `shanghai_symbols.py` with distinct Sharp/Round and Checked tone support.
+   - **Stochastic Prosody**: (Planned) Integration of Stochastic Duration Predictor for natural old-style rhythm.
+
+7. **Iterative Workflows (The "Grind" Pattern)**:
+   - **Goal-Oriented Iteration**: Support for continuous refinement loops until project milestones are achieved.
+   - **Success Verification**: Use of dedicated test suites (e.g., `tests/test_shanghai_frontend.py`) to gate progress.
+   - **Documentation**: See `resources/agent_patterns.md` for implementation details.
 
 ## Core Modules
 
@@ -126,6 +131,25 @@ uv run python xtask.py convert              # Convert images to JXL/JPG
 7. **Interactive Polish**: For files with high mismatch remaining, use `fix <target> --interactive`. Use the "📖 全书用例" (Corpus Examples) in the output as your primary reference for deciding `y/n`.
 8. **Final Verification**: Re-run `analyze displacement` to confirm the file is now [CLEAN].
 
+## TTS Implementation Roadmap
+ 
+### 1. Frontend Integration (DONE)
+- [x] Decouple `espeak` dependency.
+- [x] Integrate `PottToIPA` into Matcha-TTS cleaners.
+- [x] Define historical phoneme set in `shanghai_symbols.py`.
+- [x] E2E test for Pott -> ID sequence.
+
+### 2. Acoustic Modeling (IN PROGRESS)
+- [ ] Implement `MatchaHybrid` with Stochastic Duration Predictor (SDP).
+- [ ] Implement contrastive loss for Sharp/Round physical isolation in embeddings.
+- [ ] Configuration setup for Shanghai 1910 experiment.
+
+### 3. Data & Training (TODO)
+- [ ] Pre-process modern Wu corpora (Common Voice/MagicData).
+- [ ] Train base model on modern Wu data.
+- [ ] Record and align 1910-style few-shot data.
+- [ ] Fine-tune embeddings for historical accuracy.
+ 
 ## Important Phonetic Notes
 
 ### The `leh-la` (拉拉) Case
