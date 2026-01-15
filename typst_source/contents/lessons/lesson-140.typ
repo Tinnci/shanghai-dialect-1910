@@ -8,7 +8,7 @@
 ) #r("ya", "夜") #r("li", "里") #r("yeu", "有") #r("kyi-kuh", "几个") #r("nyung", "入") #r("tau", "到") #r(
   "toong-ka",
   "东街",
-) #r("laung", "上") #r("chi", "去") #r("tshiang", "抢") #r("ih", "一") #r("ban", "爿") #r("(1)", " ") #r(
+) #r("laung", "上") #r("chi", "去") #r("tshiang", "抢") #r("ih", "一") #r("ban", "爿")  #r(
   "dzien-tsaung.",
   "钱庄。",
 )#footnote[Exchange shop. (1)] #r("Yeu", "有") #r("ka", "介") #r("z", "事") #r("va?", "否？") #r("'Veh", "勿") #r(
@@ -47,7 +47,7 @@
 ) #r("soong", "送") #r("kyi", "几") #r("liang-nyung-ts", "两银子") #r("peh", "拨") #r("noong-kuh.\"", "侬个。”") #r(
   "Di-kuh",
   "第个",
-) #r("lieu-maung", "流氓") #r("'veh", "勿") #r("khung.", "勿肯。") #r("Yi", "伊") #r("wo,", "话：") #r(
+) #r("lieu-maung", "流氓") #r("'veh", "勿") #r("'veh", "勿") #r("khung", "肯") #r("Yi", "伊") #r("wo,", "话：") #r(
   "\"Phiau-ts",
   "“票子",
 ) #r("z", "是") #r("ngoo-kuh,", "我个，") #r("ngoo", "我") #r("tsuh-kwe", "只管") #r("iau", "要") #r("ling", "领") #r(
@@ -85,16 +85,16 @@
 ) #r("Ih-tau-ts", "一到之") #r("tsaung-laung", "庄上") #r("khe-kheu", "开口") #r("zieu", "就") #r("mo,", "骂，") #r(
   "nau",
   "拿",
-) #r("(3)", " ") #r("jui", "柜") #r("laung", "上") #r("ih-kuh", "一个") #r("hoo-ji,", "影计")#footnote[Counter. (3)] #r(
+)  #r("jui", "柜") #r("laung", "上") #r("ih-kuh", "一个") #r("hoo-ji,", "影计")#footnote[Counter. (3)] #r(
   "(4)",
   " ",
 ) #r("tshieu-tsheh-chi,", "掀出去")#footnote[Dragged out. (4)] #r("zieu", "就") #r("tang.", "打。") #r("Tan", "担") #r(
   "jui-laung-kuh",
   "柜上个",
-) #r("(1)", " ") #r("soen-ben", "算盘")#footnote[Abacus. (1) on page 231] #r("hwah", "甩") #r("la", "拉") #r(
+)  #r("soen-ben", "算盘")#footnote[Abacus. (1) on page 231] #r("hwah", "甩") #r("la", "拉") #r(
   "di",
   "地",
-) #r("laung.", "上。") #r("Di-kuh", "第个") #r("zung-kwaung", "辰光") #r("(2)", " ") #r(
+) #r("laung.", "上。") #r("Di-kuh", "第个") #r("zung-kwaung", "辰光")  #r(
   "sing-di-kwen",
   "讯地官",
 )#footnote[The ward guard. (2)] #r("thing-kyien-ts", "听见之") #r("wo", "话") #r("lau,", "咾，") #r("\"La", "“拉") #r(
@@ -103,7 +103,7 @@
 ) #r("dzien-tsaung", "钱庄") #r("tse.\"", "者。”") #r("Zieu", "就") #r("ta-ts", "带之") #r("ping", "兵") #r(
   "lau,",
   "咾，",
-) #r("tan", "担") #r("yi-la", "伊拉") #r("s", "四个") #r("ng-kuh", "入") #r("nyung", " ") #r("ih-zi", "一齐") #r(
+) #r("tan", "担") #r("yi-la", "伊拉") #r("s", "四") #r("kuh", "个") #r("ng-kuh", "入") #r("nyung", " ") #r("ih-zi", "一齐") #r(
   "tsauh-ts",
   "捉之",
 ) #r("chi,", "去，") #r("soong", "送") #r("tau", "到") #r("yoen-li.", "县里。") #r("'Eu-le", "后来") #r("dzo", "查") #r(
@@ -112,7 +112,7 @@
 ) #r("z", "是") #r("tah", "搭") #r("tsaung-laung", "庄上") #r("nyung", "人") #r("siang-tang-kuh,", "相打个，") #r(
   "zieu",
   "就",
-) #r("nau", "拿") #r("yi-la", "伊拉") #r("ih-dau", "一淘") #r("(3)", " ") #r("ka-la", "枷拉")#footnote[Cangue. (3)] #r(
+) #r("nau", "拿") #r("yi-la", "伊拉") #r("ih-dau", "一淘")  #r("ka-la", "枷拉")#footnote[Cangue. (3)] #r(
   "toong-ka",
   "东街",
 ) #r("laung.", "上。") #r("Koo-ts", "过之") #r("pen-kuh", "半个") #r("nyoch,", "月") #r("nan-meh", "难末") #r(

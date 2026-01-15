@@ -41,12 +41,12 @@
 
 #r("B", "B") #r("Zuh", "贼") #r("na-nung", "哪能") #r("tsing-chi-kuh?", "进去个？")
 
-#r("A", "A") #r("(4)", " ") #r("Chau", "撬") #r("khe-ts", "开之")#footnote[Pried open. (4)] #r("'eu-mung", "后门") #r(
+#r("A", "A")  #r("Chau", "撬") #r("khe-ts", "开之")#footnote[Pried open. (4)] #r("'eu-mung", "后门") #r(
   "lau",
   "咾",
 ) #r("tsing-chi-kuh.", "进去个。")
 
-#r("B", "B") #r("Theu-chi-la-kuh", "偷去拉个") #r("meh-z,", "物事，") #r("(5)", " ") #r(
+#r("B", "B") #r("Theu-chi-la-kuh", "偷去拉个") #r("meh-z,", "物事，")  #r(
   "dzuh",
   "值",
 )#footnote[What is the value? (5)] #r("kyi-hau", "几化") #r("yang-dien?", "洋钱？")
@@ -71,12 +71,12 @@
   "登",
 ) #r("la", "拉") #r("va?", "唔？")
 
-#r("A", "A") #r("Yeu-kuh,", "有个，") #r("pih-koo", "必过") #r("ih-kuh", "一个") #r("(1)", " ") #r(
+#r("A", "A") #r("Yeu-kuh,", "有个，") #r("pih-koo", "必过") #r("ih-kuh", "一个")  #r(
   "nyang-yi.",
   "娘姨。",
 )#footnote[Woman servant. (1) on page 264]
 
-#r("B", "B") #r("(2)", " ") #r("Seh-tsu", "失主")#footnote[The one from whom the things were stolen. (2)] #r(
+#r("B", "B")  #r("Seh-tsu", "失主")#footnote[The one from whom the things were stolen. (2)] #r(
   "la",
   "拉",
 ) #r("sa", "啥") #r("di-faung?", "地方？")
@@ -114,7 +114,7 @@
 
 #r("B", "B") #r("Yi", "伊") #r("tau", "到") #r("sa-di-faung", "啥地方") #r("chi", "去") #r("tse?", "哉？")
 
-#r("A", "A") #r("Yi", "伊") #r("tsho", "乘") #r("s-seu", "尸首") #r("tau", "到") #r("(1)", " ") #r(
+#r("A", "A") #r("Yi", "伊") #r("tsho", "乘") #r("s-seu", "尸首") #r("tau", "到")  #r(
   "nyien-s",
   "验尸",
 ) #r("dzang", "场") #r("li", "里") #r("chi", "去") #r(
@@ -127,7 +127,7 @@
   "咾",
 ) #r("na-nung", "哪能") #r("si-kuh?", "死个？")
 
-#r("A", "A") #r("Zieu-z", "就是") #r("zauh-ya-deu", "昨夜头") #r("peh", "拨拉") #r("la", " ") #r("jang-dau", "强盗") #r(
+#r("A", "A") #r("Zieu-z", "就是") #r("zauh-ya-deu", "昨夜头") #r("peh", "拨") #r("la", "拉") #r("la", " ") #r("jang-dau", "强盗") #r(
   "tshok-sah-kuh.",
   "戳杀个。",
 )

@@ -17,7 +17,7 @@
 ) #r("lau", "咾") #r("ya", "夜") #r("li", "裡") #r("tsoo-maung,", "做梦，") #r("ziang", "像") #r(
   "Tsoong-kok",
   "中国",
-) #r("nyung", "人") #r("wo,", "话，") #r("(1)", " ") #r("\"zeh", "“日") #r("yeu", "有") #r("soo", "所") #r(
+) #r("nyung", "人") #r("wo,", "话，")  #r("\"zeh", "“日") #r("yeu", "有") #r("soo", "所") #r(
   "s,",
   "思，",
 ) #r("ya", "夜") #r("yeu", "有") #r("soo", "所") #r(
@@ -31,13 +31,13 @@
 ) #r("ngoo", "我") #r("iau", "要") #r("kaung", "説") #r("ih-tsaung", "一椿") #r("koo-tien", "古典") #r("peh", "拨") #r(
   "na",
   "哪",
-) #r("(2)", " ") #r("tsu-kyuin", "诸君")#footnote[Gentlemen. (诸君)] #r("thing.", "聴。") #r("Dzoong-zien", "从前") #r(
+)  #r("tsu-kyuin", "诸君")#footnote[Gentlemen. (诸君)] #r("thing.", "聴。") #r("Dzoong-zien", "从前") #r(
   "yeu",
   "有",
-) #r("ih-kuh", "一个") #r("(3)", " ") #r("Poo-s", "波斯")#footnote[Persia. (波斯)] #r("waung-ti,", "皇帝，") #r(
+) #r("ih-kuh", "一个")  #r("Poo-s", "波斯")#footnote[Persia. (波斯)] #r("waung-ti,", "皇帝，") #r(
   "yi",
   "伊",
-) #r("yeu", "有") #r("ih-kuh", "一个") #r("noen,", "囡，") #r("ming-deu", "名头") #r("kyau", "叫") #r("(4)", " ") #r(
+) #r("yeu", "有") #r("ih-kuh", "一个") #r("noen,", "囡，") #r("ming-deu", "名头") #r("kyau", "叫")  #r(
   "Van",
   "万",
 ) #r("Zeu-kyoeh.", "寿菊。")#footnote[Ever living chrysanthemum. (万寿菊/Midas女儿的名字)] #r("Waung-ti", "皇帝") #r(
@@ -52,7 +52,7 @@
 ) #r("Waung-ti", "皇帝") #r("siang", "想") #r("dzien", "全") #r("kok", "国") #r("soong-peh", "送拨") #r("yi", "伊") #r(
   "di-kuh",
   "第个",
-) #r("(5)", " ") #r("li-veh", "礼物")#footnote[Present, gift. (礼物)] #r("wan-z", "还是") #r("thuh", "忒") #r(
+)  #r("li-veh", "礼物")#footnote[Present, gift. (礼物)] #r("wan-z", "还是") #r("thuh", "忒") #r(
   "chung,",
   "轻，",
 ) #r("soo-i", "所以") #r("tse", "再") #r("tang-soen", "打算") #r("bih-yang-kuh", "别样个") #r("fah-tsuh,", "法则，") #r(
@@ -70,10 +70,10 @@
 ) #r("siang-nyan", "想念") #r("lau", "咾") #r("tau", "到") #r("ya-deu", "夜头") #r("tsoo", "做") #r(
   "maung,",
   "梦，",
-) #r("maung-kyien", "梦见") #r("ih", "一个") #r("kuh", "仙人") #r("sien-nyung", " ") #r("le", "来") #r("tah", "搭") #r(
+) #r("maung-kyien", "梦见") #r("ih", "一") #r("kuh", "个") #r("sien", "仙") #r("nyung", "人") #r("sien-nyung", " ") #r("le", "来") #r("tah", "搭") #r(
   "yi",
   "伊",
-) #r("wo,", "话，") #r("ngoo", "我") #r("yeu", "有") #r("(7)", " ") #r("pien", "变") #r("kyung", "金") #r(
+) #r("wo,", "话，") #r("ngoo", "我") #r("yeu", "有")  #r("pien", "变") #r("kyung", "金") #r(
   "nyung-kuh",
   "银个",
 ) #r("fah-tsuh,", "法则，")#footnote[A method of changing things into gold. (点金术)] #r("zak-zen", "若然") #r(
@@ -85,7 +85,7 @@
 ) #r("Waung-ti", "皇帝") #r("chi-deu", "起头") #r("'veh", "勿") #r("siang-sing.", "相信。") #r("'Eu-le", "后来") #r(
   "sien-nyung",
   "仙人",
-) #r("yoong", "用") #r("seu", "手") #r("le", "来") #r("tien", "点") #r("ih-tsak", "一隻") #r("(8)", " ") #r(
+) #r("yoong", "用") #r("seu", "手") #r("le", "来") #r("tien", "点") #r("ih-tsak", "一隻")  #r(
   "hwo-bing,",
   "花瓶，",
 )#footnote[Vase. (花瓶)] #r("hwo-bing", "花瓶") #r("zieu", "就") #r("pien-ts", "变之") #r("kyung-ts", "金子") #r(
@@ -97,10 +97,10 @@
 ) #r("jeu", "求") #r("sien-nyung", "仙人") #r("nau", "拿") #r("fah-dzeh", "法术") #r("le", "来") #r("kau", "教") #r(
   "yi.",
   "伊。",
-) #r("Sien-nyung", "仙人") #r("zieu", "就") #r("ih-kheu", "一口") #r("(1)", " ") #r(
+) #r("Sien-nyung", "仙人") #r("zieu", "就") #r("ih-kheu", "一口")  #r(
   "iung-dzung",
   "应承",
-)#footnote[Granted. (应承/允诺)] #r("lau", "咾") #r("(2)", " ") #r("kau", "教") #r("we-ts", "会之") #r("yi", "伊") #r(
+)#footnote[Granted. (应承/允诺)] #r("lau", "咾")  #r("kau", "教") #r("we-ts", "会之") #r("yi", "伊") #r(
   "tse.",
   "哉。",
 )#footnote[Instructed. (教会)]
@@ -111,7 +111,7 @@
 ) #r("wen,", "碗") #r("lau-sa,", "咾啥，") #r("tau", "倒") #r("pien-ts", "变之") #r("kyung-ts", "金子") #r(
   "tse.",
   "哉。",
-) #r("Waung-ti", "皇帝") #r("sing", "心里") #r("li", " ") #r("zieu", "就") #r("doo", "大") #r("kha-weh.", "快活。") #r(
+) #r("Waung-ti", "皇帝") #r("sing", "心") #r("li", "里") #r("li", " ") #r("zieu", "就") #r("doo", "大") #r("kha-weh.", "快活。") #r(
   "Tau-ts",
   "到之",
 ) #r("chuh", "吃") #r("van-kuh", "饭个") #r("zung-kwaung,", "辰光，") #r("waung-ti", "皇帝") #r("liau", "料") #r(
@@ -159,7 +159,7 @@
 ) #r("gan-li", "眼泪") #r("'a", "也") #r("pien-ts", "变之") #r("kyung-ts", "金子") #r("lau", "咾") #r("kwo", "挂") #r(
   "la",
   "拉",
-) #r("yi", "伊") #r("kuh", "个") #r("(4)", " ") #r("mien-kyih-koo", "面颊颊") #r(
+) #r("yi", "伊") #r("kuh", "个")  #r("mien-kyih-koo", "面颊颊") #r(
   "laung.",
   "上。",
 )#footnote[Cheek. (面颊)] #r("Nan-meh", "难末") #r("yi", "伊") #r("da", "大") #r("han", "喊") #r("ih", "一") #r(

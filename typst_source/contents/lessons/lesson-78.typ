@@ -14,7 +14,7 @@
 ) #r("yang-suh", "样式") #r("lau,", "咾") #r("'veh", "勿") #r("'auh", "学") #r("nga-kok", "外国") #r("nyung", "人") #r(
   "kuh",
   "个",
-) #r("pung-z", "本事") #r("lau", "咾") #r("(2)", " ") #r("'auh-vung.", "学问。")#footnote[Learning.]
+) #r("pung-z", "本事") #r("lau", "咾")  #r("'auh-vung.", "学问。")#footnote[Learning.]
 
 #r("Yeu-kuh", "有个") #r("'auh-sang-ts", "学生子") #r("soen-we", "算为") #r("'auh", "学") #r("kyi", "几") #r(
   "kuh",
@@ -48,7 +48,7 @@
 ) #r("tsieu;", "酒。") #r("la", "拉") #r("vaung-kan", "房间") #r("li", "里") #r("pa", "摆") #r("ih", "一") #r(
   "tsak",
   "只",
-) #r("thih-zaung;", "铁牀。") #r("di-laung", "地上") #r("than", "摊") #r("(3)", " ") #r("ih", "一") #r("diau", "条") #r(
+) #r("thih-zaung;", "铁牀。") #r("di-laung", "地上") #r("than", "摊")  #r("ih", "一") #r("diau", "条") #r(
   "mau-than.",
   "毛毯。",
 )#footnote[A carpet.] #r("Yi-la", "伊拉") #r("soen", "算") #r("di-kuh", "第个") #r("kyi-yang", "几样") #r(
@@ -68,7 +68,7 @@
 ) #r("m-meh", "无没") #r("bien-ts", "辫子") #r("lau", "咾") #r("ta", "戴") #r("Tsoong-kok", "中国") #r(
   "mau-ts,",
   "帽子。",
-) #r("sung", "身") #r("laung", "上") #r("tsak-kuh", "着个") #r("(1)", " ") #r("tsok-poo", "竹布") #r(
+) #r("sung", "身") #r("laung", "上") #r("tsak-kuh", "着个")  #r("tsok-poo", "竹布") #r(
   "dzang-san,",
   "长衫。",
 )#footnote[A long gown.] #r("kyak", "脚") #r("laung", "上") #r("tsak-ts", "着之") #r("ih", "一") #r("saung", "双") #r(
@@ -88,10 +88,10 @@
 ) #r("lau", "咾") #r("khoen-'veh-chi", "看不见") #r("yi.", "伊。") #r("Yeu", "有") #r("kuh", "个") #r(
   "'auh-sang-ts",
   "学生子",
-) #r("wan", "还") #r("iau", "要") #r("(2)", " ") #r("thauh", "託") #r("nga-kok", "外国") #r("nyung", "人") #r(
+) #r("wan", "还") #r("iau", "要")  #r("thauh", "託") #r("nga-kok", "外国") #r("nyung", "人") #r(
   "kuh",
   "个",
-) #r("(3)", " ") #r("s-mak", "势派")#footnote[Rely upon and Influence, power.] #r("le", "来") #r("hak", "吓") #r(
+)  #r("s-mak", "势派")#footnote[Rely upon and Influence, power.] #r("le", "来") #r("hak", "吓") #r(
   "Tsoong-kok-nyung",
   "中国人",
 ) #r("lau", "咾") #r("chi-phien", "欺骗") #r("yi-la.", "伊拉。")
@@ -99,10 +99,10 @@
 #r("'A", "也") #r("yeu", "有") #r("too-hau", "多化") #r("la", "拉") #r("nga-kok", "外国") #r("kuh", "个") #r(
   "lieu-'auh-sang",
   "留学生",
-) #r("dzang-tsaung", "常庄") #r("(4)", " ") #r("hwe-paung", "譭谤")#footnote[To slander.] #r("Tsoong-kok", "中国") #r(
+) #r("dzang-tsaung", "常庄")  #r("hwe-paung", "譭谤")#footnote[To slander.] #r("Tsoong-kok", "中国") #r(
   "Tsung-foo",
   "政府",
-) #r("lau,", "咾") #r("iau", "要") #r("siang", "想") #r("tsoo", "做") #r("(5)", " ") #r(
+) #r("lau,", "咾") #r("iau", "要") #r("siang", "想") #r("tsoo", "做")  #r(
   "kuh-ming-taung.",
   "革命党。",
 )#footnote[Revolutionist.] #r("Zak-zen", "若然") #r("peh", "拨") #r("la", "拉") #r("kwen-foo", "官府") #r(

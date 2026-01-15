@@ -14,13 +14,13 @@
 ) #r("yi", "伊") #r("loo-koo", "苏州") #r("Soo-tseu,", " ") #r("yi", "伊") #r("siang-dzak", "想着") #r(
   "yi-kuh",
   "伊个",
-) #r("sing", "姓") #r("Yih-kuh", "葉个") #r("bang-yeu", "朋友") #r("lau", "咾") #r("iau", "要去") #r("chi", " ") #r(
+) #r("sing", "姓") #r("Yih-kuh", "葉个") #r("bang-yeu", "朋友") #r("lau", "咾") #r("iau", "要") #r("chi", "去") #r("chi", " ") #r(
   "thauh",
   "託",
 ) #r("yi", "伊") #r("zing", "寻") #r("sang-i.", "生意。") #r("Nan-meh", "难末") #r("zieu", "就") #r("dzu", "住") #r(
   "la",
   "拉",
-) #r("(1)", " ") #r("khak-dzan", "客棧") #r("li.", "裡。")#footnote[An inn.] #r("La", "拉") #r("khak-dzan", "客棧") #r(
+)  #r("khak-dzan", "客棧") #r("li.", "裡。")#footnote[An inn.] #r("La", "拉") #r("khak-dzan", "客棧") #r(
   "li,",
   "裡，",
 ) #r("yeu", "有") #r("ih-kuh", "一个") #r("khak-nyung", "客人") #r("sing", "姓") #r("Kya.", "贾。") #r(
@@ -62,7 +62,7 @@
 ) #r("nyang-ts", "娘子") #r("pen", "搬") #r("tau", "到") #r("sing", "姓") #r("Waung-kuh", "王个") #r(
   "han-deu",
   "壗头",
-) #r("chi", "去") #r("dzu", "住") #r("la,", "拉。") #r("(2)", " ") #r("taung", "当") #r("yi", "伊") #r("z", "是") #r(
+) #r("chi", "去") #r("dzu", "住") #r("la,", "拉。")  #r("taung", "当") #r("yi", "伊") #r("z", "是") #r(
   "hau",
   "好",
 ) #r("nyung", "人") #r("lau", "咾") #r("bing-'veh", "并勿") #r("nyi-sing", "疑心") #r(
@@ -71,7 +71,7 @@
 )#footnote[To regard, reckon.] #r("'Eu-seu", "后首") #r("meh,", "末") #r("sing", "姓") #r("Tsu-kuh", "朱个") #r(
   "ih-koen-ts",
   "一干子",
-) #r("tseu", "走") #r("tau", "到") #r("(3)", " ") #r("Pau-ta-jau-kuh", "寶带桥个") #r(
+) #r("tseu", "走") #r("tau", "到")  #r("Pau-ta-jau-kuh", "寶带桥个") #r(
   "di-faung,",
   "地方，",
 )#footnote[A bridge at Soochow.] #r("zung-kwaung", "辰光") #r("ya-kwha", "夜快") #r("tse,", "者。") #r("tseu", "走") #r(
@@ -83,7 +83,7 @@
 ) #r("Kya-kuh", "贾个") #r("liang", "两") #r("ka-deu", "家头") #r("bang-dzak", "碰着") #r("sing", "姓") #r(
   "Tsu-kuh",
   "朱个",
-) #r("leh-la", "拉拉") #r("(1)", " ") #r("lang-dzing-kuh", "冷静个") #r("di-faung,", "地方。")#footnote[Lonely.] #r(
+) #r("leh-la", "拉拉")  #r("lang-dzing-kuh", "冷静个") #r("di-faung,", "地方。")#footnote[Lonely.] #r(
   "zieu",
   "就",
 ) #r("thoo-lau", "拖牢") #r("yi-kuh", "伊个") #r("bien-ts", "辫子") #r("lau,", "咾") #r("nau", "拿") #r(
@@ -92,10 +92,10 @@
 ) #r("tau", "刀") #r("lien", "连") #r("tshok", "戳") #r("kyi", "几") #r("tau.", "刀。") #r("Sing", "姓") #r(
   "Tsu-kuh",
   "朱个",
-) #r("(2)", " ") #r("thoong-sah", "痛杀") #r("kwha", "快") #r("lau,", "咾")#footnote[Dying from pain.] #r(
+)  #r("thoong-sah", "痛杀") #r("kwha", "快") #r("lau,", "咾")#footnote[Dying from pain.] #r(
   "yi-la",
   "伊拉",
-) #r("(3)", " ") #r("gwan", "掼") #r("yi", "伊") #r("la", "拉") #r("'oo", "河") #r(
+)  #r("gwan", "掼") #r("yi", "伊") #r("la", "拉") #r("'oo", "河") #r(
   "li-hyang.",
   "裡向。",
 )#footnote[To throw.]
@@ -103,7 +103,7 @@
 #r("Hyih-ts", "歇之") #r("ih-kuh", "一个") #r("z-zung,", "时辰，") #r("sing", "姓") #r("Tsu-kuh", "朱个") #r(
   "tau",
   "倒",
-) #r("weh-ts-tsen-le", "活之转来") #r("tse", "者") #r("lau,", "咾") #r("(4)", " ") #r("jih-lih", "竭力") #r(
+) #r("weh-ts-tsen-le", "活之转来") #r("tse", "者") #r("lau,", "咾")  #r("jih-lih", "竭力") #r(
   "han",
   "喊",
 ) #r("kyeu", "救") #r("ming.", "命。")#footnote[Much strength.] #r("Hyang-'au", "乡下") #r("nyung", "人") #r(
@@ -112,7 +112,7 @@
 ) #r("lien-maung", "连忙") #r("kyeu", "救") #r("yi", "伊") #r("chi-le.", "起来。") #r("Tau-ts", "到之") #r(
   "thien-liang",
   "天亮",
-) #r("tau", "到") #r("(5)", " ") #r("koong-dzung-jok", "工程局") #r("li", "里") #r("chi", "去") #r(
+) #r("tau", "到")  #r("koong-dzung-jok", "工程局") #r("li", "里") #r("chi", "去") #r(
   "kau.",
   "告。",
 )#footnote[The Native Municipal Council (工程局).] #r("Koong-dzung-jok", "工程局") #r("meh,", "末") #r(
@@ -121,13 +121,13 @@
 ) #r("tau", "到") #r("Yoen", "县") #r("li-hyang", "里向") #r("chi.", "去。") #r("Lau-ya", "老爷") #r("zieu", "就") #r(
   "tsheh-le",
   "出来",
-) #r("(6)", " ") #r("nyien", "验") #r("saung,", "伤。")#footnote[Examined the injury.] #r("Khoen-kyien", "看见") #r(
+)  #r("nyien", "验") #r("saung,", "伤。")#footnote[Examined the injury.] #r("Khoen-kyien", "看见") #r(
   "yi",
   "伊",
-) #r("(7)", " ") #r("'oo-loong", "喉嚨") #r("kheu-deu", "口头")#footnote[Throat.] #r("lau,", "咾") #r("deu", "头") #r(
+)  #r("'oo-loong", "喉嚨") #r("kheu-deu", "口头")#footnote[Throat.] #r("lau,", "咾") #r("deu", "头") #r(
   "laung",
   "上",
-) #r("dzen", "全") #r("z", "是") #r("(8)", " ") #r("saung-'ung.", "伤痕。")#footnote[Scar.] #r("Nan-meh", "难末") #r(
+) #r("dzen", "全") #r("z", "是")  #r("saung-'ung.", "伤痕。")#footnote[Scar.] #r("Nan-meh", "难末") #r(
   "zieu",
   "就",
 ) #r("pha", "派") #r("tsha-nyung", "差人") #r("chi", "去") #r("tsauh", "捉") #r("sing", "姓") #r(

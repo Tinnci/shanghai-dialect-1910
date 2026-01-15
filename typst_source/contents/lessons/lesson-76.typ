@@ -2,13 +2,13 @@
 
 #exercise(76, "论中国女人个呆笨", "LUNG TSOONG-KOK NYUI-NYUNG-KUH NGE-BUNG")
 
-#r("Tsoong-kok-kuh", "中国个") #r("nyui-nyung,", "女人，") #r("ih-doo", "一大") #r("pen", "一半") #r(
+#r("Tsoong-kok-kuh", "中国个") #r("nyui-nyung,", "女人，") #r("ih-doo", "一大") #r("ih", "一") #r("pen", "半") #r(
   "siang-sing",
   "相信",
 ) #r("boo-sah", "菩萨") #r("lau", "咾") #r("nyan-kyung,", "念经") #r("'ok-tse", "或者") #r("chuh", "吃") #r(
   "soo.",
   "素。",
-) #r("Wan", "还") #r("yeu", "有") #r("(3)", " ") #r("m", "无") #r("ts-suh-kuh", "知识个") #r(
+) #r("Wan", "还") #r("yeu", "有")  #r("m", "无") #r("ts-suh-kuh", "知识个") #r(
   "nyung",
   "人",
 )#footnote[One of no intelligence.] #r("siang-sing", "相信") #r("boo-sah;", "菩萨；") #r("yi-la", "伊拉") #r(
@@ -17,19 +17,19 @@
 ) #r("tsoo-fah", "做法") #r("ziang", "像") #r("fah-ths", "发痴") #r("kuh,", "个。") #r("dan-z", "但是") #r(
   "nyui-nyung",
   "女人",
-) #r("(1)", " ") #r("thuh-ien", "忒嫌")#footnote[Too superstitious.] #r("siang-sing-ts", "相信之") #r(
+)  #r("thuh-ien", "忒嫌")#footnote[Too superstitious.] #r("siang-sing-ts", "相信之") #r(
   "Veh-kyau,",
   "佛教，",
 ) #r("thing-ts", "听之") #r("'Oo-zaung,", "和尚") #r("Dau-z-kuh", "道士个") #r("seh-wo", "说话") #r("meh,", "末，") #r(
   "'veh",
   "勿",
-) #r("dan", "但") #r("(2)", " ") #r("bak-bak", "白白") #r("li", "里") #r("fi-theh", "废脱")#footnote[In vain.] #r(
+) #r("dan", "但")  #r("bak-bak", "白白") #r("li", "里") #r("fi-theh", "废脱")#footnote[In vain.] #r(
   "doong-dien",
   "铜鈿。",
 ) #r("'a", "也") #r("z", "是") #r("ih", "一") #r("nyien", "年") #r("s", "四") #r("kyi", "季") #r("ziang", "像") #r(
   "peh",
   "拨",
-) #r("(3)", " ") #r("kyui", "鬼") #r("mi", "迷")#footnote[Deluded by the spirits.] #r("ih-yang", "一样") #r(
+)  #r("kyui", "鬼") #r("mi", "迷")#footnote[Deluded by the spirits.] #r("ih-yang", "一样") #r(
   "tse.",
   "哉。",
 )
@@ -55,7 +55,7 @@
 ) #r("chi", "去") #r("sau", "烧") #r("hyang;", "香。") #r("wan", "还") #r("yeu", "有") #r("kuh", "个") #r(
   "joong-khoo",
   "穷苦",
-) #r("lau", "咾") #r("m-meh", "无没") #r("(4)", " ") #r("ben-zen-dien", "盘缠鈿")#footnote[Fare.] #r(
+) #r("lau", "咾") #r("m-meh", "无没")  #r("ben-zen-dien", "盘缠鈿")#footnote[Fare.] #r(
   "tsheh-mung",
   "出门",
 ) #r("chi", "去") #r("sau", "烧") #r("hyang", "香") #r("kuh", "个") #r("meh,", "末。") #r("yi-la", "伊拉") #r(
@@ -70,10 +70,10 @@
 ) #r("boo-sah-kuh", "菩萨个") #r("nyung,", "人，") #r("yeu", "有") #r("ih", "一") #r("kyui", "句") #r("zok", "俗") #r(
   "nyui",
   "语",
-) #r("wo,", "话，") #r("(5)", " ") #r("kyung", "今") #r("s", "世") #r("sau-sau", "烧烧") #r(
+) #r("wo,", "话，")  #r("kyung", "今") #r("s", "世") #r("sau-sau", "烧烧") #r(
   "Loong-hwo-hyang,",
   "龙华香，",
-)#footnote[This life.] #r("(6)", " ") #r("'au", "下") #r("s", "世") #r("deu", "投") #r("ih", "一") #r("kuh", "个") #r(
+)#footnote[This life.]  #r("'au", "下") #r("s", "世") #r("deu", "投") #r("ih", "一") #r("kuh", "个") #r(
   "hau",
   "好",
 ) #r("ya", "爷") #r("nyang.", "娘。")#footnote[The next life.] #r("Soo-i", "所以") #r("tau-ts", "到之") #r(
@@ -106,7 +106,7 @@
 ) #r("doo", "大") #r("siau", "小") #r("di-faung,", "地方，") #r("i-kyung", "已经") #r("yeu", "有") #r("nyung", "人") #r(
   "seh-lih",
   "设立",
-) #r("lau", "咾") #r("(1)", " ") #r("tshaung-ban", "创办") #r("nyui", "女") #r(
+) #r("lau", "咾")  #r("tshaung-ban", "创办") #r("nyui", "女") #r(
   "'auh-daung",
   "学堂",
 )#footnote[Manage.] #r("tse.", "哉。") #r("Zah-zen", "若然") #r("nyui-nyung", "女人") #r("dzoong", "从") #r(

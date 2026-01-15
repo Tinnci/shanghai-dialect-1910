@@ -2,13 +2,13 @@
 
 #exercise(105, "论推小车子", "LUNG THE SIAU TSHO-TS")
 
-#r("Tsho-ts", "车子") #r("yeu", "有") #r("(4)", " ") #r("kauh-suh", "各式") #r("kauh-yang-kuh,", "各样个。") #r(
+#r("Tsho-ts", "车子") #r("yeu", "有")  #r("kauh-suh", "各式") #r("kauh-yang-kuh,", "各样个。") #r(
   "yeu",
   "有",
 ) #r("siau-tsho,", "小车。") #r("yeu", "有") #r("kyah-dah-tsho.", "脚踏车。") #r("yeu", "有") #r(
   "Toong-yang-tsho.",
   "东洋车。",
-) #r("yeu", "有") #r("liang-lung-kuh", "两轮个") #r("mo-tsho,", "马车、") #r("(5)", " ") #r("jau-tsho,", "轿车、") #r(
+) #r("yeu", "有") #r("liang-lung-kuh", "两轮个") #r("mo-tsho,", "马车、")  #r("jau-tsho,", "轿车、") #r(
   "(6)",
   " ",
 ) #r("boong-tsho,", "篷车、") #r("dien-chi-tsho,", "电气车、") #r("hoo-lung-tsho.", "火轮车。") #r("Di-kuh", "第个") #r(
@@ -32,7 +32,7 @@
 ) #r("yoong", "用") #r("seu", "力") #r("le", "来") #r("the-kuh,", "推个，") #r("soo-i", "所以") #r(
   "tseu-le",
   "走来",
-) #r("man.", "慢。") #r("Lau", "咾") #r("tau", "推到") #r("nau-mang-kuh", "闹猛个") #r("di-faung", "地方") #r(
+) #r("man.", "慢。") #r("Lau", "咾") #r("the", "推") #r("tau", "到") #r("nau-mang-kuh", "闹猛个") #r("di-faung", "地方") #r(
   "'a",
   "也",
 ) #r("man", "蛮") #r("we-hyien-kuh.", "危险个。") #r("Keh-lau", "盖咾") #r("la", "拉") #r("Zaung-he", "上海") #r(
@@ -44,7 +44,7 @@
 ) #r("hoo-suh", "货色") #r("lau", "咾") #r("yoong-kuh.", "用个。") #r("Dan-z", "但是") #r("la", "拉") #r(
   "hyang-'au-deu",
   "乡下头",
-) #r("tau", "倒") #r("(1)", " ") #r("pa", "罢") #r("yi", "伊") #r("'veh-tuh,", "勿得，")#footnote[Indispensible.] #r(
+) #r("tau", "倒")  #r("pa", "罢") #r("yi", "伊") #r("'veh-tuh,", "勿得，")#footnote[Indispensible.] #r(
   "iung-we",
   "因为",
 ) #r("hyang-'au-kuh", "乡下个") #r("loo,", "路，") #r("dzen", "全") #r("z", "是") #r("lan-nyi", "烂泥") #r(
@@ -64,10 +64,10 @@
 ) #r("yeu", "有") #r("dien-chi-tsho,", "电气车、") #r("toong-yang-tsho,", "东洋车、") #r("mo-tsho", "马车") #r(
   "lau-sa,",
   "咾啥。",
-) #r("z", "是") #r("pi-ts", "比之") #r("siau-tsho-ts", "小车子") #r("kwha", "快") #r("lau", "咾") #r("(2)", " ") #r(
+) #r("z", "是") #r("pi-ts", "比之") #r("siau-tsho-ts", "小车子") #r("kwha", "快") #r("lau", "咾")  #r(
   "wung-taung,",
   "稳当，",
-)#footnote[Safe.] #r("keh-lau", "盖咾") #r("zoo", "坐") #r("siau-tsho-ts-kuh", "坐小车子个") #r("nyung", "人") #r(
+)#footnote[Safe.] #r("keh-lau", "盖咾") #r("zoo", "坐") #r("zoo", "坐") #r("siau", "小") #r("tsho", "车") #r("ts", "子") #r("kuh", "个") #r("nyung", "人") #r(
   "juh",
   "极",
 ) #r("sau.", "少。") #r("Lung", "论") #r("tau", "到") #r("siau-tsho-ts-kuh", "小车子个") #r("'e-tshu", "害处") #r(
@@ -85,7 +85,7 @@
 ) #r("tsi-pien", "左边") #r("meh,", "末") #r("z", "是") #r("ih-boo", "一部") #r("toong-yang-tsho,", "东洋车，") #r(
   "la",
   "拉",
-) #r("yeu-pien", "右边") #r("meh,", "末") #r("yeu", "有") #r("ih-boo", "一部") #r("dien-tsho,", "电气车，") #r(
+) #r("yeu-pien", "右边") #r("meh,", "末") #r("yeu", "有") #r("ih-boo", "一部") #r("dien", "电") #r("chi", "气") #r("tsho", "车") #r(
   "la",
   "拉",
 ) #r("'eu-deu", "后头") #r("meh,", "末") #r("yeu", "有") #r("ih-boo", "一部") #r("mo-tsho.", "马车。") #r(
@@ -100,7 +100,7 @@
 ) #r("tau", "到") #r("tsi-pien.", "左边。") #r("Iung-we", "因为") #r("'veh", "勿") #r("nyang", "让") #r(
   "meh,",
   "末",
-) #r("iau", "要") #r("peh", "拨") #r("mo-foo", "马夫") #r("(1)", " ") #r("yoong", "用") #r("pien-ts", "鞭子") #r(
+) #r("iau", "要") #r("peh", "拨") #r("mo-foo", "马夫")  #r("yoong", "用") #r("pien-ts", "鞭子") #r(
   "le",
   "来",
 ) #r("tshieu-kuh,", "揪个，")#footnote[To whip.] #r("soo-i", "所以") #r("nyang-kuh,", "让个，") #r("zen-r", "然而") #r(
@@ -130,7 +130,7 @@
 ) #r("tuh", "得") #r("yeu", "有") #r("nyung", "人") #r("wo", "话") #r("the", "推") #r(
   "siau-tsho-ts-kuh",
   "小车子个",
-) #r("nyung,", "人") #r("(4)", " ") #r("he", "改") #r("'aung-kuh", "行个") #r("too", "多") #r(
+) #r("nyung,", "人")  #r("he", "改") #r("'aung-kuh", "行个") #r("too", "多") #r(
   "tse,",
   "哉，",
 )#footnote[Change occupation.] #r("iung-we", "因为") #r("doong-dien", "铜钱") #r("meh,", "末") #r("dzan", "赚") #r(

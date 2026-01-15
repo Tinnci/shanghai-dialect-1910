@@ -8,16 +8,16 @@
 
 #r("B", "B") #r("Zia-zia.", "谢谢。")
 
-#r("A", "A") #r("(2)", " ") #r("Tsung", "尊") #r("sing?", "姓？")#footnote[Your honorable surname. (2) on page 265]
+#r("A", "A")  #r("Tsung", "尊") #r("sing?", "姓？")#footnote[Your honorable surname. (2) on page 265]
 
-#r("B", "B") #r("(3)", " ") #r("Bi", "敝") #r("sing", "姓") #r("Li.", "李。")#footnote[My humble name. (3)]
+#r("B", "B")  #r("Bi", "敝") #r("sing", "姓") #r("Li.", "李。")#footnote[My humble name. (3)]
 
-#r("A", "A") #r("Tshing", "请") #r("kyau", "教") #r("(4)", " ") #r(
+#r("A", "A") #r("Tshing", "请") #r("kyau", "教")  #r(
   "the-foo?",
   "台甫？",
 )#footnote[A polite way of asking one's name. (4)]
 
-#r("B", "B") #r("(5)", " ") #r("Tshau-z", "草字") #r("Kwen-faung.", "桂芳。")#footnote[Vulgar name. (5)] #r(
+#r("B", "B")  #r("Tshau-z", "草字") #r("Kwen-faung.", "桂芳。")#footnote[Vulgar name. (5)] #r(
   "Lau-pan",
   "老板",
 ) #r("kwe-sing?", "贵姓？")
@@ -32,17 +32,17 @@
   "拉",
 ) #r("Pok-kyung", "北京") #r("tung-ts", "登之") #r("dzang-yoen", "长久") #r("tse.", "哉。")
 
-#r("A", "A") #r("(1)", " ") #r("Tsung-kya", "尊驾")#footnote[Your honor. (1) on page 266] #r("kyi-z", "几时") #r(
+#r("A", "A")  #r("Tsung-kya", "尊驾")#footnote[Your honor. (1) on page 266] #r("kyi-z", "几时") #r(
   "tau",
   "到",
 ) #r("Zaung-he", "上海") #r("le", "来") #r("kuh?", "个？")
 
-#r("B", "B") #r("(2)", " ") #r("Hyoong-di", "兄弟")#footnote[Younger brother (meaning one's self). (2)] #r(
+#r("B", "B")  #r("Hyoong-di", "兄弟")#footnote[Younger brother (meaning one's self). (2)] #r(
   "zauh-nyih",
   "昨日",
 ) #r("tau-kuh.", "到个。")
 
-#r("A", "A") #r("(3)", " ") #r("Kauh-ya", "阁下")#footnote[Your honor or excellency. (3)] #r("dzoong", "从") #r(
+#r("A", "A")  #r("Kauh-ya", "阁下")#footnote[Your honor or excellency. (3)] #r("dzoong", "从") #r(
   "Pok-kyung",
   "北京",
 ) #r("na-nung", "哪能") #r("le", "来") #r("kuh?", "个？")
@@ -66,7 +66,7 @@
 ) #r("lau", "咾") #r("dzeu-doen.", "绸缎。") #r("Pau-'au", "宝号") #r("li", "里") #r("yeu", "有") #r("sa", "啥") #r(
   "hau-kuh",
   "好个",
-) #r("(4)", " ") #r("bak", "白") #r("tsok-poo", "竹布")#footnote[A kind of cambric. (4)] #r("va?", "唔？")
+)  #r("bak", "白") #r("tsok-poo", "竹布")#footnote[A kind of cambric. (4)] #r("va?", "唔？")
 
 #r("A", "A") #r("Yeu", "有") #r("kuh.", "个。")
 
@@ -77,16 +77,16 @@
 
 #r("A", "A") #r("Hau-kuh.", "好个。")
 
-#r("B", "B") #r("Di-kuh", "第个") #r("z", "是") #r("sa", "啥") #r("kuh", "个") #r("(5)", " ") #r(
+#r("B", "B") #r("Di-kuh", "第个") #r("z", "是") #r("sa", "啥") #r("kuh", "个")  #r(
   "ba-ls?",
   "牌子？",
 )#footnote[Brand. (5)]
 
-#r("A", "A") #r("(6)", " ") #r("Khoong-tshiak", "孔雀")#footnote[Peacock brand. (6)] #r("ba.", "牌。")
+#r("A", "A")  #r("Khoong-tshiak", "孔雀")#footnote[Peacock brand. (6)] #r("ba.", "牌。")
 
 #r("B", "B") #r("Lau", "老") #r("ba", "牌") #r("nyi", "呢") #r("sing", "新") #r("ba?", "牌？")
 
-#r("A", "A") #r("Di-kuh", "第个") #r("(7)", " ") #r("kwak-kwak-kyau", "咂咂叫")#footnote[Very very good. (7)] #r(
+#r("A", "A") #r("Di-kuh", "第个")  #r("kwak-kwak-kyau", "咂咂叫")#footnote[Very very good. (7)] #r(
   "z",
   "是",
 ) #r("lau", "老") #r("khoong-tshiak", "孔雀") #r("ba.", "牌。")
@@ -102,7 +102,7 @@
   "一",
 ) #r("phih.", "疋。")
 
-#r("B", "B") #r("Thuh", "脱") #r("kyui", "壳") #r("(1)", " ") #r(
+#r("B", "B") #r("Thuh", "脱") #r("kyui", "壳")  #r(
   "Gah-zeh",
   "轧实",
 )#footnote[True price. (1) on page 267] #r("sa", "啥") #r("ka-dien?", "价钱？")
@@ -114,7 +114,7 @@
 
 #r("B", "B") #r("Zeh-ke", "质盖") #r("ka-dien", "价钱") #r("ngoo", "我") #r("'veh", "勿") #r("iau.", "要。")
 
-#r("A", "A") #r("Keh-meh", "盖末") #r("khau-i", "可以") #r("(2)", " ") #r(
+#r("A", "A") #r("Keh-meh", "盖末") #r("khau-i", "可以")  #r(
   "nyang-theh",
   "让脱",
 )#footnote[Make a reduction of ten candareens. (2)] #r("ih", "一") #r("dzien", "钱") #r("nyung-ts", "银子") #r(
@@ -122,13 +122,13 @@
   "一",
 ) #r("phih,", "疋，") #r("tse", "再") #r("sau", "少") #r("'veh", "勿") #r("hau", "好") #r("ma-tse.", "卖哉。")
 
-#r("B", "B") #r("Ka-dien", "价钱") #r("(3)", " ") #r("i", "依") #r("noong", "侬") #r("meh", "末") #r(
+#r("B", "B") #r("Ka-dien", "价钱")  #r("i", "依") #r("noong", "侬") #r("meh", "末") #r(
   "tse,",
   "哉，",
 )#footnote[Accept your offer. (3)] #r("dan-z", "但是") #r("hoo-suh", "货色") #r("'veh", "勿") #r("hau", "好") #r(
   "iau",
   "要",
-) #r("(4)", " ") #r("the-wan", "退还") #r("kuh.", "个。")#footnote[Return. (4)]
+)  #r("the-wan", "退还") #r("kuh.", "个。")#footnote[Return. (4)]
 
 #r("A", "A") #r("Zak-zen", "若然") #r("hoo-suh", "货色") #r("'veh", "勿") #r("hau", "好") #r("khau-i", "可以") #r(
   "(5)",
@@ -144,7 +144,7 @@
 ) #r("khoong-tshiak", "孔雀") #r("ba", "牌") #r("kuh", "个") #r("bak", "白") #r("tsok-poo,", "竹布，") #r(
   "sien",
   "先",
-) #r("foo", "付") #r("noong", "侬") #r("ng-zeh", "五十") #r("liang", "两") #r("nyung-ts", "银子") #r("(6)", " ") #r(
+) #r("foo", "付") #r("noong", "侬") #r("ng-zeh", "五十") #r("liang", "两") #r("nyung-ts", "银子")  #r(
   "ding",
   "定",
 ) #r("nyung,", "银，")#footnote[Bargain money. (6)] #r("tau", "到") #r("'au-li-pa-lok", "下礼拜六") #r("iau", "要") #r(
@@ -157,21 +157,21 @@
 #r("B", "B") #r("Hyoong-di", "兄弟") #r("wan", "还") #r("yeu", "有") #r("ih-ngan", "一颜") #r("bih", "别") #r(
   "kuh",
   "个",
-) #r("z-thi", "事体") #r("lau", "咾") #r("iau", "要") #r("(7)", " ") #r("sau", "少") #r("be", "陪") #r(
+) #r("z-thi", "事体") #r("lau", "咾") #r("iau", "要")  #r("sau", "少") #r("be", "陪") #r(
   "tse.",
   "哉。",
 )#footnote[Excuse me (said on leaving). (7)]
 
 #r("A", "A") #r("Man", "慢") #r("chi.", "去。")
 
-#r("B", "B") #r("(1)", " ") #r("Lieu-boo,", "留步，") #r(
+#r("B", "B")  #r("Lieu-boo,", "留步，") #r(
   "lieu-boo.",
   "留步。",
 )#footnote[Restrain your steps. (1) on page 268]
 
 #r("A", "A") #r("Tse-we,", "再会，") #r("tse-we.", "再会。")
 
-#r("B", "B") #r("(2)", " ") #r("Tse-kyien,", "再见，") #r(
+#r("B", "B")  #r("Tse-kyien,", "再见，") #r(
   "tse-kyien.",
   "再见。",
 )#footnote[We will see each other again. (2)]

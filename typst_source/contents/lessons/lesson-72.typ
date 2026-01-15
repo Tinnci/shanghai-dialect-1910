@@ -11,10 +11,10 @@
 ) #r("kuh", "个") #r("ien.", "烟。") #r("Yeu", "有") #r("kuh", "个") #r("meh,", "末") #r("chuh", "吃") #r(
   "(1)",
   " ",
-) #r("sih-ga-ien,", "雪咖烟")#footnote[Cigars.] #r("(2)", " ") #r("hyang-ien,", "香烟")#footnote[Cigarettes.] #r(
+) #r("sih-ga-ien,", "雪咖烟")#footnote[Cigars.]  #r("hyang-ien,", "香烟")#footnote[Cigarettes.] #r(
   "(3)",
   " ",
-) #r("pan-ien,", "板烟")#footnote[Plug tobacco.] #r("(4)", " ") #r("ien-s,", "烟丝")#footnote[Fine tobacoo.] #r(
+) #r("pan-ien,", "板烟")#footnote[Plug tobacco.]  #r("ien-s,", "烟丝")#footnote[Fine tobacoo.] #r(
   "a-phien-ien",
   "鸦片烟",
 ) #r("lau-sa.", "咾啥。")
@@ -28,7 +28,7 @@
 ) #r("yi-la-kuh", "伊拉个") #r("seh-wo", "说话") #r("z", "是") #r("'veh", "勿") #r("tsho", "差") #r("kuh.", "个。") #r(
   "Ngoo",
   "我",
-) #r("(5)", " ") #r("siau-han-li", "小壗拉")#footnote[When young.] #r("la", " ") #r("'auh-daung", "学堂") #r(
+)  #r("siau-han-li", "小壗拉")#footnote[When young.] #r("la", " ") #r("'auh-daung", "学堂") #r(
   "li",
   "里",
 ) #r("dok-su-kuh", "读书个") #r("zung-kwaung,", "辰光") #r("khoen-kyien", "看见") #r("ih-kuh", "一个") #r(
@@ -43,7 +43,7 @@
 ) #r("zieu", "就") #r("kheh-seu", "咳嗽") #r("lau,", "咾") #r("'oo-loong", "喉嚨") #r("thoong.", "痛。") #r(
   "Nan-meh",
   "难末",
-) #r("ngoo", "我") #r("hyau-tuh", "晓得") #r("(6)", " ") #r("zaung-ts", "上之") #r("yi-kuh", "伊个") #r(
+) #r("ngoo", "我") #r("hyau-tuh", "晓得")  #r("zaung-ts", "上之") #r("yi-kuh", "伊个") #r(
   "taung",
   "当",
 ) #r("tse.", "哉。")#footnote[Deceived by him.]
@@ -54,7 +54,7 @@
 ) #r("z", "是") #r("a-phien-ien;", "鸦片烟") #r("zak-zen", "若然") #r("ih-kuh", "一个") #r("nyung", "人") #r(
   "chuh-ts",
   "吃之",
-) #r("meh,", "末") #r("yi", "伊") #r("iau", "要") #r("(7)", " ") #r("mien", "面") #r("waung,", "黄") #r("kyi", "肌") #r(
+) #r("meh,", "末") #r("yi", "伊") #r("iau", "要")  #r("mien", "面") #r("waung,", "黄") #r("kyi", "肌") #r(
   "seu",
   "瘦",
 )#footnote[Yellow face and thin flesh.] #r("lau,", "咾") #r("hau-ziang", "好像") #r("sang", "生") #r(
@@ -68,7 +68,7 @@
 ) #r("chuh", "吃") #r("a-phien-ien", "鸦片烟") #r("kuh,", "个") #r("soo-i", "所以") #r("yi-la", "伊拉") #r(
   "sung-thi",
   "身体",
-) #r("nyoen-dzak", "软弱") #r("lau,", "咾") #r("(8)", " ") #r("kweh", "骨") #r("seu", "瘦") #r("zu", "如") #r(
+) #r("nyoen-dzak", "软弱") #r("lau,", "咾")  #r("kweh", "骨") #r("seu", "瘦") #r("zu", "如") #r(
   "za.",
   "柴。",
 )#footnote[Bony and thin.] #r("Dzoong-zien", "从前") #r("Tsoong-kok", "中国") #r("a-phien-ien", "鸦片烟") #r(
@@ -77,7 +77,7 @@
 ) #r("m-meh-kuh,", "无没个") #r("zen", "全") #r("z", "是") #r("dzoong", "从") #r("Iung-doo", "印度") #r(
   "ta-le-kuh.",
   "带来个。",
-) #r("'Eu-le", "后来") #r("Tsoong-kok-nyung", "中国人") #r("tuh-dzak-ts", "得着之") #r("(9)", " ") #r(
+) #r("'Eu-le", "后来") #r("Tsoong-kok-nyung", "中国人") #r("tuh-dzak-ts", "得着之")  #r(
   "ang-sok-hwo-kuh",
   "罂粟花个",
 )#footnote[The poppy.] #r("ts", "子") #r("lau,", "咾") #r("z-ka", "自家") #r("tsoong", "种") #r("tse,", "哉。") #r(
@@ -94,13 +94,13 @@
 #r("Yi-la", "伊拉") #r("wo,", "话") #r("chuh-ts", "吃之") #r("meh,", "末") #r("s-tuh", "使得") #r("nyung", "人") #r(
   "kauh-dzak",
   "觉着",
-) #r("(1)", " ") #r("zung", "神") #r("tshing", "清") #r("chi", "气") #r(
+)  #r("zung", "神") #r("tshing", "清") #r("chi", "气") #r(
   "saung",
   "爽",
 )#footnote[Vigerous and bright spirited.] #r("lau,", "咾") #r("tsoo-chi", "做起") #r("z-thi", "事体") #r(
   "meh,",
   "末",
-) #r("(2)", " ") #r("chi-kyung", "起劲")#footnote[Energetic.] #r("tse.", "哉。") #r("A-phien-ien", "鸦片烟") #r(
+)  #r("chi-kyung", "起劲")#footnote[Energetic.] #r("tse.", "哉。") #r("A-phien-ien", "鸦片烟") #r(
   "chuh-zaung-ts",
   "吃上之",
 ) #r("meh,", "末") #r("van-nan", "烦难") #r("ka-theh-kuh.", "戒脱个。") #r("Soe-zen", "虽然") #r("yeu", "有") #r(
@@ -111,7 +111,7 @@
   "两",
 ) #r("san-kuh", "三个") #r("nyoeh", "月") #r("koong-foo", "工夫") #r("khau-i", "可以") #r("ka-theh.", "戒脱。")
 
-#r("Zien-deu", "前头") #r("chi", "起") #r("yeu", "有") #r("too-hau", "多化") #r("(3)", " ") #r("s", "施") #r(
+#r("Zien-deu", "前头") #r("chi", "起") #r("yeu", "有") #r("too-hau", "多化")  #r("s", "施") #r(
   "yak",
   "药",
 ) #r("laung-tsoong", "郎中")#footnote[Charity doctor.] #r("yoong", "用") #r("mo-fi", "吗啡") #r("tsoo", "做") #r(
@@ -140,10 +140,10 @@
 ) #r("too-hoo", "多化") #r("chuh", "吃") #r("ien", "烟") #r("kuh", "个") #r("nyung", "人") #r(
   "dzien-dzien-nung-kuh",
   "渐渐能个",
-) #r("(5)", " ") #r("sing-ngoo", "醒悟")#footnote[To be conscious of.] #r("tse.", "哉。") #r("Yeu-kuh", "有个") #r(
+)  #r("sing-ngoo", "醒悟")#footnote[To be conscious of.] #r("tse.", "哉。") #r("Yeu-kuh", "有个") #r(
   "meh,",
   "末",
-) #r("(6)", " ") #r("keh-ts", "合之")#footnote[Combine, mix.] #r("hau-kuh", "好个") #r("yak", "药") #r("lau", "咾") #r(
+)  #r("keh-ts", "合之")#footnote[Combine, mix.] #r("hau-kuh", "好个") #r("yak", "药") #r("lau", "咾") #r(
   "ka-theh",
   "戒脱",
 ) #r("tse.", "哉。")
@@ -160,7 +160,7 @@
 ) #r("Zaung-he", "上海") #r("tsoo-ka", "租界") #r("laung-kuh", "上个") #r("ien-kan", "烟间") #r("iau", "要") #r(
   "kyung-dzing",
   "禁净",
-) #r("kwha-tse.", "快哉。") #r("(7)", " ") #r("Tsing-kheu-kuh", "进口个")#footnote[Enter port.] #r(
+) #r("kwha-tse.", "快哉。")  #r("Tsing-kheu-kuh", "进口个")#footnote[Enter port.] #r(
   "a-phien-ien",
   "鸦片烟",
 ) #r("meh,", "末") #r("'a", "也") #r("sau", "少") #r("tse.", "哉。")
@@ -168,7 +168,7 @@
 #r("La", "拉") #r("Tsoong-kok-kuh", "中国个") #r("Tsung", "正") #r("nyoeh", "月") #r("zeh-ih", "十一") #r(
   "yeu",
   "有",
-) #r("van-kok", "万国") #r("kyung-ien", "禁烟") #r("we", "会") #r("kuh", "个") #r("(1)", " ") #r(
+) #r("van-kok", "万国") #r("kyung-ien", "禁烟") #r("we", "会") #r("kuh", "个")  #r(
   "de-piau",
   "代表",
 )#footnote[Delegate.] #r("dzu-loong", "聚集") #r("la", "拉") #r("Zaung-he", "上海") #r("Doo-mo-loo", "大马路") #r(

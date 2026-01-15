@@ -5,7 +5,7 @@
 #r("La", "拉") #r("Tsoong-kok-kuh", "中国个") #r("zeh-ih", "十一") #r("nyoeh", "月") #r("li,", "里") #r("la", "拉") #r(
   "(6)",
   " ",
-) #r("tsoo-ka-ts", "租界") #r("nga", "之外")#footnote[Catherine's bridge. (6)] #r("(7)", " ") #r(
+) #r("tsoo-ka-ts", "租界") #r("ts", "之") #r("nga", "外")#footnote[Catherine's bridge. (6)]  #r(
   "Zia-jau-deu",
   "斜桥头",
 )#footnote[Bamboo pole. (7) -- Wait, note 6 is Catherine's bridge, note 7 is Bamboo pole. But in text "租界之外" note 6 and "斜桥头" note 7. Let's re-verify notes.] #r(
@@ -14,10 +14,10 @@
 ) #r("ya-li", "夜里") #r("yeu", "有") #r("zuh", "贼") #r("le", "来") #r("theu", "偷") #r("meh-z.", "物事。") #r(
   "Ih-we",
   "一回",
-) #r("meh,", "末") #r("yi", "伊") #r("yoong", "用") #r("(7)", " ") #r("tsok-koen", "竹竿")#footnote[Bamboo pole.] #r(
+) #r("meh,", "末") #r("yi", "伊") #r("yoong", "用")  #r("tsok-koen", "竹竿")#footnote[Bamboo pole.] #r(
   "bo",
   "扒",
-) #r("tau", "到") #r("meu-nyung-kuh", "某人个") #r("dzu-dzak", "住宅") #r("(8)", " ") #r("yang-de", "洋臺") #r(
+) #r("tau", "到") #r("meu-nyung-kuh", "某人个") #r("dzu-dzak", "住宅")  #r("yang-de", "洋臺") #r(
   "laung,",
   "上",
 )#footnote[On the veranda.] #r("pan-khe-ts", "扳开之") #r("tshaung,", "窗") #r("bo", "扒") #r("tau", "到") #r(
@@ -35,7 +35,7 @@
 ) #r("lien-maung", "连忙") #r("bau-tsheh-chi,", "跑出去") #r("dzoong", "从") #r("tsok-koen", "竹竿") #r(
   "laung",
   "上",
-) #r("(1)", " ") #r("sia-'au-chi", "卸下去")#footnote[To slide down.] #r("lau", "咾") #r(
+)  #r("sia-'au-chi", "卸下去")#footnote[To slide down.] #r("lau", "咾") #r(
   "dau-tseu-tse.",
   "逃走哉。",
 ) #r("Nan-meh", "难末") #r("siau-tsia", "小姐") #r("tien-ts", "点之") #r("hoo,", "火") #r("tah", "搭") #r(
@@ -44,10 +44,10 @@
 ) #r("la", "拉") #r("kuh", "个") #r("nyung", "人") #r("tau", "到") #r("nga-deu", "外头") #r("chi", "去") #r(
   "khoen-khoen,",
   "看看",
-) #r("khoen-kyien", "看见") #r("dzu-vaung-kan", "厨房") #r("li-kuh", "门") #r("mung", " ") #r("(2)", " ") #r(
+) #r("khoen-kyien", "看见") #r("dzu-vaung-kan", "厨房") #r("li-kuh", "门") #r("mung", " ")  #r(
   "thoh-khe-hau-la-tse,",
   "秃开好拉哉",
-)#footnote[All.] #r("'a", "也") #r("yeu", "有") #r("kyi-yang", "几样") #r("meh-z", "物事") #r("(3)", " ") #r(
+)#footnote[All.] #r("'a", "也") #r("yeu", "有") #r("kyi-yang", "几样") #r("meh-z", "物事")  #r(
   "dzu-hau-la",
   "聚好拉",
 ) #r("ih-tshu", "一处")#footnote[Gathered together.] #r("siang", "想") #r("yui-be-hau-ts", "预备好之") #r(
@@ -83,16 +83,16 @@
 ) #r("li,", "里") #r("yi", "又") #r("yeu", "有") #r("ih-kuh", "一个") #r("zuh,", "贼，") #r("dzoong", "从") #r(
   "vaung-ts-kuh",
   "房子个",
-) #r("'eu-mien", "后面") #r("le-kuh,", "来") #r("yoong", "用") #r("(4)", " ") #r(
+) #r("'eu-mien", "后面") #r("le-kuh,", "来") #r("yoong", "用")  #r(
   "voo-thi",
   "扶梯",
-)#footnote[Ladder or stairs.] #r("(5)", " ") #r("ge-la", "戤拉")#footnote[Lean, rest on.] #r("(6)", " ") #r(
+)#footnote[Ladder or stairs.]  #r("ge-la", "戤拉")#footnote[Lean, rest on.]  #r(
   "tsok-po",
   "竹笆",
-) #r("laung-ts,", "上之")#footnote[Fence.] #r("bo", "扒") #r("tsing-le", "进来") #r("lau,", "咾") #r("tseu", "走到") #r(
+) #r("laung-ts,", "上之")#footnote[Fence.] #r("bo", "扒") #r("tsing-le", "进来") #r("lau,", "咾") #r("tseu", "走") #r("tau", "到") #r(
   "siau",
   "小",
-) #r("vaung-ts-kuh", "房子个") #r("voo-thi", "扶梯") #r("zaung-deu;", "上。") #r("la", "头拉") #r("voo-thi", "扶梯") #r(
+) #r("vaung-ts-kuh", "房子个") #r("voo-thi", "扶梯") #r("zaung-deu;", "上。") #r("deu", "头") #r("la", "拉") #r("voo-thi", "扶梯") #r(
   "baung-pien,",
   "傍边",
 ) #r("yeu", "有") #r("ih", "一") #r("sen", "扇") #r("tshaung", "窗") #r("la.", "拉") #r("Yi", "伊") #r("zieu", "就") #r(
@@ -122,7 +122,7 @@
 ) #r("thing-kyien", "看见") #r("nyung", "人") #r("dau-tseu-kuh", "逃走个") #r("kyak-sung,", "脚声") #r("la", "拉") #r(
   "siau",
   "小",
-) #r("voo-thi", "扶梯") #r("laung,", "上，") #r("zieu", "就") #r("(1)", " ") #r("faung-seu-tshiang", "放手鎗") #r(
+) #r("voo-thi", "扶梯") #r("laung,", "上，") #r("zieu", "就")  #r("faung-seu-tshiang", "放手鎗") #r(
   "ih",
   "一",
 ) #r("mung,", "门，")#footnote[Shot a revolver one shot.] #r("lien-maung", "连忙") #r("tsoe", "追") #r("yi", "伊") #r(

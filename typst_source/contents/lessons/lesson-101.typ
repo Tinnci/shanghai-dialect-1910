@@ -11,7 +11,7 @@
 ) #r("zung", "会") #r("dzo-tshah", "查察") #r("ming-bak", "明白") #r("di-kuh", "第个") #r("z-thi.", "事體。") #r(
   "Zak-zen",
   "若然",
-) #r("z-'eu", "时候") #r("tha-bing", "太平") #r("keh-meh", "盖末") #r("(1)", " ") #r(
+) #r("z-'eu", "时候") #r("tha-bing", "太平") #r("keh-meh", "盖末")  #r(
   "dzan-deu",
   "赚头",
 )#footnote[Profit.] #r("z", "是") #r("man", "蛮") #r("hau,", "好，") #r("dan-z", "但是") #r("di-kuh", "第个") #r(
@@ -32,7 +32,7 @@
 ) #r("ma", "买") #r("nyeu-na.", "牛奶。") #r("Iung-we", "因为") #r("sang-i", "生意") #r("z", "是") #r("'veh", "勿") #r(
   "hau,",
   "好，",
-) #r("yi-la", "伊拉") #r("(2)", " ") #r("ma", "买") #r("'veh", "勿") #r("chi", "起") #r("kyui", "贵") #r(
+) #r("yi-la", "伊拉")  #r("ma", "买") #r("'veh", "勿") #r("chi", "起") #r("kyui", "贵") #r(
   "kuh",
   "个",
 ) #r("nyeu-na.", "牛奶。")#footnote[Unable to buy.]
@@ -43,10 +43,10 @@
 ) #r("z", "是") #r("ting", "顶") #r("hau.", "好。") #r("Iung-we", "因为") #r("nyeu-na-bang", "牛奶棚") #r(
   "'veh",
   "勿",
-) #r("zung", "会") #r("yeu", "有") #r("(3)", " ") #r("tsau-we,", "照会，")#footnote[License.] #r("soo-i", "所以") #r(
+) #r("zung", "会") #r("yeu", "有")  #r("tsau-we,", "照会，")#footnote[License.] #r("soo-i", "所以") #r(
   "ma",
   "买",
-) #r("nyeu-na-kuh", "牛奶个") #r("nyung", "人") #r("khau-i", "可以") #r("(4)", " ") #r("tshiang", "相") #r(
+) #r("nyeu-na-kuh", "牛奶个") #r("nyung", "人") #r("khau-i", "可以")  #r("tshiang", "相") #r(
   "s",
   "水",
 ) #r("la", "拉") #r("nyeu-na", "牛奶") #r("li,", "裡，")#footnote[To mix water with milk.] #r("nan-meh", "难末") #r(
@@ -63,7 +63,7 @@
 #r("Wan", "还") #r("yeu", "有") #r("'veh", "勿") #r("lau-zeh-kuh", "牢实个") #r("hoo-kyi,", "夥計，") #r(
   "yi-la",
   "伊拉",
-) #r("(6)", " ") #r("theu", "偷") #r("ma", "卖")#footnote[Stealthly sell.] #r("lau-pan-kuh", "老板个") #r(
+)  #r("theu", "偷") #r("ma", "卖")#footnote[Stealthly sell.] #r("lau-pan-kuh", "老板个") #r(
   "nyeu-na",
   "牛奶",
 ) #r("lau", "咾") #r("dzan", "赚") #r("doong-dien;", "铜钱；") #r("dzang-tsaung", "常莊") #r("kau-soo", "告诉") #r(
@@ -75,7 +75,7 @@
 ) #r("khau-sih-kuh", "可惜个") #r("z-thi,", "事體") #r("leh-la", "拉拉") #r("Zaung-he", "上海") #r(
   "di-faung",
   "地方",
-) #r("yeu", "有") #r("(7)", " ") #r("nyeu", "牛") #r("wung-yok.", "瘟疫。")#footnote[Cattle plague.] #r(
+) #r("yeu", "有")  #r("nyeu", "牛") #r("wung-yok.", "瘟疫。")#footnote[Cattle plague.] #r(
   "Di-kuh",
   "第个",
 ) #r("wung-yok", "瘟疫") #r("yeu", "有") #r("koo", "过") #r("ta-we.", "多回。") #r("La", "拉") #r(
@@ -95,10 +95,10 @@
 ) #r("pau-pe-kuh,", "宝贝个，") #r("iung-we", "因为") #r("'eu-seu,", "后首") #r("tse", "再") #r("yeu", "有") #r(
   "sa",
   "啥",
-) #r("wung-yok", "瘟疫") #r("di-tsak", "第隻") #r("nyeu", "牛") #r("(1)", " ") #r("'veh", "勿") #r("we", "会") #r(
+) #r("wung-yok", "瘟疫") #r("di-tsak", "第隻") #r("nyeu", "牛")  #r("'veh", "勿") #r("we", "会") #r(
   "koo-dzak-kuh.",
   "过着个。",
-)#footnote[Immune.] #r("Too-hau", "多化") #r("tshoong-ming", "聪明人") #r("nyung", " ") #r("i-kyung", "已经") #r(
+)#footnote[Immune.] #r("Too-hau", "多化") #r("tshoong", "聪") #r("ming", "明") #r("nyung", "人") #r("nyung", " ") #r("i-kyung", "已经") #r(
   "dzo-tshah",
   "查察",
 ) #r("di-kuh", "第个") #r("yoen-koo,", "缘故，") #r("yi-la", "伊拉") #r("siang", "想") #r("yeu", "有") #r(
@@ -113,7 +113,7 @@
 ) #r("dzo-tshah", "查察") #r("ming-bak,", "明白，") #r("iung-we", "因为") #r("vi-sung-dzoong", "微生虫") #r(
   "z",
   "是",
-) #r("ting", "顶") #r("siau.", "小。") #r("Soe-zen", "虽然") #r("yoong", "用") #r("(3)", " ") #r(
+) #r("ting", "顶") #r("siau.", "小。") #r("Soe-zen", "虽然") #r("yoong", "用")  #r(
   "hyien-vi-kyung,",
   "显微镜",
 )#footnote[Microscope.] #r("'a", "也") #r("'veh", "勿") #r("nung-keu", "能够") #r("khoen-kyien,", "看见，") #r(
@@ -127,7 +127,7 @@
 #r("Yeu-kuh", "有个") #r("nyung", "人") #r("siang", "想") #r("yoong", "用") #r("bing", "病") #r("nyeu-kuh", "牛个") #r(
   "(4)",
   " ",
-) #r("tan-tseh", "胆汁")#footnote[Serum.] #r("(5)", " ") #r("tang-tsing", "打进")#footnote[To inject.] #r(
+) #r("tan-tseh", "胆汁")#footnote[Serum.]  #r("tang-tsing", "打进")#footnote[To inject.] #r(
   "la",
   "拉",
 ) #r("nyeu-kuh", "牛个") #r("sung-thi", "身体") #r("li,", "裡，") #r("yi", "伊") #r("'veh-we", "勿会") #r(
@@ -154,7 +154,7 @@
 ) #r("'a", "也") #r("'veh", "勿") #r("too.", "多。") #r("Yeu", "有") #r("too-hau", "多化") #r("nga-kok", "外国") #r(
   "nyung,",
   "人，",
-) #r("tah-ts", "搭之") #r("Tsoong-kok", "中国") #r("nyung-kuh", "中国人个") #r("nyeu-na-bang", "牛奶棚") #r(
+) #r("tah-ts", "搭之") #r("Tsoong-kok", "中国") #r("tsoong", "中") #r("kok", "国") #r("nyung", "人") #r("kuh", "个") #r("nyeu-na-bang", "牛奶棚") #r(
   "zeh-theh-ts",
   "蚀脱之",
 ) #r("too-hau,", "多化，") #r("zeh-dze", "实在") #r("yeu", "有") #r("khau-lien-kuh", "可怜个") #r(

@@ -23,10 +23,10 @@
 ) #r("z", "是") #r("foong-liang", "风凉") #r("tien,", "点。") #r("soo-i", "所以") #r("too", "多") #r("hau", "化") #r(
   "nga-kok-nyung",
   "外国人",
-) #r("tau", "到") #r("(4)", " ") #r("Thien-tshing,", "天津、")#footnote[Tientsin.] #r("(5)", " ") #r(
+) #r("tau", "到")  #r("Thien-tshing,", "天津、")#footnote[Tientsin.]  #r(
   "Ien-de,",
   "烟臺、",
-)#footnote[Chefoo.] #r("(6)", " ") #r("We-he-we", "威海衛")#footnote[Weihaiwei.] #r("lau", "咾") #r(
+)#footnote[Chefoo.]  #r("We-he-we", "威海衛")#footnote[Weihaiwei.] #r("lau", "咾") #r(
   "Toong-yang",
   "东洋",
 ) #r("chi", "去") #r("beh-siang,", "勃相。") #r("iung-we", "因为") #r("di-kuh", "第个") #r("di-faung", "地方") #r(
@@ -41,7 +41,7 @@
 ) #r("ting", "顶") #r("hau", "好") #r("beh-siang,", "勃相，") #r("hau", "好") #r("la", "拉") #r("he-yang", "海洋") #r(
   "li-hyang",
   "裡向",
-) #r("(7)", " ") #r("yeu", "游") #r("s.", "水。")#footnote[To swim.] #r("Pi-faung", "比方") #r("nyung", "人") #r(
+)  #r("yeu", "游") #r("s.", "水。")#footnote[To swim.] #r("Pi-faung", "比方") #r("nyung", "人") #r(
   "nyien-kyi",
   "年纪",
 ) #r("doo", "大") #r("lau", "咾") #r("'veh", "勿") #r("khau-i", "可以") #r("yeu", "游") #r("s", "水") #r(
@@ -76,7 +76,7 @@
 ) #r("ma-la-kuh,", "买拉个，") #r("i-ts", "以致") #r("Koong-boo-jok-kuh", "工部局个") #r("kwen-yoen", "官员") #r(
   "chi",
   "去",
-) #r("tung-la", "登拉") #r("hau,", "也是") #r("z", "极") #r("man", "其") #r("(1)", " ") #r(
+) #r("tung-la", "登拉") #r("hau,", "也是") #r("z", "极") #r("man", "其")  #r(
   "saung-kwha-kuh.",
   "爽快个。",
 )#footnote[In good spirits.] #r("La", "拉") #r("Mok-koen", "莫干") #r("san-kuh", "山个") #r("san-ting", "山顶") #r(
@@ -99,7 +99,7 @@
 ) #r("'a", "也") #r("yeu", "有") #r("too-hau", "多化") #r("di-faung", "地方") #r("z", "是") #r("man", "蛮") #r(
   "suh-i-kuh,",
   "适意个。",
-) #r("ziang", "像") #r("tau", "到") #r("(2)", " ") #r("Koong-ka", "公家") #r("hwo-yoen", "花园") #r("li", "裡") #r(
+) #r("ziang", "像") #r("tau", "到")  #r("Koong-ka", "公家") #r("hwo-yoen", "花园") #r("li", "裡") #r(
   "chi",
   "去",
 ) #r("zoo-zoo,", "坐坐。")#footnote[Public garden.] #r("Waung-phoo-than", "黄浦滩") #r("laung", "上") #r(
@@ -111,7 +111,7 @@
 ) #r("tshung-ts", "趁之") #r("beh-siang", "勃相") #r("zen", "船") #r("lau", "咾") #r("la", "拉") #r("kaung", "江") #r(
   "li",
   "裡",
-) #r("'ang-le", "行来") #r("'ang-chi,", "行去。") #r("dzien", "全") #r("z", "是") #r("tung", "登") #r("(3)", " ") #r(
+) #r("'ang-le", "行来") #r("'ang-chi,", "行去。") #r("dzien", "全") #r("z", "是") #r("tung", "登")  #r(
   "siau-yau-kuh.",
   "逍遥个。",
 )#footnote[Pass leisure time.] #r("Wan", "还") #r("yeu", "有") #r("ih-kwhe", "一块") #r("di-faung", "地方") #r(
@@ -120,10 +120,10 @@
 ) #r("z", "是") #r("hau-kuh,", "好个，") #r("pih-koo", "不过") #r("z", "是") #r("we-hyien,", "危险，") #r(
   "zieu",
   "就",
-) #r("z", "是") #r("khau", "靠") #r("jung", "近") #r("(4)", " ") #r("po-ts", "靶子") #r("dzang-kuh", "场个") #r(
+) #r("z", "是") #r("khau", "靠") #r("jung", "近")  #r("po-ts", "靶子") #r("dzang-kuh", "场个") #r(
   "han-deu,",
   "壗头，",
-)#footnote[Rifle butts.] #r("iung-we", "因为") #r("Koong-boo-jok", "工部局") #r("li-kuh", "裡个") #r("(5)", " ") #r(
+)#footnote[Rifle butts.] #r("iung-we", "因为") #r("Koong-boo-jok", "工部局") #r("li-kuh", "裡个")  #r(
   "doen-lien-ping",
   "团练兵",
 )#footnote[Volunteers.] #r("dzang-tsaung", "常莊") #r("tau", "到") #r("i-deu", "伊头") #r("chi", "去") #r(
@@ -135,7 +135,7 @@
 ) #r("taung-sing", "当心") #r("meh,", "末") #r("khoong-pho", "恐怕") #r("iau", "要") #r("zeu", "受") #r(
   "saung.",
   "伤。",
-) #r("Ngoo", "我") #r("siang", "想") #r("wan-z", "还是") #r("tau", "到") #r("(7)", " ") #r("mo-hyi", "马戏") #r(
+) #r("Ngoo", "我") #r("siang", "想") #r("wan-z", "还是") #r("tau", "到")  #r("mo-hyi", "马戏") #r(
   "dzang",
   "场",
 ) #r("laung", "上") #r("chi", "去") #r("khoen-khoen", "看看") #r("s-ts,", "狮子、") #r("ziang,", "象、") #r(

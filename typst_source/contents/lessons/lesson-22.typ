@@ -18,7 +18,7 @@
 #r("i-kyung", "已经") #r("tsoo", "做") #r("tau", "到") #r("ih", "一") #r("pen", "半") #r("koong-dzung.", "工程。")#footnote[Work.] 
 #r("Yien-dze", "现在") #r("la", "拉") #r("tshak-theh-ts", "拆脱之") #r("lau", "咾") #r("dzoong-sing", "重新")#footnote[Made over from the beginning.] #r("tsoo,", "做，") 
 #r("z", "是") #r("we-ts", "为之") #r("Tsoong-koong-dzung-jok", "总工程局")#footnote[Chinese Municipal Council.] #r("tsauh", "筑") #r("sing", "新") #r("mo-loo,", "马路") #r("zieu", "就") #r("la", "拉") #r("di-kuh", "第个") #r("'oo", "河") #r("li,", "里") #r("joeh", "掘")#footnote[Dug out soil.] #r("nyi", "泥") #r("le", "来") #r("dien-loo,", "填路。")#footnote[Filled in to make road.] 
-#r("joeh-le", "掘来") #r("thuh", "忒") #r("sung-ts", "深之") #r("lau,", "咾") #r("zak-pok", "石驳岸") #r("kuh", "个") #r("tsaung-kyak", "桩脚")#footnote[The foot of piles.] #r("tseu-doong-tse,", "走动者。")#footnote[Moved.] 
+#r("joeh-le", "掘来") #r("thuh", "忒") #r("sung-ts", "深之") #r("lau,", "咾") #r("zak", "石") #r("pok", "驳") #r("ngoen", "岸") #r("kuh", "个") #r("tsaung-kyak", "桩脚")#footnote[The foot of piles.] #r("tseu-doong-tse,", "走动者。")#footnote[Moved.] 
 #r("soo-i", "所以") #r("zak-pok", "石驳") #r("ngoen", "岸") #r("iau", "要") #r("than-'au-le", "坍下来")#footnote[Cave or fall in.] #r("tse,", "者。") 
 #r("zen-r", "然而") #r("ih-pen", "一半") #r("'a", "也") #r("we-ts", "为之") #r("too", "多") #r("yui-kuh", "雨个") #r("yoen-koo.", "缘故。") 
 #r("Yien-dze", "现在") #r("ziang-nyung", "匠人") #r("nau", "拿") #r("zak-pok-ngoen", "石驳岸") #r("tshak-theh-ts", "拆脱之") #r("lau", "咾") #r("bah-theh-ts", "拔脱之")#footnote[Pulled out.] #r("tsaung,", "桩，") #r("wan-iau", "还要") #r("joeh-sung", "掘深") #r("san", "三") #r("tshak.", "尺。") 

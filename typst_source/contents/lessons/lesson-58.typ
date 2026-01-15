@@ -112,7 +112,7 @@
 ) #r("ng", "鱼") #r("la", "拉") #r("s", "水") #r("li", "里") #r("yeu-le", "游来") #r("yeu-chi,", "游去，") #r(
   "dan-z",
   "但是",
-) #r("nyi", "我伲") #r("m-meh", "无没") #r("maung,", "网，")#footnote[Net.] #r("soo-i", "所以") #r("tsauh", "捉") #r(
+) #r("ngoo", "我") #r("nyi", "伲") #r("m-meh", "无没") #r("maung,", "网，")#footnote[Net.] #r("soo-i", "所以") #r("tsauh", "捉") #r(
   "yi-la",
   "伊拉",
 ) #r("'veh-dzak,", "勿着，") #r("Tsoong-r", "总而") #r("yien-ts,", "言之")#footnote[In short.] #r("zoo-ts", "坐之") #r(
@@ -127,10 +127,10 @@
 ) #r("nan-pan", "难班") #r("bang-tuh-dzak,", "碰得着") #r("di-kuh", "第个") #r("hau", "好") #r("kyi-we.", "机会。") #r(
   "Zak-zen",
   "若然",
-) #r("na", "你") #r("'veh", "勿") #r("siang-sing", "相信") #r("meh,", "末") #r("tshing", "请") #r("na", "自己") #r(
+) #r("na", "你") #r("'veh", "勿") #r("siang-sing", "相信") #r("meh,", "末") #r("tshing", "请") #r("z", "自") #r("kyi", "己") #r(
   "z-ka",
   "去",
-) #r("chi", "试试") #r("s-s", "看") #r("khoen,", " ") #r("nan-meh", "难末") #r("hyau-tuh", "晓得") #r("ngoo", "我") #r(
+) #r("s", "试") #r("s", "试") #r("s-s", "看") #r("khoen,", " ") #r("nan-meh", "难末") #r("hyau-tuh", "晓得") #r("ngoo", "我") #r(
   "kuh",
   "个",
 ) #r("seh-wo", "说话") #r("z", "是") #r("tsung-kuh", "真个") #r("yan.", "也。")

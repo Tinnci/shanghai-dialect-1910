@@ -9,7 +9,7 @@
 #r("soo-i", "所以") #r("yeu", "有") #r("kyi-we", "几位") #r("hau-sing-kuh", "好心个") #r("nga-kok", "外国") #r("nyang-nyang", "娘娘") #r("lau", "咾") #r("siau-tsia,", "小姐") #r("dzui-loong-le", "聚拢来") #r("saung-liang,", "商量") 
 #r("na-nung", "那能") #r("kyeu", "救") #r("di-tung-nyung", "第等人") #r("dzoong", "从") #r("di-kuh", "第个") #r("auh-li", "恶里") #r("tsheh-le.", "出来。") 
 #r("Nan-meh", "难末") #r("nyien-ding-taung", "议定当")#footnote[Determined.] #r("iau", "要") #r("lih", "立") #r("ih-kuh", "一个") #r("koong-soo,", "公所。") 
-#r("di-yi-kyau,", "题伊叫") #r("Tsi-liang-soo;", "济良所。") #r("i-s", "意思") #r("meh,", "是") #r("z", "帮助") #r("paung-dzoo", "第等") #r("di-tung", "女人") #r("nyui-nyung", "跳出") #r("thiau-tsheh-auh-mung", "恶门")#footnote[Escape the evil place.] #r("lau,", "咾") #r("tsoo", "做") #r("hau-nyung.", "好人。") 
+#r("di-yi-kyau,", "题伊叫") #r("Tsi-liang-soo;", "济良所。") #r("i-s", "意思") #r("meh,", "是") #r("paung", "帮") #r("dzoo", "助") #r("paung-dzoo", "第等") #r("di-tung", "女人") #r("nyui-nyung", "跳出") #r("thiau-tsheh-auh-mung", "恶门")#footnote[Escape the evil place.] #r("lau,", "咾") #r("tsoo", "做") #r("hau-nyung.", "好人。") 
 #r("Siang-chi-le,", "想起来") #r("di-kuh", "第个") #r("z-thi", "事体") #r("na", "哪") #r("zen", "全") #r("hyau-tuh", "晓得") #r("la-kuh-tse,", "拉个者。") 
 #r("iung-we", "因为") #r("ngoo", "我") #r("hau-kyi-we", "好几回") #r("khoen", "看") #r("sing-vung-ts-laung-kuh", "新闻纸上个") #r("seh-wo,", "说话") #r("wo-lau,", "话咾，") 
 #r("Sing-nga-mung", "新衙门") #r("li", "里") #r("yeu", "有") #r("sa", "啥") #r("kwa-phien", "拐骗") #r("siau-noen-kuh", "小囡个") #r("oen-ji", "案件") #r("meh,", "末，") #r("na", "哪") #r("tsoo-dzing-boo-kuh,", "做巡捕个") #r("la", "拉") #r("di-kuh", "第个") #r("z-thi-laung", "事体上") #r("'a", "也") #r("paung-dzoo-kuh.", "帮助个。")

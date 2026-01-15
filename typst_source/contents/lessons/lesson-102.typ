@@ -5,7 +5,7 @@
 #r("Yeu", "有") #r("ih-kuh", "一个") #r("nga-kok", "外国") #r("nyung.", "人。") #r("Yi", "伊") #r("dzu", "住") #r(
   "la",
   "拉",
-) #r("Dzing-oen-z", "静安寺") #r("loo,", "路。") #r("di-kuh", "第个") #r("nyung", "人") #r("(1)", " ") #r(
+) #r("Dzing-oen-z", "静安寺") #r("loo,", "路。") #r("di-kuh", "第个") #r("nyung", "人")  #r(
   "sing-ts",
   "性子",
 )#footnote[Disposition, nature.] #r("z", "是") #r("kyau-ngau", "骄傲") #r("le-si-kuh,", "来死个，") #r(
@@ -26,7 +26,7 @@
 ) #r("khoen", "看") #r("khoen.", "看。") #r("La", "拉") #r("thiau-voo-we-kuh", "跳舞会个") #r("nyung", "人") #r(
   "taung-tsoong,",
   "当中",
-) #r("yeu", "有") #r("ih-kuh", "一个") #r("nyung", "人") #r("tsak", "着") #r("(3)", " ") #r(
+) #r("yeu", "有") #r("ih-kuh", "一个") #r("nyung", "人") #r("tsak", "着")  #r(
   "Soo-kuh-lan-kuh",
   "苏華兰个",
 )#footnote[Scotland.] #r("i-zaung.", "衣裳。") #r("Yi", "伊") #r("siang", "想") #r("di-kuh", "第个") #r(
@@ -55,7 +55,7 @@
 ) #r("ih-foong", "一封") #r("sing", "信") #r("kyi", "寄") #r("peh", "拨") #r("yi,", "伊，") #r("lau", "咾") #r(
   "tshing",
   "请",
-) #r("de", "代") #r("ma", "买") #r("(4)", " ") #r("ih", "一") #r("phih", "疋") #r(
+) #r("de", "代") #r("ma", "买")  #r("ih", "一") #r("phih", "疋") #r(
   "nyi,",
   "呢",
 )#footnote[A bolt of flannel.] #r("kyi", "寄") #r("tau", "到") #r("Zaung-he", "上海") #r("le.\"", "来。”") #r(
@@ -99,15 +99,15 @@
 ) #r("Nan-meh", "难末") #r("nga-kok", "外国") #r("nyung", "人") #r("zeh-fung", "十分") #r("doong-chi", "动气") #r(
   "lau",
   "咾",
-) #r("(2)", " ") #r("thih", "踢") #r("yi-kuh", "伊个") #r("phi-koo.", "屁股。")#footnote[To kick.]
+)  #r("thih", "踢") #r("yi-kuh", "伊个") #r("phi-koo.", "屁股。")#footnote[To kick.]
 
 #r("Nan-meh", "难末") #r("i-kuh", "伊个") #r("ze-voong", "裁缝") #r("tau", "到") #r("nga-kok", "外国") #r(
   "Ling-z",
   "领事",
-) #r("han-deu", "壗头") #r("chi,", "去") #r("kau", "告") #r("di-kuh", "第个") #r("nga-kok", "外国人。") #r(
+) #r("han-deu", "壗头") #r("chi,", "去") #r("kau", "告") #r("di-kuh", "第个") #r("nga", "外") #r("kok", "国") #r("nyung", "人") #r(
   "Di-kuh",
   "第个",
-) #r("Ling-z-kwen", "领事官") #r("pih-koo", "不过") #r("hyau-tuh", "晓得") #r("ih-ngan-ngan", "一颜一颜") #r(
+) #r("Ling-z-kwen", "领事官") #r("pih-koo", "不过") #r("hyau-tuh", "晓得") #r("ih", "一") #r("ngan", "颜") #r("ih", "一") #r("ngan", "颜") #r(
   "Tsoong-kok",
   "中国",
 ) #r("wo", "话") #r("lau,", "咾，") #r("mung", "问") #r("ze-voong,", "裁缝，") #r("yi", "伊") #r("na-nung", "那能") #r(
@@ -116,7 +116,7 @@
 ) #r("noong?", "侬？") #r("Yi", "伊") #r("wo,", "话") #r("\"yi", "“伊") #r("peh", "拨") #r("ngoo", "我") #r(
   "chuh",
   "吃",
-) #r("(3)", " ") #r("nga-kok", "外国") #r("hoo-the.\"", "火腿。")#footnote[Kicked on the thigh.] #r(
+)  #r("nga-kok", "外国") #r("hoo-the.\"", "火腿。")#footnote[Kicked on the thigh.] #r(
   "Nan-meh",
   "难末",
 ) #r("Ling-z-kwen", "领事官") #r("ha-ha", "哈哈") #r("da", "大") #r("siau", "笑") #r("lau", "咾") #r("wo,", "话，") #r(
@@ -154,7 +154,7 @@
 ) #r("chuh", "吃") #r("nga-kok", "外国") #r("van", "饭") #r("tse,", "哉，") #r("we-ts", "为之") #r(
   "nga-kok",
   "外国",
-) #r("kwe-kyui", "规矩") #r("z", "是") #r("zeh-fung", "十分") #r("(4)", " ") #r("koo-kwa", "古怪") #r(
+) #r("kwe-kyui", "规矩") #r("z", "是") #r("zeh-fung", "十分")  #r("koo-kwa", "古怪") #r(
   "lau.",
   "咾。",
 )#footnote[Strange.]

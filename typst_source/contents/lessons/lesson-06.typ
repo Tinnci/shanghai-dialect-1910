@@ -9,7 +9,7 @@
 #r("la", "拉") #r("Si-mung,", "西门") #r("yeu", "有") #r("nyung", "人") #r("dzo-dzak", "查着") #r("liang-kuh", "两个") #r("jang-dau-khoo", "强盗窝")#footnote[Nest of thieves.] #r("lau,", "咾，") 
 #r("tsauh-ts", "捉之") #r("liang", "两") #r("san", "三") #r("kuh", "个") #r("nyung,", "人，") #r("soong", "送") #r("yi-la", "伊拉") #r("tau", "到") #r("dzung", "城") #r("li", "里") #r("chi", "去") #r("dzo-kyeu.", "查究。")#footnote[Investigate.]
 
-#r("Thih-tsung", "贴準") #r("la", "拉") #r("Tsoong-kok", "中国") #r("sing", "新") #r("nyien-kuh", "新年个") #r("zien-deu,", "前头，") #r("yeu", "有") #r("ih-we", "一位") #r("sien-sang,", "先生，") #r("ming-deu", "名头") #r("kyau", "叫") #r("Meu-meu,", "某某")#footnote[A certain person.] 
+#r("Thih-tsung", "贴準") #r("la", "拉") #r("Tsoong-kok", "中国") #r("sing", "新") #r("sing", "新") #r("nyien", "年") #r("kuh", "个") #r("zien-deu,", "前头，") #r("yeu", "有") #r("ih-we", "一位") #r("sien-sang,", "先生，") #r("ming-deu", "名头") #r("kyau", "叫") #r("Meu-meu,", "某某")#footnote[A certain person.] 
 #r("zieu-z", "就是") #r("la", "拉") #r("Soo-tseu", "苏州") #r("dzen-dau-kuh", "传道个") #r("sien-sang,", "先生，") 
 #r("yi", "伊拉") #r("leh-la", "拉拉") #r("hyang-'au-kuh", "乡下个") #r("z-'eu,", "时候，") #r("yeu", "有") #r("ih-kuh", "一个") #r("nyung,", "人，") #r("ngang-kyung", "硬劲")#footnote[To force.] #r("iau", "要") #r("yi", "伊") #r("peh", "拨") #r("yi-kuh", "伊个") #r("kyung-piau", "金表") #r("la", "拉") #r("yi.", "伊。")
 

@@ -2,7 +2,7 @@
 
 #exercise(91, "论好心有好报", "LUNG HAU SING YEU HAU PAU")
 
-#r("Yeu", "有") #r("ih-kuh", "一个") #r("(1)", " ") #r("nga-khoo", "外科") #r(
+#r("Yeu", "有") #r("ih-kuh", "一个")  #r("nga-khoo", "外科") #r(
   "laung-tsoong,",
   "郎中，",
 )#footnote[A surgeon, physician who treats external diseases.] #r("yi", "伊") #r("ih-nyien", "一年") #r(
@@ -11,22 +11,22 @@
 ) #r("kyau-kwan", "交关") #r("po-kyih", "巴亟") #r("tsoo", "做") #r("sang-i,", "生意，") #r("ih-ngan", "一颜") #r(
   "'veh-khung",
   "勿肯",
-) #r("tsheh-chi", "出去") #r("(2)", " ") #r("hah-yoong", "瞎用") #r("doong-dien", "铜钱")#footnote[Use carelessly.] #r(
+) #r("tsheh-chi", "出去")  #r("hah-yoong", "瞎用") #r("doong-dien", "铜钱")#footnote[Use carelessly.] #r(
   "lau,",
   "咾，",
-) #r("zeh-dze", "实在") #r("z", "是") #r("(3)", " ") #r("tsoo-nyung-ka", "做人家") #r("tuh-juh", "得极") #r(
+) #r("zeh-dze", "实在") #r("z", "是")  #r("tsoo-nyung-ka", "做人家") #r("tuh-juh", "得极") #r(
   "kuh.",
   "个。",
 )#footnote[To be very economical.] #r("Keh-lau", "盖咾") #r("la", "拉") #r("yi", "伊") #r("seu", "手") #r(
   "li",
   "裡",
-) #r("(4)", " ") #r("tshih-hyok-ts", "积蓄之")#footnote[Accumulate.] #r("too-hau", "多化") #r("nyung-ts", "银子，") #r(
+)  #r("tshih-hyok-ts", "积蓄之")#footnote[Accumulate.] #r("too-hau", "多化") #r("nyung-ts", "银子，") #r(
   "zung-la",
   "存拉",
 ) #r("We-foong", "匯豐") #r("nyung-'aung", "银行") #r("li", "裡") #r("tse.", "者。") #r("Keh-lau", "盖咾") #r(
   "tah",
   "搭",
-) #r("yi", "伊") #r("(5)", " ") #r("gah-dau-la-kuh", "轧淘拉个") #r("dau-ben,", "淘伴，")#footnote[Associates.] #r(
+) #r("yi", "伊")  #r("gah-dau-la-kuh", "轧淘拉个") #r("dau-ben,", "淘伴，")#footnote[Associates.] #r(
   "zen",
   "全",
 ) #r("yeu-soo", "有敷") #r("yi-kuh", "伊个") #r("bi-chi,", "脾气，") #r("doong-dien", "铜钱") #r("meh,", "末") #r(
@@ -35,10 +35,10 @@
 ) #r("yi-kuh", "伊个") #r("sing-sing,", "性命，") #r("soo-i", "所以") #r("yeu", "有") #r("kyi", "几") #r(
   "kuh",
   "个",
-) #r("(6)", " ") #r("doong-'aung-tsoong,", "同行中，") #r("di-yi-kuh", "题伊个") #r("ming-deu,", "名头，") #r(
+)  #r("doong-'aung-tsoong,", "同行中，") #r("di-yi-kuh", "题伊个") #r("ming-deu,", "名头，") #r(
   "kyau",
   "叫",
-) #r("yi", "伊") #r("(7)", " ") #r("Doong-dien", "铜钱") #r("ngan-li", "眼里") #r(
+) #r("yi", "伊")  #r("Doong-dien", "铜钱") #r("ngan-li", "眼里") #r(
   "tshen-kung-teu.",
   "穿觔斗。",
 )#footnote[The same business and Given entirely to the accumulating of money.] #r("Yi", "伊") #r("soe-zen", "虽然") #r(
@@ -47,36 +47,36 @@
 ) #r("pau-pe", "宝贝") #r("doong-dien,", "铜钱，") #r("dan-z", "但是") #r("yi", "伊") #r("khoen-kyien", "看见") #r(
   "joong-khoo",
   "穷苦",
-) #r("lau", "咾") #r("(8)", " ") #r("kan-ka-kuh", "厏厔个") #r("z-thi", "事體") #r("z", "是") #r("man", "蛮") #r(
+) #r("lau", "咾")  #r("kan-ka-kuh", "厏厔个") #r("z-thi", "事體") #r("z", "是") #r("man", "蛮") #r(
   "khung",
   "肯",
 ) #r("tsau-iung-kuh.", "照应个。")#footnote[Hindrance.]
 
-#r("Yeu", "有") #r("ih-kuh", "一个") #r("(9)", " ") #r("tsih-nyih,", "节日，")#footnote[A festival day.] #r(
+#r("Yeu", "有") #r("ih-kuh", "一个")  #r("tsih-nyih,", "节日，")#footnote[A festival day.] #r(
   "yi",
   "伊",
-) #r("tah", "搭") #r("ih-kuh", "一个") #r("(10)", " ") #r("nen-khoo", "内科") #r(
+) #r("tah", "搭") #r("ih-kuh", "一个")  #r("nen-khoo", "内科") #r(
   "laung-tsoong",
   "郎中",
-)#footnote[A physician who treats internal diseases.] #r("ih-dau", "一淘") #r("tsheh-chi", "出去") #r("(11)", " ") #r(
+)#footnote[A physician who treats internal diseases.] #r("ih-dau", "一淘") #r("tsheh-chi", "出去")  #r(
   "teu",
   "趒",
 ) #r("choen-ts.", "圈子。")#footnote[To walk about.] #r("Yi-la", "伊拉") #r("tseu", "走") #r("tau", "到") #r(
   "bau-mo-thing",
   "跑马廰",
-) #r("te-koo", "对过") #r("(12)", " ") #r("iung-hyi-dzang", "影戏场") #r("zien-mien", "前面") #r(
+) #r("te-koo", "对过")  #r("iung-hyi-dzang", "影戏场") #r("zien-mien", "前面") #r(
   "meh,",
   "末，",
-)#footnote[Stereopticon show.] #r("la", "拉") #r("(13)", " ") #r("ka-yien", "阶沿") #r("zak", "石") #r(
+)#footnote[Stereopticon show.] #r("la", "拉")  #r("ka-yien", "阶沿") #r("zak", "石") #r(
   "laung",
   "上",
-)#footnote[The stone along the front of a house.] #r("khoen-kyien", "看见") #r("ih-tsak", "一隻") #r("(14)", " ") #r(
+)#footnote[The stone along the front of a house.] #r("khoen-kyien", "看见") #r("ih-tsak", "一隻")  #r(
   "pa-r-keu",
   "叭兒狗",
 )#footnote[A poodle dog.] #r("kwhung", "睏") #r("la", "拉") #r("laung,", "上。") #r("pih-koo", "不过") #r(
   "la",
   "拉",
-) #r("(15)", " ") #r("theu-chi", "透气") #r("lau", "咾") #r("kyi-'oo", "几乎") #r("iau", "要") #r(
+)  #r("theu-chi", "透气") #r("lau", "咾") #r("kyi-'oo", "几乎") #r("iau", "要") #r(
   "ngoo-sah",
   "饿杀",
 ) #r("kwha", "快") #r("tse.", "哉。")#footnote[To breathe.] #r("Nan-meh", "难末") #r("di-kuh", "第个") #r(
@@ -93,10 +93,10 @@
 ) #r("lau", "咾") #r("jang-tsaung", "强壮") #r("tse,", "哉。") #r("khoen-kyien-ts", "看见之") #r("yi-kuh", "伊个") #r(
   "tsu-nyung",
   "主人",
-) #r("meh,", "末，") #r("(1)", " ") #r("yau-deu", "摇头") #r("whah-nyi-po", "甩尾巴") #r("lau", "咾") #r(
+) #r("meh,", "末，")  #r("yau-deu", "摇头") #r("whah-nyi-po", "甩尾巴") #r("lau", "咾") #r(
   "hau-ziang",
   "好像",
-) #r("dzang-tsaung", "常莊") #r("kyi-tuh", "记得") #r("tsu-nyung-kuh", "主人个") #r("(2)", " ") #r(
+) #r("dzang-tsaung", "常莊") #r("kyi-tuh", "记得") #r("tsu-nyung-kuh", "主人个")  #r(
   "'ung-we.",
   "恩惠。",
 )#footnote[Moved his head and wagged his tail and Kindness.]
@@ -107,7 +107,7 @@
 ) #r("doong", "同") #r("'auh-daung", "学堂") #r("s-di-hyoong", "師弟兄") #r("han-deu", "壗头") #r("chi", "去") #r(
   "chuh",
   "吃",
-) #r("hyi-tsieu,", "喜酒，") #r("chuh", "吃") #r("tuh", "得") #r("(3)", " ") #r("hyi-mi", "稀雁") #r(
+) #r("hyi-tsieu,", "喜酒，") #r("chuh", "吃") #r("tuh", "得")  #r("hyi-mi", "稀雁") #r(
   "lan-tsoe",
   "烂醉",
 )#footnote[To become boozy.] #r("lau", "咾") #r("tsen-le,", "转来。") #r("nan-meh", "难末") #r("zieu", "就") #r(
@@ -136,10 +136,10 @@
 ) #r("le", "来") #r("hyang-le-si", "响来死") #r("lau", "咾") #r("kyau-sing", "叫醒") #r("tse.", "哉。") #r(
   "Nan-meh",
   "难末",
-) #r("yi", "伊") #r("lien-maung", "连忙") #r("tan-ts", "担之") #r("tien", "点") #r("(4)", " ") #r(
+) #r("yi", "伊") #r("lien-maung", "连忙") #r("tan-ts", "担之") #r("tien", "点")  #r(
   "kwe-dzoong",
   "贵重",
-) #r("kuh", "个") #r("meh-z", "物事") #r("lau,", "咾") #r("i-tsak", "伊隻") #r("(5)", " ") #r(
+) #r("kuh", "个") #r("meh-z", "物事") #r("lau,", "咾") #r("i-tsak", "伊隻")  #r(
   "pau-hyien-siang,",
   "保险箱，",
 )#footnote[Valuable things and A safe.] #r("zieu", "就") #r("dau-tseu", "逃走") #r("tsheh-le,", "出来。") #r(

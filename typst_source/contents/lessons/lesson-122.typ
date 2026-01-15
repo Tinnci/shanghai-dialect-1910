@@ -8,10 +8,10 @@
 ) #r("na", "哪") #r("thing,", "听，") #r("hau", "好") #r("va?", "啘？") #r("Yeu", "有") #r("ih-kuh", "一个") #r(
   "nyung",
   "人",
-) #r("(2)", " ") #r("tsheh-yang", "出洋") #r("yeu-lih", "游历")#footnote[To travel abroad.] #r("lau", "咾") #r(
+)  #r("tsheh-yang", "出洋") #r("yeu-lih", "游历")#footnote[To travel abroad.] #r("lau", "咾") #r(
   "khoen",
   "看",
-) #r("nga-kok-kuh", "外国个") #r("(3)", " ") #r("foong-kyung", "风景")#footnote[Policy and manners.] #r(
+) #r("nga-kok-kuh", "外国个")  #r("foong-kyung", "风景")#footnote[Policy and manners.] #r(
   "na-nung.",
   "哪能。",
 ) #r("Yi-kuh", "伊个") #r("kyi-kuh", "几个") #r("bang-yeu", "朋友") #r("thing-kyien", "听见") #r("yi", "伊") #r(
@@ -40,7 +40,7 @@
   "上",
 ) #r("lau,", "咾，") #r("peh", "拨") #r("la", "拉") #r("i-kuh", "伊个") #r("nyung.", "人。")
 
-#r("(1)", " ") #r("Kak-ts", "隔之")#footnote[After.] #r("kyi-kuh", "几个") #r("nyoch", "月") #r("i-kuh", "伊个") #r(
+ #r("Kak-ts", "隔之")#footnote[After.] #r("kyi-kuh", "几个") #r("nyoch", "月") #r("i-kuh", "伊个") #r(
   "nyung",
   "人",
 ) #r("dzoong", "从") #r("nga-kok", "外国") #r("tsen-le-ts,", "转来之") #r("yi-kuh", "伊个") #r("kyi-kuh", "几个") #r(
@@ -49,7 +49,7 @@
 ) #r("loong-tsoong", "拢总") #r("tau", "到") #r("yi-kuh", "伊个") #r("ok-li", "屋里") #r("le", "来") #r(
   "maung-maung.",
   "望望。",
-) #r("Yi", "伊") #r("nau-tsheh", "拿出") #r("ih-yang", "一样") #r("man-hau", "蛮好") #r("khoen-kuh", "好看个") #r(
+) #r("Yi", "伊") #r("nau-tsheh", "拿出") #r("ih-yang", "一样") #r("man-hau", "蛮好") #r("hau", "好") #r("khoen", "看") #r("kuh", "个") #r(
   "meh-z",
   "物事",
 ) #r("peh-la", "拨拉") #r("sing", "姓") #r("Tsang", "张") #r("kuh.", "个。") #r("Dan-z", "但是") #r(
@@ -76,10 +76,10 @@
 ) #r("lau,", "咾，") #r("zoo-hau-ts", "坐好之") #r("iau", "要") #r("nau", "拿") #r("di-kuh", "第个") #r(
   "tsang",
   "账",
-) #r("(3)", " ") #r("'a-ts", "挨") #r("tsh-dzui", "次序") #r("pa", "摆") #r(
+)  #r("'a-ts", "挨") #r("tsh-dzui", "次序") #r("pa", "摆") #r(
   "la.",
   "拉。",
-)#footnote[Arrange in order.] #r("Hweh-zen", "忽然") #r("le-ts", "来之") #r("(4)", " ") #r(
+)#footnote[Arrange in order.] #r("Hweh-zen", "忽然") #r("le-ts", "来之")  #r(
   "ih-dzung-foong",
   "一阵风",
 )#footnote[A gust of wind.] #r("lau", "咾") #r("nau", "拿") #r("na-kuh", "哪") #r("kyi-tsang", "几个") #r(
@@ -94,7 +94,7 @@
 ) #r("yeu-kuh?\"", "有个？”") #r("Yi", "伊") #r("we-deu", "回头") #r("wo.", "话：") #r(
   "\"Tsang-sien-sang-kuh",
   "“张先生个",
-) #r("tsang", "账") #r("z", "是") #r("'veh-zung", "勿会") #r("(5)", " ") #r(
+) #r("tsang", "账") #r("z", "是") #r("'veh-zung", "勿会")  #r(
   "tsh-theh,",
   "吹脱，",
 )#footnote[Blown away.] #r("we-ts", "为之") #r("yeu", "有") #r("ih-kwe", "一块") #r("yang-dien", "洋钱") #r(

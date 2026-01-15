@@ -25,7 +25,7 @@
 #r("iau", "要") #r("jien-khak", "掮客") #r("ben-wan", "赔还") #r("kyi", "几") #r("boo", "部") #r("toong-yang-tsho-kuh", "东洋车个") #r("ka-dien,", "价钱，") 
 #r("r-tshia", "而且") #r("i-kuh", "伊个") #r("mo", "马") #r("ka-sang", "傢生") #r("z", "是") #r("zen", "全") #r("wa-we-tse", "坏完哉") #r("lau", "咾") #r("'veh", "勿") #r("hau", "好") #r("yoong-tse,", "用哉，") 
 #r("mo", "马") #r("'a", "也") #r("zeu", "受") #r("saung-ts", "伤之") #r("lau,", "咾") #r("'veh", "勿") #r("nung", "能") #r("thoo", "拖") #r("tsho-ts", "车子") #r("tse.", "哉。") 
-#r("Nan-meh", "难末") #r("jien-khak", "掮客") #r("dzoong", "重新") #r("sing", "买") #r("ma", "马") #r("mo", "马") #r("lau", "咾") #r("mo-ka-sang,", "马傢生，") #r("z", "是") #r("fi-theh", "费脱") #r("too-hau", "多化") #r("yang-dien.", "洋钱。")
+#r("Nan-meh", "难末") #r("jien-khak", "掮客") #r("dzoong", "重") #r("sing", "新") #r("sing", "买") #r("ma", "马") #r("mo", "马") #r("lau", "咾") #r("mo-ka-sang,", "马傢生，") #r("z", "是") #r("fi-theh", "费脱") #r("too-hau", "多化") #r("yang-dien.", "洋钱。")
 
 #r("Dzoong", "从") #r("di-kuh", "第个") #r("laung,", "上，") #r("nyi", "伲") #r("khau-i", "可以") #r("tuh-dzak", "得着") #r("hau", "好") #r("kyau-hyuin.", "教训。") 
 #r("Van-yi", "凡系") #r("nyung", "人") #r("yeu", "有") #r("sa", "啥") #r("iau-kyung-kuh", "要紧个") #r("z-thi", "事体") #r("meh,", "末") #r("'veh", "勿") #r("khau-i", "可以") #r("sing-kyih,", "性急，") #r("tau", "倒") #r("iau", "要") #r("man-man-nung;", "慢慢能；") 

@@ -65,7 +65,7 @@
 ) #r("theh", "脱") #r("ngoo,", "我，") #r("iung-we", "因为") #r("zau", "造") #r("thien-di", "天地") #r("kuh", "个") #r(
   "Tsu,",
   "主，",
-) #r("seh-lih", "设立") #r("ngoo", "我") #r("tsoo", "做") #r("(1)", " ") #r(
+) #r("seh-lih", "设立") #r("ngoo", "我") #r("tsoo", "做")  #r(
   "tseu-seu-kuh",
   "走兽个",
 )#footnote[King of beasts. (1)] #r("waung.\"", "王。”") #r("Lau-hoo", "老虎") #r("mung", "问") #r("yi", "伊") #r(

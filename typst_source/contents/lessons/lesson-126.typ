@@ -5,7 +5,7 @@
 #r("Dzoong-zien", "从前") #r("yeu", "有") #r("ih-kuh", "一个") #r("nyung", "人") #r("yang-dzak-ts", "养着之") #r(
   "ih-tsak",
   "一隻",
-) #r("(2)", " ") #r("ji-kwa-kuh", "奇怪个")#footnote[Wonderful.] #r("ngoo.", "鹅。")#footnote[Golden egg. (1)] #r(
+)  #r("ji-kwa-kuh", "奇怪个")#footnote[Wonderful.] #r("ngoo.", "鹅。")#footnote[Golden egg. (1)] #r(
   "Di-tsak",
   "第隻",
 ) #r("ngoo,", "鹅") #r("soe-zen", "虽然") #r("tah", "搭") #r("bih-kuh", "别个") #r("ngoo", "鹅") #r(
@@ -17,7 +17,7 @@
 ) #r("zen-r", "然而") #r("la", "拉") #r("ih-tsaung", "一椿") #r("z-thi", "事体") #r("laung", "上") #r("z", "是") #r(
   "doo",
   "大",
-) #r("liang-yang-kuh,", "两样个，") #r("iung-we", "因为") #r("yi", "伊") #r("me", "每日") #r("nyih", " ") #r(
+) #r("liang-yang-kuh,", "两样个，") #r("iung-we", "因为") #r("yi", "伊") #r("me", "每") #r("nyih", "日") #r("nyih", " ") #r(
   "sang",
   "生",
 ) #r("ih-kuh", "一个") #r("kyung-dan", "金蛋") #r("lau.", "咾。") #r("Yang", "养") #r("ngoo-kuh", "鹅个") #r(
@@ -26,16 +26,16 @@
 ) #r("z", "是") #r("man-pau-pe", "蛮宝贝") #r("lau", "咾") #r("ting", "顶") #r("taung-sing", "当心") #r(
   "di-tsak",
   "第隻",
-) #r("ngoo.", "鹅。") #r("Me", "每日") #r("nyih", " ") #r("sang-kuh", "生个") #r("kyung-dan-kuh", "金蛋个") #r(
+) #r("ngoo.", "鹅。") #r("me", "每") #r("nyih", "日") #r("nyih", " ") #r("sang-kuh", "生个") #r("kyung-dan-kuh", "金蛋个") #r(
   "ka-dien,",
   "价钱，",
-) #r("'veh-dan", "勿但是") #r("z", " ") #r("keu-z", "够事") #r("(3)", " ") #r("khe", "开") #r(
+) #r("'veh", "勿") #r("dan", "但") #r("z", "是") #r("z", " ") #r("keu-z", "够事")  #r("khe", "开") #r(
   "hoo-tshaung",
   "伙食",
-)#footnote[Provisons.] #r("lau", "咾") #r("bih", "别") #r("yang", "样") #r("kuh", "个") #r("(4)", " ") #r(
+)#footnote[Provisons.] #r("lau", "咾") #r("bih", "别") #r("yang", "样") #r("kuh", "个")  #r(
   "khe-siau,",
   "开销，",
-)#footnote[Expenses.] #r("r-tshia", "而且") #r("wan-hau", "还好好") #r("tsih-hyok", "积蓄") #r("钱财", "dien-dze") #r(
+)#footnote[Expenses.] #r("r-tshia", "而且") #r("wan", "还") #r("hau", "好") #r("hau", "好") #r("tsih-hyok", "积蓄") #r("钱财", "dien-dze") #r(
   "lau",
   "咾",
 ) #r("soo-la", "锁拉") #r("siang-ts", "箱子") #r("li.", "里。") #r("Dan-z", "但是") #r("yang", "养") #r(
@@ -65,7 +65,7 @@
 ) #r("ting", "顶") #r("hwen-hyi-kuh,", "喜欢个") #r("zieu-z", "就是") #r("iau", "要") #r("khe-tsheh", "开出") #r(
   "siang-ts",
   "箱子",
-) #r("le", "来") #r("nau", "拿") #r("kyung-ts", "金子") #r("(1)", " ") #r("fan-tsen", "翻转") #r(
+) #r("le", "来") #r("nau", "拿") #r("kyung-ts", "金子")  #r("fan-tsen", "翻转") #r(
   "lok-tsen-kuh",
   "碌转个",
 )#footnote[Turning back and forth.] #r("khoen.", "看。") #r("Yi", "伊") #r("siang", "想") #r("s-ka", "世界上") #r(
@@ -110,13 +110,13 @@
 ) #r("laung", "时") #r("sung-thi", "身体") #r("li-hyang", "里向") #r("tsoong", "终") #r("yeu", "有") #r(
   "too-hau",
   "多化",
-) #r("kyung-dan", "金蛋") #r("(2)", " ") #r("tsih-la-hau,", "积拉化。")#footnote[Accumulated within.] #r(
+) #r("kyung-dan", "金蛋")  #r("tsih-la-hau,", "积拉化。")#footnote[Accumulated within.] #r(
   "'veh-zen",
   "忽然",
 ) #r("meh,", "末") #r("yi", "伊") #r("na-nung", "哪能") #r("we-tuh", "会得") #r("sang-tsheh-le", "生出来") #r(
   "nyi?",
   "呢？",
-) #r("Thaung-zen", "倘然") #r("ngoo", "我") #r("la", "拉") #r("(3)", " ") #r("ih-z", "一时") #r(
+) #r("Thaung-zen", "倘然") #r("ngoo", "我") #r("la", "拉")  #r("ih-z", "一时") #r(
   "laung",
   "上",
 )#footnote[At once.] #r("tuh-dsak", "得着") #r("yi", "伊") #r("sung-thi", "身体") #r("li", "里") #r("soo", "所") #r(
@@ -131,7 +131,7 @@
 ) #r("kyung-ts", "金子") #r("yi", "伊") #r("yoeh-ka", "越加") #r("iau-kuh.", "要。") #r("We-ts", "为之") #r(
   "ngoo",
   "鹅",
-) #r("me", "每日") #r("nyih", " ") #r("tsuh", "只") #r("sang", "生") #r("ih-kuh", "一个") #r("kyung-dan,", "金蛋，") #r(
+) #r("me", "每") #r("nyih", "日") #r("nyih", " ") #r("tsuh", "只") #r("sang", "生") #r("ih-kuh", "一个") #r("kyung-dan,", "金蛋，") #r(
   "yi",
   "伊",
 ) #r("ih-z", "一") #r("laung", "时") #r("iau", "要") #r("tuh-dsak", "得着") #r("yi", "伊") #r("sung-thi", "身体") #r(
@@ -140,7 +140,7 @@
 ) #r("loong-tsoong-kuh", "拢总个") #r("kyung-ts,", "金子，") #r("soo-i", "所以") #r("sah-theh", "杀脱") #r(
   "di-tsak",
   "第隻",
-) #r("ngoo", "鹅") #r("lau", "咾") #r("(1)", " ") #r(
+) #r("ngoo", "鹅") #r("lau", "咾")  #r(
   "phoo-khe",
   "剖开",
 )#footnote[Turning back and forth. (Wait, note 1 here is "剖开" which should be "剖开肚皮" but the note says "Turning back and forth"? Let me check the previous notes.)] #r(

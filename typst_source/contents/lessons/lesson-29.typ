@@ -26,4 +26,4 @@
 #r("'veh-dan", "勿但") #r("yi-la", "伊拉") #r("dzen", "传") #r("kyau", "教") #r("bien-taung,", "便当，") #r("yi-la", "伊拉") #r("'a", "也") #r("khau-i", "可以") #r("khau-kyeu", "考究")#footnote[To examine.] #r("Tsoong-kok-kuh", "中国个") #r("foong-zok", "风俗")#footnote[Custom.] #r("lau", "咾") #r("kwen-kyui,", "规矩，") 
 #r("nan-meh", "难末") #r("yi-la", "伊拉") #r("hau", "好") #r("tsoo", "做") #r("su", "书") #r("lau", "咾") #r("iung-tsheh-le", "印出来") #r("peh-la", "拨拉") #r("bih-nyung", "别人") #r("khoen,", "看，") 
 #r("zeh-dze", "实在") #r("man-yeu", "蛮有") #r("ts-mi-kuh.", "滋味个。")#footnote[Good flavor.] 
-#r("Zeh-ke", "实在") #r("khoen-chi-le", "是看起来") #r("dok", "读") #r("Tsoong-kok-su", "中国书") #r("doo-yeu", "大有") #r("iuh-tshu", "益处")#footnote[Benefit.] #r("yan.", "也。")
+#r("Zeh-ke", "实在") #r("z", "是") #r("khoen", "看") #r("chi", "起") #r("le", "来") #r("dok", "读") #r("Tsoong-kok-su", "中国书") #r("doo-yeu", "大有") #r("iuh-tshu", "益处")#footnote[Benefit.] #r("yan.", "也。")

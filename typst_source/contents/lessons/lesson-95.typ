@@ -11,7 +11,7 @@
 ) #r("Mok-koen-san", "莫干山") #r("chi", "去") #r("bi-su.", "避暑。") #r("Nyi", "伲") #r("tshung-ts", "趁之") #r(
   "(1)",
   " ",
-) #r("Te-sung-tshaung-kuh", "戴生昌个")#footnote[A launch office.] #r("(2)", " ") #r(
+) #r("Te-sung-tshaung-kuh", "戴生昌个")#footnote[A launch office.]  #r(
   "'Oo-sih-kwha,",
   "无锡快。",
 )#footnote[A chinese house boat from the town Wu-sih.] #r("la", "拉") #r("ng", "五") #r("tien-tsoong", "点钟") #r(
@@ -23,13 +23,13 @@
 ) #r("Ka-hyung,", "嘉兴、") #r("Zak-mung,", "石门") #r("san", "三") #r("kuh", "个") #r("dzung.", "城。") #r(
   "'Eu-seu",
   "后首",
-) #r("tau", "到") #r("(3)", " ") #r("Daung-si.", "塘栖。")#footnote[Names of places.] #r("La", "拉") #r("nyi", "伲") #r(
+) #r("tau", "到")  #r("Daung-si.", "塘栖。")#footnote[Names of places.] #r("La", "拉") #r("nyi", "伲") #r(
   "soo",
   "所",
 ) #r("tseu-koo-kuh", "走过个") #r("kyi-kuh", "几个") #r("di-faung,", "地方，") #r("liang-pien-kuh", "两边个") #r(
   "(4)",
   " ",
-) #r("dau-dien", "稻田")#footnote[Rice fields.] #r("i-kyung", "已经") #r("(5)", " ") #r(
+) #r("dau-dien", "稻田")#footnote[Rice fields.] #r("i-kyung", "已经")  #r(
   "meh-theh,",
   "没脱。",
 )#footnote[Overflown.] #r("iung-we", "因为") #r("zien", "前") #r("liang-kuh", "两个") #r("nyoeh", "月") #r(
@@ -38,7 +38,7 @@
 ) #r("lauh", "落") #r("yui", "雨") #r("lau.", "咾。") #r("We-ts", "为之") #r("s", "水") #r("doo,", "大，") #r(
   "yeu",
   "有",
-) #r("nyung", "人") #r("la", "拉") #r("dau-dien", "稻田") #r("pien-laung", "边上") #r("(6)", " ") #r(
+) #r("nyung", "人") #r("la", "拉") #r("dau-dien", "稻田") #r("pien-laung", "边上")  #r(
   "tsauh-ts",
   "築",
 ) #r("po,", "壗")#footnote[Making a dam.] #r("'veh", "勿") #r("peh", "拨") #r("s", "水") #r("tsing-chi", "进去") #r(
@@ -56,7 +56,7 @@
 ) #r("'ang", "行") #r("koo-ts", "过之") #r("meh,", "末，") #r("tsauh-la-kuh", "築拉个") #r("po", "壗") #r(
   "iau",
   "要",
-) #r("peh", "拨") #r("s", "水") #r("(8)", " ") #r("tshoong-theh;", "衝脱；")#footnote[To wash away.] #r(
+) #r("peh", "拨") #r("s", "水")  #r("tshoong-theh;", "衝脱；")#footnote[To wash away.] #r(
   "'veh-dan",
   "勿但",
 ) #r("zeh-ke,", "实盖") #r("zieu-z", "就是") #r("too-hau", "多化") #r("vaung-ts,", "房子、") #r("loo,", "路") #r(
@@ -65,7 +65,7 @@
 ) #r("jau,", "桥") #r("meh-theh-kuh", "没脱个") #r("'a", "也") #r("'veh", "勿") #r("sau.", "少。") #r(
   "Zeh-dze",
   "实在",
-) #r("z", "是") #r("yeu", "有") #r("(9)", " ") #r("khau-lien-kuh", "可怜个") #r(
+) #r("z", "是") #r("yeu", "有")  #r("khau-lien-kuh", "可怜个") #r(
   "yang-suh.",
   "样式。",
 )#footnote[Pitiable condition.]
@@ -76,16 +76,16 @@
 ) #r("siau", "小") #r("hoo-lung", "火轮") #r("'ang-tseu", "行走") #r("Soo", "苏") #r("Aung;", "杭；") #r(
   "iau",
   "要",
-) #r("tung", "等") #r("s", "水") #r("(1)", " ") #r("the-ts-tien", "退之点")#footnote[Abated a little.] #r(
+) #r("tung", "等") #r("s", "水")  #r("the-ts-tien", "退之点")#footnote[Abated a little.] #r(
   "lau",
   "咾",
 ) #r("tse", "再") #r("'ang.", "行。") #r("Tau-ts", "到之") #r("Daung-si", "塘栖") #r("meh,", "末，") #r(
   "nyi-kuh",
   "伲个",
-) #r("zen", "船") #r("(2)", " ") #r("sia-theh-ts", "卸脱之")#footnote[Cast off.] #r("siau", "小") #r(
+) #r("zen", "船")  #r("sia-theh-ts", "卸脱之")#footnote[Cast off.] #r("siau", "小") #r(
   "hoo-lung",
   "火轮",
-) #r("lau", "咾") #r("(3)", " ") #r("yoong", "用") #r("boong", "蓬") #r("'ang-koo", "行过")#footnote[Sailed past.] #r(
+) #r("lau", "咾")  #r("yoong", "用") #r("boong", "蓬") #r("'ang-koo", "行过")#footnote[Sailed past.] #r(
   "(4)",
   " ",
 ) #r("Tuh-tshing", "德清") #r("dzung", "城")#footnote[Name of a place.] #r("lau", "咾") #r("tau", "到") #r(
@@ -103,10 +103,10 @@
 ) #r("san", "山") #r("laung.", "上。") #r("San", "山") #r("laung-kuh", "上个") #r("loo,", "路，") #r(
   "chi-deu",
   "起头",
-) #r("z", "是") #r("man", "蛮") #r("(5)", " ") #r("bing-than,", "平坦。")#footnote[Level.] #r("tau-ts", "到之") #r(
+) #r("z", "是") #r("man", "蛮")  #r("bing-than,", "平坦。")#footnote[Level.] #r("tau-ts", "到之") #r(
   "zaung-ting",
   "山顶",
-) #r("meh;", "末") #r("(6)", " ") #r("tshan", "攀") #r("le-si,", "来死。")#footnote[Steep.] #r("jau-foo", "骑夫") #r(
+) #r("meh;", "末")  #r("tshan", "攀") #r("le-si,", "来死。")#footnote[Steep.] #r("jau-foo", "骑夫") #r(
   "'veh",
   "勿",
 ) #r("da", "大") #r("hau", "好") #r("tseu.", "走。") #r("Nyi", "伲") #r("zieu", "就") #r("'au-le", "下来") #r(

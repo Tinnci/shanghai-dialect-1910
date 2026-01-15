@@ -18,6 +18,7 @@ class FixStrategy(Enum):
     SPLIT_RUBY = auto()      # 拆分：汉字多于拼音
     MERGE_RUBY = auto()      # 合并：拼音多于汉字
     REPLACE_PINYIN = auto()  # 替换：拼写错误
+    DELETE_GHOST = auto()    # 删除：OCR 幽灵编号
     MANUAL = auto()          # 无法自动处理
 
 class SafetyLevel(Enum):
@@ -114,6 +115,19 @@ def analyze_ruby_pair(pinyin: str, hanzi: str, pron_db: Dict[str, CharPronInfo])
     h_chars = split_characters(hanzi)
     
     original = f'#r("{pinyin}", "{hanzi}")'
+
+    # -1. 如果是 OCR 幽灵编号 (如 "(1)", " " 或 "")，直接删除
+    # 这里的正则匹配 (数字) 格式的拼音，且汉字为空或空格
+    if re.match(r'^\(\d+\)$', pinyin) and (not hanzi or hanzi.strip() == ""):
+        return FixSuggestion(
+            file="", line_num=0,
+            strategy=FixStrategy.DELETE_GHOST,
+            original=original,
+            problem="OCR 幽灵编号 (Artifact)",
+            suggestion="",  # 删除整个 #r 块
+            confidence=1.0,
+            safety=SafetyLevel.SAFE
+        )
     
     # 0. 保护机制：叠词检查 (如 "leh-la" "拉拉")
     # 如果汉字是叠词，无论拼音形式如何，都不做拼写修正
@@ -146,10 +160,18 @@ def analyze_ruby_pair(pinyin: str, hanzi: str, pron_db: Dict[str, CharPronInfo])
                     new_parts[i] = expected
                     new_pinyin = "-".join(new_parts)
                     
-                    # 根据置信度确定安全等级
-                    safety = SafetyLevel.SAFE if info.confidence > 0.95 else \
-                             SafetyLevel.REVIEW if info.confidence > 0.7 else \
-                             SafetyLevel.MANUAL
+                    # 安全等级判定：
+                    # 1. 如果相似度极低 (sim < 0.4)，可能是错位而非拼写错误，强制 MANUAL
+                    # 2. 否则，根据置信度分级
+                    if sim < 0.4:
+                        # 相似度太低：原拼音和目标拼音几乎无关，很可能是错位导致
+                        safety = SafetyLevel.MANUAL
+                    elif info.confidence > 0.95:
+                        safety = SafetyLevel.SAFE
+                    elif info.confidence > 0.7:
+                        safety = SafetyLevel.REVIEW
+                    else:
+                        safety = SafetyLevel.MANUAL
                     
                     return FixSuggestion(
                         file="", line_num=0,
@@ -245,7 +267,9 @@ def scan_file_for_fixes(lesson: LessonFile, pron_db: Dict[str, str]) -> List[Fix
 
 def apply_fix(file_path: Path, suggestion: FixSuggestion, backup: bool = True) -> bool:
     """应用单条修复到文件"""
-    if not suggestion.suggestion:
+    # 对于 DELETE_GHOST 策略，空字符串是有效的建议（表示删除）
+    # 对于其他策略，空字符串表示无法自动修复
+    if not suggestion.suggestion and suggestion.strategy != FixStrategy.DELETE_GHOST:
         return False
     
     content = file_path.read_text(encoding='utf-8')

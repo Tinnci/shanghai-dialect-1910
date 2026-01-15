@@ -8,13 +8,13 @@
 ) #r("doo-pen", "大半") #r("la", "拉") #r("tien", "店") #r("li,", "里，") #r("ma", "买") #r("meh-z", "物事") #r(
   "zen",
   "全",
-) #r("z", "是") #r("zaung-tsang", "上账") #r("lau,", "咾") #r("tau", "到") #r("(10)", " ") #r("tsih", "节") #r(
+) #r("z", "是") #r("zaung-tsang", "上账") #r("lau,", "咾") #r("tau", "到")  #r("tsih", "节") #r(
   "laung",
   "上",
 ) #r("foo", "付") #r("doong-dien-kuh.", "铜钱个。")#footnote[At the festival.] #r("Zen-r", "然而") #r(
   "yeu-kuh",
   "有个",
-) #r("tien,", "店，") #r("mung", "问") #r("bih", "别") #r("ban-tien", "爿店") #r("li", "里") #r("(1)", " ") #r(
+) #r("tien,", "店，") #r("mung", "问") #r("bih", "别") #r("ban-tien", "爿店") #r("li", "里")  #r(
   "tshoen-hoo-suh,",
   "趠货色",
 )#footnote[A small shop buying from a large shop for the purpose of selling.] #r("'a", "也") #r("tung", "等") #r(
@@ -29,13 +29,13 @@
 ) #r("tsang.", "账。") #r("Zen-r", "然而") #r("yeu", "有") #r("too-hau", "多化") #r("nyung", "人") #r(
   "wan-'veh-tsheh",
   "还勿出",
-) #r("lau,", "咾") #r("yeu-kuh", "有个") #r("meh,", "末") #r("(3)", " ") #r("loong", "东") #r("tsia", "借") #r(
+) #r("lau,", "咾") #r("yeu-kuh", "有个") #r("meh,", "末")  #r("loong", "东") #r("tsia", "借") #r(
   "si",
   "西",
 ) #r("tsia,", "借")#footnote[Borrow from the east and west, i. e. everywhere.] #r("yeu-kuh", "有个") #r(
   "meh,",
   "末",
-) #r("dau-tseu,", "逃走") #r("yeu-kuh", "有个") #r("meh,", "末") #r("(4)", " ") #r(
+) #r("dau-tseu,", "逃走") #r("yeu-kuh", "有个") #r("meh,", "末")  #r(
   "ben-loong.",
   "背拢。",
 )#footnote[To hide.] #r("Zak-zen", "若然") #r("seu", "收") #r("tsang-kuh", "账个") #r("tau-ts", "到之") #r(
@@ -53,7 +53,7 @@
 ) #r("tau", "倒") #r("'veh", "勿") #r("hyau-tuh", "晓得") #r("nen-nyung", "男人") #r("z", "是") #r("be-la", "背拉") #r(
   "li-hyang.",
   "裡向。",
-) #r("(6)", " ") #r("Nyien", "年") #r("ya-kuh", "夜个") #r("tsih,", "节")#footnote[The closing feast of the year.] #r(
+)  #r("Nyien", "年") #r("ya-kuh", "夜个") #r("tsih,", "节")#footnote[The closing feast of the year.] #r(
   "pi",
   "比",
 ) #r("bih-kuh", "别个") #r("tsih", "节") #r("kung-ka", "更加") #r("iau-kyung,", "要紧") #r("soo-i", "所以") #r(
@@ -65,7 +65,7 @@
 ) #r("tau", "到") #r("thien-liang", "天亮") #r("seu", "手") #r("li", "里") #r("nau-ts", "拿之") #r(
   "tung-loong,",
   "灯笼",
-) #r("(7)", " ") #r("pe", "背") #r("laung", "上") #r("pe-ts", "背之") #r(
+)  #r("pe", "背") #r("laung", "上") #r("pe-ts", "背之") #r(
   "dzien-de",
   "钱袋",
 )#footnote[Carrying the money bag on the back.] #r("lau", "咾") #r("seu", "收") #r("tsang.", "账。") #r(
@@ -80,13 +80,13 @@
 ) #r("doong-dien", "铜钱") #r("lau", "咾") #r("s-tuh", "使得") #r("seu", "收") #r("tsang-kuh", "账个") #r(
   "sing",
   "心",
-) #r("li", "里") #r("(8)", " ") #r("kyih-sah", "急杀") #r("kwha.", "快。")#footnote[Very excited.] #r(
+) #r("li", "里")  #r("kyih-sah", "急杀") #r("kwha.", "快。")#footnote[Very excited.] #r(
   "'Veh-dan",
   "勿但",
 ) #r("zeh-ke,", "实在") #r("yeu-kuh", "有个") #r("i-kyung", "已经") #r("thau-dzak-ts", "讨着之") #r("tsang", "账") #r(
   "lau",
   "咾",
-) #r("tsen-le,", "转来") #r("zeh-dze", "实在") #r("(9)", " ") #r("'veh", "勿") #r(
+) #r("tsen-le,", "转来") #r("zeh-dze", "实在")  #r("'veh", "勿") #r(
   "suh-deu",
   "色头",
 )#footnote[Unfortunate.] #r("la", "拉") #r("loo", "路") #r("laung", "上") #r("bang-dzak-ts", "碰着之") #r(
@@ -98,7 +98,7 @@
 ) #r("tshiang-theh,", "抢脱") #r("r-tshia", "而且") #r("sing-ming", "性命") #r("nan-pau.", "难保。") #r(
   "Tsoong-kok",
   "中国",
-) #r("dzok-nyui", "俗语") #r("wo", "话") #r("(2)", " ") #r("\"Zeh", "“十") #r("so", "赊") #r("'veh", "勿") #r(
+) #r("dzok-nyui", "俗语") #r("wo", "话")  #r("\"Zeh", "“十") #r("so", "赊") #r("'veh", "勿") #r(
   "zu",
   "如",
 ) #r("ih", "一") #r("yien.\"", "现。”")#footnote["Ten on credit is not to be compared with one in hand."] #r(
@@ -107,7 +107,7 @@
 ) #r("tsau", "照") #r("di", "第") #r("kyui", "句") #r("seh-wo", "说话") #r("lau", "咾") #r("tsoo", "做") #r(
   "meh",
   "末",
-) #r("khau-i", "可以") #r("mien-theh", "免脱") #r("too-hau", "多化") #r("(3)", " ") #r("jau-gah-kuh", "赳结个") #r(
+) #r("khau-i", "可以") #r("mien-theh", "免脱") #r("too-hau", "多化")  #r("jau-gah-kuh", "赳结个") #r(
   "z-thi",
   "事体",
 ) #r("tse.", "哉。")#footnote[Complications.]

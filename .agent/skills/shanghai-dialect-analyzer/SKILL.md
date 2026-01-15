@@ -14,8 +14,10 @@ This skill allows the agent to perform deep quality analysis on the Shanghai dia
    - Identifies legitimate phonetic variants based on initials/finals analysis.
    - Reports on systemic mismatches.
 
-2. **Alignment Diagnosis (`analyze displacement`)**:
+2.   - **Alignment Diagnosis (`analyze displacement`)**:
    - Uses a sliding window sequence alignment algorithm.
+   - **Smart Reduplication Awareness**: Automatically detects and skips reduplicated patterns (e.g., "拉拉", "看看") to prevent false positive displacement alerts.
+   - **Rime Integration**: Validates character-pinyin pairs against dictionary to skip legitimate polyphonic variants.
    - Diagnoses "[ALIGN-L] 漏字偏移" (Missing character/syllable) and "[ALIGN-R] 多字偏移" (Extra character/syllable).
    - Highlights specific words where the shift occurs.
 
@@ -26,9 +28,10 @@ This skill allows the agent to perform deep quality analysis on the Shanghai dia
 4. **Auto-Fix (`fix`)**:
    - **Safety Levels**: Classifies fixes into 🟢 `SAFE` (Auto-applicable), 🟡 `REVIEW` (Likely correct but needs check), and 🔴 `MANUAL` (Requires user intervention).
    - **Corpus Context**: Displays usage examples of the specific character from the entire book to help verify pronunciations.
-   - **Reduplication Protection**: Automatically skips all corrections for reduplicated hanzi (e.g., "拉拉", "看看") to preserve tone sandhi records.
+   - **Ghost Number Detection**: Identifies OCR artifacts like `#r("(1)", " ")` as 🔴 `MANUAL` fixes (should be deleted).
    - **Rime Dictionary Validation**: Uses `external/rime-wugniu_zaonhe` (9166 chars, 23936 phrases, 1147 polyphonic chars) to verify pronunciations.
    - **Cross-Scheme Phonetic Similarity**: Correctly maps 1910 Church Romanization to modern Wugniu Pinyin (e.g., `nyih` ↔ `gniq`, `zeh` ↔ `zeq` for "日").
+
 5. **Intelligent Rule Learning (`learn`)**:
    - **Rule Induction**: Automatically learns phonetic mapping rules from the book corpus (32K+ pairs) and Rime dictionary.
    - **Feature-Based Similarity**: Uses phonological feature vectors (place, manner, voicing, etc.) to calculate precise similarity scores.
@@ -86,10 +89,12 @@ uv run python xtask.py fix lesson-26 -i   # Interactively review complex issues
 
 1. **Discovery**: Run `analyze displacement` to identify high-mismatch files.
 2. **Safe Pre-cleaning**: Run `fix --auto` to resolve hundreds of simple alignment and spelling issues project-wide. 
-3. **Polyphonic Protection**: The fixer will NOT touch multi-reading characters like "日" (`nyih`/`zeh`), "拉" (`la`/`leh`), validated against Rime dictionary.
-4. **Reduplication Guard**: Words like "拉拉" (`leh-la`/`la-la`) are preserved to protect dialectal tone sandhi.
-5. **Interactive Polish**: For files with high mismatch remaining, use `fix <target> --interactive`. Use the "📖 全书用例" (Corpus Examples) in the output as your primary reference for deciding `y/n`.
-6. **Final Verification**: Re-run `analyze displacement` to confirm the file is now [CLEAN].
+3. **Ghost Hunting**: Look out for `#r("(N)", " ")` patterns in files with high remaining "displacement" error rates. These are OCR artifacts and must be removed.
+4. **Polyphonic Protection**: The fixer will NOT touch multi-reading characters like "日" (`nyih`/`zeh`), "拉" (`la`/`leh`), validated against Rime dictionary.
+5. **Reduplication Guard**: Words like "拉拉" (`leh-la`/`la-la`) are preserved to protect dialectal tone sandhi.
+6. **False Spelling Suggestions**: Be careful with "白" (`bak` vs `beh`/`buh`) and other literary vs. colloquial readings. The fixer might suggest `bak` where the text intends `beh`.
+7. **Interactive Polish**: For files with high mismatch remaining, use `fix <target> --interactive`. Use the "📖 全书用例" (Corpus Examples) in the output as your primary reference for deciding `y/n`.
+8. **Final Verification**: Re-run `analyze displacement` to confirm the file is now [CLEAN].
 
 ## Important Phonetic Notes
 
@@ -99,6 +104,12 @@ uv run python xtask.py fix lesson-26 -i   # Interactively review complex issues
 - `la` = "拉" (locative particle)
 - Together `leh-la` represents the grammatical structure "勒拉" (in/at/while doing)
 - This is a **correct** and **intentional** transcription
+
+### The `beh-siang` (白相/勃相) Case
+- "白相" (to play) is standardly written as "白相".
+- The character "白" has two readings: `bak` (literary, as in 明白) and `beh` (colloquial, as in 白相).
+- The fixer may incorrectly flag `beh-siang` as a typo for `bak-siang`. **Do NOT apply this fix.**
+- The original text sometimes uses the borrowed character "**勃相**" to explicitly indicate the `beh` pronunciation. We should respect/restore this historical usage where consistent.
 
 ### Rusheng (入声) Finals
 Per `preliminary.typ`:

@@ -17,10 +17,10 @@
 ) #r("'a", "也") #r("m-meh", "无没") #r("bang-yeu,", "朋友，") #r("yi-kuh", "伊个") #r("i-zaung", "衣裳") #r(
   "z",
   "是",
-) #r("jeu", "旧") #r("lau", "咾") #r("(4)", " ") #r("phoo-kuh.", "破个。")#footnote[Tattered. (4)] #r("M", "无") #r(
+) #r("jeu", "旧") #r("lau", "咾")  #r("phoo-kuh.", "破个。")#footnote[Tattered. (4)] #r("M", "无") #r(
   "nyung",
   "人",
-) #r("(5)", " ") #r("tsau-koo", "照顾")#footnote[Care for. (5)] #r("yi.", "伊。") #r("M", "无") #r("nyung", "人") #r(
+)  #r("tsau-koo", "照顾")#footnote[Care for. (5)] #r("yi.", "伊。") #r("M", "无") #r("nyung", "人") #r(
   "paung-dzoo",
   "帮助",
 ) #r("yi.", "伊。") #r("Soo-i", "所以") #r("yi", "伊") #r("siang", "想") #r("zing", "寻") #r("si", "死") #r(
@@ -32,19 +32,19 @@
 ) #r("Dan-z", "但是") #r("'veh", "勿") #r("hyau-tuh", "晓得") #r("yoong", "用") #r("sa-kuh", "啥个") #r("si", "死") #r(
   "fah.",
   "法。",
-) #r("Yi", "伊") #r("chi-deu", "起头") #r("siang", "想") #r("iau", "要") #r("(6)", " ") #r(
+) #r("Yi", "伊") #r("chi-deu", "起头") #r("siang", "想") #r("iau", "要")  #r(
   "tiau-sah.",
   "吊杀。",
 )#footnote[Hang one's self. (6)] #r("Soo-i", "所以") #r("yi", "伊") #r("nau-ts", "拿之") #r("lau-kuh", "半个") #r(
   "zung",
   "绳索",
-) #r("vok", " ") #r("la", "拉") #r("vaung-ts", "房子") #r("kuh", "个") #r("(1)", " ") #r(
+) #r("vok", " ") #r("la", "拉") #r("vaung-ts", "房子") #r("kuh", "个")  #r(
   "kauh-liang",
   "棚樑",
 )#footnote[Beam of a house. (1)] #r("laung.", "上。") #r("Dan-z", "但是") #r("yi", "伊") #r("siang", "想") #r(
   "di-kuh",
   "第个",
-) #r("liang", "樑") #r("(2)", " ") #r("lan-oo-ts", "腐之")#footnote[Rotten. (2)] #r("lau", "咾") #r("'veh", "勿") #r(
+) #r("liang", "樑")  #r("lan-oo-ts", "腐之")#footnote[Rotten. (2)] #r("lau", "咾") #r("'veh", "勿") #r(
   "lau-kuh.",
   "牢个。",
 ) #r("Keh-lauh", "盖咾") #r("siang", "想") #r("di-kuh", "第个") #r("fah-tsuh", "法则") #r("'veh-jok", "勿局") #r(
@@ -59,7 +59,7 @@
 ) #r("lau", "咾") #r("ah", "压") #r("la", "拉") #r("ngoo", "我") #r("sung-laung.", "身上。") #r("Zeh-ke", "实盖") #r(
   "z",
   "是",
-) #r("(3)", " ") #r("thuh-hyien-kuh.", "风险个。")#footnote[Too dangerous. (3)] #r("Ngoo", "我") #r("iau", "要") #r(
+)  #r("thuh-hyien-kuh.", "风险个。")#footnote[Too dangerous. (3)] #r("Ngoo", "我") #r("iau", "要") #r(
   "siang-bih-yang",
   "想别样",
 ) #r("fah-tsuh.", "法则。") #r("Soo-i", "所以") #r("dzoong", "从") #r("zaung-deu", "上头") #r("'au-le,", "下来") #r(
@@ -71,7 +71,7 @@
 ) #r("fah-tsuh-kuh", "法则个") #r("zung-kwaung,", "辰光，") #r("hweh-zen", "忽然") #r("thing-kyien", "听见") #r(
   "la",
   "拉",
-) #r("nga-deu", "外头") #r("yeu", "有") #r("(4)", " ") #r("nau-nyih-kuh", "闹热个")#footnote[A noisy sound. (4)] #r(
+) #r("nga-deu", "外头") #r("yeu", "有")  #r("nau-nyih-kuh", "闹热个")#footnote[A noisy sound. (4)] #r(
   "sang-chi,",
   "声气，",
 ) #r("lien-laung", "连上") #r("yeu", "有") #r("kyi-kuh", "几个") #r("hyoong-nyung,", "兇人，") #r("seu-li", "手里") #r(
@@ -161,4 +161,4 @@
 ) #r("tah", "搭") #r("'e-theh", "害脱") #r("bih-nyung-kuh", "别人个") #r("sing-ming", "性命") #r("ih-yang", "一样") #r(
   "z",
   "是",
-) #r("(1)", " ") #r("hyoong-seu", "兇手")#footnote[A murderer. (1)] #r("yan.", "也。")
+)  #r("hyoong-seu", "兇手")#footnote[A murderer. (1)] #r("yan.", "也。")

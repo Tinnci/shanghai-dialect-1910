@@ -5,7 +5,7 @@
 #r("Yeu", "有") #r("s", "师") #r("doo", "徒") #r("liang-kuh,", "两个") #r("tseu", "走") #r("la", "拉") #r(
   "dien-ya",
   "田野",
-) #r("li", "里") #r("(4)", " ") #r("'an-san", "闲散") #r(
+) #r("li", "里")  #r("'an-san", "闲散") #r(
   "'an-san,",
   "闲散，",
 )#footnote[Take leisure. (4) on page 245] #r("thien-chi", "天气") #r("man", "蛮") #r("hau", "好，") #r(
@@ -40,7 +40,7 @@
 ) #r("kyi", "几") #r("boo,", "步") #r("'auh-sang-ts", "学生子") #r("tah-ts", "搭之") #r("sien-sang,", "先生") #r(
   "khoen-kyien",
   "看见",
-) #r("la", "拉") #r("(6)", " ") #r("li-po", "篱笆") #r("kauh-li", "角里")#footnote[In the corner of the fence. (6)] #r(
+) #r("la", "拉")  #r("li-po", "篱笆") #r("kauh-li", "角里")#footnote[In the corner of the fence. (6)] #r(
   "yeu",
   "有",
 ) #r("ih-saung", "一双") #r("'a-ts.", "鞋子。")
@@ -54,7 +54,7 @@
 ) #r("ngoo-nyi", "伲") #r("nau", "拿") #r("chi", "去") #r("khaung-loong", "圆拢")#footnote[Hide. (1) on page 246] #r(
   "yi",
   "伊",
-) #r("nan-meh", "难末") #r("nyi", "伲") #r("(1)", " ") #r("ben-la", "背拉") #r("siau-zu", "小树") #r(
+) #r("nan-meh", "难末") #r("nyi", "伲")  #r("ben-la", "背拉") #r("siau-zu", "小树") #r(
   "li-hyang,",
   "里向，",
 ) #r("khoen", "看") #r("yi", "伊") #r("na-nung", "哪能") #r("tsoo-deu.", "做头。") #r("Yi", "伊") #r(
@@ -83,7 +83,7 @@
 ) #r("zak-s", "若使") #r("tse", "再") #r("iau", "要") #r("yoong", "用") #r("koong-foo", "功夫") #r("zing", "寻") #r(
   "yi-kuh",
   "伊个",
-) #r("'a-ts", "鞋子") #r("meh,", "末") #r("z", "是") #r("(2)", " ") #r(
+) #r("'a-ts", "鞋子") #r("meh,", "末") #r("z", "是")  #r(
   "loong-soong",
   "弄（伊）",
 )#footnote[To treat ill. (2)] #r("yi.", "伊。") #r("Ngoo", "我") #r("siang", "想") #r("noong", "侬") #r(
@@ -92,19 +92,19 @@
 ) #r("di-kuh", "第个") #r("z-thi", "事体") #r("'a", "也") #r("m-sa", "无啥") #r("hau-tshu.\"", "好处。”") #r(
   "'Auh-sang-ts",
   "学生子",
-) #r("meh,", "末") #r("kauh-dzak", "觉着") #r("(3)", " ") #r("dzan-kwe", "惭愧")#footnote[Ashamed. (3)] #r(
+) #r("meh,", "末") #r("kauh-dzak", "觉着")  #r("dzan-kwe", "惭愧")#footnote[Ashamed. (3)] #r(
   "lau",
   "咾",
-) #r("(4)", " ") #r("tshoong", "铳倒之") #r("tau-ts", " ") #r("deu.", "头。")#footnote[Bowed his head. (4)] #r(
+)  #r("faung", "铳") #r("tau", "倒") #r("ts", "之") #r("tau-ts", " ") #r("deu.", "头。")#footnote[Bowed his head. (4)] #r(
   "Zen-r",
   "然而",
-) #r("yi", "伊") #r("'veh-z", "勿是") #r("m-meh", "无没") #r("(5)", " ") #r(
+) #r("yi", "伊") #r("'veh-z", "勿是") #r("m-meh", "无没")  #r(
   "tshuh-iung-ts",
   "侧隐之",
 )#footnote[Kind heart. (5)] #r("sing.", "心。") #r("Yi", "伊") #r("'veh", "勿") #r("dzung", "曾") #r("siang", "想") #r(
   "tau",
   "到",
-) #r("yi-kuh", "伊个") #r("lau-khoo-kuh", "劳苦个") #r("nyung-kuh", "个人个") #r("sa-doo.", "弛猪。") #r("Yi", "伊") #r(
+) #r("yi-kuh", "伊个") #r("lau-khoo-kuh", "劳苦个") #r("kuh", "个") #r("nyung", "人") #r("kuh", "个") #r("sa-doo.", "弛猪。") #r("Yi", "伊") #r(
   "pih-koo",
   "不过",
 ) #r("siang", "想") #r("khoen", "看") #r("yi", "伊") #r("zing", "寻") #r("yi-kuh", "伊个") #r("'a-ts", "鞋子") #r(
@@ -115,7 +115,7 @@
 #r("Nan-meh", "难末") #r("yi", "伊") #r("te", "对") #r("sien-sang", "先生") #r("wo,", "话：") #r("\"Ngoo", "“我") #r(
   "yien-dze",
   "现在",
-) #r("(6)", " ") #r("'au-lau", "懊悔")#footnote[Regret. (6)] #r("iau", "要") #r("khaung", "圆") #r(
+)  #r("'au-lau", "懊悔")#footnote[Regret. (6)] #r("iau", "要") #r("khaung", "圆") #r(
   "di-saung",
   "第双",
 ) #r("'a-ts.", "鞋子。") #r("Ngoo", "我") #r("hyau-tuh", "晓得") #r("di-kuh", "第个") #r("z", "是") #r("'veh", "勿") #r(
@@ -138,7 +138,7 @@
 ) #r("wo,", "话：") #r("\"Ngoo", "“我") #r("hyau-tuh", "晓得") #r("yi", "伊") #r("z", "是") #r("joong-khoo", "穷苦") #r(
   "tuh-juh,",
   "得极，",
-) #r("yi-kuh", "伊个") #r("nyang-ts", "娘子") #r("la", "拉") #r("ok-li", "屋里") #r("yeu", "有") #r("(1)", " ") #r(
+) #r("yi-kuh", "伊个") #r("nyang-ts", "娘子") #r("la", "拉") #r("ok-li", "屋里") #r("yeu", "有")  #r(
   "li-'e-kuh",
   "利害个",
 )#footnote[Severe. (1) on page 247] #r("mau-bing.", "毛病。") #r("Yi", "伊") #r("doo-doo-li", "度度里") #r(
@@ -177,7 +177,7 @@
 ) #r("khoen-kyien", "看见") #r("di-kuh", "第个") #r("nyung", "人") #r("la", "拉") #r("dien", "田") #r("li", "里") #r(
   "nau",
   "拿",
-) #r("(2)", " ") #r("dz-deu", "锄头")#footnote[Hoe. (2)] #r("(3)", " ") #r(
+)  #r("dz-deu", "锄头")#footnote[Hoe. (2)]  #r(
   "jien",
   "掮",
 )#footnote[Carry on the shoulder. (3)] #r("la", "拉") #r("hyien-ka-laung-ts,", "肩胛上之，") #r(
@@ -221,24 +221,24 @@
 ) #r("kung-ka", "更加") #r("hyi-ji,", "希奇，") #r("we-ts", "为之") #r("kha-weh", "快活") #r("tuh-juh", "得极") #r(
   "lau,",
   "咾",
-) #r("zieu-yeu", "就有") #r("(1)", " ") #r("ngan-li", "眼泪")#footnote[Tears. (1) on page 248] #r("kwo-la", "挂拉") #r(
+) #r("zieu-yeu", "就有")  #r("ngan-li", "眼泪")#footnote[Tears. (1) on page 248] #r("kwo-la", "挂拉") #r(
   "(2)",
   " ",
 ) #r("mien-kyih-koo", "面颊骨")#footnote[Cheeks. (2)] #r("laung.", "上。")
 
-#r("Nan-meh", "难末") #r("(3)", " ") #r("koong-ls", "拱之") #r("seu", "手")#footnote[Crossed hands. (3)] #r(
+#r("Nan-meh", "难末")  #r("koong-ls", "拱之") #r("seu", "手")#footnote[Crossed hands. (3)] #r(
   "lau",
   "咾",
-) #r("(4)", " ") #r("pi-ts", "闭之") #r("ngan-tsing", "眼睛")#footnote[Closed his eyes. (4)] #r("lau", "咾") #r(
+)  #r("pi-ts", "闭之") #r("ngan-tsing", "眼睛")#footnote[Closed his eyes. (4)] #r("lau", "咾") #r(
   "tsoo",
   "做",
-) #r("(5)", " ") #r("tau-kau,", "祷告")#footnote[Prayed. (5)] #r("ke-zia", "感谢") #r("Zung-kuh", "神个") #r(
+)  #r("tau-kau,", "祷告")#footnote[Prayed. (5)] #r("ke-zia", "感谢") #r("Zung-kuh", "神个") #r(
   "(6)",
   " ",
 ) #r("doo", "大") #r("saung-s.", "赏赐。")#footnote[Great gift. (6)] #r("Yien-dze", "现在") #r("yeu-ts", "有之") #r(
   "doong-dien",
   "铜钱",
-) #r("khau-i", "可以") #r("ma", "买") #r("(7)", " ") #r("ka-kyoen", "家眷")#footnote[Wife. (7)] #r(
+) #r("khau-i", "可以") #r("ma", "买")  #r("ka-kyoen", "家眷")#footnote[Wife. (7)] #r(
   "iung-yoong-kuh",
   "应用个",
 ) #r("meh-z", "物事") #r("tse.", "哉。") #r("Tsak-hau-ts", "着好之") #r("'a-ts", "鞋子") #r("meh,", "末，") #r(
@@ -247,7 +247,7 @@
 ) #r("lien-maung", "连忙") #r("tau", "到") #r("ok-li", "屋里") #r("chi,", "去") #r("zieu", "就") #r(
   "kau-soo",
   "告诉",
-) #r("nyang-ts", "娘子") #r("yi", "伊") #r("soo", "所") #r("bang-dzak-kuh", "碰着个") #r("(8)", " ") #r("hau", "好") #r(
+) #r("nyang-ts", "娘子") #r("yi", "伊") #r("soo", "所") #r("bang-dzak-kuh", "碰着个")  #r("hau", "好") #r(
   "yuin-chi.",
   "运气。",
 )#footnote[Good fortune. (8)] #r("Di-we", "第位") #r("'auh-sang-ts", "学生子") #r("khoen-khoen", "看看") #r(
@@ -256,7 +256,7 @@
 ) #r("mien-khoong", "面孔") #r("lau", "咾") #r("zia-zia", "谢谢") #r("sien-sang", "先生") #r("te", "对") #r(
   "yi",
   "伊",
-) #r("(9)", " ") #r("di-chi", "题起")#footnote[Suggest. (9)] #r("di-kuh", "第个") #r("hau", "好") #r(
+)  #r("di-chi", "题起")#footnote[Suggest. (9)] #r("di-kuh", "第个") #r("hau", "好") #r(
   "z-thi,",
   "好事体",
 ) #r("paung-dzoo", "帮助") #r("di-kuh", "第个") #r("joong-nyung.", "穷人。") #r("'Auh-sang-ts", "学生子") #r(
@@ -268,7 +268,7 @@
 ) #r("kha-weh.", "快活。") #r("Nan-meh", "难末") #r("ming-bak", "明白") #r("Sung-kyung", "圣经") #r("laung", "上") #r(
   "wo-kuh,",
   "话个，",
-) #r("(10)", " ") #r("\"Peh-kuh", "“拨个") #r("pi", "比") #r("zeu-kuh", "受个") #r("kung-ka", "更加") #r(
+)  #r("\"Peh-kuh", "“拨个") #r("pi", "比") #r("zeu-kuh", "受个") #r("kung-ka", "更加") #r(
   "yeu",
   "有",
 ) #r("fok-chi\".", "福气”。")#footnote[It is more blessed to give than to receive. (10)]

@@ -2,7 +2,7 @@
 
 #exercise(16, "论失窃", "LUNG SEH-TSHIH")#footnote[Theft.]
 
-#r("Yeu", "有") #r("ih-ka-nyung-ka,", "一家人家，") #r("m", "无人") #r("nyung", "拉") #r("la", "屋里，") #r("peh-la", "拨拉") #r("zuh", "贼") #r("ya-li-hyang", "夜里向") #r("le", "来") #r("theu-ts", "偷之") #r("too-hau", "多化") #r("meh-z", "物事") #r("chi,", "去，") 
+#r("Yeu", "有") #r("ih-ka-nyung-ka,", "一家人家，") #r("m", "无") #r("nyung", "人") #r("nyung", "拉") #r("ok", "屋") #r("li", "里") #r("peh-la", "拨拉") #r("zuh", "贼") #r("ya-li-hyang", "夜里向") #r("le", "来") #r("theu-ts", "偷之") #r("too-hau", "多化") #r("meh-z", "物事") #r("chi,", "去，") 
 #r("zieu-z", "就是") #r("nyung-tsho", "银义") #r("lau", "咾") #r("nyung-tshau,", "银抄，") #r("tah-ts", "搭之") #r("tau", "刀") #r("ka-sang", "傢生") #r("lau,", "咾") #r("de-poo,", "檯布") #r("dzo-poo,", "茶布") #r("lau-sa.", "咾啥。")
 
 #r("Iung-we", "因为") #r("di-ka-kuh", "第家个") #r("tsu-nyung", "主人") #r("z", "是") #r("tau", "到") #r("Mo-koen-san", "莫干山") #r("chi-tse.", "去哉。") 

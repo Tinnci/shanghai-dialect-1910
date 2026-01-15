@@ -8,10 +8,10 @@
 ) #r("s-tuh", "使得") #r("tsoong", "种") #r("ang-sok-kuh", "罂粟个") #r("nyung", "人") #r("dzeu-zen", "骤然") #r(
   "seh-theh-ts",
   "失脱之",
-) #r("doo", "大") #r("(2)", " ") #r("li-sih,", "利息，")#footnote[Profit. (2)] #r("soo-i", "所以") #r(
+) #r("doo", "大")  #r("li-sih,", "利息，")#footnote[Profit. (2)] #r("soo-i", "所以") #r(
   "di-ba",
   "第排",
-) #r("nyung", "人") #r("chi-le", "起来") #r("(3)", " ") #r("fan-te", "反对")#footnote[Oppose. (3)] #r("lau", "咾") #r(
+) #r("nyung", "人") #r("chi-le", "起来")  #r("fan-te", "反对")#footnote[Oppose. (3)] #r("lau", "咾") #r(
   "tsoo-taung",
   "阻挡",
 ) #r("kyung-yeu", "竟有") #r("dzui-tsoong", "聚众") #r("nau-z-kuh.", "闹事个。") #r("Di-kuh", "第个") #r("z", "是") #r(
@@ -26,13 +26,13 @@
 ) #r("hau", "好") #r("faung-fah.", "方法。") #r("Tsoc", "最") #r("hau", "好") #r("meh,", "末") #r(
   "ke-tsoong",
   "改种",
-) #r("(4)", " ") #r("dien-tshing,", "靛青，")#footnote[Indigo. (4)] #r("iung-we", "因为") #r("tsoong", "种") #r(
+)  #r("dien-tshing,", "靛青，")#footnote[Indigo. (4)] #r("iung-we", "因为") #r("tsoong", "种") #r(
   "dien-tshing-kuh",
   "靛青个",
-) #r("li-sih", "利息") #r("(5)", " ") #r("li-taung-tuh-koo", "抵当得过")#footnote[Surpasses. (5)] #r("tsoong", "种") #r(
+) #r("li-sih", "利息")  #r("li-taung-tuh-koo", "抵当得过")#footnote[Surpasses. (5)] #r("tsoong", "种") #r(
   "ang-sok-kuh",
   "罂粟个",
-) #r("li-sih.", "利息。") #r("'Ok-tse", "或者") #r("tsoong", "种") #r("(6)", " ") #r(
+) #r("li-sih.", "利息。") #r("'Ok-tse", "或者") #r("tsoong", "种")  #r(
   "saung-zu",
   "桑树",
 )#footnote[The mulberry tree. (6)] #r("lau", "咾") #r("yang", "养") #r("zen", "蚕") #r("'a", "也") #r(
@@ -41,10 +41,10 @@
 ) #r("tuh-dzak", "得着") #r("hau-kuh", "好个") #r("li-sih.", "利息。") #r("Wan", "还") #r("yeu", "有") #r(
   "ih-tsoong",
   "一种",
-) #r("(7)", " ") #r("ya-zen", "野蚕")#footnote[Wild silk worms. (7)] #r("zok-ming", "俗名叫") #r(
+)  #r("ya-zen", "野蚕")#footnote[Wild silk worms. (7)] #r("zok-ming", "俗名叫") #r(
   "san-zen;",
   "山蚕；",
-) #r("faung", "放") #r("la", "拉") #r("san", "山") #r("li", "里") #r("(8)", " ") #r(
+) #r("faung", "放") #r("la", "拉") #r("san", "山") #r("li", "里")  #r(
   "tso-zu",
   "柘树",
 )#footnote[Scrub oak. (8)] #r("laung,", "上，") #r("'veh-lung", "勿论") #r("nyui-nyung", "女人") #r("lau", "咾") #r(
@@ -80,7 +80,7 @@
 ) #r("jang-ngang", "强硬")#footnote[Force. (1) on new page?] #r("seu-doen,", "手段，") #r("bah-theh", "拔脱") #r(
   "ang-sok-kuh",
   "罂粟个",
-) #r("miau", "苗") #r("lau", "咾") #r("(2)", " ") #r(
+) #r("miau", "苗") #r("lau", "咾")  #r(
   "kyuh-dzung",
   "激成",
 )#footnote[Arouse the people to disorder. (2)] #r("ming-pien", "民变") #r("yan.", "也。")

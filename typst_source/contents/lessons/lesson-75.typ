@@ -2,7 +2,7 @@
 
 #exercise(75, "论急救受伤个法则", "LUNG KYIH KYEU ZEU-SAUNG-KUH FAH-TSUH")
 
-#r("LUNG", "论") #r("(1)", " ") #r("KYIH", "急") #r("KYEU", "救") #r("ZEU-SAUNG-KUH", "受伤个") #r(
+#r("LUNG", "论")  #r("KYIH", "急") #r("KYEU", "救") #r("ZEU-SAUNG-KUH", "受伤个") #r(
   "FAH-TSUH.",
   "法则。",
 )#footnote[First relief.] #r("La", "拉") #r("long-tsoong-kuh", "拢总个") #r("dzing-boo", "巡捕") #r(
@@ -43,13 +43,13 @@
 ) #r("ziang", "像") #r("'ang", "行") #r("beh-siang", "勃相") #r("zen,", "船、") #r("yeu-s,", "游水、") #r(
   "tang-lih,",
   "打猎、",
-) #r("(2)", " ") #r("lieu-ping", "溜冰")#footnote[To skate.] #r("lau-sa,", "咾啥。") #r("'veh", "勿") #r(
+)  #r("lieu-ping", "溜冰")#footnote[To skate.] #r("lau-sa,", "咾啥。") #r("'veh", "勿") #r(
   "lung",
   "论",
 ) #r("sa", "啥") #r("kuh", "个") #r("pi-se", "比赛") #r("lau", "咾") #r("zeu-saung", "受伤") #r("meh,", "末，") #r(
   "dzing-boo",
   "巡捕",
-) #r("tsoong-z", "终是") #r("pi", "比") #r("bih-kuh", "别个") #r("nyung", "人") #r("sien", "先") #r("(3)", " ") #r(
+) #r("tsoong-z", "终是") #r("pi", "比") #r("bih-kuh", "别个") #r("nyung", "人") #r("sien", "先")  #r(
   "tau",
   "到",
 ) #r("dzang-kuh;", "场个；")#footnote[To arrive at the place.] #r("soo-i", "所以") #r("dzing-boo", "巡捕") #r(
@@ -61,7 +61,7 @@
 ) #r("Zak-zen", "若然") #r("hyau-tuh-ts", "晓得之") #r("ih-ngan", "一颜") #r("kyih-kyeu", "急救") #r(
   "zeu-saung-kuh",
   "受伤个",
-) #r("'auh-vung", "学问") #r("meh,", "末，") #r("khau-i", "可以") #r("kyeu", "救") #r("bih-nyung", "别个人") #r(
+) #r("'auh-vung", "学问") #r("meh,", "末，") #r("khau-i", "可以") #r("kyeu", "救") #r("bih", "别") #r("kuh", "个") #r("nyung", "人") #r(
   "kuh",
   "个",
 ) #r("sing-ming.", "性命。")
@@ -78,7 +78,7 @@
 ) #r("yoong", "用") #r("di-kuh", "第个") #r("fah-ts", "法子") #r("lau", "咾") #r("s-tuh", "使得") #r(
   "zeu-saung-kuh",
   "受伤个",
-) #r("nyung", "人") #r("kwha-tien", "快点") #r("(1)", " ") #r("vok-nyoen.", "服原。")#footnote[Recover.]
+) #r("nyung", "人") #r("kwha-tien", "快点")  #r("vok-nyoen.", "服原。")#footnote[Recover.]
 
 #r("Dzing-boo", "巡捕") #r("me", "每") #r("nyih", "日") #r("tsoong", "终") #r("yeu", "有") #r("kyi-yang", "几样") #r(
   "zeu-saung",
@@ -101,7 +101,7 @@
 ) #r("yeu", "有") #r("too-hau", "多化") #r("Tsoong-kok", "中国") #r("nyung", "人") #r("we-ts", "为之") #r(
   "siau",
   "小",
-) #r("z-thi", "事体") #r("iau", "要") #r("siang", "想") #r("(2)", " ") #r(
+) #r("z-thi", "事体") #r("iau", "要") #r("siang", "想")  #r(
   "zing-si,",
   "寻死，",
 )#footnote[Seek death.] #r("chuh", "吃") #r("sang", "生") #r("a-phien-ien,", "鸦片烟") #r("'ok-tse", "或者") #r(

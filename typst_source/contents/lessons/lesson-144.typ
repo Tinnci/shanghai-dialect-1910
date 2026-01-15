@@ -29,7 +29,7 @@
 ) #r("r-tshia", "而且") #r("'a", "也") #r("z", "是") #r("we-hyien-kuh.", "危险个。") #r("Iung-we", "因为") #r(
   "la",
   "拉",
-) #r("san-kok", "山谷") #r("li", "里") #r("yeu", "有") #r("jang-dau", "强盗") #r("(2)", " ") #r(
+) #r("san-kok", "山谷") #r("li", "里") #r("yeu", "有") #r("jang-dau", "强盗")  #r(
   "ben-la-hau.",
   "背拉化。",
 )#footnote[Concealed. (2)]
@@ -49,7 +49,7 @@
 ) #r("taung-taung-sing-sing", "当当心心") #r("lau", "咾") #r("tseu,", "走，") #r("hweh-zen", "忽然") #r(
   "dzoong",
   "从",
-) #r("zak-pih", "石壁") #r("'eu-mien", "后面") #r("yeu", "有") #r("jang-dau", "强盗") #r("tshoong-tsheh", "衝出来") #r(
+) #r("zak-pih", "石壁") #r("'eu-mien", "后面") #r("yeu", "有") #r("jang-dau", "强盗") #r("tshoong", "衝") #r("tsheh", "出") #r("le", "来") #r(
   "le",
   " ",
 ) #r("kyau", "叫") #r("yi", "伊") #r("lih-ding-ts,", "立定之，") #r("iau", "要") #r("tshiang", "抢") #r(
@@ -58,7 +58,7 @@
 ) #r("doong-dien.", "铜钱。") #r("Iung-we", "因为") #r("yi", "伊") #r("m-meh", "无没") #r("doong-dien,", "铜钱，") #r(
   "keh-lauh",
   "盖咾",
-) #r("(1)", " ") #r("pok-theh-ts", "剥脱之")#footnote[Stripped. (1) on page 243] #r("yi-kuh", "伊个") #r(
+)  #r("pok-theh-ts", "剥脱之")#footnote[Stripped. (1) on page 243] #r("yi-kuh", "伊个") #r(
   "i-zaung,",
   "衣裳，",
 ) #r("tang-saung", "打伤") #r("yi-kuh", "伊个") #r("sung-thi,", "身体，") #r("dzuh-tau", "直到") #r(
@@ -162,7 +162,7 @@
 ) #r("di-kuh", "第个") #r("di-faung.", "地方。") #r("Yi", "伊") #r("khoen-kyien-ts", "看见之") #r("di-kuh", "第个") #r(
   "zeu-saung-kuh-nyung,",
   "受伤个人，",
-) #r("zieu", "就") #r("ding-ts.", "停之。") #r("Yi-kuh", "伊个") #r("(2)", " ") #r(
+) #r("zieu", "就") #r("ding-ts.", "停之。") #r("Yi-kuh", "伊个")  #r(
   "sang-kheu",
   "牲口",
 )#footnote[Beast. (2)] #r("lau", "咾") #r("'au-le,", "下来，") #r("jui", "跪") #r("la", "拉") #r(
@@ -171,10 +171,10 @@
 ) #r("nyung", "人") #r("baung-pien", "旁边") #r("e-lien", "哀怜") #r("yi.", "伊。") #r("Yi", "伊") #r(
   "si-si-nung",
   "细细能",
-) #r("khoen", "看看") #r("yi", " ") #r("zeu-saung-kuh", "受伤个") #r("dzang-hau.", "场化。") #r("Nan-meh", "难末") #r(
+) #r("khoen", "看") #r("khoen", "看") #r("yi", " ") #r("zeu-saung-kuh", "受伤个") #r("dzang-hau.", "场化。") #r("Nan-meh", "难末") #r(
   "te",
   "对",
-) #r("yi", "伊") #r("(3)", " ") #r("koo-hau-ts.", "裹好之。")#footnote[Bound up. (3)] #r("Thaung-zen", "倘然") #r(
+) #r("yi", "伊")  #r("koo-hau-ts.", "裹好之。")#footnote[Bound up. (3)] #r("Thaung-zen", "倘然") #r(
   "'veh-z",
   "勿是",
 ) #r("zeh-ke", "实盖") #r("te", "对") #r("yi", "伊") #r("tsoo", "做") #r("meh,", "末，") #r("khoong-pho", "恐怕") #r(
@@ -212,7 +212,7 @@
 ) #r("le,", "来，") #r("peh-la", "拨拉") #r("khe", "开") #r("khak-dzan-kuh", "客栈个") #r("lau", "咾") #r(
   "wo,",
   "话：",
-) #r("\"Noong", "“侬") #r("iau", "要") #r("hau-hau-nung", "好好能") #r("(1)", " ") #r(
+) #r("\"Noong", "“侬") #r("iau", "要") #r("hau-hau-nung", "好好能")  #r(
   "khoen-de",
   "看待",
 )#footnote[Treat. (1) on page 245] #r("di-kuh", "第个") #r("nyung", "人") #r("dzuh-tau", "直到") #r(
@@ -221,13 +221,13 @@
 ) #r("Fi-yoong", "费用") #r("'veh-keu", "勿彀") #r("meh", "末") #r("tung", "等") #r("ngoo", "我") #r("tsen", "转") #r(
   "le",
   "来",
-) #r("kuh", "个") #r("z-'eu", "时候") #r("(2)", " ") #r("dzaung-wan", "偿还")#footnote[Repay. (2)] #r(
+) #r("kuh", "个") #r("z-'eu", "时候")  #r("dzaung-wan", "偿还")#footnote[Repay. (2)] #r(
   "noong.\"",
   "侬。”",
 ) #r("Di-kuh", "第个") #r("z", "是") #r("ziang", "像") #r("Tsoong-kok", "中国") #r("yeu", "有") #r(
   "ih-kyui",
   "一句",
-) #r("zok-nyui", "俗语") #r("wo,", "话：") #r("(3)", " ") #r("\"S", "“四") #r("he-ts", "海") #r("ne,", "之内") #r(
+) #r("zok-nyui", "俗语") #r("wo,", "话：")  #r("\"S", "“四") #r("he-ts", "海") #r("ne,", "之内") #r(
   "kya-hyoong-di",
   "皆兄弟",
 ) #r("yan.\"", "也。”")#footnote[All within the four seas are brothers. (3)] #r("Na", "哪") #r("siang", "想") #r(

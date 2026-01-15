@@ -20,19 +20,19 @@
 ) #r("si-kuh", "死个") #r("ih", "一") #r("ya,", "夜，") #r("iau", "要") #r("tshing", "请") #r("'oo-zaung", "和尚") #r(
   "lau",
   "咾",
-) #r("nyi-koo", "尼姑") #r("le", "来") #r("(1)", " ") #r("tshau-doo", "超度")#footnote[Rescue from hades.] #r(
+) #r("nyi-koo", "尼姑") #r("le", "来")  #r("tshau-doo", "超度")#footnote[Rescue from hades.] #r(
   "yi",
   "伊",
 ) #r("zaung", "上") #r("thien.", "天。") #r("Keh-lauh", "盖咾") #r("da-van", "大凡") #r("nyung-ka", "人家") #r(
   "si-ts",
   "死之",
-) #r("nyung", "人") #r("meh,", "末") #r("ih-ya", "一") #r("tau", "夜到") #r("thien-liang", "天亮") #r(
+) #r("nyung", "人") #r("meh,", "末") #r("ih-ya", "一") #r("ya", "夜") #r("tau", "到") #r("thien-liang", "天亮") #r(
   "nau-mang-le-si-kuh.",
   "闹猛咾死个。",
 ) #r("'Veh-dan", "勿论") #r("zeh-ke", "实盖") #r("r-tshia", "而且") #r("wan-iau", "还要") #r("sau", "烧") #r(
   "too-hau",
   "多化",
-) #r("(2)", " ") #r("ts-ding,", "纸锭")#footnote[Paper sycee.] #r("i-ts", "以致") #r("nyang", "让") #r(
+)  #r("ts-ding,", "纸锭")#footnote[Paper sycee.] #r("i-ts", "以致") #r("nyang", "让") #r(
   "si-nyung",
   "死人",
 ) #r("la", "拉") #r("iung-kan", "阴间") #r("li", "里") #r("hau-yoong,", "好用，") #r("iung-we", "因为") #r(
@@ -41,7 +41,7 @@
 ) #r("iung-kan", "阴间") #r("li", "里") #r("m-meh", "无没") #r("doong-dien", "铜钱") #r("meh,", "末") #r(
   "iau",
   "要",
-) #r("peh", "拨") #r("too-hau", "多化") #r("siau", "小") #r("kyui", "鬼") #r("(3)", " ") #r(
+) #r("peh", "拨") #r("too-hau", "多化") #r("siau", "小") #r("kyui", "鬼")  #r(
   "chi-me-kuh.",
   "欺侮个。",
 )#footnote[Deceive. (Wait, note 3 in the user prompt is "Deceive", but the context is "欺侮" bullied/abused. I'll stick to the user's provided note text.)]
@@ -49,7 +49,7 @@
 #r("Tsoong-kok", "中国") #r("ih-hyang", "一向") #r("yeu", "有") #r("ih-kyui", "一句") #r("zok-nyui", "俗语") #r(
   "wo",
   "话，",
-) #r("(1)", " ") #r(
+)  #r(
   "\"Nyien-waung",
   "“阎王",
 )#footnote[It is easy to see the king of hades, but difficult to stand before the small devils.] #r("hau", "好") #r(
@@ -61,7 +61,7 @@
 ) #r("zieu-z", "就是") #r("di-kuh", "第个") #r("yoong-dzang.", "用场。") #r("Wan-yeu", "还有") #r(
   "si-nyung",
   "死人",
-) #r("i-kyung", "已经") #r("(2)", " ") #r("zeh-mok", "入木")#footnote[Put in the coffin lit, enter the wood.] #r(
+) #r("i-kyung", "已经")  #r("zeh-mok", "入木")#footnote[Put in the coffin lit, enter the wood.] #r(
   "lau",
   "咾",
 ) #r("kaung", "扛") #r("tsheh-chi", "出去") #r("kwha", "快") #r("meh,", "末") #r("kyau", "叫") #r("ih-kuh", "一个") #r(
@@ -79,7 +79,7 @@
 ) #r("bang-dzak-ts", "碰着之") #r("jau", "桥") #r("lau", "咾") #r("tsen-wan", "转湾") #r("lau-sa", "咾啥") #r(
   "meh,",
   "末",
-) #r("dzen", "全") #r("iau", "要") #r("(3)", " ") #r("faung", "放") #r(
+) #r("dzen", "全") #r("iau", "要")  #r("faung", "放") #r(
   "tshoong",
   "铳",
 )#footnote[To shoot a kind of cannon.] #r("lau", "咾") #r("de", "抬") #r("kwen-dze-kuh", "棺材个") #r("nyung", "人") #r(
@@ -106,13 +106,13 @@
 ) #r("si-nyung-kuh", "死人个") #r("ling-wung", "灵魂") #r("tseu-koo.", "走过。") #r("Van-i", "凡系") #r(
   "kwen-dze",
   "棺材",
-) #r("iau", "要") #r("(4)", " ") #r("lauh-tsaung,", "落葬")#footnote[To bury.] #r("ke-meh,", "盖末") #r(
+) #r("iau", "要")  #r("lauh-tsaung,", "落葬")#footnote[To bury.] #r("ke-meh,", "盖末") #r(
   "sien",
   "先",
 ) #r("iau", "要") #r("tshing", "请") #r("nyung", "人") #r("khoen", "看") #r("foong-s", "风水") #r("hau-nyi", "好呢") #r(
   "'veh-hau.",
   "勿好。",
-) #r("Zak-zen", "若然") #r("'veh-khoen", "勿看") #r("meh,", "末") #r("tsiang-le", "将来") #r("(5)", " ") #r(
+) #r("Zak-zen", "若然") #r("'veh-khoen", "勿看") #r("meh,", "末") #r("tsiang-le", "将来")  #r(
   "ts-sung",
   "子孙",
 )#footnote[Descendents.] #r("pih-iau", "必要") #r("'veh-li-kuh.", "勿利个。") #r("Zak-zen", "若然") #r(
@@ -121,7 +121,7 @@
 ) #r("si-ts,", "死之，") #r("yi-kuh", "伊个") #r("nyang-ts", "娘子") #r("lau", "咾") #r("nyi-ts", "儿子") #r(
   "iau",
   "要",
-) #r("thi", "对") #r("yi", "伊") #r("(6)", " ") #r("tsak", "着") #r(
+) #r("thi", "对") #r("yi", "伊")  #r("tsak", "着") #r(
   "mo",
   "蔴",
 )#footnote[Wear sack cloth, and wear mourning.] #r("lau", "咾") #r("ta", "戴") #r("hau,", "孝，") #r("'veh", "不") #r(
@@ -157,7 +157,7 @@
 ) #r("sau", "烧") #r("kwaung,", "光，") #r("nyang", "让") #r("si-la-kuh", "死拉个") #r("nyung", "人") #r("la", "拉") #r(
   "iung-kan",
   "阴间",
-) #r("li", "里") #r("dzu.", "住。") #r("(1)", " ") #r("Doen", "断") #r(
+) #r("li", "里") #r("dzu.", "住。")  #r("Doen", "断") #r(
   "tshih",
   "七",
 )#footnote[After forty nine days.] #r("i-'eu", "以后") #r("'veh", "勿") #r("lung", "论") #r("bang-dzak", "碰着") #r(

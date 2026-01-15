@@ -14,7 +14,7 @@
 #r("dan-z", "但是") #r("dzoong", "重") #r("lau", "咾") #r("'an-'veh-doong.", "唵勿动。") 
 #r("Nan-meh", "难末") #r("keu", "狗") #r("bau-tau", "跑到") #r("tsu-nyung-kuh", "主人个") #r("mien-zien", "面前") #r("lau", "咾") #r("kyau,", "叫，") #r("iau", "要") #r("s-tuh", "使得") #r("tsu-nyung", "主人") #r("siang-dzak", "想着") #r("yi-kuh", "伊个") #r("bi-kah-ts.", "皮夹子。")
 
-#r("Dan-z", "但是") #r("yi", "伊") #r("ih-z-laung", "一时上") #r("siang'veh-tau,", "想勿到，") 
+#r("Dan-z", "但是") #r("yi", "伊") #r("ih-z-laung", "一时上") #r("siang", "想") #r("'veh", "勿") #r("tau", "到") 
 #r("soo-i", "所以") #r("dzung-jeu", "仍旧") #r("bau-le", "跑来") #r("kwha", "快") #r("lau", "咾") #r("'veh-li", "勿理")#footnote[Not notice.] #r("yi-kuh", "伊个") #r("keu.", "狗。") 
 #r("Keu", "狗") #r("khoen-kyien", "看见") #r("tsu-nyung", "主人") #r("'veh", "勿") #r("ming-bak", "明白") #r("yi-kuh", "伊个") #r("i-s,", "意思，") 
 #r("sing-li", "心里") #r("kung-ka", "更加") #r("van-nau,", "烦恼，")#footnote[Troubled.] #r("zieu", "就") #r("ngau", "咬") #r("mo-kuh", "马个") #r("kyak", "脚") #r("lau", "咾") #r("hau-ziang", "好像") #r("iau", "要") #r("s", "使") #r("mo", "马") #r("ding.", "停。") 

@@ -2,16 +2,16 @@
 
 #exercise(123, "论一隻告天窠", "LUNG IH-TSAK KAU THIEN TIAU")
 
-#r("Dzoong-zien", "从前") #r("yeu", "有") #r("ih-tsak", "一隻") #r("(6)", " ") #r(
+#r("Dzoong-zien", "从前") #r("yeu", "有") #r("ih-tsak", "一隻")  #r(
   "kau-thien-tiau",
   "告天窠",
-)#footnote[Lark.] #r("tsoo", "做") #r("khoo", "窠") #r("la", "拉") #r("(7)", " ") #r("mak", "麦") #r("dien", "田") #r(
+)#footnote[Lark.] #r("tsoo", "做") #r("khoo", "窠") #r("la", "拉")  #r("mak", "麦") #r("dien", "田") #r(
   "li.",
   "里。",
-)#footnote[Wheat field.] #r("Siang-jung", "相近") #r("(1)", " ") #r("tsauh", "硎") #r("mak-kuh", "麦个") #r(
+)#footnote[Wheat field.] #r("Siang-jung", "相近")  #r("tsauh", "硎") #r("mak-kuh", "麦个") #r(
   "zung-kwaung,",
   "辰光，",
-)#footnote[Reaping time.] #r("yi", "伊") #r("doo-doo-li", "大大里") #r("(2)", " ") #r("tan", "担") #r(
+)#footnote[Reaping time.] #r("yi", "伊") #r("doo-doo-li", "大大里")  #r("tan", "担") #r(
   "sing-z.",
   "心事。",
 )#footnote[Anxious.] #r("Boo-tsheh-la-kuh", "哺出来个") #r("siau", "小") #r("tiau", "窠") #r("'veh", "勿") #r(
@@ -23,7 +23,7 @@
 ) #r("tsauh", "硎") #r("mak.", "麦。") #r("Moo-tiau", "母窠") #r("tsau-zung-deu", "早晨头") #r(
   "fi-tsheh-chi-kuh",
   "飞出去个",
-) #r("zung-kwaung,", "辰光，") #r("(3)", " ") #r("ting-tsok", "叮嘱")#footnote[Commanded.] #r(
+) #r("zung-kwaung,", "辰光，")  #r("ting-tsok", "叮嘱")#footnote[Commanded.] #r(
   "siau-tiau,",
   "小窠，",
 ) #r("iau", "要") #r("lieu-sing", "留心") #r("soo", "所") #r("thing-kyien-kuh", "听见个") #r("seh-wo.", "说话。") #r(
@@ -79,7 +79,7 @@
 ) #r("nyi", "伲") #r("kuh", "个") #r("ling-so", "邻舍") #r("'veh", "勿") #r("le", "来") #r("siang-paung,", "相帮，") #r(
   "nyi",
   "伲",
-) #r("iau", "要") #r("kyau", "叫") #r("nyi-kuh", "伲个") #r("(4)", " ") #r(
+) #r("iau", "要") #r("kyau", "叫") #r("nyi-kuh", "伲个")  #r(
   "tshing-zok-le",
   "亲族来",
 )#footnote[Relatives.] #r("siang-paung.\"", "相帮。”") #r("Zieu", "就") #r("te", "对") #r("nyi-ts", "儿子") #r(
@@ -88,7 +88,7 @@
 ) #r("\"Noong", "“伲") #r("chi", "去") #r("tshing", "请") #r("noong-kuh", "伲个") #r("ya-sok", "爷叔") #r(
   "lau",
   "咾",
-) #r("(1)", " ") #r("piau-di-hyoong", "表弟兄")#footnote[Cousin.] #r("ming-tsau", "明朝") #r("tshing-tsau", "清早") #r(
+)  #r("piau-di-hyoong", "表弟兄")#footnote[Cousin.] #r("ming-tsau", "明朝") #r("tshing-tsau", "清早") #r(
   "le",
   "来",
 ) #r("siang-paung", "相帮") #r("nyi", "伲") #r("tsauh", "硎") #r("mak.\"", "麦。”") #r("Nan-meh", "难末") #r(
@@ -112,7 +112,7 @@
 ) #r("meh", "末") #r("siau-tiau", "小窠") #r("kau-soo", "告诉") #r("yi", "伊") #r("lau", "咾") #r("jeu", "教") #r(
   "yi",
   "伊",
-) #r("lih-khuh", "立刻") #r("pen-dzang,", "搬场") #r("'veh", "勿") #r("iau", "要") #r("tung", "等到") #r("tau", " ") #r(
+) #r("lih-khuh", "立刻") #r("pen-dzang,", "搬场") #r("'veh", "勿") #r("iau", "要") #r("tung", "等") #r("tau", "到") #r("tau", " ") #r(
   "ming-tsau.",
   "明朝。",
 ) #r("Khoong-pho", "恐怕") #r("tuh", "忒") #r("an.", "晚。") #r("Moo-tiau", "母窠") #r("wo,", "话，") #r(
@@ -163,7 +163,7 @@
 ) #r("han", "喊") #r("koo-koong", "雇工") #r("nyung,", "人。") #r("Nau", "拿") #r("tsheh", "出") #r(
   "tsauh-mak-kuh",
   "硎麦个",
-) #r("(3)", " ") #r("kyien", "镰")#footnote[Sickles.] #r("le", "来") #r("moo", "磨") #r("kwha-ts.", "快之。") #r(
+)  #r("kyien", "镰")#footnote[Sickles.] #r("le", "来") #r("moo", "磨") #r("kwha-ts.", "快之。") #r(
   "Nyi",
   "伲",
 ) #r("'veh", "勿") #r("nung", "能") #r("tse", "再") #r("tung", "等") #r("bih-nyung", "别人") #r("le", "来") #r(
@@ -178,7 +178,7 @@
 ) #r("soo", "所") #r("thing-kyien-kuh", "听见个") #r("seh-wo.", "说话。") #r("Moo-tiau", "母窠") #r("wo,", "话，") #r(
   "\"Nyi",
   "“伲",
-) #r("zieu", "就要") #r("iau", "要") #r("pen-dzang:", "搬场：") #r("Tsoong-dien", "硎田") #r("nyung", "人") #r(
+) #r("zieu", "就") #r("iau", "要") #r("iau", "要") #r("pen-dzang:", "搬场：") #r("Tsoong-dien", "硎田") #r("nyung", "人") #r(
   "yien-dze",
   "现在",
 ) #r("sing", "性") #r("kyih,", "急，") #r("ming-tsau", "明朝") #r("yi", "伊") #r("pih-ding", "必定") #r("iau", "要") #r(

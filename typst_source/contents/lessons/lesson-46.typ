@@ -72,7 +72,7 @@
 #r("Thing-kyien", "听见") #r("kwha-kuh", "快个") #r("hyak-sung,", "脚声")#footnote[Sound of foot steps.] #r(
   "ziang",
   "像",
-) #r("la", "拉") #r("dau-tseu,", "逃之走，") #r("yi", "又") #r("lien-maung", "连忙") #r("tseu", "走") #r(
+) #r("la", "拉") #r("dau", "逃") #r("ts", "之") #r("tseu", "走") #r("yi", "又") #r("lien-maung", "连忙") #r("tseu", "走") #r(
   "tau",
   "到",
 ) #r("leu-laung", "楼上") #r("ih-khoen,", "一看，") #r("nyung", "人") #r("'a", "也") #r("'veh", "勿") #r(

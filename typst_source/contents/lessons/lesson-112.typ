@@ -2,7 +2,7 @@
 
 #exercise(112, "论外快咾酒钱", "LUNG NGA-KWHA LAU TSIEU-DIEN.")
 
-#r("Nga-kwha", "外快")#footnote[Perquisite.] #r("meh,", "末") #r("z", "是") #r("la", "拉") #r("(4)", " ") #r(
+#r("Nga-kwha", "外快")#footnote[Perquisite.] #r("meh,", "末") #r("z", "是") #r("la", "拉")  #r(
   "tsung",
   "正",
 ) #r("ming-vung", "名分") #r("i-nga", "以外")#footnote[Beyond what one gets rightfully.] #r("soo", "所") #r(
@@ -53,7 +53,7 @@
 ) #r("zen", " ") #r("tsheh-mung", "出门") #r("tau", "到") #r("kauh-tshu", "各处") #r("chi", "去") #r("meh,", "末，") #r(
   "i",
   "伊",
-) #r("ba", "伙计") #r("hoo-kyi,", " ") #r("zen", "全") #r("iau", "要") #r("thau", "讨") #r("kauh", "各式") #r(
+) #r("ba", "伙计") #r("hoo-kyi,", " ") #r("zen", "全") #r("iau", "要") #r("thau", "讨") #r("kauh", "各") #r("suh", "式") #r(
   "suh-kuh",
   "个",
 ) #r("tsieu-dien.", "酒钱。") #r("Zaung", "上") #r("tsho,", "车、") #r("'au", "下") #r("tsho,", "车、") #r(
@@ -101,7 +101,7 @@
 ) #r("Zeh-ke", "实盖") #r("khoen-chi-le,", "看起来") #r("hoo-kyi", "伙计") #r("z", "是") #r("koo-vung", "过分") #r(
   "thau",
   "讨",
-) #r("tsieu-dien,", "酒钱，") #r("s-tuh", "使得") #r("tsheh", "出门") #r("mung-kuh", "个") #r("nyung", "人") #r(
+) #r("tsieu-dien,", "酒钱，") #r("s-tuh", "使得") #r("tsheh", "出") #r("mung", "门") #r("mung-kuh", "个") #r("nyung", "人") #r(
   "doo",
   "大",
 ) #r("zeu", "受") #r("ji", "其") #r("le.", "累。")#footnote[Become embarrassed by it, i. e. the custom.] #r(

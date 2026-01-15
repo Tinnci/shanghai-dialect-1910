@@ -2,19 +2,19 @@
 
 #exercise(110, "论天足会", "LUNG THIEN-TSOK WE.")
 
-#r("Tsoong-kok", "中国") #r("nyui-nyung", "女人") #r("(3)", " ") #r(
+#r("Tsoong-kok", "中国") #r("nyui-nyung", "女人")  #r(
   "dzen-kyak,",
   "纒脚，",
-)#footnote[Binding the feet.] #r("z", "是") #r("koo-z-kan", "古时间") #r("Dzeu-waung-kuh", "纣皇个") #r("(4)", " ") #r(
+)#footnote[Binding the feet.] #r("z", "是") #r("koo-z-kan", "古时间") #r("Dzeu-waung-kuh", "纣皇个")  #r(
   "fi-ts",
   "妃子",
 )#footnote[Concubine.] #r("Tah-kyi", "妲己") #r("chi-deu", "起头") #r("'ang-kuh.", "行个。") #r(
   "Dzeu-waung",
   "纣皇",
-) #r("khoen", "看见") #r("Tah-kyi", "妲己") #r("dzen", "纒") #r("siau", "小") #r("kyak", "脚") #r("z", "是") #r(
+) #r("khoen", "看") #r("kyien", "见") #r("Tah-kyi", "妲己") #r("dzen", "纒") #r("siau", "小") #r("kyak", "脚") #r("z", "是") #r(
   "hau",
   "铺",
-) #r("khoen,", "看，") #r("soo-i", "所以") #r("tsheh", "出") #r("(5)", " ") #r(
+) #r("khoen,", "看，") #r("soo-i", "所以") #r("tsheh", "出")  #r(
   "zaung-yui,",
   "谕谕",
 )#footnote[Imperial decree.] #r("fung-foo", "分付") #r("loong-tsoong", "拢总") #r("siau-tsia", "小姐") #r(
@@ -23,7 +23,7 @@
 ) #r("iau", "要") #r("dzen", "纒") #r("kyak.", "脚。") #r("Keh-lau", "盖末") #r("Tsoong-kok", "中国") #r(
   "nyui-nyung",
   "女人",
-) #r("(6)", " ") #r("tau", "到") #r("zu-kyung,", "如今")#footnote[To the present time.] #r("dzung-jeu", "仍旧") #r(
+)  #r("tau", "到") #r("zu-kyung,", "如今")#footnote[To the present time.] #r("dzung-jeu", "仍旧") #r(
   "dzen",
   "纒",
 ) #r("kyak-kuh.", "脚个。") #r("Kaung", "讲") #r("tau", "到") #r("dzen", "纒") #r("kyak-kuh", "脚个") #r(
@@ -50,10 +50,10 @@
 ) #r("khung", "肯") #r("tseu", "走") #r("meh,", "末") #r("nyang", "娘") #r("iau", "要") #r("yoong", "用") #r(
   "baung",
   "棒",
-) #r("le", "来") #r("tang", "打") #r("lau,", "咾") #r("(7)", " ") #r("ngang-kyung", "硬劲")#footnote[Force.] #r(
+) #r("le", "来") #r("tang", "打") #r("lau,", "咾")  #r("ngang-kyung", "硬劲")#footnote[Force.] #r(
   "la",
   "拉",
-) #r("yi", "伊") #r("tseu.", "走等。") #r("Tung-tau", "到") #r("dzen", "纒") #r("hau-ts", "好之") #r("meh,", "末") #r(
+) #r("yi", "伊") #r("tseu", "走") #r("tung", "等") #r("Tung-tau", "到") #r("dzen", "纒") #r("hau-ts", "好之") #r("meh,", "末") #r(
   "kweh-deu",
   "骨头",
 ) #r("i-kyung", "已经") #r("doen", "断") #r("lau", "咾") #r("kyak", "脚") #r("fah", "发") #r("tsheu.", "臭。") #r(
@@ -65,7 +65,7 @@
 ) #r("hyau-tuh", "晓得") #r("nyui-nyung-kuh", "女人个") #r("ming-vung", "名分") #r("meh,", "末") #r("z", "是") #r(
   "tsiang-le",
   "将将来",
-) #r("paung-dzoo", "帮助") #r("yi-kuh", "伊个") #r("dzang-foo", "丈夫") #r("kwen", "管") #r("(1)", " ") #r(
+) #r("paung-dzoo", "帮助") #r("yi-kuh", "伊个") #r("dzang-foo", "丈夫") #r("kwen", "管")  #r(
   "ka-voo",
   "家务",
 )#footnote[Family.] #r("z-thi", "事体") #r("lau,", "咾") #r("kyau-hyuin", "教训") #r("yi-kuh", "伊个") #r(
@@ -77,7 +77,7 @@
 ) #r("tsoo", "做") #r("z-thi", "事体") #r("lau", "咾") #r("paung-dzoo", "帮助") #r("yi-kuh", "伊个") #r(
   "dzang-foo",
   "丈夫",
-) #r("nyi?", "呢？") #r("'Veh-dan", "勿但") #r("zeh-ke,", "实盖，") #r("(2)", " ") #r(
+) #r("nyi?", "呢？") #r("'Veh-dan", "勿但") #r("zeh-ke,", "实盖，")  #r(
   "tsih-s",
   "即使",
 )#footnote[If.] #r("yeu", "有") #r("sa", "啥") #r("we-hyien-kuh", "危险个") #r("z-thi", "事体") #r("meh,", "末") #r(
@@ -119,7 +119,7 @@
 ) #r("nyien-kuh", "年个") #r("lau", "老") #r("foong-zok.", "风俗。") #r("Ngoo", "我") #r("la", "拉") #r("pau", "报") #r(
   "laung",
   "上",
-) #r("khoen-kyien", "看见") #r("(3)", " ") #r("Dzang-tseu-foo", "常州府")#footnote[Changchow prefecture.] #r(
+) #r("khoen-kyien", "看见")  #r("Dzang-tseu-foo", "常州府")#footnote[Changchow prefecture.] #r(
   "yeu",
   "有",
 ) #r("kau-z", "告示") #r("kyau", "叫") #r("Dzang-tseu", "常州") #r("di-faung-kuh", "地方个") #r(
@@ -137,7 +137,7 @@
 ) #r("iau", "要") #r("zeu", "受") #r("vah,", "罚，") #r("zak-zen", "若然") #r("'veh", "勿") #r("dzen", "纒") #r(
   "meh,",
   "末",
-) #r("yeu", "有") #r("saung-s.", "赏赐。") #r("Zak-s", "若使") #r("siau-tsia", "小姐") #r("(4)", " ") #r(
+) #r("yeu", "有") #r("saung-s.", "赏赐。") #r("Zak-s", "若使") #r("siau-tsia", "小姐")  #r(
   "soe-soo",
   "岁数",
 )#footnote[Age.] #r("i-kyung", "已经") #r("doo", "大") #r("'ok-tse", "或者") #r("i-kyung", "已经") #r(

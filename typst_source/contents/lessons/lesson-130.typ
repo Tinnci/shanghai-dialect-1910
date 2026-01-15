@@ -77,7 +77,7 @@
 ) #r("kyi-kuh", "几个") #r("ya-hwo-yoen,", "夜花园，") #r("ih", "一") #r("ya", "夜") #r("tau", "到") #r(
   "thien-liang,",
   "天亮，",
-) #r("mo-tho", "马车") #r("waung", "往") #r("le,", "来，") #r("nyung-sung", "人声") #r("(10)", " ") #r(
+) #r("mo-tho", "马车") #r("waung", "往") #r("le,", "来，") #r("nyung-sung", "人声")  #r(
   "dzau-dzeh,",
   "嘈杂，",
 )#footnote[Mixed, confused. (10)] #r("'veh-dan", "勿但") #r("yeu", "游") #r("ya-hwo-yoen-kuh", "夜花园个") #r(

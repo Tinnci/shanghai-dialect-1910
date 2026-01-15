@@ -5,7 +5,7 @@
 #r("Ngoo", "我") #r("la", "拉") #r("maung", "梦") #r("li", "里") #r("tseu", "走") #r("tau", "到") #r("ih", "一") #r(
   "zoo",
   "座",
-) #r("san", "山") #r("laung,", "上，") #r("leh", "拉") #r("la", "拉") #r("ih-khoo", "一棵") #r("(9)", " ") #r(
+) #r("san", "山") #r("laung,", "上，") #r("leh", "拉") #r("la", "拉") #r("ih-khoo", "一棵")  #r(
   "Po-tsiau",
   "芭蕉",
 ) #r("zu", "树")#footnote[Plantain tree. (9) on page 258] #r("'au-deu.", "下头。") #r("'Eu-le", "后来") #r(
@@ -20,7 +20,7 @@
 ) #r("yeu", "有") #r("ih-kuh", "一个") #r("doo-vung-san,", "大坟山，") #r("mung-zien", "门前") #r("yeu", "有") #r(
   "zak-nyung,",
   "石人",
-) #r("zak-mo", "石马") #r("lau", "咾") #r("ih-kwhe", "一块") #r("(1)", " ") #r(
+) #r("zak-mo", "石马") #r("lau", "咾") #r("ih-kwhe", "一块")  #r(
   "zak-pi",
   "石碑",
 )#footnote[Tablet. (1) on page 259] #r("pe.", " ") #r("Tse", "再") #r("tseu", "走") #r("koo-chi", "过去") #r(
@@ -31,7 +31,7 @@
 #r("Hyih-ts", "歇之") #r("ih-hyih", "一歇") #r("ngoo", "我") #r("ban", "逴") #r("san,", "山") #r("koo", "过") #r(
   "ling",
   "岭",
-) #r("tseu", "走") #r("tau", "到") #r("ih-khwe", "一块") #r("(2)", " ") #r(
+) #r("tseu", "走") #r("tau", "到") #r("ih-khwe", "一块")  #r(
   "ieu-dzing-kuh",
   "幽静个",
 )#footnote[Quiet, still. (2)] #r("di-faung.", "地方。") #r("Dzu-theh-ts", "除脱之") #r("foong", "风") #r(
@@ -40,13 +40,13 @@
 ) #r("zu-yih-kuh", "树叶个") #r("sang-chi,", "声气") #r("san", "山") #r("s-kuh", "水个") #r("hyang-sung", "响声") #r(
   "lau",
   "咾",
-) #r("ngoo", "我") #r("z-ka", "自家") #r("(3)", " ") #r("hoo-hyih-kuh", "呼吸个") #r(
+) #r("ngoo", "我") #r("z-ka", "自家")  #r("hoo-hyih-kuh", "呼吸个") #r(
   "sung-yin",
   "声音",
 )#footnote[The sound of breathing. (3)] #r("meh,", "末") #r("m-sa", "无啥") #r("bih-yang-kuh", "别样个") #r(
   "hyang-sung",
   "声气",
-) #r("le", "来") #r("(4)", " ") #r("van-nau", "烦恼")#footnote[Disturb. (4)] #r("ngoo.", "我。") #r(
+) #r("le", "来")  #r("van-nau", "烦恼")#footnote[Disturb. (4)] #r("ngoo.", "我。") #r(
   "I-deu-kuh",
   "伊头个",
 ) #r("kyung-ts", "景緻") #r("z", "是") #r("yeu", "有") #r("khoen-deu-kuh;", "看头个；") #r("di-laung", "地上") #r(
@@ -55,28 +55,28 @@
 ) #r("yeu", "有") #r("ji", "奇") #r("hwo", "花") #r("i-tshau,", "异草") #r("'a", "也") #r("yeu", "有") #r(
   "kau-doo-kuh",
   "高大个",
-) #r("zu-mok,", "树木，") #r("(5)", " ") #r("ne", "内") #r("tsoong", "中")#footnote[Among. (5)] #r("yeu", "有") #r(
+) #r("zu-mok,", "树木，")  #r("ne", "内") #r("tsoong", "中")#footnote[Among. (5)] #r("yeu", "有") #r(
   "liang",
   "两",
 ) #r("yang", "样") #r("zu", "树") #r("ngoo", "我") #r("z", "是") #r("suh-kuh,", "识个，") #r("zieu", "就") #r(
   "z",
   "是",
-) #r("(6)", " ") #r("toong-tsing", "冬青")#footnote[A common Chinese "winter green." (6)] #r("lau", "咾") #r(
+)  #r("toong-tsing", "冬青")#footnote[A common Chinese "winter green." (6)] #r("lau", "咾") #r(
   "(7)",
   " ",
 ) #r("pak-zu.", "柏树。")#footnote[The fir tree. (7)] #r("Yeu", "有") #r("ih", "一") #r("koo", "棵") #r("zu", "树") #r(
   "z",
   "是",
-) #r("(8)", " ") #r("khoo-theh-la-tse,", "枯脱拉者，")#footnote[Withered. (8)] #r("dan-z", "但是") #r("yeu", "有") #r(
+)  #r("khoo-theh-la-tse,", "枯脱拉者，")#footnote[Withered. (8)] #r("dan-z", "但是") #r("yeu", "有") #r(
   "ih-khoo",
   "一棵",
-) #r("(9)", " ") #r("La-pa-hwo", "喇叭花")#footnote[The trumpet flower. (9)] #r("nyau-la", "绕拉") #r(
+)  #r("La-pa-hwo", "喇叭花")#footnote[The trumpet flower. (9)] #r("nyau-la", "绕拉") #r(
   "zu-kuh",
   "树个",
 ) #r("s-tseu-we,", "四周围，") #r("hwo", "花") #r("meh,", "末") #r("wan", "还") #r("'veh-zung", "勿曾") #r(
   "khe",
   "开",
-) #r("zi,", "齐，") #r("soo-i", "所以") #r("yeu", "有") #r("too-hau", "多化") #r("(10)", " ") #r(
+) #r("zi,", "齐，") #r("soo-i", "所以") #r("yeu", "有") #r("too-hau", "多化")  #r(
   "nyui-deu",
   "蕊头",
 )#footnote[Buds. (10)] #r("la.", "拉。") #r("Wan", "还") #r("khoen-kyien", "看见") #r("yeu", "有") #r(
@@ -85,7 +85,7 @@
 ) #r("s-faung-kuh", "四方个") #r("zak-deu,", "石头，") #r("mien", "面") #r("laung", "上") #r("dzen-z", "全悬") #r(
   "(11)",
   " ",
-) #r("tshing", "青") #r("nyi-de,", "泥苔")#footnote[Moss. (11)] #r("hau-ziang", "好像") #r("(12)", " ") #r(
+) #r("tshing", "青") #r("nyi-de,", "泥苔")#footnote[Moss. (11)] #r("hau-ziang", "好像")  #r(
   "lok",
   "绿",
 ) #r("nyi", "呢") #r("kuh", "个") #r("dien-ts.", "垫子。")#footnote[Green woolen cushion. (12)] #r("Tse", "再") #r(
@@ -103,7 +103,7 @@
 ) #r("sung-yung.", "声音。") #r("Ngoo", "我") #r("zieu", "就") #r("de-chi", "抬起") #r("deu-le", "头来") #r(
   "khoen-kyien.",
   "看。",
-) #r("Ih-tsak", "一只") #r("(1)", " ") #r("'oong-ts", "红嘴") #r("lok", "绿") #r(
+) #r("Ih-tsak", "一只")  #r("'oong-ts", "红嘴") #r("lok", "绿") #r(
   "'ang-koo",
   "鹦鹉",
 )#footnote[A red-billed green parrot. (1) on page 260] #r("loo", "躲") #r("la", "拉") #r("ih-kuh", "一个") #r(
@@ -120,7 +120,7 @@
 ) #r("Ngoo", "我") #r("hweh-zen", "忽然") #r("kauh-dzak", "觉着") #r("yeu", "有") #r("nyung", "人") #r("the", "推") #r(
   "ngoo,",
   "我。",
-) #r("ngoo", "我") #r("tsang-khe", "张开") #r("ngan-tsing", "眼睛") #r("ih-khoen,", "一看见") #r(
+) #r("ngoo", "我") #r("tsang-khe", "张开") #r("ngan-tsing", "眼睛") #r("ih", "一") #r("khoen", "看") #r("kyien", "见") #r(
   "dzung-jeu",
   "仍旧",
 ) #r("z", "是") #r("kwhung-la", "睏拉") #r("su-vaung-kan", "书房间") #r("li", "里") #r("kuh", "个") #r("thah", "榻") #r(

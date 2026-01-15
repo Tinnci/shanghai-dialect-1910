@@ -2,7 +2,7 @@
 
 #exercise(117, "论危险个事体", "LUNG WE-HYIEN-KUH Z-THI.")
 
-#r("Zauh-nyih", "昨日") #r("tsau-zung,", "早晨，") #r("ngoo", "我") #r("tau", "到") #r("(5)", " ") #r("sing", "新") #r(
+#r("Zauh-nyih", "昨日") #r("tsau-zung,", "早晨，") #r("ngoo", "我") #r("tau", "到")  #r("sing", "新") #r(
   "po-ts",
   "靶子",
 ) #r("loo", "路")#footnote[New rifle range road.] #r("chi,", "去，") #r("tsung", "正") #r("la", "拉") #r(
@@ -11,7 +11,7 @@
 ) #r("pok", "北") #r("tseu,", "走，") #r("hweh-zen", "忽然") #r("thing-kyien", "听见") #r("'eu-mien", "后面") #r(
   "mok",
   "木",
-) #r("jau", "桥") #r("laung", "上") #r("yeu", "有") #r("mo", "马") #r("kyak-boo-kuh", "脚步个") #r("(6)", " ") #r(
+) #r("jau", "桥") #r("laung", "上") #r("yeu", "有") #r("mo", "马") #r("kyak-boo-kuh", "脚步个")  #r(
   "sung-iung.",
   "声音。",
 )#footnote[Sound.] #r("Ngoo", "我") #r("zien-tsen", "旋") #r("deu", "转头") #r("chi", "去") #r("khoen", "看") #r(
@@ -31,7 +31,7 @@
 ) #r("siang", "想") #r("yi-la", "伊拉") #r("tsoong", "终") #r("tang", "打") #r("loo", "路") #r(
   "taung-tsoong",
   "当中",
-) #r("tseu-kuh.", "走个。") #r("Ngoo", "我") #r("yi", "叉") #r("(1)", " ") #r("we-tsen", "回转") #r(
+) #r("tseu-kuh.", "走个。") #r("Ngoo", "我") #r("yi", "叉")  #r("we-tsen", "回转") #r(
   "deu",
   "头",
 )#footnote[Turned about the head.] #r("chi", "去") #r("ih", "一") #r("khoen,", "看，") #r("liang", "两") #r(
@@ -52,16 +52,16 @@
 ) #r("iau", "要") #r("hyien-tsheh", "显出") #r("yi-kuh", "伊个") #r("pung-z,", "本事，") #r("zieu", "就") #r(
   "nau",
   "拿",
-) #r("(2)", " ") #r("kyang-zung", "缰绳")#footnote[The reins.] #r("dzau-nga", "朝外") #r("(3)", " ") #r("ih", "一") #r(
+)  #r("kyang-zung", "缰绳")#footnote[The reins.] #r("dzau-nga", "朝外")  #r("ih", "一") #r(
   "la",
   "拉",
 ) #r("mo", "马")#footnote[One pull.] #r("zieu", "就") #r("ih", "一") #r("thiau", "跳") #r("lau,", "咾") #r(
   "dzau",
   "朝",
-) #r("yeu-pan-ban", "右半片") #r("(4)", " ") #r("tshoe-ts", "窜之") #r(
+) #r("yeu-pan-ban", "右半片")  #r("tshoe-ts", "窜之") #r(
   "koo-chi-tse.",
   "过去哉。",
-)#footnote[Ran past.] #r("We-ts", "为之") #r("yi", "伊") #r("la", "拉") #r("mo", "马") #r("(5)", " ") #r(
+)#footnote[Ran past.] #r("We-ts", "为之") #r("yi", "伊") #r("la", "拉") #r("mo", "马")  #r(
   "kyung-dau",
   "缰绳个劲道",
 ) #r("thuh-tsok-ts", "忒足之") #r("lau,", "咾，")#footnote[Too great strength.] #r("soo-i", "所以") #r("yi", "伊") #r(
@@ -70,16 +70,16 @@
 ) #r("mo", "马") #r("laung", "上") #r("tih-ts", "跌之") #r("'au-le,", "下来，") #r("kwung", "滚") #r("tau", "到") #r(
   "pang",
   "浜",
-) #r("li", "里") #r("chi.", "去。") #r("(6)", " ") #r("me-deu", "满头") #r(
+) #r("li", "里") #r("chi.", "去。")  #r("me-deu", "满头") #r(
   "me-mien-kuh",
   "满面个",
-)#footnote[Covered head and face.] #r("(7)", " ") #r("lan-'oo-nyi,", "烂污泥，")#footnote[Mud.] #r(
+)#footnote[Covered head and face.]  #r("lan-'oo-nyi,", "烂污泥，")#footnote[Mud.] #r(
   "zeh-ke-meh,",
   "实盖末",
-) #r("man", "蛮") #r("(8)", " ") #r("thimien-kuh", "体面个") #r("nyung,", "人，")#footnote[Respectable.] #r(
+) #r("man", "蛮")  #r("thimien-kuh", "体面个") #r("nyung,", "人，")#footnote[Respectable.] #r(
   "loong-tuh-le",
   "弄得来",
-) #r("peh", "拨") #r("nyung", "人") #r("siau-sah.", "笑杀。") #r("Yi-kuh", "伊个") #r("mauts", "帽子") #r(
+) #r("peh", "拨") #r("nyung", "人") #r("siau-sah.", "笑杀。") #r("Yi-kuh", "伊个") #r("mau", "帽") #r("ts", "子") #r(
   "lau",
   "咾",
 ) #r("mo-pien-ts", "马鞭子") #r("meh,", "末") #r("lauh", "落") #r("la", "拉") #r("di-laung,", "地上，") #r(

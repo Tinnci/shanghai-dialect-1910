@@ -43,7 +43,7 @@
 ) #r("ih-kuh", "一个") #r("nyoeh,", "月，") #r("soo-i", "所以") #r("ih", "一") #r("thing-tuh", "听得") #r(
   "Zaung-he",
   "上海",
-) #r("peh", "外拨") #r("yi", "伊") #r("pah-kwhe", "八块") #r("yang-dien", "洋钱") #r("ih-kuh", "一个") #r(
+) #r("nga", "外") #r("peh", "拨") #r("yi", "伊") #r("pah-kwhe", "八块") #r("yang-dien", "洋钱") #r("ih-kuh", "一个") #r(
   "nyoeh,",
   "月，",
 ) #r("'a", "也") #r("peh", "拨") #r("yi", "伊") #r("vaung-ts", "房子") #r("dzu,", "住，") #r("'a", "也") #r(

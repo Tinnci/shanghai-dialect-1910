@@ -33,10 +33,10 @@
   "重",
 ) #r("sang-weh,", "生活。") #r("r-tshien", "而且") #r("dzang-tsaung", "常庄") #r("iau", "要") #r("tang.", "打。")
 
-#r("Chuh", "吃") #r("meh,", "末") #r("(1)", " ") #r("chuh", "吃") #r("tuh", "得") #r(
+#r("Chuh", "吃") #r("meh,", "末")  #r("chuh", "吃") #r("tuh", "得") #r(
   "cheu,",
   "忳，",
-)#footnote[Badly fed.] #r("tsak", "着") #r("meh,", "末") #r("(2)", " ") #r("tsah", "着") #r("tuh", "得") #r(
+)#footnote[Badly fed.] #r("tsak", "着") #r("meh,", "末")  #r("tsah", "着") #r("tuh", "得") #r(
   "phoo,",
   "破。",
 )#footnote[Clothed in rags.] #r("'veh", "勿") #r("koo-dzak", "顾着") #r("yi-kuh", "伊个") #r("lang", "冷") #r(
@@ -45,7 +45,7 @@
 ) #r("'ok-tse", "或者") #r("yeu", "有") #r("sa", "啥") #r("bing-thoong", "病痛") #r("meh,", "末，") #r("'veh", "勿") #r(
   "tshing",
   "请",
-) #r("laung-tsoong", "郎中") #r("le", "来") #r("(3)", " ") #r("i-dz.", "医治。")#footnote[Cure, heal.] #r(
+) #r("laung-tsoong", "郎中") #r("le", "来")  #r("i-dz.", "医治。")#footnote[Cure, heal.] #r(
   "Tsung-tsung",
   "真正",
 ) #r("z", "是") #r("khau-lien.", "可怜。")
@@ -53,10 +53,10 @@
 #r("Nyi", "伲") #r("siang", "想") #r("tsoo", "做") #r("s-voo-kuh,", "师父个") #r("tsoong", "终") #r(
   "iung-ke",
   "应该",
-) #r("e-lien", "哀怜") #r("'auh-sang-i-kuh", "学生意个") #r("khoo-nau,", "苦恼，") #r("(4)", " ") #r(
+) #r("e-lien", "哀怜") #r("'auh-sang-i-kuh", "学生意个") #r("khoo-nau,", "苦恼，")  #r(
   "tshih-'veh",
   "切勿",
 )#footnote[Certainly can not.] #r("khau-i", "可以") #r("the", "贪") #r("z-ka-kuh", "自家个") #r("hau-tshu", "好处") #r(
   "lau,",
   "咾",
-) #r("(5)", " ") #r("'veh", "勿") #r("koo", "顾") #r("bih", "别") #r("nyung.", "人。")#footnote[Not care for others.]
+)  #r("'veh", "勿") #r("koo", "顾") #r("bih", "别") #r("nyung.", "人。")#footnote[Not care for others.]

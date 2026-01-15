@@ -2,7 +2,7 @@
 
 #exercise(127, "论瑞士国个有胆量个入", "LUNG (3) DZOE-Z-KOK-KUH (4) YEU TAN-LIANG-KUH NYUNG.")
 
-#r("Dzoe-z-kok,", "瑞士国")#footnote[Switzerland. (3)] #r("z", "是") #r("la", "拉") #r("(5)", " ") #r(
+#r("Dzoe-z-kok,", "瑞士国")#footnote[Switzerland. (3)] #r("z", "是") #r("la", "拉")  #r(
   "Eu-loo-po",
   "欧罗巴",
 )#footnote[Europe.] #r("taung-tsoong,", "当中，") #r("kyung-ts", "景致") #r("tsoe", "最") #r("hau", "好") #r(
@@ -14,13 +14,13 @@
 ) #r("san-ngen;", "山巗；") #r("yeu", "有") #r("ting", "顶") #r("kau", "高") #r("kuh-san.", "个山。") #r(
   "Kauh-kok",
   "各国",
-) #r("(6)", " ") #r("yeu-lih-kuh-nyung", "游历个人")#footnote[Travellers.] #r("juh-hwen-hyi", "极欢喜") #r(
+)  #r("yeu-lih-kuh-nyung", "游历个人")#footnote[Travellers.] #r("juh-hwen-hyi", "极欢喜") #r(
   "tau",
   "到",
 ) #r("yi-deu", "伊头") #r("chi", "去") #r("khoen-khoen.", "看看。") #r("Dzoe-z-kok-kuh", "瑞士国个") #r(
   "pak-sing",
   "百姓",
-) #r("dzen", "全") #r("hwen-hyi", "欢喜") #r("(7)", " ") #r("z-tsu;", "自主；")#footnote[Liberty.] #r(
+) #r("dzen", "全") #r("hwen-hyi", "欢喜")  #r("z-tsu;", "自主；")#footnote[Liberty.] #r(
   "tsoong",
   "终",
 ) #r("'veh", "勿") #r("hwen-hyi", "欢喜") #r("bih-kok-kuh", "别国个") #r("nyung", "人") #r("le", "来") #r(
@@ -35,7 +35,7 @@
 ) #r("Chung-tsha", "钦差")#footnote[Ambassador.] #r("tau", "到") #r("Dzoe-z-kok", "瑞士国") #r("chi.", "去。") #r(
   "Di-kuh",
   "第个",
-) #r("chung-tsha", "钦差") #r("ming-deu", "名头") #r("kyau", "叫") #r("(9)", " ") #r(
+) #r("chung-tsha", "钦差") #r("ming-deu", "名头") #r("kyau", "叫")  #r(
   "Ke-Hyi-luh.",
   "甘希勒。",
 )#footnote[Gessler.] #r("Yi", "伊") #r("iau", "要") #r("kwen-sok", "约束") #r("pak-sing,", "百姓，") #r(
@@ -53,13 +53,13 @@
 ) #r("z-tsu-kuh", "自主个") #r("joen-ping,", "权利，") #r("soo-i", "所以") #r("la", "拉") #r("meu-tshu", "某处") #r(
   "kuh",
   "个",
-) #r("(1)", " ") #r("z-mien", "市面上")#footnote[Market.] #r("laung,", "上，") #r("yi", "伊") #r("dzu-chi", "竖起") #r(
+)  #r("z-mien", "市面上")#footnote[Market.] #r("laung,", "上，") #r("yi", "伊") #r("dzu-chi", "竖起") #r(
   "ih-kung",
   "一根",
 ) #r("mok-koen.", "木竿。") #r("La", "拉") #r("mok-koen", "木竿") #r("laung", "上") #r("thau-ts", "套之") #r(
   "ih-ting",
   "一顶",
-) #r("mau-ts.", "帽子。") #r("Yi", "伊") #r("wo,", "话：") #r("\"Di-kuh", "“第个") #r("z", "是") #r("(2)", " ") #r(
+) #r("mau-ts.", "帽子。") #r("Yi", "伊") #r("wo,", "话：") #r("\"Di-kuh", "“第个") #r("z", "是")  #r(
   "waung-ti-kuh",
   "皇帝个",
 ) #r("kyi-'au.", "记号。")#footnote[The ensign of the king.] #r("Van-i", "凡系") #r("kyung-koo-kuh", "经过个") #r(
@@ -71,7 +71,7 @@
 ) #r("mau-ts", "帽子") #r("kheh-deu-kuh.\"", "磕头。”") #r("Yeu", "有") #r("ih-nyih,", "一日，") #r("yeu", "有") #r(
   "ih-kuh",
   "一个",
-) #r("nyung", "人") #r("ming-deu", "名头") #r("kyau", "叫") #r("(3)", " ") #r("We-ling", "卫林") #r(
+) #r("nyung", "人") #r("ming-deu", "名头") #r("kyau", "叫")  #r("We-ling", "卫林") #r(
   "Tha-r,",
   "太耳，",
 )#footnote[William Tell.] #r("yi", "伊") #r("z", "是") #r("yeu", "有") #r("tan-liang-kuh", "胆量个") #r(
@@ -98,7 +98,7 @@
 ) #r("mau-ts", "帽子") #r("kheh-deu?\"", "磕头？”") #r("We-ling", "卫林") #r("The-r", "太耳") #r("we-deu", "回头") #r(
   "wo,",
   "话：",
-) #r("\"Noong-kuh", "“侬个") #r("waung-ti", "皇帝") #r("'veh-z", "‘非’（非）") #r("ngoo-kuh", "是我个") #r(
+) #r("\"Noong-kuh", "“侬个") #r("waung-ti", "皇帝") #r("'veh-z", "‘非’（非）") #r("z", "是") #r("ngoo", "我") #r("kuh", "个") #r(
   "waung-ti.",
   "皇帝。",
 ) #r("Ngoo", "我") #r("'veh", "勿") #r("khung", "肯") #r("te", "对") #r("yi", "伊") #r("kheh-deu", "磕头") #r(
@@ -122,7 +122,7 @@
 ) #r("nyi-ts-kuh", "儿子个") #r("deu", "头") #r("laung.", "上。") #r("Zak-zen", "若然") #r("noong", "侬") #r(
   "li-khe",
   "离开",
-) #r("ih-pak", "一百") #r("boo", "步") #r("lau", "咾") #r("(4)", " ") #r("zauh-tuh", "射得") #r(
+) #r("ih-pak", "一百") #r("boo", "步") #r("lau", "咾")  #r("zauh-tuh", "射得") #r(
   "tsoong",
   "中",
 )#footnote[Hit.] #r("di-tsak", "第隻") #r("bing-koo,", "苹果，") #r("keh-meh", "盖末") #r("khau-i", "可以") #r(
@@ -164,7 +164,7 @@
 ) #r("siau-noen", "小囝") #r("deu-laung.", "头头上。") #r("We-ling", "卫林") #r("Tha-r", "太耳") #r("dzoong", "从") #r(
   "yi-kuh",
   "伊个",
-) #r("(1)", " ") #r("kien-ka-laung", "肩胛上")#footnote[Shoulder.] #r("nau", "拿") #r("yi-kuh", "伊个") #r(
+)  #r("kien-ka-laung", "肩胛上")#footnote[Shoulder.] #r("nau", "拿") #r("yi-kuh", "伊个") #r(
   "(2)",
   " ",
 ) #r("doo", "大") #r("hoong", "弓")#footnote[A large bow.] #r("'au", "下") #r("le,", "来，") #r("kan-ts", "拣之") #r(
@@ -173,7 +173,7 @@
 ) #r("ih-ts-tsien.", "一枝箭。")#footnote[An arrow.] #r("Yi", "伊") #r("tung-ts", "等之") #r("ih-hyih,", "一歇，") #r(
   "tung-tau",
   "等到",
-) #r("yi-kuh", "伊个") #r("seu", "手") #r("'veh", "勿") #r("teu-ts,", "抖之，") #r("nan-meh", "难末") #r("(4)", " ") #r(
+) #r("yi-kuh", "伊个") #r("seu", "手") #r("'veh", "勿") #r("teu-ts,", "抖之，") #r("nan-meh", "难末")  #r(
   "la-tsok-yi-kuh",
   "拉足之伊个",
 ) #r("koong.", "弓。")#footnote[Pulled taut his bow.] #r("I-kuh", "伊个") #r("tsien", "箭") #r("dzoong", "从") #r(

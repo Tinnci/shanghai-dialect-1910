@@ -31,7 +31,7 @@
 #r("Kaung-tau", "讲到") #r("kauh-tshu-kuh", "各处个") #r("koong-s", "公司") #r("zen", "船") #r("lau", "咾") #r("kauh-yang", "各样") #r("zen-tsak,", "船只，") 
 #r("'ang", "行") #r("tau", "到") #r("'veh-lung", "勿论") #r("'a-li", "那里") #r("ih-kuh", "一个") #r("kheu-ts,", "口子") 
 #r("zieu", "就") #r("yeu", "有") #r("di-kuh", "第个") #r("kheu-ts", "口子") #r("laung-kuh", "上个") #r("i-sung,", "医生，") #r("tau", "到") #r("zen", "船") #r("laung", "上") #r("chi", "去") #r("dzo-nyien,", "查验，")#footnote[Examine.] #r("yeu", "有") #r("sa-nyung", "啥人") #r("sang", "生") #r("koo-nyung-kuh", "过人个") #r("mau-bing", "毛病") #r("va.", "否。") 
-#r("Zak-zen", "若然") #r("yeu", "有") #r("meh,", "末，") #r("iau", "要") #r("kyung-dzu", "禁住")#footnote[Prohibit.] #r("di-tsak-zen", "第只船") #r("tsing", "进口。") #r("kheu,", "进口。") 
+#r("Zak-zen", "若然") #r("yeu", "有") #r("meh,", "末，") #r("iau", "要") #r("kyung-dzu", "禁住")#footnote[Prohibit.] #r("di-tsak-zen", "第只船") #r("tsing", "进") #r("kheu", "口") #r("tsing", "进") #r("kheu", "口") 
 #r("Zak-zen", "若然") #r("kheu-ts", "口子") #r("li", "里") #r("kuh", "个") #r("nyung", "人") #r("yeu", "有") #r("koo-nyung", "过人") #r("kuh", "个") #r("mau-bing", "毛病") #r("meh,", "末，") 
 #r("koong-s", "公司") #r("zen", "船") #r("'a", "也") #r("'veh-khung", "勿肯") #r("nyang", "让") #r("yi", "伊") #r("tshung", "趁") #r("zen,", "船，") 
 #r("khoong-pho", "恐怕") #r("i-kuh", "伊个") #r("bing", "病") #r("dzen-khe-le", "传染来") #r("lau,", "咾，") #r("zen", "船") #r("laung", "上") #r("iau", "要") #r("too", "多") #r("'veh", "勿") #r("bien-taung", "便当") #r("tse.", "哉。")

@@ -8,7 +8,7 @@
 ) #r("la", "拉") #r("wo-li", "华丽") #r("kuh", "个") #r("vaung-ts", "房子") #r("li.", "里。") #r("Yi-kuh", "伊个") #r(
   "dien-di",
   "田地",
-) #r("too-le", "多来") #r("m-soo", "无数") #r("z", "是") #r("tsoo", "租") #r("peh-la", "拨拉") #r("(1)", " ") #r(
+) #r("too-le", "多来") #r("m-soo", "无数") #r("z", "是") #r("tsoo", "租") #r("peh-la", "拨拉")  #r(
   "tsung-tsaung",
   "村庄上个",
 )#footnote[Villagers. (1)] #r("laung-kuh", " ") #r("nyung", "人") #r("tsoong-kuh.", "种个。") #r("Di-kuh", "第个") #r(
@@ -41,13 +41,13 @@
 ) #r("joong-khoo", "穷苦") #r("lau", "咾") #r("sang-bing-kuh", "生病个") #r("nyung", "人") #r("tsung-kuh", "真个") #r(
   "bang-yeu.",
   "朋友。",
-) #r("Dan-z", "但是") #r("da-ke", "大概") #r("nyung", "人") #r("z", "是") #r("(2)", " ") #r("vaung", "忘") #r(
+) #r("Dan-z", "但是") #r("da-ke", "大概") #r("nyung", "人") #r("z", "是")  #r("vaung", "忘") #r(
   "ung",
   "恩",
 ) #r("veu", "负") #r("nyi-kuh", "义个")#footnote[Ungrateful. (2)] #r("lau,", "咾") #r("yeu-too-hau", "有多化") #r(
   "nyung",
   "人",
-) #r("(3)", " ") #r("ioen-'ung", "怨恨")#footnote[Murmur. (3)] #r("yi,", "伊") #r("we-ts", "为之") #r(
+)  #r("ioen-'ung", "怨恨")#footnote[Murmur. (3)] #r("yi,", "伊") #r("we-ts", "为之") #r(
   "yi-la",
   "伊拉",
 ) #r("'veh", "勿") #r("nung", "能") #r("ziang", "像") #r("yi", "伊") #r("nung", "能") #r("dze-tsu,", "财主") #r(
@@ -75,7 +75,7 @@
   "后来",
 ) #r("yeu", "有") #r("sa", "啥") #r("z-thi", "事体") #r("va.", "唔。")
 
-#r("Deu-ih", "头一个") #r("kuh", " ") #r("tseu-zaung-le-kuh-nyung,", "走上来个人，") #r("z", "是") #r(
+#r("deu", "头") #r("ih", "一") #r("kuh", "个") #r("kuh", " ") #r("tseu-zaung-le-kuh-nyung,", "走上来个人，") #r("z", "是") #r(
   "ih-kuh",
   "一个",
 ) #r("thih-ziang,", "铁匠，") #r("yi", "伊") #r("ioen-'ung", "怨恨") #r("lau", "咾") #r("wo,", "话：") #r(
@@ -112,7 +112,7 @@
 #r("Tau-ts", "到之") #r("ya-kwha-doong,", "夜快动") #r("yeu", "有") #r("ih-kuh", "一个") #r(
   "tsoong-dien-kuh",
   "种田个",
-) #r("siau-noen,", "小囝，") #r("ts-li", "嘴里") #r("la", "拉") #r("(1)", " ") #r("hyui-li", "吁哩") #r(
+) #r("siau-noen,", "小囝，") #r("ts-li", "嘴里") #r("la", "拉")  #r("hyui-li", "吁哩") #r(
   "hyui-li",
   "吁哩",
 ) #r("tsh", "吹")#footnote[Whistling. (1) on page 241] #r("lau", "咾") #r("tseu-zaung-le.", "走上来。") #r(
@@ -133,7 +133,7 @@
 ) #r("siang,", "想，") #r("ya", "夜") #r("li-hyang", "里向") #r("'ok-tse", "或者") #r("yeu", "有") #r("nyung", "人") #r(
   "lau",
   "骑",
-) #r("mo", "马") #r("pan-la", "绊拉") #r("laung", "上") #r("meh,", "末") #r("iau", "要") #r("(2)", " ") #r(
+) #r("mo", "马") #r("pan-la", "绊拉") #r("laung", "上") #r("meh,", "末") #r("iau", "要")  #r(
   "tih-zeh-kyak-kuh;",
   "跌踬脚个；",
 )#footnote[Stumble. (2)] #r("zak-s", "若使") #r("ngoo", "我") #r("yeu", "有") #r("chi-lih", "气力") #r("meh,", "末") #r(

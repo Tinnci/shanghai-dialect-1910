@@ -26,7 +26,7 @@
 ) #r("la", "拉") #r("loo", "路") #r("pien-deu", "边头") #r("khoen-kyien", "看见") #r("ih-kuh", "一个") #r(
   "zu-tsaung,",
   "树桩，",
-) #r("zieu-z", "就是") #r("tsoong-dien", "种田") #r("nyung", "人") #r("(2)", " ") #r(
+) #r("zieu-z", "就是") #r("tsoong-dien", "种田") #r("nyung", "人")  #r(
   "kak-nyien",
   "隔年",
 )#footnote[Last year. (2)] #r("tsan-'au-le-la-kuh.", "斫下来个。") #r("Zu-tsaung", "树桩") #r("zaung-mien", "上面") #r(
@@ -50,13 +50,13 @@
 ) #r("yeu", "有") #r("zu-tseh,", "树汁，") #r("zieu-z", "就是") #r("soong-zu", "松树") #r("yeu,", "油，") #r(
   "iung-we",
   "因为",
-) #r("(1)", " ") #r("yaung-nyih-deu", "旺日头")#footnote[Blazing sun. (1) on page 224] #r("so", "晒") #r(
+)  #r("yaung-nyih-deu", "旺日头")#footnote[Blazing sun. (1) on page 224] #r("so", "晒") #r(
   "la-laung",
   "拉上",
-) #r("lau", "咾") #r("(2)", " ") #r("so-tsheh-ts", "晒出之")#footnote[Bring out by heat. (2)] #r("i-kuh", "伊个") #r(
+) #r("lau", "咾")  #r("so-tsheh-ts", "晒出之")#footnote[Bring out by heat. (2)] #r("i-kuh", "伊个") #r(
   "yeu",
   "油",
-) #r("le.", "来。") #r("Sien-nyung-kuh", "仙人个") #r("(3)", " ") #r("khoo-ts", "裤子")#footnote[Trousers. (3)] #r(
+) #r("le.", "来。") #r("Sien-nyung-kuh", "仙人个")  #r("khoo-ts", "裤子")#footnote[Trousers. (3)] #r(
   "teh-dzu-ts",
   "黏住之",
 ) #r("lau", "咾") #r("lok-'veh-chi", "躞勿起") #r("tse.", "哉。") #r("'Eu-le", "后来") #r("di-kuh", "第个") #r(
@@ -68,7 +68,7 @@
 ) #r("yi-kuh", "伊个") #r("khoo-ts", "裤子") #r("teh-lau", "黏牢") #r("la", "拉") #r("zu-tsaung", "树桩") #r(
   "mien-laung",
   "面上",
-) #r("lau", "咾") #r("(4)", " ") #r("tsha-se", "扯碎")#footnote[Torn. (4)] #r("tse.", "哉。") #r(
+) #r("lau", "咾")  #r("tsha-se", "扯碎")#footnote[Torn. (4)] #r("tse.", "哉。") #r(
   "Sien-nyung",
   "仙人",
 ) #r("meh,", "末") #r("doo", "大") #r("doo", "大") #r("li", "里") #r("doong-chi,", "动气，") #r("zieu", "就") #r(
@@ -107,4 +107,4 @@
 ) #r("sien-nyung", "仙人") #r("zaung-taung", "上当") #r("meh,", "末") #r("we-ts", "为之") #r("yi", "伊") #r(
   "thuh",
   "忒",
-) #r("(6)", " ") #r("tshoo", "粗心")#footnote[Coarse nature. (6)] #r("sing", " ") #r("yan.", "也。")
+)  #r("tshoo", "粗") #r("sing", "心")#footnote[Coarse nature. (6)] #r("sing", " ") #r("yan.", "也。")

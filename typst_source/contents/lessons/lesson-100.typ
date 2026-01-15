@@ -8,13 +8,13 @@
 ) #r("yeu", "有") #r("ih", "一") #r("yang", "样") #r("doo", "大") #r("mau-bing,", "毛病，") #r("zieu-z", "就是") #r(
   "m-meh",
   "无没",
-) #r("(4)", " ") #r("dzang-sing", "常心")#footnote[Perseverance.] #r("lau", "咾") #r("(5)", " ") #r(
+)  #r("dzang-sing", "常心")#footnote[Perseverance.] #r("lau", "咾")  #r(
   "yeu-deu",
   "油头",
-) #r("wah-nyi.", "滑尾。")#footnote[Unreliable.] #r("Yeu", "有") #r("too-hau", "多少化") #r("nyung", "人") #r(
+) #r("wah-nyi.", "滑尾。")#footnote[Unreliable.] #r("Yeu", "有") #r("too", "多") #r("sau", "少") #r("hau", "化") #r("nyung", "人") #r(
   "chi-deu",
   "起头",
-) #r("tsoo", "做") #r("z-thi", "事体") #r("man", "蛮") #r("(6)", " ") #r("chi-kyung", "起劲") #r(
+) #r("tsoo", "做") #r("z-thi", "事体") #r("man", "蛮")  #r("chi-kyung", "起劲") #r(
   "lau",
   "咾",
 )#footnote[Spirited.] #r("iau", "要") #r("siang", "想") #r("tsoo", "做") #r("le", "来") #r("pi", "比") #r(
@@ -29,7 +29,7 @@
 ) #r("the-'au", "退下") #r("le", "来") #r("tse,", "哉") #r("wan", "还") #r("'veh-jih", "勿及") #r("ih-tsak", "一隻") #r(
   "siau-le-si",
   "小来死",
-) #r("kuh", "个") #r("(7)", " ") #r("kaung-koo.", "江蜗。")#footnote[Snail.] #r("Yeu", "有") #r("nyung", "人") #r(
+) #r("kuh", "个")  #r("kaung-koo.", "江蜗。")#footnote[Snail.] #r("Yeu", "有") #r("nyung", "人") #r(
   "wo",
   "话",
 ) #r("di", "第") #r("kyui", "句") #r("seh-wo", "说话") #r("tau", "倒") #r("hyi-ji", "希奇") #r("tse,", "哉") #r(
@@ -46,7 +46,7 @@
 #r("Dzoong-zien", "从前") #r("yeu", "有") #r("ih-kuh", "一个") #r("siau", "小") #r("'auh-sang-ts,", "学生子") #r(
   "yi-kuh",
   "伊个",
-) #r("(1)", " ") #r("thien-sing", "天性") #r("z", "是") #r("'veh", "勿") #r("da", "大") #r(
+)  #r("thien-sing", "天性") #r("z", "是") #r("'veh", "勿") #r("da", "大") #r(
   "tshoong-ming-kuh.",
   "聪明个。",
 )#footnote[Natural gifts.] #r("Yeu", "有") #r("ih", "一") #r("nyih,", "天") #r("yi", "伊") #r(
@@ -55,13 +55,13 @@
 ) #r("zoo", "坐") #r("la", "在") #r("su-vaung", "书房") #r("li,", "里") #r("seu", "手") #r("li", "里") #r(
   "meh,",
   "末",
-) #r("tan-ts", "担之") #r("ih-pung", "一本") #r("su", "书") #r("lau", "咾") #r("(2)", " ") #r(
+) #r("tan-ts", "担之") #r("ih-pung", "一本") #r("su", "书") #r("lau", "咾")  #r(
   "muh-dzoong",
   "默诵",
-)#footnote[Silent reading.] #r("(3)", " ") #r("ih-seu", "一首") #r("s.", "诗。")#footnote[A poem.] #r(
+)#footnote[Silent reading.]  #r("ih-seu", "一首") #r("s.", "诗。")#footnote[A poem.] #r(
   "Yi-kuh",
   "伊个",
-) #r("nyang", "娘") #r("tsing", "进") #r("le", "来") #r("khoen-kyien", "看见") #r("yi", "伊") #r("(4)", " ") #r(
+) #r("nyang", "娘") #r("tsing", "进") #r("le", "来") #r("khoen-kyien", "看见") #r("yi", "伊")  #r(
   "tsieu-ts",
   "縐之",
 ) #r("mi-deu,", "眉头")#footnote[To scowl.] #r("mien-khoong", "面孔") #r("yeu", "有") #r("iau-dzeu-kuh", "忧愁个") #r(
@@ -79,7 +79,7 @@
 ) #r("iau", "要") #r("pe", "背") #r("di-seu", "第首") #r("s,", "诗") #r("pe-le", "背来") #r("ting", "顶") #r(
   "hau",
   "好",
-) #r("kuh", "个") #r("meh,", "末") #r("yeu", "有") #r("(6)", " ") #r("saung-s-kuh,", "赏赐个")#footnote[Prize.] #r(
+) #r("kuh", "个") #r("meh,", "末") #r("yeu", "有")  #r("saung-s-kuh,", "赏赐个")#footnote[Prize.] #r(
   "dan-z",
   "但是",
 ) #r("ngoo", "我") #r("kuh", "个") #r("sing-ts", "性子") #r("meh", "末") #r("bung,", "笨") #r("r-tshia", "而且") #r(
@@ -93,7 +93,7 @@
   "心",
 ) #r("li", "裡") #r("zeh-fung", "十分") #r("ieu-dzeu.\"", "忧愁。”")
 
-#r("Nyang", "娘") #r("wo,", "话") #r("\"Noong", "“侬") #r("'veh", "勿") #r("iau", "要") #r("(7)", " ") #r(
+#r("Nyang", "娘") #r("wo,", "话") #r("\"Noong", "“侬") #r("'veh", "勿") #r("iau", "要")  #r(
   "zak-kyih,",
   "着急",
 )#footnote[Excited.] #r("noong", "侬") #r("tsuh", "只") #r("iau", "要") #r("yeu", "有") #r("dzang-sing", "常心") #r(
@@ -117,13 +117,13 @@
 ) #r("ding.", "停。") #r("Noong", "侬") #r("nyih-nyih", "日日") #r("tan", "担") #r("di-seu", "第首") #r("s", "诗") #r(
   "dok",
   "读",
-) #r("liang", "两") #r("san", "三") #r("thaung,", "盪") #r("(8)", " ") #r("z-zen", "自然") #r("khau-i", "可以") #r(
+) #r("liang", "两") #r("san", "三") #r("thaung,", "盪")  #r("z-zen", "自然") #r("khau-i", "可以") #r(
   "dok-zok",
   "读熟",
 ) #r("kuh.\"", "个。”")#footnote[Naturally.] #r("Di-kuh", "第个") #r("'auh-sang-ts", "学生子") #r(
   "thing-ts",
   "听之",
-) #r("nyang-kuh", "娘个") #r("seh-wo", "説话") #r("lau", "咾") #r("tsoo-tse.", "做了哉。") #r("'Eu-le", "后来") #r(
+) #r("nyang-kuh", "娘个") #r("seh-wo", "説话") #r("lau", "咾") #r("tsoo", "做") #r("liau", "了") #r("tse", "哉") #r("'Eu-le", "后来") #r(
   "koo-zen",
   "果然",
 ) #r("tuh-dzak", "得着") #r("saung-s.", "赏赐。") #r("Ngoo", "我") #r("maung", "望") #r("na", "哪") #r(

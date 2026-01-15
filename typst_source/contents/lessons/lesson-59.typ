@@ -14,7 +14,7 @@
 ) #r("ting", "顶") #r("hau", "好") #r("kuh", "个") #r("di-faung,", "地方，") #r("tau-ts", "到之") #r(
   "tshung-thien,",
   "春天，",
-) #r("kyung-ts", "景致") #r("kung-ka", "更加") #r("hau", "好看。") #r("khoen,", " ")
+) #r("kyung-ts", "景致") #r("kung-ka", "更加") #r("hau", "好") #r("khoen", "看") #r("khoen,", " ")
 
 #r("dau-hwo", "桃花")#footnote[Peach blossoms.] #r("meh", "末") #r("'oong,", "红，") #r(
   "yang-lieu",

@@ -20,28 +20,28 @@
 ) #r("mau-bing,", "毛病，") #r("chung", "轻") #r("meh", "末") #r("wan", "还") #r("hau,", "好，") #r("dzoong", "重") #r(
   "meh",
   "末",
-) #r("zieu", "就要") #r("tshing", "请") #r("sien-nyung", "仙人") #r("le", "来") #r("(1)", " ") #r("kwan", "关") #r(
+) #r("zieu", "就") #r("iau", "要") #r("tshing", "请") #r("sien-nyung", "仙人") #r("le", "来")  #r("kwan", "关") #r(
   "maung",
   "亡",
-)#footnote[To call up the spirits of the dead.] #r("lau", "咾") #r("(2)", " ") #r("khoen", "看") #r(
+)#footnote[To call up the spirits of the dead.] #r("lau", "咾")  #r("khoen", "看") #r(
   "hyang-deu",
   "香头",
 )#footnote[Divine by using incense.] #r("'ok-li-hyang", "屋里向") #r("yeu", "有") #r("sa", "啥") #r("kyui", "鬼") #r(
   "va",
   "唔",
-) #r("'ok-tse", "或者") #r("yeu", "有") #r("sa", "啥") #r("tsoo-tsoong", "祖宗") #r("(3)", " ") #r(
+) #r("'ok-tse", "或者") #r("yeu", "有") #r("sa", "啥") #r("tsoo-tsoong", "祖宗")  #r(
   "'veh-zu-i-kuh",
   "勿如意个",
 )#footnote[Not pacified.] #r("z-thi", "事体") #r("va,", "唔") #r("'ok-tse", "或者") #r("tsaung", "葬") #r(
   "la",
   "拉",
-) #r("kuh", "个") #r("vung-san", "坟山") #r("ngen-sa", "得啥") #r("(4)", " ") #r(
+) #r("kuh", "个") #r("vung-san", "坟山") #r("ngen-sa", "得啥")  #r(
   "foong-s",
   "风水",
 )#footnote[Wind and water, i. e. lucky conditions.] #r("va.", "唔。") #r("Nan-meh", "难末") #r("di-kuh", "第个") #r(
   "sien-nyung",
   "仙人",
-) #r("iau", "要") #r("(5)", " ") #r("hah-san-wo-s", "瞎三话四")#footnote[Empty talk.] #r("lau", "咾") #r("(6)", " ") #r(
+) #r("iau", "要")  #r("hah-san-wo-s", "瞎三话四")#footnote[Empty talk.] #r("lau", "咾")  #r(
   "tshih-'veh-tah-pah,",
   "七勿搭八，",
 )#footnote[Incongruous.] #r("nan-pan", "难板") #r("yeu", "有") #r("liang", "两") #r("san", "三") #r("kyui", "句") #r(
@@ -62,7 +62,7 @@
 ) #r("yi", "伊") #r("we", "为") #r("tsung,", "真，") #r("tau", "倒") #r("'veh", "勿") #r("hyau-tuh", "晓得") #r(
   "zen-z",
   "全是",
-) #r("'auh-le-kuh,", "学来个") #r("ih-ngan", "一额") #r("(1)", " ") #r(
+) #r("'auh-le-kuh,", "学来个") #r("ih-ngan", "一额")  #r(
   "'au-bo-dzan",
   "下愿诞",
 )#footnote[What is learned from others, lit. the lower jaw spittle.] #r("iau", "要") #r("phien", "骗") #r(
@@ -74,10 +74,10 @@
 ) #r("mau-bing", "毛病") #r("dzoong-ts", "重之") #r("meh", "末") #r("tau", "到") #r("Da-iung", "大英") #r(
   "Doo-mo-loo",
   "大马路",
-) #r("'Oong-miau-kuh", "虹庙个") #r("te-koo", "对过") #r("(2)", " ") #r("Ng", "吴") #r(
+) #r("'Oong-miau-kuh", "虹庙个") #r("te-koo", "对过")  #r("Ng", "吴") #r(
   "Kyan-kwaung",
   "鉴光",
-)#footnote[The name of a geomancer.] #r("han-deu", "墟头") #r("chi", "去") #r("(3)", " ") #r(
+)#footnote[The name of a geomancer.] #r("han-deu", "墟头") #r("chi", "去")  #r(
   "chi-khoo,",
   "起课，",
 )#footnote[To divine.] #r("'ok-tse", "或者") #r("tau", "到") #r("dzung-waung-miau", "城隍庙") #r("li", "里") #r(
@@ -95,10 +95,10 @@
 ) #r("dzan", "赚") #r("doong-dien,", "铜钱，") #r("keh-lauh", "盖咾") #r("ih", "一") #r("tshing-kyau", "请教") #r(
   "di-kuh",
   "第个",
-) #r("(4)", " ") #r("vung-waung-khoo", "文王课")#footnote[A diviner.] #r("lau", "咾") #r("tshien", "籤") #r(
+)  #r("vung-waung-khoo", "文王课")#footnote[A diviner.] #r("lau", "咾") #r("tshien", "籤") #r(
   "meh,",
   "末，",
-) #r("(5)", " ") #r("tsoong-kwe", "终归")#footnote[Must of necessity.] #r("iau", "要") #r("wo", "话") #r(
+)  #r("tsoong-kwe", "终归")#footnote[Must of necessity.] #r("iau", "要") #r("wo", "话") #r(
   "tshing",
   "请",
 ) #r("sa", "啥") #r("di-faung-kuh", "地方个") #r("dau-z,", "道士") #r("'ok-tse", "或者") #r("'oo-zaung,", "和尚") #r(
@@ -113,10 +113,10 @@
 ) #r("si-kwha-kuh", "死快个") #r("zung-kwaung,", "辰光，") #r("zeh-deu", "舌头") #r("i-kyung", "已经") #r(
   "doo",
   "大",
-) #r("lau", "咾") #r("nga-tsh", "牙齿") #r("i-kyung", "已经") #r("(6)", " ") #r(
+) #r("lau", "咾") #r("nga-tsh", "牙齿") #r("i-kyung", "已经")  #r(
   "ngau-kyung,",
   "咬紧。",
-)#footnote[Shut tight.] #r("yi-la", "伊拉") #r("soen", "算") #r("yi", "伊") #r("ling-wung", "灵魂") #r("(7)", " ") #r(
+)#footnote[Shut tight.] #r("yi-la", "伊拉") #r("soen", "算") #r("yi", "伊") #r("ling-wung", "灵魂")  #r(
   "tsheh-chau",
   "出窍",
 )#footnote[Gone out.] #r("lau.", "咾。") #r("Nan-meh", "难末") #r("nyung", "人") #r("tung", "登") #r("la", "拉") #r(

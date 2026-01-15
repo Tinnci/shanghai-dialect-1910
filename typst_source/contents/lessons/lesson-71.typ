@@ -2,24 +2,24 @@
 
 #exercise(71, "论收捐钱", "LUNG SEU KYOEN-DIEN")
 
-#r("LUNG", "论") #r("(1)", " ") #r("SEU", "收") #r("KYOEN-DIEN.", "捐钱。")#footnote[Collecting Municipal taxes.]
+#r("LUNG", "论")  #r("SEU", "收") #r("KYOEN-DIEN.", "捐钱。")#footnote[Collecting Municipal taxes.]
 
-#r("Ngoo", "我") #r("zien", "前") #r("nyih-ts", "日子") #r("tau", "到") #r("(2)", " ") #r("'Oo-nen", "河南") #r(
+#r("Ngoo", "我") #r("zien", "前") #r("nyih-ts", "日子") #r("tau", "到")  #r("'Oo-nen", "河南") #r(
   "loo",
   "路",
 ) #r("laung,", "上，")#footnote[Honan road.] #r("in-ban", "一爿") #r("Kwaung-toong-nyung", "广东人") #r(
   "khe-kuh",
   "开个",
-) #r("(3)", " ") #r("kyung-hoo", "京货") #r("tien", "店") #r("li", "里")#footnote[A variety store.] #r("seu", "收") #r(
+)  #r("kyung-hoo", "京货") #r("tien", "店") #r("li", "里")#footnote[A variety store.] #r("seu", "收") #r(
   "kyoen-dien,",
   "捐钱。",
-) #r("ngoo", "我") #r("chi", "去") #r("kuh", "个") #r("ih", "一") #r("nyih,", "日") #r("(4)", " ") #r(
+) #r("ngoo", "我") #r("chi", "去") #r("kuh", "个") #r("ih", "一") #r("nyih,", "日")  #r(
   "lau-pan",
   "老板",
-)#footnote[The proprietor.] #r("'veh", "勿") #r("leh-la,", "拉拉。") #r("(5)", " ") #r(
+)#footnote[The proprietor.] #r("'veh", "勿") #r("leh-la,", "拉拉。")  #r(
   "hoo-kyi",
   "夥计",
-)#footnote[Assistant.] #r("we-deu", "回头") #r("wo", "话") #r("lau-pan", "老板") #r("tau", "到") #r("(6)", " ") #r(
+)#footnote[Assistant.] #r("we-deu", "回头") #r("wo", "话") #r("lau-pan", "老板") #r("tau", "到")  #r(
   "Nen-kyung",
   "南京",
 )#footnote[Nanking.] #r("chi-tse.", "去哉。")
@@ -27,13 +27,13 @@
 #r("Ngoo", "我") #r("tau", "倒") #r("'veh", "勿") #r("hyau-tuh,", "晓得") #r("z", "是") #r("va.", "唔。") #r(
   "Ngoo",
   "我",
-) #r("z", "是") #r("iau", "要") #r("(7)", " ") #r("kwen-tsang-kuh", "管账个。")#footnote[Accountant.] #r(
+) #r("z", "是") #r("iau", "要")  #r("kwen-tsang-kuh", "管账个。")#footnote[Accountant.] #r(
   "foo-peh",
   "付拨",
 ) #r("ngoo", "我") #r("zien", "前") #r("nyoeh-kuh", "月个") #r("kyoen-dien.", "捐钱。") #r("Yi", "伊") #r(
   "tau",
   "倒",
-) #r("(8)", " ") #r("the-deu", "推头")#footnote[To put off, make excuses.] #r("lau", "咾") #r("wo,", "话") #r(
+)  #r("the-deu", "推头")#footnote[To put off, make excuses.] #r("lau", "咾") #r("wo,", "话") #r(
   "di-kuh",
   "第个",
 ) #r("pih", "必") #r("iau", "要") #r("lau-pan", "老板") #r("z-ka", "自家") #r("foo-kuh.", "付个。")
@@ -63,7 +63,7 @@
   " ",
 ) #r("ma-yoen", "埋怨")#footnote[Reprove.] #r("ngoo-nyi", "我伲") #r("seu-kyoen-kuh.", "收捐个。")
 
-#r("Zak-s", "若使") #r("nyi", "伲") #r("kyung-tsau", "今朝") #r("'veh", "勿") #r("(11)", " ") #r(
+#r("Zak-s", "若使") #r("nyi", "伲") #r("kyung-tsau", "今朝") #r("'veh", "勿")  #r(
   "kau-tsing",
   "交进",
 )#footnote[Give a full account.] #r("tsang", "账") #r("meh,", "末") #r("yi", "伊") #r("z", "是") #r(
@@ -72,7 +72,7 @@
 ) #r("tuh-juh", "得极") #r("lau,", "咾") #r("pih-ding", "必定") #r("iau", "要") #r("yeu", "有") #r("z-thi", "事体") #r(
   "tse.",
   "哉。",
-) #r("Soo-i", "所以") #r("ngoo", "我") #r("lau-zeh", "老实") #r("(12)", " ") #r(
+) #r("Soo-i", "所以") #r("ngoo", "我") #r("lau-zeh", "老实")  #r(
   "kwan-tsau",
   "关照",
 )#footnote[To inform.] #r("noong", "侬") #r("zak-zen", "若然") #r("kyung-tsau", "今朝") #r("'au-pen-nyih", "下半日") #r(
@@ -103,7 +103,7 @@
   "坏",
 ) #r("z-ka-kuh", "自家个") #r("ming-chi", "名气") #r("yan.", "也。")
 
-#r("Nan-meh", "难末") #r("ngoo", "我") #r("tseu", "走") #r("tau", "到") #r("(1)", " ") #r(
+#r("Nan-meh", "难末") #r("ngoo", "我") #r("tseu", "走") #r("tau", "到")  #r(
   "kah-pih-kuh",
   "隔壁个",
 )#footnote[Adjacent.] #r("tien", "店") #r("li", "里") #r("chi,", "去") #r("seu", "收") #r("kyoen-dien.", "捐钱。") #r(
@@ -121,15 +121,15 @@
 ) #r("laung", "上") #r("foo-kuh,", "付个") #r("tung-tau", "等到") #r("kyung-tsau", "今朝") #r("le", "来") #r(
   "seu",
   "收",
-) #r("meh,", "末") #r("z", "是") #r("(2)", " ") #r("kwhen-yoong", "宽容")#footnote[Extremely lenient.] #r(
+) #r("meh,", "末") #r("z", "是")  #r("kwhen-yoong", "宽容")#footnote[Extremely lenient.] #r(
   "tuh-juh-tse.",
   "得极哉。",
 )
 
-#r("Ngoo", "我") #r("khoong-pho", "恐怕") #r("na", "哪") #r("(3)", " ") #r(
+#r("Ngoo", "我") #r("khoong-pho", "恐怕") #r("na", "哪")  #r(
   "zen-tsho-tse",
   "纒差哉",
-)#footnote[To have a wrong impression.] #r("(4)", " ") #r("dau-nyung-ts", "道认之")#footnote[Imagine, supposing.] #r(
+)#footnote[To have a wrong impression.]  #r("dau-nyung-ts", "道认之")#footnote[Imagine, supposing.] #r(
   "hau",
   "好",
 ) #r("kwhen-yoong", "宽容") #r("kyi", "几") #r("kuh", "个") #r("nyoeh", "月") #r("'va?", "唔。") #r(
@@ -141,7 +141,7 @@
 ) #r("foo-peh", "付拨") #r("ngoo.", "我。") #r("Nan-meh", "难末") #r("yi", "伊") #r("zieu", "就") #r("dzoong", "从") #r(
   "sung-pien",
   "身边",
-) #r("(5)", " ") #r("mok-tsheh", "摸出")#footnote[To feel out, take out.] #r("yak-z", "鑰匙") #r("le,", "来") #r(
+)  #r("mok-tsheh", "摸出")#footnote[To feel out, take out.] #r("yak-z", "鑰匙") #r("le,", "来") #r(
   "chi",
   "去",
 ) #r("khe", "开") #r("tsheu-thi", "抽屉") #r("lau,", "咾") #r("nau", "拿") #r("khaung-hau", "园好") #r("la", "拉") #r(
