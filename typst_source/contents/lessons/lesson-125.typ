@@ -8,7 +8,7 @@
 ) #r("taung-sing", "当心") #r("yang-juin", "羊群") #r("lau", "咾") #r("wo.", "话：") #r("“Thaung-zen", "“倘然") #r(
   "za-laung",
   "豺狼",
-) #r("le-ts", "来之") #r("meh,", "末，") #r("noong", "侬") #r("khau-i", "可以") #r("han", "喊") #r("(3)", " ") #r(
+) #r("le-ts", "来之") #r("meh,", "末，") #r("noong", "侬") #r("khau-i", "可以") #r("han", "喊") #r(
   "“Za-laung",
   "“豺狼",
 )#footnote[Wolf.] #r("za-laung,", "豺狼”") #r("nan-meh", "难末") #r("tsoo", "做") #r("sang-weh", "生活") #r(
@@ -23,7 +23,7 @@
 ) #r("za-laung", "豺狼") #r("le.", "来。") #r("Siau-noen", "小囝") #r("tung", "登") #r("la", "拉") #r("dien", "田") #r(
   "li",
   "里",
-) #r("khoen-seu", "看守") #r("yang-juin", "羊群") #r("kauh-dzak", "觉着") #r("(4)", " ") #r(
+) #r("khoen-seu", "看守") #r("yang-juin", "羊群") #r("kauh-dzak", "觉着") #r(
   "ien-chi,",
   "厌弃，",
 )#footnote[Discontented / bored.] #r("iung-we", "因为") #r("ih-koen-ts", "一干子") #r("lau", "咾") #r(
@@ -35,7 +35,7 @@
 ) #r("laung", "上") #r("lau", "咾") #r("khoen-khoen", "看看") #r("yang-juin.", "羊群。") #r("Yi", "伊") #r(
   "dzing-nyoen",
   "情愿",
-) #r("nyung", "人") #r("tah", "搭") #r("yi", "伊") #r("ih-dau", "一淘") #r("beh-siang.", "白相。") #r("La", "拉") #r(
+) #r("nyung", "人") #r("tah", "搭") #r("yi", "伊") #r("ih-dau", "一淘") #r("beh-siang.", "勃相。") #r("La", "拉") #r(
   "dien",
   "田",
 ) #r("li", "里") #r("tsoo-sang-weh-kuh", "做生活个") #r("nyung,", "人。") #r("Yi", "伊") #r("maung-tuh", "望得") #r(
@@ -47,7 +47,7 @@
 ) #r("bak", "白") #r("wo.", "话。") #r("Yeu", "有") #r("ih-nyih,", "一日，") #r("la", "拉") #r("khoen", "看") #r(
   "yang-juin,",
   "羊群，",
-) #r("yi", "伊") #r("(5)", " ") #r("bi-joen-ts", "疲倦之")#footnote[Weary / tired.] #r("lau", "咾") #r(
+) #r("yi", "伊") #r("bi-joen-ts", "疲倦之")#footnote[Weary / tired.] #r("lau", "咾") #r(
   "siang-dzak",
   "想着",
 ) #r("yi-kuh", "伊个") #r("ya", "爷") #r("te", "对") #r("yi", "伊") #r("soo-wo-kuh", "所话个") #r(
@@ -68,7 +68,7 @@
 ) #r("la", "拉") #r("dien", "田") #r("li", "里") #r("koen-theh", "赶脱") #r("za-laung", "豺狼") #r("z", "是") #r(
   "hau",
   "好",
-) #r("beh-siang", "白相") #r("kuh", "个") #r("z-thi,", "事体，") #r("soo-i", "所以") #r("yi", "伊") #r(
+) #r("beh-siang", "勃相") #r("kuh", "个") #r("z-thi,", "事体，") #r("soo-i", "所以") #r("yi", "伊") #r(
   "doo-ts",
   "大之",
 ) #r("sang-chi", "声气") #r("han,", "喊，") #r("Za-laung", "豺狼") #r("za-laung!", "豺狼！") #r("Dien", "田") #r(
@@ -80,16 +80,16 @@
 ) #r("tau", "到") #r("siau-noen", "小囝") #r("dzang-hau", "场化") #r("lau", "咾") #r("wo.", "话：") #r(
   "“Leh-la",
   "“拉拉",
-) #r("'a-li", "哪里") #r("leh-la", "拉") #r("'a-li?”", "哪里？”") #r("Siau-noen", "小囝") #r("meh,", "末") #r(
+) #r("'a-li", "哪里") #r("leh-la", "拉拉") #r("'a-li?”", "哪里？”") #r("Siau-noen", "小囝") #r("meh,", "末") #r(
   "siau",
   "笑",
 ) #r("siau,", "笑，") #r("we-ts", "为之") #r("khoen-kyien", "看见") #r("yi-la", "伊拉") #r("yeu", "有") #r(
   "hau-beh-siang",
-  "好白相",
+  "好勃相",
 ) #r("kuh", "个") #r("yang-suh", "样式") #r("lau,", "咾，") #r("Yi", "伊") #r("wo,", "话：") #r("“M-sa", "“无啥") #r(
   "za-laung.",
   "豺狼。",
-) #r("Ngoo", "我") #r("pih-koo", "不过") #r("han", "喊") #r("beh-siang.”", "白相。”") #r("Yi-la", "伊拉") #r(
+) #r("Ngoo", "我") #r("pih-koo", "不过") #r("han", "喊") #r("beh-siang.”", "勃相。”") #r("Yi-la", "伊拉") #r(
   "doo-doo-li",
   "大大里",
 ) #r("'veh", "勿") #r("kha-weh", "快活") #r("lau", "咾") #r("we-tsen-chi", "回转去") #r("tau", "到") #r(
@@ -98,13 +98,13 @@
 ) #r("li", "里") #r("tsoo", "做") #r("sang-weh.", "生活。") #r("Yi-la", "伊拉") #r("'veh", "勿") #r(
   "hwen-hyi",
   "欢喜",
-) #r("siau-noen", "小囝") #r("zeh-ke-kuh", "实盖个") #r("beh-siang.", "白相。") #r("I-'eu", "以后") #r(
+) #r("siau-noen", "小囝") #r("zeh-ke-kuh", "实盖个") #r("beh-siang.", "勃相。") #r("I-'eu", "以后") #r(
   "liang",
   "两",
 ) #r("san", "三") #r("thaung,", "趟，") #r("siau-noen", "小囝") #r("dzung-jeu", "仍旧") #r("han,", "喊，") #r(
   "Za-laung!",
   "豺狼！",
-) #r("za-laung!", "豺狼！") #r("Me", "每") #r("thaung", "趟") #r("nyung", "人") #r("bau-chi", "跑") #r("chi", "去") #r(
+) #r("za-laung!", "豺狼！") #r("Me", "每") #r("thaung", "趟") #r("nyung", "人") #r("bau-chi", "跑去") #r(
   "khoen",
   "看",
 ) #r("meh,", "末") #r("'veh", "勿") #r("khoen-kyien", "看见") #r("yeu", "有") #r("sa", "啥") #r(
@@ -116,16 +116,25 @@
 ) #r("khoen-kyien", "看见") #r("ih-tsak", "一隻") #r("za-laung", "豺狼") #r("dzoong", "从") #r("zu-ling", "树林") #r(
   "li",
   "里",
-) #r("tsheh-le", "跑出来") #r("bau", "跑") #r("tau", "到") #r("yang-juin", "羊群") #r("dzang-hau,", "场化，") #r(
+) #r("bau", "跑") #r("tsheh", "出") #r("le", "来") #r("bau", "跑") #r("tau", "到") #r("yang-juin", "羊群") #r(
+  "dzang-hau,",
+  "场化，",
+) #r(
   "yi-meh,",
   "伊末，",
 ) #r("doo-doo-li", "大大里") #r("kyung-hak", "惊吓") #r("han", "喊") #r("lau", "咾") #r("wo.", "话：") #r(
   "“Le",
   "“来",
-) #r("paung-dzoo,", "相帮助，") #r("le", "来") #r("paung-dzoo,", "相帮助，") #r("yeu", "有") #r(
+) #r("siang", "相") #r("paung", "帮") #r("dzoo", "助") #r("le", "来") #r("siang", "相") #r("paung", "帮") #r(
+  "dzoo",
+  "助",
+) #r("yeu", "有") #r(
   "za-laung",
   "有豺狼",
-) #r("yeu", "有") #r("za-laung.”", "有豺狼。”") #r("Dan-z", "但是") #r("di-thaung", "第趟") #r("nyung", "人") #r(
+) #r("yeu", "有") #r("yeu", "有") #r("za", "豺") #r("laung", "狼") #r("Dan-z", "但是") #r("di-thaung", "第趟") #r(
+  "nyung",
+  "人",
+) #r(
   "'veh",
   "勿",
 ) #r("bau", "跑") #r("tau", "到") #r("yi-kuh", "伊个") #r("dzang-hau", "场化") #r("lau", "咾") #r(
@@ -149,4 +158,4 @@
 ) #r("tse.", "者。") #r("Dzoong", "从") #r("di-kuh", "第个") #r("i-'eu", "以后") #r("siau-noen", "小囝") #r(
   "'veh",
   "勿",
-) #r("tse", "再") #r("han", "喊") #r("beh-siang", "白相") #r("tse.", "者。")
+) #r("tse", "再") #r("han", "喊") #r("beh-siang", "勃相") #r("tse.", "者。")
