@@ -169,9 +169,13 @@
     linebreaks: "optimized",
   )
 
-  set footnote(numbering: n => [(#n)])
+  set footnote(
+    numbering: n => [(#n)],
+    // split: true // Typst 0.11+ 默认支持跨页，显式属性可能暂不支持或名称不同
+  )
   set footnote.entry(
-    separator: line(length: 30%, stroke: 0.5pt),
+    // 最佳实践：使用全宽分割线以清晰区分跨页脚注 (Best Practice: Full-width separator)
+    separator: line(length: 100%, stroke: 0.5pt + gray),
     indent: 0em,
     gap: 0.5em,
   )
