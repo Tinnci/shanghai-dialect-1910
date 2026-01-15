@@ -29,15 +29,21 @@ This skill allows the agent to perform deep quality analysis on the Shanghai dia
    - **Reduplication Protection**: Automatically skips all corrections for reduplicated hanzi (e.g., "拉拉", "看看") to preserve tone sandhi records.
    - **Rime Dictionary Validation**: Uses `external/rime-wugniu_zaonhe` (9166 chars, 23936 phrases, 1147 polyphonic chars) to verify pronunciations.
    - **Cross-Scheme Phonetic Similarity**: Correctly maps 1910 Church Romanization to modern Wugniu Pinyin (e.g., `nyih` ↔ `gniq`, `zeh` ↔ `zeq` for "日").
-   - Supports dry-run, interactive, and auto modes.
+5. **Intelligent Rule Learning (`learn`)**:
+   - **Rule Induction**: Automatically learns phonetic mapping rules from the book corpus (32K+ pairs) and Rime dictionary.
+   - **Feature-Based Similarity**: Uses phonological feature vectors (place, manner, voicing, etc.) to calculate precise similarity scores.
+   - **Knowledge Persistence**: Saves learned rules to `.agent/data/phonetic_rules.json` for consistent decision making.
 
 ## Core Modules
 
 | Module | Purpose |
 |--------|---------|
-| `src/romanization.py` | Church Romanization ↔ Wugniu Pinyin conversion and phonetic similarity |
-| `src/rime_dict.py` | Rime dictionary loader, polyphonic detection, pronunciation validation |
-| `src/fixer.py` | Auto-fix engine with safety levels and protection mechanisms |
+| `src/knowledge_base.py` | Centralized persistence for learned rules and configuration |
+| `src/rule_induction.py` | Phonological rule induction engine & feature-based similarity |
+| `src/learn_rules.py` | Pipeline to extract parallel corpus and train the system |
+| `src/romanization.py` | Church Romanization ↔ Wugniu Pinyin mapping logic |
+| `src/rime_dict.py` | Rime dictionary loader & polyphonic detection |
+| `src/fixer.py` | Auto-fix engine using the improved knowledge base |
 | `src/analyzers/displacement.py` | Alignment diagnosis with shift detection |
 
 ## Romanization Mapping Examples
@@ -56,6 +62,9 @@ This skill allows the agent to perform deep quality analysis on the Shanghai dia
 # Analysis
 uv run python xtask.py analyze all
 uv run python xtask.py analyze displacement
+
+# Rule Learning (Update Knowledge Base)
+uv run python xtask.py learn --save
 
 # General Repair Workflow
 uv run python xtask.py fix --auto          # Safely apply high-confidence fixes project-wide
