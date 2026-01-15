@@ -130,6 +130,10 @@
 // ============================================================
 
 #let project(body) = {
+  set document(
+    title: "Shanghai Dialect Exercises (1910) - 数字化版",
+    author: "J. H. Pott / 数字化整理: Tinnci",
+  )
   set page(
     paper: "a5",
     margin: (inside: 2.2cm, outside: 1.8cm, top: 2cm, bottom: 2cm),

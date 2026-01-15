@@ -37,6 +37,7 @@ def main():
     # Task Commands
     subparsers.add_parser("extract", help="Extract images and pages from source PDF")
     subparsers.add_parser("convert", help="Convert extracted images to JPEG XL")
+    subparsers.add_parser("compile", help="Compile Typst project to PDF with descriptive name")
     
     # Global args
     parser.add_argument('--dir', type=str, default="./typst_source/contents/lessons", help="Path to lessons directory")
@@ -57,6 +58,21 @@ def main():
         
     elif args.command == "convert":
         run_conversion(project_root)
+    
+    elif args.command == "compile":
+        import subprocess
+        typst_main = project_root / "typst_source" / "main.typ"
+        output_pdf = project_root / "shanghai-dialect-exercises.pdf"
+        print(f"Compiling {typst_main} to {output_pdf}...")
+        try:
+            subprocess.run(["typst", "compile", str(typst_main), str(output_pdf)], check=True)
+            print("✓ Compilation successful!")
+        except subprocess.CalledProcessError as e:
+            print(f"✗ Compilation failed: {e}")
+            sys.exit(1)
+        except FileNotFoundError:
+            print("✗ Error: 'typst' command not found. Please install Typst.")
+            sys.exit(1)
     
     elif args.command == "learn":
         from src.learn_rules import learn_rules_from_corpus
