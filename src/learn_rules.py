@@ -6,8 +6,7 @@
 
 import re
 from pathlib import Path
-from collections import defaultdict
-from typing import Dict, List, Tuple, Set
+from typing import List, Tuple, Set
 
 try:
     from .loader import load_lessons

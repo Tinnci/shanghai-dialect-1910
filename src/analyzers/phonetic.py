@@ -22,7 +22,8 @@ def analyze_phonetic_consistency(lessons: List[LessonFile], output_json: str = "
             fname = lesson.filename
             
             h_chars = split_characters(hanzi)
-            if not h_chars: continue
+            if not h_chars:
+                continue
             
             # 记录整词
             word_stats[hanzi][p_norm].append((fname, pair.pinyin))
@@ -43,13 +44,15 @@ def analyze_phonetic_consistency(lessons: List[LessonFile], output_json: str = "
     }
 
     for char, prons in char_stats.items():
-        if len(prons) <= 1: continue
+        if len(prons) <= 1:
+            continue
         
         main_py = max(prons.keys(), key=lambda k: len(prons[k]))
         main_count = len(prons[main_py])
         
         for py, occurrences in prons.items():
-            if py == main_py: continue
+            if py == main_py:
+                continue
             
             similarity = get_similarity(main_py, py)
             count = len(occurrences)

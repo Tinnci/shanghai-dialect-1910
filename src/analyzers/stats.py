@@ -2,7 +2,6 @@ import re
 import json
 from collections import defaultdict
 from typing import List
-from pathlib import Path
 from ..loader import LessonFile
 from ..utils import split_characters
 
@@ -64,7 +63,6 @@ def generate_priority_list(lessons: List[LessonFile], output_json: str = "priori
                     
                     # 判定异常规则
                     if main_count / total >= 0.8 and total >= 3 and py != main_py:
-                        unique_key = f"{char}:{py}"
                         anomalies.append({
                             'char': char,
                             'found': py,
@@ -79,7 +77,7 @@ def generate_priority_list(lessons: List[LessonFile], output_json: str = "priori
         
         try:
             lesson_num = int(re.search(r'lesson-(\d+)', lesson.filename).group(1))
-        except:
+        except (AttributeError, ValueError):
             lesson_num = 0
 
         file_scores.append({

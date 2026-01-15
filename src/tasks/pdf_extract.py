@@ -1,8 +1,6 @@
 
 import fitz  # PyMuPDF
 from pathlib import Path
-from PIL import Image
-import io
 import json
 from datetime import datetime
 
@@ -265,11 +263,11 @@ def run_extraction(project_root: Path):
     
     print(f"\n📂 Source PDF: {pdf_path}")
     print(f"   File size: {pdf_path.stat().st_size / (1024*1024):.2f} MB")
-    print(f"\n🗂️  Creating Johnny Decimal directory structure...")
+    print("\n🗂️  Creating Johnny Decimal directory structure...")
     created_dirs = create_directory_structure(output_base)
     print(f"   Created {len(created_dirs)} directories")
     
-    print(f"\n📖 Opening PDF document...")
+    print("\n📖 Opening PDF document...")
     pdf_doc = fitz.open(str(pdf_path))
     
     pdf_info = {

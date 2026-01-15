@@ -1,5 +1,5 @@
 import re
-from typing import List, Tuple, Iterator
+from typing import List, Tuple
 
 # 上海话罗马字声母表 (按长度倒序排序以优先匹配长声母)
 INITIALS = ['ph', 'th', 'kh', 'tsh', 'dz', 'dj', 'ts', 'ky', 'kyi', 'ny', 'ng', 'sh', 
@@ -57,9 +57,10 @@ def levenshtein_distance(s1: str, s2: str) -> int:
     return previous_row[-1]
 
 def get_similarity(p1: str, p2: str) -> float:
-    """计算两个拼音的相似度 (0-1)"""
-    if not p1 and not p2: return 1.0
-    if not p1 or not p2: return 0.0
+    if not p1 and not p2:
+        return 1.0
+    if not p1 or not p2:
+        return 0.0
     dist = levenshtein_distance(p1, p2)
     max_len = max(len(p1), len(p2), 1)
     return 1 - (dist / max_len)

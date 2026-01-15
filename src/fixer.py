@@ -12,7 +12,7 @@ from collections import defaultdict
 
 from .loader import LessonFile, load_lessons
 from .utils import split_characters, get_similarity, normalize_pinyin
-from .rime_dict import is_known_polyphonic, is_valid_pronunciation
+from .rime_dict import is_valid_pronunciation
 
 class FixStrategy(Enum):
     SPLIT_RUBY = auto()      # 拆分：汉字多于拼音
@@ -283,7 +283,7 @@ def run_fixer(
     
     # 过滤目标
     if target and target != "--all":
-        lessons = [l for l in lessons if target in l.filename]
+        lessons = [lsn for lsn in lessons if target in lsn.filename]
         if not lessons:
             print(f"未找到匹配 '{target}' 的文件")
             return
@@ -337,7 +337,7 @@ def run_fixer(
             
             # 显示全书上下文
             if fix.corpus_examples:
-                print(f"  📖 全书用例:")
+                print("  📖 全书用例:")
                 for ex in fix.corpus_examples[:2]:
                     print(f"     {ex}")
             

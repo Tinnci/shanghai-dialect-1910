@@ -25,7 +25,7 @@ def get_page_map(project_root: Path):
                 page_map[int(lp)] = pages
     return page_map
 
-def analyze_displacement(lessons: List[LessonFile], project_root: Path):
+def analyze_displacement(lessons: List[LessonFile], project_root: Path, target_filter: str = None):
     """
     分析文本位移/错位情况 (诊断式报告)
     """
@@ -44,6 +44,8 @@ def analyze_displacement(lessons: List[LessonFile], project_root: Path):
     file_severity = []
 
     for lesson in lessons:
+        if target_filter and target_filter not in lesson.filename:
+            continue
         diagnostics = []
         mismatch_count = 0
         total_chars = 0
@@ -86,7 +88,7 @@ def analyze_displacement(lessons: List[LessonFile], project_root: Path):
         
         try:
             lesson_num = int(re.search(r'lesson-(\d+)', lesson.filename).group(1))
-        except:
+        except (AttributeError, ValueError):
             lesson_num = 0
             
         file_severity.append({

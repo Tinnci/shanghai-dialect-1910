@@ -1,10 +1,7 @@
 
 import os
-import sys
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
-import json
-from datetime import datetime
 import shutil
 
 # Enable JPEG XL plugin for Pillow
@@ -134,7 +131,8 @@ def complete_page_renders(pdf_path: Path, output_dir: Path, start_page: int, dpi
         page_path = output_dir / f"page_{page_num + 1:04d}.png"
         pixmap.save(str(page_path))
         rendered += 1
-        if rendered % 20 == 0: print(f"  Rendered {rendered} pages...")
+        if rendered % 20 == 0:
+            print(f"  Rendered {rendered} pages...")
     pdf_doc.close()
     print(f"  ✅ Completed {rendered} additional page renders")
 

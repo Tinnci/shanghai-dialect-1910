@@ -20,6 +20,7 @@ def main():
     # Analysis Commands
     parser_analyze = subparsers.add_parser("analyze", help="Run quality analysis tools")
     parser_analyze.add_argument("type", choices=['phonetic', 'displacement', 'priority', 'all'], help="Analysis type")
+    parser_analyze.add_argument("target", nargs='?', help="Optional target file (e.g. lesson-49)")
     
     # Fix Commands
     parser_fix = subparsers.add_parser("fix", help="Auto-fix Ruby pair issues")
@@ -87,7 +88,7 @@ def main():
             analyze_phonetic_consistency(lessons, str(project_root / "phonetic_analysis_v2.json"))
             
         if args.type in ['displacement', 'all']:
-            analyze_displacement(lessons, project_root)
+            analyze_displacement(lessons, project_root, target_filter=args.target)
             
         if args.type in ['priority', 'all']:
             generate_priority_list(lessons, str(project_root / "priority_report.json"))

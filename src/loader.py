@@ -1,6 +1,6 @@
 from pathlib import Path
 from dataclasses import dataclass, field
-from typing import List, Tuple
+from typing import List
 from .utils import extract_ruby_pairs
 
 @dataclass

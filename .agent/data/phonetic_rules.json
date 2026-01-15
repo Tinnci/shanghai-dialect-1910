@@ -21,7 +21,7 @@
       "target": "gh",
       "rule_type": "initial",
       "context": "",
-      "count": 597,
+      "count": 650,
       "examples": []
     },
     {
@@ -29,7 +29,7 @@
       "target": "z",
       "rule_type": "initial",
       "context": "",
-      "count": 536,
+      "count": 621,
       "examples": []
     },
     {
@@ -89,14 +89,6 @@
       "examples": []
     },
     {
-      "source": "dz",
-      "target": "ts",
-      "rule_type": "initial",
-      "context": "",
-      "count": 103,
-      "examples": []
-    },
-    {
       "source": "hw",
       "target": "h",
       "rule_type": "initial",
@@ -121,14 +113,6 @@
       "examples": []
     },
     {
-      "source": "",
-      "target": "y",
-      "rule_type": "initial",
-      "context": "",
-      "count": 55,
-      "examples": []
-    },
-    {
       "source": "dz",
       "target": "zh",
       "rule_type": "initial",
@@ -149,7 +133,7 @@
       "target": "z",
       "rule_type": "initial",
       "context": "",
-      "count": 30,
+      "count": 31,
       "examples": []
     },
     {
@@ -185,6 +169,22 @@
       "examples": []
     },
     {
+      "source": "k",
+      "target": "",
+      "rule_type": "initial",
+      "context": "",
+      "count": 18,
+      "examples": []
+    },
+    {
+      "source": "dz",
+      "target": "ts",
+      "rule_type": "initial",
+      "context": "",
+      "count": 18,
+      "examples": []
+    },
+    {
       "source": "v",
       "target": "m",
       "rule_type": "initial",
@@ -214,14 +214,6 @@
       "rule_type": "initial",
       "context": "",
       "count": 13,
-      "examples": []
-    },
-    {
-      "source": "k",
-      "target": "",
-      "rule_type": "initial",
-      "context": "",
-      "count": 12,
       "examples": []
     },
     {
@@ -303,7 +295,7 @@
       "target": "eq",
       "rule_type": "final",
       "context": "",
-      "count": 2804,
+      "count": 2803,
       "examples": []
     },
     {
@@ -311,7 +303,7 @@
       "target": "y",
       "rule_type": "final",
       "context": "",
-      "count": 2484,
+      "count": 2483,
       "examples": []
     },
     {
@@ -359,7 +351,7 @@
       "target": "en",
       "rule_type": "final",
       "context": "",
-      "count": 718,
+      "count": 690,
       "examples": []
     },
     {
@@ -399,7 +391,7 @@
       "target": "an",
       "rule_type": "final",
       "context": "",
-      "count": 503,
+      "count": 505,
       "examples": []
     },
     {
@@ -407,7 +399,7 @@
       "target": "aq",
       "rule_type": "final",
       "context": "",
-      "count": 463,
+      "count": 480,
       "examples": []
     },
     {
@@ -455,7 +447,7 @@
       "target": "oq",
       "rule_type": "final",
       "context": "",
-      "count": 274,
+      "count": 289,
       "examples": []
     },
     {
@@ -475,19 +467,19 @@
       "examples": []
     },
     {
-      "source": "iung",
-      "target": "in",
+      "source": "auh",
+      "target": "oq",
       "rule_type": "final",
       "context": "",
       "count": 153,
       "examples": []
     },
     {
-      "source": "auh",
-      "target": "oq",
+      "source": "iung",
+      "target": "in",
       "rule_type": "final",
       "context": "",
-      "count": 153,
+      "count": 152,
       "examples": []
     },
     {
@@ -500,10 +492,10 @@
     },
     {
       "source": "au",
-      "target": "u",
+      "target": "eq",
       "rule_type": "final",
       "context": "",
-      "count": 116,
+      "count": 120,
       "examples": []
     },
     {
@@ -563,6 +555,14 @@
       "examples": []
     },
     {
+      "source": "ia",
+      "target": "i",
+      "rule_type": "final",
+      "context": "",
+      "count": 84,
+      "examples": []
+    },
+    {
       "source": "ui",
       "target": "iu",
       "rule_type": "final",
@@ -587,11 +587,11 @@
       "examples": []
     },
     {
-      "source": "ak",
-      "target": "eq",
+      "source": "ang",
+      "target": "aon",
       "rule_type": "final",
       "context": "",
-      "count": 63,
+      "count": 61,
       "examples": []
     },
     {
@@ -603,11 +603,19 @@
       "examples": []
     },
     {
-      "source": "oeh",
-      "target": "ioq",
+      "source": "ak",
+      "target": "eq",
       "rule_type": "final",
       "context": "",
       "count": 59,
+      "examples": []
+    },
+    {
+      "source": "ung",
+      "target": "an",
+      "rule_type": "final",
+      "context": "",
+      "count": 57,
       "examples": []
     },
     {
@@ -619,19 +627,19 @@
       "examples": []
     },
     {
-      "source": "ang",
-      "target": "in",
+      "source": "e",
+      "target": "he",
       "rule_type": "final",
       "context": "",
-      "count": 52,
+      "count": 47,
       "examples": []
     },
     {
-      "source": "ia",
-      "target": "i",
+      "source": "aung",
+      "target": "uaon",
       "rule_type": "final",
       "context": "",
-      "count": 50,
+      "count": 45,
       "examples": []
     },
     {
@@ -640,6 +648,14 @@
       "rule_type": "final",
       "context": "",
       "count": 43,
+      "examples": []
+    },
+    {
+      "source": "oeh",
+      "target": "iuq",
+      "rule_type": "final",
+      "context": "",
+      "count": 42,
       "examples": []
     },
     {
@@ -675,14 +691,6 @@
       "examples": []
     },
     {
-      "source": "aung",
-      "target": "uan",
-      "rule_type": "final",
-      "context": "",
-      "count": 38,
-      "examples": []
-    },
-    {
       "source": "ih",
       "target": "eq",
       "rule_type": "final",
@@ -709,14 +717,6 @@
     {
       "source": "a",
       "target": "e",
-      "rule_type": "final",
-      "context": "",
-      "count": 29,
-      "examples": []
-    },
-    {
-      "source": "ung",
-      "target": "an",
       "rule_type": "final",
       "context": "",
       "count": 29,
@@ -795,6 +795,14 @@
       "examples": []
     },
     {
+      "source": "oeh",
+      "target": "ioq",
+      "rule_type": "final",
+      "context": "",
+      "count": 18,
+      "examples": []
+    },
+    {
       "source": "auh",
       "target": "o",
       "rule_type": "final",
@@ -805,14 +813,6 @@
     {
       "source": "i",
       "target": "iq",
-      "rule_type": "final",
-      "context": "",
-      "count": 15,
-      "examples": []
-    },
-    {
-      "source": "ok",
-      "target": "uq",
       "rule_type": "final",
       "context": "",
       "count": 15,
@@ -835,14 +835,6 @@
       "examples": []
     },
     {
-      "source": "ak",
-      "target": "o",
-      "rule_type": "final",
-      "context": "",
-      "count": 14,
-      "examples": []
-    },
-    {
       "source": "ch",
       "target": "eq",
       "rule_type": "final",
@@ -853,14 +845,6 @@
     {
       "source": "ung",
       "target": "uen",
-      "rule_type": "final",
-      "context": "",
-      "count": 13,
-      "examples": []
-    },
-    {
-      "source": "uin",
-      "target": "iun",
       "rule_type": "final",
       "context": "",
       "count": 13,
@@ -896,6 +880,14 @@
       "rule_type": "final",
       "context": "",
       "count": 12,
+      "examples": []
+    },
+    {
+      "source": "oeh",
+      "target": "oq",
+      "rule_type": "final",
+      "context": "",
+      "count": 11,
       "examples": []
     },
     {
@@ -947,14 +939,6 @@
       "examples": []
     },
     {
-      "source": "oeh",
-      "target": "uq",
-      "rule_type": "final",
-      "context": "",
-      "count": 9,
-      "examples": []
-    },
-    {
       "source": "en",
       "target": "e",
       "rule_type": "final",
@@ -971,8 +955,8 @@
       "examples": []
     },
     {
-      "source": "ang",
-      "target": "aon",
+      "source": "uin",
+      "target": "iun",
       "rule_type": "final",
       "context": "",
       "count": 9,
@@ -997,14 +981,6 @@
     {
       "source": "ioen",
       "target": "ioe",
-      "rule_type": "final",
-      "context": "",
-      "count": 8,
-      "examples": []
-    },
-    {
-      "source": "e",
-      "target": "he",
       "rule_type": "final",
       "context": "",
       "count": 8,
@@ -1038,6 +1014,6 @@
   "config": {
     "confidence_threshold": 0.8,
     "similarity_threshold": 0.7,
-    "last_updated": "2026-01-15T20:24:14.043971"
+    "last_updated": "2026-01-15T20:28:13.622793"
   }
 }

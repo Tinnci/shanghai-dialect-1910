@@ -2,7 +2,6 @@
 Rime 吴语词典加载工具
 用于从 rime-wugniu_zaonhe 词库中提取词组和多音字信息
 """
-import re
 from pathlib import Path
 from collections import defaultdict
 from typing import Dict, Set, List, Tuple

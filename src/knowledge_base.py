@@ -12,7 +12,7 @@
 import json
 from pathlib import Path
 from dataclasses import dataclass, asdict
-from typing import Dict, List, Optional
+from typing import List
 
 from .rule_induction import TransformRule
 

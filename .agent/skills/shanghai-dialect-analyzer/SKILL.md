@@ -62,6 +62,7 @@ This skill allows the agent to perform deep quality analysis on the Shanghai dia
 # Analysis
 uv run python xtask.py analyze all
 uv run python xtask.py analyze displacement
+uv run python xtask.py analyze displacement lesson-49  # Target specific file
 
 # Rule Learning (Update Knowledge Base)
 uv run python xtask.py learn --save

@@ -52,8 +52,7 @@
 """
 
 import re
-from typing import Tuple, List, Set
-from dataclasses import dataclass
+from typing import Tuple, List
 
 # ============ 声母映射 ============
 # 教会罗马字 -> 吴语学堂 (1:N 映射)

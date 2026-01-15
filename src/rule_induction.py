@@ -14,11 +14,9 @@
 - Context-aware Disambiguation (上下文消歧): 利用词组上下文
 """
 
-import re
 from collections import defaultdict, Counter
 from dataclasses import dataclass, field
-from typing import Dict, List, Tuple, Set, Optional
-from pathlib import Path
+from typing import Dict, List, Tuple
 
 # ============================================================================
 # 音韵特征系统 (Phonological Feature System)
