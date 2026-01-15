@@ -109,6 +109,32 @@ def main():
         help="Skip conversational corpus (faster, scripted only)",
     )
 
+    # Annotate IPA Command
+    parser_annot = subparsers.add_parser(
+        "annotate-ipa", help="Add IPA annotations to training filelists"
+    )
+    parser_annot.add_argument(
+        "--input", "-i", type=str, default="data", help="Data directory with filelists"
+    )
+    parser_annot.add_argument(
+        "--filelist", type=str, default=None, help="Specific filelist to annotate"
+    )
+
+    # Train Command
+    parser_train = subparsers.add_parser("train", help="Train TTS model")
+    parser_train.add_argument(
+        "--config",
+        type=str,
+        default="configs/shanghai_1910.yaml",
+        help="Training config file",
+    )
+    parser_train.add_argument(
+        "--resume", type=str, default=None, help="Resume from checkpoint"
+    )
+    parser_train.add_argument(
+        "--dry-run", action="store_true", help="Validate config without training"
+    )
+
     # Task Commands
     subparsers.add_parser("extract", help="Extract images and pages from source PDF")
     subparsers.add_parser("convert", help="Convert extracted images to JPEG XL")
@@ -227,6 +253,20 @@ def main():
             output_dir=Path(args.output),
             skip_conversational=args.skip_conv,
         )
+
+    elif args.command == "annotate-ipa":
+        from src.tasks.annotate_ipa import run_annotate_ipa
+
+        run_annotate_ipa(
+            input_dir=Path(args.input),
+            filelist=Path(args.filelist) if args.filelist else None,
+        )
+
+    elif args.command == "train":
+        print("🚧 Training command not yet implemented.")
+        print("   Use: uv run python -m matcha.train --config <config>")
+        if args.dry_run:
+            print("   (dry-run mode)")
 
     elif args.command == "fix":
         run_fixer(
