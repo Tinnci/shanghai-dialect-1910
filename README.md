@@ -28,31 +28,45 @@ This work was published in 1910 and is in the **public domain**.
 ## Repository Structure / 仓库结构
 
 ```
-├── digitized/                    # Digitized content / 数字化内容
-│   ├── 10-19_preliminary/        # Preface, TOC / 前言、目录
-│   ├── 20-29_pronunciation-guide/# Pronunciation key / 发音说明
-│   ├── 30-39_lessons/            # 155 lessons / 155课练习
-│   ├── 40-49_appendices/         # Index, Errata / 索引、勘误
-│   ├── 90-99_metadata/           # JXL images / 图片文件
-│   ├── PAGE_INDEX.md             # Detailed content index / 详细索引
-│   └── README.md                 # Full documentation / 完整说明
-├── extract_pdf.py                # PDF extraction tool / 提取工具
-└── convert_to_jxl.py             # JXL conversion tool / 转换工具
+├── digitized/          # Original digitized content / 数字化内容 (JXL images)
+├── typst_source/       # Digital Edition Source / 数字化排版源码 (Typst)
+│   ├── contents/       # Lessons, preliminary, and appendices / 课文与附件
+│   ├── template.typ    # Typography and styling / 样式与宏定义
+│   └── main.typ        # Main document entry / 主入口
+├── src/                # Python backend for tools / 自动化工具源码
+├── xtask.py            # Project Management Tool / 项目管理工具入口
+└── shanghai-dialect-exercises.pdf # Latest compiled edition / 最新编译成品
 ```
 
 ---
 
-## Tools / 工具脚本
+## Project Tools / 项目工具 (xtask.py)
 
-The Python scripts are provided for reproducibility:
+We use a specialized toolchain (`xtask.py`) to manage the digitization project, ensure phonetic consistency, and automate corrections.
 
-提供 Python 脚本以便复现数字化流程：
+我们使用专门的工具链 (`xtask.py`) 来管理数字化进程、确保发音一致性并自动化修正工作。
 
-- `extract_pdf.py` - Extract images from PDF / 从 PDF 提取图片
-- `convert_to_jxl.py` - Convert to JPEG XL / 转换为 JXL 格式
+### Features / 功能特性
+- **Automated Quality Control**: Phonetic consistency analysis and alignment shift (displacement) detection.
+- **Intelligent Fixer**: Auto-correction of OCR artifacts (ghost numbers) and safe alignment fixes.
+- **Rule Induction**: Automatically learns phonetic mapping rules from the corpus to guide corrections.
+- **Typst Integration**: One-click compilation of the digital edition with standardized metadata.
 
-**Requirements**: `pymupdf`, `pillow`, `pillow-jxl-plugin`
+### Usage / 使用方法
+Requires [uv](https://github.com/astral-sh/uv) or standard Python 3.10+.
+
+```bash
+# Analysis
+uv run python xtask.py analyze all          # Run all quality checks
+uv run python xtask.py analyze displacement # Check for page alignment issues
+
+# Repair
+uv run python xtask.py fix --auto           # Apply safe fixes project-wide
+
+# Build
+uv run python xtask.py compile              # Build the PDF edition
+```
 
 ---
 
-*Digitized 2026-01-13*
+*Digitized & Maintained 2026-01-15*

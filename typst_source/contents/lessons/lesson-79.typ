@@ -11,7 +11,10 @@
 )#footnote[Commercial port.] #r("Kauh-kok-kuh", "各国个") #r("pak-sing", "百姓") #r("lau", "咾") #r(
   "sang-i-nyung",
   "生意人",
-) #r("zen", "全") #r("yeu", "有") #r("kuh", "个") #r("kuh.", " ") #r("Ka-loo", "街路") #r("meh,", "末，") #r("kwheh", "阔") #r(
+) #r("zen", "全") #r("yeu", "有") #r("kuh", "个") #r("kuh.", " ") #r("Ka-loo", "街路") #r("meh,", "末，") #r(
+  "kwheh",
+  "阔",
+) #r(
   "lau",
   "咾",
 ) #r("tshing-saung.", "清爽。") #r("Liang-mien-kuh", "两面个") #r("vaung-ts", "房子") #r("meh,", "末，") #r(
@@ -60,7 +63,7 @@
   "拉。",
 )
 
- #r("Nga-bak-doo", "外白大桥") #r("jau", " ") #r("'au-thoo", "下块")#footnote[Garden bridge.] #r(
+#r("Nga-bak-doo", "外白大桥") #r("jau", " ") #r("'au-thoo", "下块")#footnote[Garden bridge.] #r(
   "yeu",
   "有",
 ) #r("ih", "一") #r("zoo", "座") #r("koong-ka", "公家") #r("hwo-yoen", "花园") #r("zeh-dze", "实在")  #r(
@@ -81,7 +84,10 @@
 ) #r("s-tseu-we.", "四周围。") #r("Beh-siang-kuh", "勃相个") #r("nyung", "人") #r("sa-doo-ts", "弛瘏之") #r(
   "meh,",
   "末",
-) #r("hau", "好") #r("zoo", "坐") #r("la", "拉") #r("iui-ts", "椅子") #r("zaung", "上") #r("hyih", "歇") #r("sih", "息") #r("hyih", "歇") #r("sih", "息")
+) #r("hau", "好") #r("zoo", "坐") #r("la", "拉") #r("iui-ts", "椅子") #r("zaung", "上") #r("hyih", "歇") #r(
+  "sih",
+  "息",
+) #r("hyih", "歇") #r("sih", "息")
 
 #r("La", "拉") #r("hwo-yoen-kuh", "花园个") #r("nen-mien", "南面") #r("z", "是") #r("ih-kwhe", "一块") #r(
   "tshau-di",
@@ -205,7 +211,7 @@
 ) #r("chi", "去") #r("hyih-'au", "歇夏") #r("lau,", "咾") #r("tau", "到") #r("Soo-tseu", "苏州") #r("lau,", "咾") #r(
   "'Aung-tseu",
   "杭州",
-) #r("chi", "去") #r("tang-tiau.", "打写 (鸟)。") #r("Zaung-he", "上海") #r("z", "是") #r(
+) #r("chi", "去") #r("tang-tiau.", "打窵 (鸟)。") #r("Zaung-he", "上海") #r("z", "是") #r(
   "hau-di-faung,",
   "好地方，",
 ) #r("dan-z", "但是") #r("la", "拉") #r("i-deu", "伊头") #r("yoong-yi", "容易") #r("fi-theh", "费脱") #r(

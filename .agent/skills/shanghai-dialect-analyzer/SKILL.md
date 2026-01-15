@@ -49,6 +49,16 @@ This skill allows the agent to perform deep quality analysis on the Shanghai dia
 | `src/fixer.py` | Auto-fix engine using the improved knowledge base |
 | `src/analyzers/displacement.py` | Alignment diagnosis with shift detection |
 
+## Resources
+
+- **Examples**: See `examples/` for detailed problem/solution cases:
+    - `ghost_numbers.md`: OCR artifact removal.
+    - `beh-siang_case.md`: Handling dialectal spelling vs. tool suggestions.
+    - `leh-la_case.md`: Grammatical particle transcription.
+- **Scripts**: See `scripts/` for helper utilities:
+    - `check_lesson.sh`: Combined analysis and fix preview.
+    - `recompile.sh`: Wrapper for project compilation.
+
 ## Romanization Mapping Examples
 
 | Church (1910) | Wugniu (Modern) | IPA | Notes |
@@ -61,18 +71,23 @@ This skill allows the agent to perform deep quality analysis on the Shanghai dia
 
 ## Usage
 
-```bash
-# Analysis
-uv run python xtask.py analyze all
-uv run python xtask.py analyze displacement
+# Analysis (Quality Control)
+uv run python xtask.py analyze all          # Run all analyzers
+uv run python xtask.py analyze displacement # Check for alignment shifts
+uv run python xtask.py analyze priority     # Generate weighted priority list
 uv run python xtask.py analyze displacement lesson-49  # Target specific file
 
-# Rule Learning (Update Knowledge Base)
-uv run python xtask.py learn --save
+# Repair & Correction
+uv run python xtask.py fix --auto           # Apply 🟢 SAFE fixes project-wide
+uv run python xtask.py fix lesson-26 -i     # Interactively review issues
 
-# General Repair Workflow
-uv run python xtask.py fix --auto          # Safely apply high-confidence fixes project-wide
-uv run python xtask.py fix lesson-26 -i   # Interactively review complex issues
+# Knowledge & Learning
+uv run python xtask.py learn --save         # Re-train phonetic rules from current corpus
+
+# Project Maintenance
+uv run python xtask.py compile              # Build PDF with metadata and standard name
+uv run python xtask.py extract              # Extract source images from PDF
+uv run python xtask.py convert              # Convert images to JXL/JPG
 ```
 
 ## Fix Command Options
