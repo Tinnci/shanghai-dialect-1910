@@ -27,11 +27,30 @@ This skill allows the agent to perform deep quality analysis on the Shanghai dia
    - **Safety Levels**: Classifies fixes into 🟢 `SAFE` (Auto-applicable), 🟡 `REVIEW` (Likely correct but needs check), and 🔴 `MANUAL` (Requires user intervention).
    - **Corpus Context**: Displays usage examples of the specific character from the entire book to help verify pronunciations.
    - **Reduplication Protection**: Automatically skips all corrections for reduplicated hanzi (e.g., "拉拉", "看看") to preserve tone sandhi records.
+   - **Rime Dictionary Validation**: Uses `external/rime-wugniu_zaonhe` (9166 chars, 23936 phrases, 1147 polyphonic chars) to verify pronunciations.
+   - **Cross-Scheme Phonetic Similarity**: Correctly maps 1910 Church Romanization to modern Wugniu Pinyin (e.g., `nyih` ↔ `gniq`, `zeh` ↔ `zeq` for "日").
    - Supports dry-run, interactive, and auto modes.
 
-## Usage
+## Core Modules
 
-The agent should invoke the `xtask.py` runner to perform these tasks.
+| Module | Purpose |
+|--------|---------|
+| `src/romanization.py` | Church Romanization ↔ Wugniu Pinyin conversion and phonetic similarity |
+| `src/rime_dict.py` | Rime dictionary loader, polyphonic detection, pronunciation validation |
+| `src/fixer.py` | Auto-fix engine with safety levels and protection mechanisms |
+| `src/analyzers/displacement.py` | Alignment diagnosis with shift detection |
+
+## Romanization Mapping Examples
+
+| Church (1910) | Wugniu (Modern) | IPA | Notes |
+|---------------|-----------------|-----|-------|
+| `ny` | `gn` | /ɲ/ | 日母 (Ri initial) |
+| `tsh` | `ch` | /tsʰ/ | 清母 (Aspirated affricate) |
+| `dz` | `j`/`z` | /dz/ | 从母 (Voiced affricate) |
+| `-h` (入声) | `-q` | /-ʔ/ | 入声韵尾 (Glottal stop) |
+| `aung` | `aon` | /ɔ̃/ | 鼻化韵 |
+
+## Usage
 
 ```bash
 # Analysis
@@ -57,7 +76,8 @@ uv run python xtask.py fix lesson-26 -i   # Interactively review complex issues
 
 1. **Discovery**: Run `analyze displacement` to identify high-mismatch files.
 2. **Safe Pre-cleaning**: Run `fix --auto` to resolve hundreds of simple alignment and spelling issues project-wide. 
-3. **Reduplication Guard**: Note that the fixer will NOT touch words like "拉拉" (`leh-la`/`la-la`) to prevent corrupting dialectal tone variations.
-4. **Interactive Polish**: For files with high mismatch remaining, use `fix <target> --interactive`. Use the "📖 全书用例" (Corpus Examples) in the output as your primary reference for deciding `y/n`.
-5. **Final Verification**: Re-run `analyze displacement` to confirm the file is now [CLEAN].
+3. **Polyphonic Protection**: The fixer will NOT touch multi-reading characters like "日" (`nyih`/`zeh`), "拉" (`la`/`leh`), validated against Rime dictionary.
+4. **Reduplication Guard**: Words like "拉拉" (`leh-la`/`la-la`) are preserved to protect dialectal tone sandhi.
+5. **Interactive Polish**: For files with high mismatch remaining, use `fix <target> --interactive`. Use the "📖 全书用例" (Corpus Examples) in the output as your primary reference for deciding `y/n`.
+6. **Final Verification**: Re-run `analyze displacement` to confirm the file is now [CLEAN].
 
