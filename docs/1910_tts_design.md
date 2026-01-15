@@ -47,17 +47,26 @@ Prevent the model from "learning" to merge Sharpe/Round sounds during modern dat
 
 A generative architecture to solve "Prosody Averaging" and support few-shot learning of old-style features.
 
-### 3.1 Core Architecture: Matcha-TTS (Flow Matching)
-We select **Matcha-TTS** (based on Optimal Transport Conditional Flow Matching) over Diffusion models.
+### 3.1 Core Architecture: based on Matcha-TTS (Flow Matching)
+We select **Matcha-TTS** (based on Optimal Transport Conditional Flow Matching) as the acoustic baseline.
 
 *   **Speed & Detail**: Generated trajectories are straighter, allowing high-frequency detail generation (crucial for **Glottal Stops**) in fewer steps (10-50).
 *   **ODE Solver**: Stable mapping from noise to acoustic features, reducing "pronunciation collapse".
 
-### 3.2 Stochastic Duration Predictor
-To simulate natural speech rhythm and the specific "Drawl vs. Rush" (拖音 vs. 促音) contrast of Old Shanghai dialect.
+### 3.2 Enhancement: Stochastic Duration Predictor (SDP)
+Original Matcha-TTS uses a deterministic duration predictor (MSE loss). To capture the **prosodic variability** of 1910 Shanghai Dialect (which relies heavily on tone length contrasts like "short checked tone" vs "long dragged tone"), we integrate the **Stochastic Duration Predictor** from VITS.
 
-*   **Mechanism**: Predict duration probability distributions rather than deterministic values.
-*   **Effect**: Introduces micro-variations in speed and pauses (e.g., in "Ngoo tang-tsoh vaung-tuh"), avoiding a robotic "reading tone".
+*   **Why Stochastic?**:
+    *   Old dialect speakers often vary their speaking rate dynamically to emphasize specific modal particles (e.g., "lau", "tse").
+    *   A deterministic predictor averages these out, resulting in flat, robotic rhythm.
+    *   SDP models duration as a **distribution** via Flow-based normalization, allowing us to sample diverse rhythmic interpretations for the same text.
+    
+*   **Architecture Integration**:
+    *   **Input**: Text Encodings ($h_{text}$) conditioning via Normalizing Flows.
+    *   **Training**: Maximizes the log-likelihood of the ground-truth phonetic durations (derived from Montreal Forced Aligner).
+    *   **Inference**: Samples random noise $\epsilon \sim N(0, I)$ and transforms it into duration values using the inverse flow. This injects "life" into the rhythm.
+
+*   **Code Prototype**: See `src/model_proto/matcha_hybrid.py` for the PyTorch implementation blueprint.
 
 ---
 
