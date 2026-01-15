@@ -24,8 +24,9 @@ This skill allows the agent to perform deep quality analysis on the Shanghai dia
    - Categorizes files into Critical, High, Medium, and Low priority for manual proofreading.
 
 4. **Auto-Fix (`fix`)**:
-   - Automatically repairs Ruby pairs with mismatched character/syllable counts.
-   - Uses a pronunciation database built from the entire corpus.
+   - **Safety Levels**: Classifies fixes into 🟢 `SAFE` (Auto-applicable), 🟡 `REVIEW` (Likely correct but needs check), and 🔴 `MANUAL` (Requires user intervention).
+   - **Corpus Context**: Displays usage examples of the specific character from the entire book to help verify pronunciations.
+   - **Reduplication Protection**: Automatically skips all corrections for reduplicated hanzi (e.g., "拉拉", "看看") to preserve tone sandhi records.
    - Supports dry-run, interactive, and auto modes.
 
 ## Usage
@@ -37,25 +38,26 @@ The agent should invoke the `xtask.py` runner to perform these tasks.
 uv run python xtask.py analyze all
 uv run python xtask.py analyze displacement
 
-# Fixing (dry-run first!)
-uv run python xtask.py fix lesson-26 --dry-run
-uv run python xtask.py fix lesson-26 --interactive
-uv run python xtask.py fix --all --auto --no-backup
+# General Repair Workflow
+uv run python xtask.py fix --auto          # Safely apply high-confidence fixes project-wide
+uv run python xtask.py fix lesson-26 -i   # Interactively review complex issues
 ```
 
 ## Fix Command Options
 
 | Option | Description |
 |--------|-------------|
-| `--dry-run` | Preview fixes without modifying files |
-| `-i, --interactive` | Confirm each fix with y/n/s/q |
-| `--auto` | Apply all high-confidence fixes automatically |
-| `--no-backup` | Skip creating `.bak` backup files |
+| `target` | Filename (e.g. `lesson-26`) or empty for all files. |
+| `--dry-run` | Preview fixes with 🟢/🟡/🔴 indicators without modifying files. |
+| `-i, --interactive` | Manually confirm each fix with `y/n/s/q`. |
+| `--auto` | Automatically apply ONLY 🟢 `SAFE` level fixes. |
+| `--no-backup` | Skip creating `.bak` backup files. |
 
 ## Strategy for Analysis & Repair
 
-1. **Analyze All First**: Run `analyze displacement` to identify files with alignment issues.
-2. **Dry-Run Fix**: Use `fix <file> --dry-run` to preview what would be changed.
-3. **Interactive Fix**: Use `fix <file> -i` to carefully review and apply fixes.
-4. **Verify**: Re-run `analyze displacement` to confirm the file is now clean.
+1. **Discovery**: Run `analyze displacement` to identify high-mismatch files.
+2. **Safe Pre-cleaning**: Run `fix --auto` to resolve hundreds of simple alignment and spelling issues project-wide. 
+3. **Reduplication Guard**: Note that the fixer will NOT touch words like "拉拉" (`leh-la`/`la-la`) to prevent corrupting dialectal tone variations.
+4. **Interactive Polish**: For files with high mismatch remaining, use `fix <target> --interactive`. Use the "📖 全书用例" (Corpus Examples) in the output as your primary reference for deciding `y/n`.
+5. **Final Verification**: Re-run `analyze displacement` to confirm the file is now [CLEAN].
 
