@@ -157,9 +157,43 @@ def is_known_polyphonic(char: str) -> bool:
 
 
 def get_char_variants(char: str) -> Set[str]:
-    """获取单字的所有读音变体"""
+    """获取单字的所有读音变体 (吴语学堂拼音)"""
     char_pinyins, _, _ = get_rime_data()
     return char_pinyins.get(char, set())
+
+
+def is_valid_pronunciation(char: str, church_pinyin: str, threshold: float = 0.7) -> bool:
+    """
+    检查教会罗马字是否是该汉字的合法读音
+    
+    通过将教会罗马字与 Rime 词典中的吴语学堂拼音进行音系比较来判断。
+    
+    Args:
+        char: 汉字
+        church_pinyin: 教会罗马字拼音
+        threshold: 相似度阈值 (默认 0.7)
+    
+    Returns:
+        True 如果拼音是该字的合法读音变体
+    """
+    try:
+        from .romanization import phonetic_similarity
+    except ImportError:
+        from romanization import phonetic_similarity
+    
+    variants = get_char_variants(char)
+    if not variants:
+        return False  # 词典中没有该字，无法验证
+    
+    # 清理输入
+    church_pinyin = church_pinyin.lower().strip("',.-")
+    
+    for wugniu_variant in variants:
+        sim = phonetic_similarity(church_pinyin, wugniu_variant)
+        if sim >= threshold:
+            return True
+    
+    return False
 
 
 if __name__ == "__main__":
@@ -169,9 +203,13 @@ if __name__ == "__main__":
     print(f"多音字数量: {len(polyphonic)}")
     
     # 测试"日"字
-    print(f"\n'日' 的读音: {char_pinyins.get('日', set())}")
+    print(f"\n'日' 的读音 (吴语学堂): {char_pinyins.get('日', set())}")
     print(f"'日' 是多音字: {is_known_polyphonic('日')}")
+    print(f"'nyih' 是 '日' 的合法读音: {is_valid_pronunciation('日', 'nyih')}")
+    print(f"'zeh' 是 '日' 的合法读音: {is_valid_pronunciation('日', 'zeh')}")
     
     # 测试"拉"字
-    print(f"\n'拉' 的读音: {char_pinyins.get('拉', set())}")
+    print(f"\n'拉' 的读音 (吴语学堂): {char_pinyins.get('拉', set())}")
     print(f"'拉' 是多音字: {is_known_polyphonic('拉')}")
+    print(f"'la' 是 '拉' 的合法读音: {is_valid_pronunciation('拉', 'la')}")
+    print(f"'leh' 是 '拉' 的合法读音: {is_valid_pronunciation('拉', 'leh')}")

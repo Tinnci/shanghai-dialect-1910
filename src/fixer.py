@@ -12,7 +12,7 @@ from collections import defaultdict
 
 from .loader import LessonFile, load_lessons
 from .utils import split_characters, get_similarity, normalize_pinyin
-from .rime_dict import is_known_polyphonic
+from .rime_dict import is_known_polyphonic, is_valid_pronunciation
 
 class FixStrategy(Enum):
     SPLIT_RUBY = auto()      # 拆分：汉字多于拼音
@@ -132,8 +132,9 @@ def analyze_ruby_pair(pinyin: str, hanzi: str, pron_db: Dict[str, CharPronInfo])
                 if info.is_polyphonic and py in info.all_pinyins:
                     continue
                 
-                # 使用 Rime 词典验证：如果该字是已知多音字，跳过自动修正
-                if is_known_polyphonic(char):
+                # 使用 Rime 词典 + 音系相似度验证：
+                # 如果当前拼音是该字的合法读音变体（考虑教会罗马字到吴语学堂的转换），跳过修正
+                if is_valid_pronunciation(char, py):
                     continue
                     
                 if sim < 0.5 and sim > 0:
