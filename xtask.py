@@ -263,10 +263,40 @@ def main():
         )
 
     elif args.command == "train":
-        print("🚧 Training command not yet implemented.")
-        print("   Use: uv run python -m matcha.train --config <config>")
+        import subprocess
+
+        matcha_dir = project_root / "external" / "Matcha-TTS"
+
         if args.dry_run:
-            print("   (dry-run mode)")
+            print("� Dry-run mode: validating config...")
+            cmd = [
+                "uv",
+                "run",
+                "python",
+                "-c",
+                "from hydra import compose, initialize; "
+                "initialize(config_path='configs', version_base=None); "
+                "cfg = compose(config_name='train', overrides=['experiment=shanghai_1910']); "
+                "print('✓ Config valid:', cfg.run_name)",
+            ]
+        else:
+            print("🍵 Starting Matcha-TTS training...")
+            cmd = [
+                "uv",
+                "run",
+                "python",
+                "-m",
+                "matcha.train",
+                "experiment=shanghai_1910",
+            ]
+            if args.resume:
+                cmd.append(f"ckpt_path={args.resume}")
+
+        try:
+            subprocess.run(cmd, cwd=str(matcha_dir), check=True)
+        except subprocess.CalledProcessError as e:
+            print(f"✗ Training failed: {e}")
+            sys.exit(1)
 
     elif args.command == "fix":
         run_fixer(
