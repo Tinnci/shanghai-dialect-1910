@@ -62,9 +62,9 @@ INITIAL_CHURCH_TO_WUGNIU = {
     # 疑母
     "ng": ["ng"],
     # 见系
-    "ky": ["c", "j", "ci"],      # 见母腭化
-    "ch": ["ch", "q", "tsh"],    # 清母送气
-    "hy": ["sh", "x", "hi"],     # 晓母腭化
+    "ky": ["c", "j", "ci"],  # 见母腭化
+    "ch": ["ch", "q", "tsh"],  # 清母送气
+    "hy": ["sh", "x", "hi"],  # 晓母腭化
     "kh": ["kh"],
     "kwh": ["khw", "khu"],
     "kw": ["kw", "ku", "gw"],
@@ -160,15 +160,74 @@ FINAL_CHURCH_TO_WUGNIU = {
 }
 
 # ============ 声母列表 (按长度排序) ============
-CHURCH_INITIALS = sorted([
-    "tsh", "dz", "ts", "ng", "ny", "kh", "ph", "th", "gh", "ch", "sh",
-    "k", "h", "m", "n", "l", "v", "f", "p", "b", "t", "d", "s", "z", "j", "'"
-], key=lambda x: -len(x))
+CHURCH_INITIALS = sorted(
+    [
+        "tsh",
+        "dz",
+        "ts",
+        "ng",
+        "ny",
+        "kh",
+        "ph",
+        "th",
+        "gh",
+        "ch",
+        "sh",
+        "k",
+        "h",
+        "m",
+        "n",
+        "l",
+        "v",
+        "f",
+        "p",
+        "b",
+        "t",
+        "d",
+        "s",
+        "z",
+        "j",
+        "'",
+    ],
+    key=lambda x: -len(x),
+)
 
-WUGNIU_INITIALS = sorted([
-    "tsh", "dz", "ts", "ng", "gn", "kh", "ph", "th", "gh", "ch", "sh", "zh",
-    "k", "h", "m", "n", "l", "v", "w", "f", "p", "b", "t", "d", "s", "z", "j", "c", "q", "x", "'"
-], key=lambda x: -len(x))
+WUGNIU_INITIALS = sorted(
+    [
+        "tsh",
+        "dz",
+        "ts",
+        "ng",
+        "gn",
+        "kh",
+        "ph",
+        "th",
+        "gh",
+        "ch",
+        "sh",
+        "zh",
+        "k",
+        "h",
+        "m",
+        "n",
+        "l",
+        "v",
+        "w",
+        "f",
+        "p",
+        "b",
+        "t",
+        "d",
+        "s",
+        "z",
+        "j",
+        "c",
+        "q",
+        "x",
+        "'",
+    ],
+    key=lambda x: -len(x),
+)
 
 
 def split_syllable_church(syllable: str) -> Tuple[str, str]:
@@ -176,11 +235,11 @@ def split_syllable_church(syllable: str) -> Tuple[str, str]:
     syllable = syllable.lower().strip("',.")
     if not syllable:
         return "", ""
-    
+
     for init in CHURCH_INITIALS:
         if syllable.startswith(init):
-            return init, syllable[len(init):]
-    
+            return init, syllable[len(init) :]
+
     return "", syllable
 
 
@@ -189,47 +248,47 @@ def split_syllable_wugniu(syllable: str) -> Tuple[str, str]:
     syllable = syllable.lower().strip("',.")
     if not syllable:
         return "", ""
-    
+
     for init in WUGNIU_INITIALS:
         if syllable.startswith(init):
-            return init, syllable[len(init):]
-    
+            return init, syllable[len(init) :]
+
     return "", syllable
 
 
 def church_to_wugniu_candidates(syllable: str) -> List[str]:
     """
     将教会罗马字转换为可能的吴语学堂拼音候选
-    
+
     Returns:
         可能的吴语学堂拼音列表
     """
     init, final = split_syllable_church(syllable)
-    
+
     init_candidates = INITIAL_CHURCH_TO_WUGNIU.get(init, [init])
     final_candidates = FINAL_CHURCH_TO_WUGNIU.get(final, [final])
-    
+
     # 组合所有可能
     candidates = []
     for i in init_candidates:
         for f in final_candidates:
             candidates.append(i + f)
-    
+
     return candidates
 
 
 def phonetic_similarity(church_py: str, wugniu_py: str) -> float:
     """
     计算教会罗马字和吴语学堂拼音之间的音系相似度
-    
+
     基于声母和韵母的对应关系给分，而非简单的字符串相似度。
-    
+
     Returns:
         0.0 - 1.0 之间的相似度
     """
     church_init, church_final = split_syllable_church(church_py)
     wugniu_init, wugniu_final = split_syllable_wugniu(wugniu_py)
-    
+
     # 声母匹配分数
     init_score = 0.0
     expected_wugniu_inits = INITIAL_CHURCH_TO_WUGNIU.get(church_init, [])
@@ -243,7 +302,7 @@ def phonetic_similarity(church_py: str, wugniu_py: str) -> float:
             if exp and wugniu_init and (exp[0] == wugniu_init[0]):
                 init_score = 0.5
                 break
-    
+
     # 韵母匹配分数
     final_score = 0.0
     expected_wugniu_finals = FINAL_CHURCH_TO_WUGNIU.get(church_final, [])
@@ -253,22 +312,24 @@ def phonetic_similarity(church_py: str, wugniu_py: str) -> float:
         final_score = 0.8
     else:
         # 入声对应检查 (-h <-> -q)
-        if church_final.endswith('h') and wugniu_final.endswith('q'):
+        if church_final.endswith("h") and wugniu_final.endswith("q"):
             if church_final[:-1] == wugniu_final[:-1]:
                 final_score = 0.9
         # 部分匹配
         elif church_final and wugniu_final:
             # 主元音相同
-            vowels_church = re.sub(r'[^aeiou]', '', church_final)
-            vowels_wugniu = re.sub(r'[^aeiou]', '', wugniu_final)
+            vowels_church = re.sub(r"[^aeiou]", "", church_final)
+            vowels_wugniu = re.sub(r"[^aeiou]", "", wugniu_final)
             if vowels_church and vowels_wugniu and vowels_church[0] == vowels_wugniu[0]:
                 final_score = 0.5
-    
+
     # 综合分数 (声母和韵母各占一半)
     return (init_score + final_score) / 2
 
 
-def are_phonetically_equivalent(church_py: str, wugniu_py: str, threshold: float = 0.7) -> bool:
+def are_phonetically_equivalent(
+    church_py: str, wugniu_py: str, threshold: float = 0.7
+) -> bool:
     """
     判断教会罗马字和吴语学堂拼音是否音系等价
     """
@@ -278,20 +339,22 @@ def are_phonetically_equivalent(church_py: str, wugniu_py: str, threshold: float
 # ============ 测试 ============
 if __name__ == "__main__":
     test_pairs = [
-        ("nyih", "gniq"),   # 日 (应该高度相似)
-        ("zeh", "zeq"),     # 日 (另一读音)
-        ("la", "la"),       # 拉 (完全相同)
-        ("leh", "laq"),     # 拉 (入声变体)
-        ("tshang", "chan"), # 长
+        ("nyih", "gniq"),  # 日 (应该高度相似)
+        ("zeh", "zeq"),  # 日 (另一读音)
+        ("la", "la"),  # 拉 (完全相同)
+        ("leh", "laq"),  # 拉 (入声变体)
+        ("tshang", "chan"),  # 长
         ("dzoong", "jon"),  # 从
-        ("aung", "aon"),    # 鼻化韵
-        ("kuh", "keq"),     # 个
+        ("aung", "aon"),  # 鼻化韵
+        ("kuh", "keq"),  # 个
         ("nyung", "gnin"),  # 人
     ]
-    
+
     print("教会罗马字 vs 吴语学堂拼音 相似度测试:")
     print("=" * 60)
     for church, wugniu in test_pairs:
         sim = phonetic_similarity(church, wugniu)
         candidates = church_to_wugniu_candidates(church)
-        print(f"{church:10} <-> {wugniu:10} | 相似度: {sim:.2f} | 候选: {candidates[:3]}")
+        print(
+            f"{church:10} <-> {wugniu:10} | 相似度: {sim:.2f} | 候选: {candidates[:3]}"
+        )

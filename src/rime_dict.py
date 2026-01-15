@@ -2,6 +2,7 @@
 Rime 吴语词典加载工具
 用于从 rime-wugniu_zaonhe 词库中提取词组和多音字信息
 """
+
 from pathlib import Path
 from collections import defaultdict
 from typing import Dict, Set, List, Tuple
@@ -10,35 +11,35 @@ from typing import Dict, Set, List, Tuple
 # 注意：这只是一个近似映射，实际转换可能需要更精细的规则
 WUGNIU_TO_ROMANIZATION = {
     # 声母
-    'gn': 'ny',   # 日母
-    'gh': '',     # 疑母
-    'ng': 'ng',
-    'ny': 'ny',
-    'sh': 's',
-    'zh': 'dz',
-    'ch': 'tsh',
-    'j': 'dz',
-    'q': 'tsh',
-    'x': 's',
-    'c': 'ts',
-    'z': 'z',
+    "gn": "ny",  # 日母
+    "gh": "",  # 疑母
+    "ng": "ng",
+    "ny": "ny",
+    "sh": "s",
+    "zh": "dz",
+    "ch": "tsh",
+    "j": "dz",
+    "q": "tsh",
+    "x": "s",
+    "c": "ts",
+    "z": "z",
     # 韵母
-    'iq': 'ih',   # 入声 -q
-    'eq': 'eh',
-    'aq': 'ah',
-    'oq': 'oh',
-    'uq': 'uh',
-    'oe': 'eu',
-    'ao': 'au',
-    'ou': 'eu',
-    'iu': 'ieu',
-    'ui': 'ui',
-    'an': 'an',
-    'en': 'en',
-    'in': 'in',
-    'on': 'ong',
-    'un': 'ung',
-    'aon': 'aung',
+    "iq": "ih",  # 入声 -q
+    "eq": "eh",
+    "aq": "ah",
+    "oq": "oh",
+    "uq": "uh",
+    "oe": "eu",
+    "ao": "au",
+    "ou": "eu",
+    "iu": "ieu",
+    "ui": "ui",
+    "an": "an",
+    "en": "en",
+    "in": "in",
+    "on": "ong",
+    "un": "ung",
+    "aon": "aung",
 }
 
 
@@ -53,68 +54,72 @@ def convert_wugniu_to_romanization(wugniu: str) -> str:
     return result
 
 
-def load_rime_dict(dict_path: Path) -> Tuple[Dict[str, Set[str]], Dict[str, List[Tuple[str, str]]]]:
+def load_rime_dict(
+    dict_path: Path,
+) -> Tuple[Dict[str, Set[str]], Dict[str, List[Tuple[str, str]]]]:
     """
     加载 Rime 词典文件
-    
+
     返回:
         char_pinyins: Dict[汉字, Set[拼音变体]]  - 单字的所有可能读音
         phrase_pinyins: Dict[词组, List[(拼音序列, 权重)]] - 多字词组的读音
     """
     char_pinyins: Dict[str, Set[str]] = defaultdict(set)
     phrase_pinyins: Dict[str, List[Tuple[str, str]]] = defaultdict(list)
-    
+
     if not dict_path.exists():
         print(f"警告: 词典文件不存在: {dict_path}")
         return char_pinyins, phrase_pinyins
-    
+
     in_dict_section = False
-    
-    with open(dict_path, 'r', encoding='utf-8') as f:
+
+    with open(dict_path, "r", encoding="utf-8") as f:
         for line in f:
             line = line.strip()
-            
+
             # 跳过 YAML 头部和空行
-            if line == '...' or line == '---':
+            if line == "..." or line == "---":
                 in_dict_section = True
                 continue
-            if not in_dict_section or not line or line.startswith('#'):
+            if not in_dict_section or not line or line.startswith("#"):
                 continue
-            
+
             # 解析词条: 汉字\t拼音[\t权重]
-            parts = line.split('\t')
+            parts = line.split("\t")
             if len(parts) < 2:
                 continue
-            
+
             hanzi = parts[0]
             pinyin = parts[1]
             weight = parts[2] if len(parts) > 2 else ""
-            
+
             # 单字
             if len(hanzi) == 1:
                 char_pinyins[hanzi].add(pinyin)
             else:
                 # 多字词组
                 phrase_pinyins[hanzi].append((pinyin, weight))
-                
+
                 # 同时记录词组中各字的读音
                 py_parts = pinyin.split()
                 chars = list(hanzi)
                 if len(py_parts) == len(chars):
                     for c, p in zip(chars, py_parts):
                         char_pinyins[c].add(p)
-    
+
     return dict(char_pinyins), dict(phrase_pinyins)
 
 
-def build_polyphonic_set(char_pinyins: Dict[str, Set[str]], min_variants: int = 2) -> Set[str]:
+def build_polyphonic_set(
+    char_pinyins: Dict[str, Set[str]], min_variants: int = 2
+) -> Set[str]:
     """
     构建多音字集合
-    
+
     Args:
         char_pinyins: 单字-拼音映射
         min_variants: 最少需要多少个不同读音才算多音字
-    
+
     Returns:
         多音字集合
     """
@@ -125,7 +130,9 @@ def build_polyphonic_set(char_pinyins: Dict[str, Set[str]], min_variants: int = 
     return polyphonic
 
 
-def get_phrase_pinyin(phrase: str, phrase_pinyins: Dict[str, List[Tuple[str, str]]]) -> str:
+def get_phrase_pinyin(
+    phrase: str, phrase_pinyins: Dict[str, List[Tuple[str, str]]]
+) -> str:
     """
     获取词组的标准拼音 (取第一个可能的读音)
     """
@@ -135,7 +142,9 @@ def get_phrase_pinyin(phrase: str, phrase_pinyins: Dict[str, List[Tuple[str, str
 
 
 # 预加载词典
-_RIME_DICT_PATH = Path(__file__).parent.parent / "external/rime-wugniu_zaonhe/wugniu_zaonhe.dict.yaml"
+_RIME_DICT_PATH = (
+    Path(__file__).parent.parent / "external/rime-wugniu_zaonhe/wugniu_zaonhe.dict.yaml"
+)
 _CHAR_PINYINS, _PHRASE_PINYINS = None, None
 _POLYPHONIC_CHARS = None
 
@@ -161,17 +170,19 @@ def get_char_variants(char: str) -> Set[str]:
     return char_pinyins.get(char, set())
 
 
-def is_valid_pronunciation(char: str, church_pinyin: str, threshold: float = 0.7) -> bool:
+def is_valid_pronunciation(
+    char: str, church_pinyin: str, threshold: float = 0.7
+) -> bool:
     """
     检查教会罗马字是否是该汉字的合法读音
-    
+
     通过将教会罗马字与 Rime 词典中的吴语学堂拼音进行音系比较来判断。
-    
+
     Args:
         char: 汉字
         church_pinyin: 教会罗马字拼音
         threshold: 相似度阈值 (默认 0.7)
-    
+
     Returns:
         True 如果拼音是该字的合法读音变体
     """
@@ -179,19 +190,19 @@ def is_valid_pronunciation(char: str, church_pinyin: str, threshold: float = 0.7
         from .romanization import phonetic_similarity
     except ImportError:
         from romanization import phonetic_similarity
-    
+
     variants = get_char_variants(char)
     if not variants:
         return False  # 词典中没有该字，无法验证
-    
+
     # 清理输入
     church_pinyin = church_pinyin.lower().strip("',.-")
-    
+
     for wugniu_variant in variants:
         sim = phonetic_similarity(church_pinyin, wugniu_variant)
         if sim >= threshold:
             return True
-    
+
     return False
 
 
@@ -200,13 +211,13 @@ if __name__ == "__main__":
     char_pinyins, phrase_pinyins, polyphonic = get_rime_data()
     print(f"加载了 {len(char_pinyins)} 个单字, {len(phrase_pinyins)} 个词组")
     print(f"多音字数量: {len(polyphonic)}")
-    
+
     # 测试"日"字
     print(f"\n'日' 的读音 (吴语学堂): {char_pinyins.get('日', set())}")
     print(f"'日' 是多音字: {is_known_polyphonic('日')}")
     print(f"'nyih' 是 '日' 的合法读音: {is_valid_pronunciation('日', 'nyih')}")
     print(f"'zeh' 是 '日' 的合法读音: {is_valid_pronunciation('日', 'zeh')}")
-    
+
     # 测试"拉"字
     print(f"\n'拉' 的读音 (吴语学堂): {char_pinyins.get('拉', set())}")
     print(f"'拉' 是多音字: {is_known_polyphonic('拉')}")
