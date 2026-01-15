@@ -1,3 +1,6 @@
 [submodule "external/rime-wugniu_zaonhe"]
 	path = external/rime-wugniu_zaonhe
 	url = https://github.com/NGLI/rime-wugniu_zaonhe.git
+[submodule "external/Matcha-TTS"]
+	path = external/Matcha-TTS
+	url = https://github.com/Tinnci/Matcha-TTS
