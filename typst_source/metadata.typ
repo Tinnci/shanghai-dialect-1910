@@ -12,7 +12,7 @@
 #let source-url = "https://archive.org/details/shanghai-dialect-exercises-in-romanized-and-character-with-key-to-pronunciation-and-english-index"
 
 #let copyright-notice = [
-  This work was originally published in #original-year and is in the *public domain*.
-  
-  本书原版出版于#original-year 年，已进入*公有领域*。
+  The original text (1910) is in the *Public Domain*. This digital edition, including the transcriptions and Typst layout code, is licensed under a *Creative Commons Attribution 4.0 International License* (CC BY 4.0).
+
+  本书原著（1910）属于*公有领域*。本数字化版本（包含文本转录与排版代码）基于 *知识共享 署名 4.0 国际许可协议* (CC BY 4.0) 授权。
 ]

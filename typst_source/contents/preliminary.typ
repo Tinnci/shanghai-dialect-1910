@@ -60,7 +60,7 @@
   #v(1fr)
 
   #block(inset: 1em)[
-    == Public Domain Notice / 公有版权声明
+    == License & Copyright / 版权与许可
 
     #copyright-notice
 

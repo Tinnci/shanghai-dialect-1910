@@ -17,11 +17,13 @@ D.H. Davis 牧师所著《上海方言练习》(1910) 的数字化档案。
 
 ---
 
-## Public Domain / 公有版权
+## License & Copyright / 版权与许可
 
-This work was published in 1910 and is in the **public domain**.
+- **Original Text (1910):** Public Domain.
+- **Digital Edition (Code & Layout):** Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-本书出版于 1910 年，已进入**公有领域**。
+- **原著文本 (1910):** 公有领域。
+- **数字化版本 (源码与排版):** 基于 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 协议授权。
 
 ---
 
