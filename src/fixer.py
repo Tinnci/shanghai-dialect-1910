@@ -114,6 +114,13 @@ def analyze_ruby_pair(pinyin: str, hanzi: str, pron_db: Dict[str, CharPronInfo])
     
     original = f'#r("{pinyin}", "{hanzi}")'
     
+    # 0. 保护机制：叠词检查 (如 "la-la" "拉拉")
+    # 如果拼音和汉字都是叠词，通常是连读变调，不做修改
+    if len(h_chars) == 2 and h_chars[0] == h_chars[1]:
+        if len(p_parts) == 2 and p_parts[0] == p_parts[1]:
+            # 拼音也是叠词 (如 la-la)，即使数据库说是 leh，也跳过
+            return None
+
     # 情况1: 长度匹配，检查拼写错误
     if len(p_parts) == len(h_chars):
         for i, (char, py) in enumerate(zip(h_chars, p_parts)):
