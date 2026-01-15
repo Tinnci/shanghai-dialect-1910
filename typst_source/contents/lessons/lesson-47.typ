@@ -36,25 +36,31 @@
 ) #r("i-hau", "医好") #r("di-kuh", "第个") #r("bing", "病") #r("kuh", "个") #r("fah-tsuh.", "法则。") #r(
   "Zien-nyih-ts",
   "前日子",
-) #r("ngoo", "我") #r("la", "拉") #r("khoen", "看") #r("sing-vaung-ts,", "新闻纸，") #r("khoen", "看到") #r(
+) #r("ngoo", "我") #r("la", "拉") #r("khoen", "看") #r("sing-vaung-ts,", "新闻纸，") #r("khoen", "看") #r(
   "tau",
-  "纽",
-) #r("Neu-yak-sang-kuh", "约省个")#footnote[New York.] #r("tsoong-tok,", "总督，")#footnote[Governor.] #r(
+  "到",
+) #r(
+  "Neu-yak-sang-kuh",
+  "纽约省个",
+) #r("tsoong-tok,", "总督，")#footnote[Governor.] #r(
   "yi",
   "伊",
 ) #r("kaung-lung", "讲论") #r("di-kuh", "第个") #r("mau-bing,", "毛病，") #r("zeh-dze", "实在") #r("z", "是") #r(
   "iau",
-  "过",
-) #r("koo-nyung-kuh,", "人个，") #r("soo-i", "所以") #r("nyi-ding-taung", "议定") #r("kwe-kyui;", "常规；") #r(
+  "要",
+) #r("koo-nyung-kuh,", "过人个，") #r("soo-i", "所以") #r("nyi-ding-taung", "议定当") #r("kwe-kyui;", "常规；") #r(
   "van-i",
   "凡係",
 ) #r("i-sung", "医生") #r("khoen-dzak", "看着") #r("di-kuh", "第个") #r("mau-bing", "毛病") #r("meh,", "末") #r(
   "ih-ding",
   "一定",
-) #r("iau", "要") #r("pau-ming", "报明")#footnote[Report.] #r("kwen-foo", "官府") #r("lau,", "拿") #r("nau", "第个") #r(
+) #r("iau", "要") #r("pau-ming", "报明")#footnote[Report.] #r("kwen-foo", "官府") #r("lau,", "咾") #r("nau", "拿") #r(
   "di-kuh",
+  "第个",
+) #r(
+  "bing-nyung",
   "病人",
-) #r("bing-nyung", "搭") #r("tah", "好") #r("hau", "拉") #r("la-kuh-nyung", "个人") #r("fung-khe", "分开") #r(
+) #r("tah", "搭") #r("hau-la-kuh-nyung", "好拉个人") #r("fung-khe", "分开") #r(
   "le",
   "来",
 ) #r("dzu,", "住，") #r("mien-ts", "免之")#footnote[Avoid.] #r("di-kuh", "第个") #r("mau-bing", "毛病") #r(
@@ -62,10 +68,13 @@
   "传开",
 )#footnote[Spread.] #r("la", "拉") #r("kok-doo", "国度") #r("li", "裏") #r("lau", "咾") #r("too-chi-le.", "多起来。")
 
-#r("Ngoo", "我") #r("thing-khien", "听见") #r("yeu", "有人") #r("nyung", "话，") #r("wo,", "有") #r("yeu", "第个") #r(
-  "di-kuh",
+#r("Ngoo", "我") #r("thing-khien", "听见") #r("yeu", "有") #r("nyung", "人") #r("wo,", "话，") #r("yeu", "有") #r(
+  "di",
+  "第",
+) #r("kuh", "个") #r(
+  "mau-bing",
   "毛病",
-) #r("mau-bing-kuh", "个人") #r("nyung,", "顶") #r("ting-hau", "好") #r("meh,", "末") #r("z", "是") #r(
+) #r("kuh", "个") #r("nyung,", "人，") #r("ting", "顶") #r("hau", "好") #r("meh,", "末") #r("z", "是") #r(
   "kwhung-la",
   "睏拉",
 ) #r("tsang-boong", "帐篷")#footnote[Tent.] #r("li,", "裏") #r("'ok-tse", "或者") #r("la", "拉") #r(
@@ -88,7 +97,7 @@
 ) #r("di-faung,", "地方，") #r("z", "是") #r("i-kyung", "已经") #r("we-ts", "为之") #r("lau-bing", "痨病") #r(
   "nyung",
   "人",
-) #r("lau,", "特") #r("duh-we", "为")#footnote[Establish.] #r("seh-lih", "设立") #r("ih-kuh", "一个") #r(
+) #r("lau,", "咾") #r("duh-we", "特为")#footnote[Establish.] #r("seh-lih", "设立") #r("ih-kuh", "一个") #r(
   "hau",
   "好",
 ) #r("di-faung", "地方") #r("peh", "拨") #r("yi-la", "伊拉") #r("tung.", "登。") #r("Di-kuh", "第个") #r(
