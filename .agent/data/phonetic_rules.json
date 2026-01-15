@@ -1,0 +1,1043 @@
+{
+  "initial_rules": [
+    {
+      "source": "k",
+      "target": "gh",
+      "rule_type": "initial",
+      "context": "",
+      "count": 2437,
+      "examples": []
+    },
+    {
+      "source": "ny",
+      "target": "gn",
+      "rule_type": "initial",
+      "context": "",
+      "count": 1298,
+      "examples": []
+    },
+    {
+      "source": "",
+      "target": "gh",
+      "rule_type": "initial",
+      "context": "",
+      "count": 597,
+      "examples": []
+    },
+    {
+      "source": "dz",
+      "target": "z",
+      "rule_type": "initial",
+      "context": "",
+      "count": 536,
+      "examples": []
+    },
+    {
+      "source": "ky",
+      "target": "c",
+      "rule_type": "initial",
+      "context": "",
+      "count": 382,
+      "examples": []
+    },
+    {
+      "source": "l",
+      "target": "z",
+      "rule_type": "initial",
+      "context": "",
+      "count": 263,
+      "examples": []
+    },
+    {
+      "source": "hy",
+      "target": "sh",
+      "rule_type": "initial",
+      "context": "",
+      "count": 181,
+      "examples": []
+    },
+    {
+      "source": "ky",
+      "target": "k",
+      "rule_type": "initial",
+      "context": "",
+      "count": 125,
+      "examples": []
+    },
+    {
+      "source": "kw",
+      "target": "k",
+      "rule_type": "initial",
+      "context": "",
+      "count": 120,
+      "examples": []
+    },
+    {
+      "source": "",
+      "target": "sh",
+      "rule_type": "initial",
+      "context": "",
+      "count": 115,
+      "examples": []
+    },
+    {
+      "source": "th",
+      "target": "b",
+      "rule_type": "initial",
+      "context": "",
+      "count": 110,
+      "examples": []
+    },
+    {
+      "source": "dz",
+      "target": "ts",
+      "rule_type": "initial",
+      "context": "",
+      "count": 103,
+      "examples": []
+    },
+    {
+      "source": "hw",
+      "target": "h",
+      "rule_type": "initial",
+      "context": "",
+      "count": 83,
+      "examples": []
+    },
+    {
+      "source": "kw",
+      "target": "kh",
+      "rule_type": "initial",
+      "context": "",
+      "count": 67,
+      "examples": []
+    },
+    {
+      "source": "",
+      "target": "w",
+      "rule_type": "initial",
+      "context": "",
+      "count": 60,
+      "examples": []
+    },
+    {
+      "source": "",
+      "target": "y",
+      "rule_type": "initial",
+      "context": "",
+      "count": 55,
+      "examples": []
+    },
+    {
+      "source": "dz",
+      "target": "zh",
+      "rule_type": "initial",
+      "context": "",
+      "count": 52,
+      "examples": []
+    },
+    {
+      "source": "ts",
+      "target": "z",
+      "rule_type": "initial",
+      "context": "",
+      "count": 48,
+      "examples": []
+    },
+    {
+      "source": "k",
+      "target": "z",
+      "rule_type": "initial",
+      "context": "",
+      "count": 30,
+      "examples": []
+    },
+    {
+      "source": "w",
+      "target": "",
+      "rule_type": "initial",
+      "context": "",
+      "count": 25,
+      "examples": []
+    },
+    {
+      "source": "w",
+      "target": "b",
+      "rule_type": "initial",
+      "context": "",
+      "count": 22,
+      "examples": []
+    },
+    {
+      "source": "ny",
+      "target": "z",
+      "rule_type": "initial",
+      "context": "",
+      "count": 22,
+      "examples": []
+    },
+    {
+      "source": "ts",
+      "target": "y",
+      "rule_type": "initial",
+      "context": "",
+      "count": 19,
+      "examples": []
+    },
+    {
+      "source": "v",
+      "target": "m",
+      "rule_type": "initial",
+      "context": "",
+      "count": 15,
+      "examples": []
+    },
+    {
+      "source": "l",
+      "target": "n",
+      "rule_type": "initial",
+      "context": "",
+      "count": 13,
+      "examples": []
+    },
+    {
+      "source": "b",
+      "target": "ph",
+      "rule_type": "initial",
+      "context": "",
+      "count": 13,
+      "examples": []
+    },
+    {
+      "source": "t",
+      "target": "kh",
+      "rule_type": "initial",
+      "context": "",
+      "count": 13,
+      "examples": []
+    },
+    {
+      "source": "k",
+      "target": "",
+      "rule_type": "initial",
+      "context": "",
+      "count": 12,
+      "examples": []
+    },
+    {
+      "source": "",
+      "target": "n",
+      "rule_type": "initial",
+      "context": "",
+      "count": 12,
+      "examples": []
+    },
+    {
+      "source": "ts",
+      "target": "tsh",
+      "rule_type": "initial",
+      "context": "",
+      "count": 12,
+      "examples": []
+    },
+    {
+      "source": "k",
+      "target": "j",
+      "rule_type": "initial",
+      "context": "",
+      "count": 12,
+      "examples": []
+    },
+    {
+      "source": "l",
+      "target": "tsh",
+      "rule_type": "initial",
+      "context": "",
+      "count": 11,
+      "examples": []
+    },
+    {
+      "source": "s",
+      "target": "h",
+      "rule_type": "initial",
+      "context": "",
+      "count": 10,
+      "examples": []
+    },
+    {
+      "source": "v",
+      "target": "p",
+      "rule_type": "initial",
+      "context": "",
+      "count": 8,
+      "examples": []
+    },
+    {
+      "source": "y",
+      "target": "",
+      "rule_type": "initial",
+      "context": "",
+      "count": 8,
+      "examples": []
+    },
+    {
+      "source": "b",
+      "target": "p",
+      "rule_type": "initial",
+      "context": "",
+      "count": 8,
+      "examples": []
+    },
+    {
+      "source": "",
+      "target": "k",
+      "rule_type": "initial",
+      "context": "",
+      "count": 8,
+      "examples": []
+    }
+  ],
+  "final_rules": [
+    {
+      "source": "uh",
+      "target": "eq",
+      "rule_type": "final",
+      "context": "",
+      "count": 2804,
+      "examples": []
+    },
+    {
+      "source": "",
+      "target": "y",
+      "rule_type": "final",
+      "context": "",
+      "count": 2484,
+      "examples": []
+    },
+    {
+      "source": "eh",
+      "target": "eq",
+      "rule_type": "final",
+      "context": "",
+      "count": 1677,
+      "examples": []
+    },
+    {
+      "source": "oo",
+      "target": "u",
+      "rule_type": "final",
+      "context": "",
+      "count": 1514,
+      "examples": []
+    },
+    {
+      "source": "ih",
+      "target": "iq",
+      "rule_type": "final",
+      "context": "",
+      "count": 1141,
+      "examples": []
+    },
+    {
+      "source": "aung",
+      "target": "aon",
+      "rule_type": "final",
+      "context": "",
+      "count": 921,
+      "examples": []
+    },
+    {
+      "source": "ung",
+      "target": "in",
+      "rule_type": "final",
+      "context": "",
+      "count": 878,
+      "examples": []
+    },
+    {
+      "source": "ung",
+      "target": "en",
+      "rule_type": "final",
+      "context": "",
+      "count": 718,
+      "examples": []
+    },
+    {
+      "source": "oong",
+      "target": "on",
+      "rule_type": "final",
+      "context": "",
+      "count": 635,
+      "examples": []
+    },
+    {
+      "source": "ien",
+      "target": "i",
+      "rule_type": "final",
+      "context": "",
+      "count": 600,
+      "examples": []
+    },
+    {
+      "source": "ing",
+      "target": "in",
+      "rule_type": "final",
+      "context": "",
+      "count": 561,
+      "examples": []
+    },
+    {
+      "source": "an",
+      "target": "e",
+      "rule_type": "final",
+      "context": "",
+      "count": 513,
+      "examples": []
+    },
+    {
+      "source": "ang",
+      "target": "an",
+      "rule_type": "final",
+      "context": "",
+      "count": 503,
+      "examples": []
+    },
+    {
+      "source": "ak",
+      "target": "aq",
+      "rule_type": "final",
+      "context": "",
+      "count": 463,
+      "examples": []
+    },
+    {
+      "source": "en",
+      "target": "oe",
+      "rule_type": "final",
+      "context": "",
+      "count": 436,
+      "examples": []
+    },
+    {
+      "source": "oo",
+      "target": "a",
+      "rule_type": "final",
+      "context": "",
+      "count": 425,
+      "examples": []
+    },
+    {
+      "source": "iang",
+      "target": "ian",
+      "rule_type": "final",
+      "context": "",
+      "count": 350,
+      "examples": []
+    },
+    {
+      "source": "oen",
+      "target": "oe",
+      "rule_type": "final",
+      "context": "",
+      "count": 325,
+      "examples": []
+    },
+    {
+      "source": "i",
+      "target": "iu",
+      "rule_type": "final",
+      "context": "",
+      "count": 305,
+      "examples": []
+    },
+    {
+      "source": "ok",
+      "target": "oq",
+      "rule_type": "final",
+      "context": "",
+      "count": 274,
+      "examples": []
+    },
+    {
+      "source": "ah",
+      "target": "aq",
+      "rule_type": "final",
+      "context": "",
+      "count": 243,
+      "examples": []
+    },
+    {
+      "source": "au",
+      "target": "ua",
+      "rule_type": "final",
+      "context": "",
+      "count": 158,
+      "examples": []
+    },
+    {
+      "source": "iung",
+      "target": "in",
+      "rule_type": "final",
+      "context": "",
+      "count": 153,
+      "examples": []
+    },
+    {
+      "source": "auh",
+      "target": "oq",
+      "rule_type": "final",
+      "context": "",
+      "count": 153,
+      "examples": []
+    },
+    {
+      "source": "uh",
+      "target": "iq",
+      "rule_type": "final",
+      "context": "",
+      "count": 121,
+      "examples": []
+    },
+    {
+      "source": "au",
+      "target": "u",
+      "rule_type": "final",
+      "context": "",
+      "count": 116,
+      "examples": []
+    },
+    {
+      "source": "r",
+      "target": "er",
+      "rule_type": "final",
+      "context": "",
+      "count": 112,
+      "examples": []
+    },
+    {
+      "source": "i",
+      "target": "en",
+      "rule_type": "final",
+      "context": "",
+      "count": 109,
+      "examples": []
+    },
+    {
+      "source": "au",
+      "target": "ia",
+      "rule_type": "final",
+      "context": "",
+      "count": 107,
+      "examples": []
+    },
+    {
+      "source": "en",
+      "target": "i",
+      "rule_type": "final",
+      "context": "",
+      "count": 102,
+      "examples": []
+    },
+    {
+      "source": "au",
+      "target": "ho",
+      "rule_type": "final",
+      "context": "",
+      "count": 100,
+      "examples": []
+    },
+    {
+      "source": "u",
+      "target": "y",
+      "rule_type": "final",
+      "context": "",
+      "count": 96,
+      "examples": []
+    },
+    {
+      "source": "ang",
+      "target": "ian",
+      "rule_type": "final",
+      "context": "",
+      "count": 96,
+      "examples": []
+    },
+    {
+      "source": "ui",
+      "target": "iu",
+      "rule_type": "final",
+      "context": "",
+      "count": 77,
+      "examples": []
+    },
+    {
+      "source": "eu",
+      "target": "ieu",
+      "rule_type": "final",
+      "context": "",
+      "count": 75,
+      "examples": []
+    },
+    {
+      "source": "en",
+      "target": "uoe",
+      "rule_type": "final",
+      "context": "",
+      "count": 69,
+      "examples": []
+    },
+    {
+      "source": "ak",
+      "target": "eq",
+      "rule_type": "final",
+      "context": "",
+      "count": 63,
+      "examples": []
+    },
+    {
+      "source": "oen",
+      "target": "hoe",
+      "rule_type": "final",
+      "context": "",
+      "count": 60,
+      "examples": []
+    },
+    {
+      "source": "oeh",
+      "target": "ioq",
+      "rule_type": "final",
+      "context": "",
+      "count": 59,
+      "examples": []
+    },
+    {
+      "source": "ing",
+      "target": "iun",
+      "rule_type": "final",
+      "context": "",
+      "count": 54,
+      "examples": []
+    },
+    {
+      "source": "ang",
+      "target": "in",
+      "rule_type": "final",
+      "context": "",
+      "count": 52,
+      "examples": []
+    },
+    {
+      "source": "ia",
+      "target": "i",
+      "rule_type": "final",
+      "context": "",
+      "count": 50,
+      "examples": []
+    },
+    {
+      "source": "ing",
+      "target": "en",
+      "rule_type": "final",
+      "context": "",
+      "count": 43,
+      "examples": []
+    },
+    {
+      "source": "ui",
+      "target": "u",
+      "rule_type": "final",
+      "context": "",
+      "count": 42,
+      "examples": []
+    },
+    {
+      "source": "ok",
+      "target": "ioq",
+      "rule_type": "final",
+      "context": "",
+      "count": 40,
+      "examples": []
+    },
+    {
+      "source": "oen",
+      "target": "ioe",
+      "rule_type": "final",
+      "context": "",
+      "count": 40,
+      "examples": []
+    },
+    {
+      "source": "i",
+      "target": "y",
+      "rule_type": "final",
+      "context": "",
+      "count": 40,
+      "examples": []
+    },
+    {
+      "source": "aung",
+      "target": "uan",
+      "rule_type": "final",
+      "context": "",
+      "count": 38,
+      "examples": []
+    },
+    {
+      "source": "ih",
+      "target": "eq",
+      "rule_type": "final",
+      "context": "",
+      "count": 37,
+      "examples": []
+    },
+    {
+      "source": "ha",
+      "target": "ua",
+      "rule_type": "final",
+      "context": "",
+      "count": 34,
+      "examples": []
+    },
+    {
+      "source": "hung",
+      "target": "uen",
+      "rule_type": "final",
+      "context": "",
+      "count": 33,
+      "examples": []
+    },
+    {
+      "source": "a",
+      "target": "e",
+      "rule_type": "final",
+      "context": "",
+      "count": 29,
+      "examples": []
+    },
+    {
+      "source": "ung",
+      "target": "an",
+      "rule_type": "final",
+      "context": "",
+      "count": 29,
+      "examples": []
+    },
+    {
+      "source": "oong",
+      "target": "ion",
+      "rule_type": "final",
+      "context": "",
+      "count": 25,
+      "examples": []
+    },
+    {
+      "source": "a",
+      "target": "ua",
+      "rule_type": "final",
+      "context": "",
+      "count": 23,
+      "examples": []
+    },
+    {
+      "source": "eh",
+      "target": "aq",
+      "rule_type": "final",
+      "context": "",
+      "count": 22,
+      "examples": []
+    },
+    {
+      "source": "eh",
+      "target": "oq",
+      "rule_type": "final",
+      "context": "",
+      "count": 22,
+      "examples": []
+    },
+    {
+      "source": "e",
+      "target": "oe",
+      "rule_type": "final",
+      "context": "",
+      "count": 21,
+      "examples": []
+    },
+    {
+      "source": "an",
+      "target": "ie",
+      "rule_type": "final",
+      "context": "",
+      "count": 19,
+      "examples": []
+    },
+    {
+      "source": "a",
+      "target": "ha",
+      "rule_type": "final",
+      "context": "",
+      "count": 18,
+      "examples": []
+    },
+    {
+      "source": "an",
+      "target": "oq",
+      "rule_type": "final",
+      "context": "",
+      "count": 18,
+      "examples": []
+    },
+    {
+      "source": "oo",
+      "target": "y",
+      "rule_type": "final",
+      "context": "",
+      "count": 18,
+      "examples": []
+    },
+    {
+      "source": "auh",
+      "target": "o",
+      "rule_type": "final",
+      "context": "",
+      "count": 16,
+      "examples": []
+    },
+    {
+      "source": "i",
+      "target": "iq",
+      "rule_type": "final",
+      "context": "",
+      "count": 15,
+      "examples": []
+    },
+    {
+      "source": "ok",
+      "target": "uq",
+      "rule_type": "final",
+      "context": "",
+      "count": 15,
+      "examples": []
+    },
+    {
+      "source": "ung",
+      "target": "eq",
+      "rule_type": "final",
+      "context": "",
+      "count": 15,
+      "examples": []
+    },
+    {
+      "source": "en",
+      "target": "ha",
+      "rule_type": "final",
+      "context": "",
+      "count": 14,
+      "examples": []
+    },
+    {
+      "source": "ak",
+      "target": "o",
+      "rule_type": "final",
+      "context": "",
+      "count": 14,
+      "examples": []
+    },
+    {
+      "source": "ch",
+      "target": "eq",
+      "rule_type": "final",
+      "context": "",
+      "count": 14,
+      "examples": []
+    },
+    {
+      "source": "ung",
+      "target": "uen",
+      "rule_type": "final",
+      "context": "",
+      "count": 13,
+      "examples": []
+    },
+    {
+      "source": "uin",
+      "target": "iun",
+      "rule_type": "final",
+      "context": "",
+      "count": 13,
+      "examples": []
+    },
+    {
+      "source": "iau",
+      "target": "u",
+      "rule_type": "final",
+      "context": "",
+      "count": 13,
+      "examples": []
+    },
+    {
+      "source": "a",
+      "target": "geq",
+      "rule_type": "final",
+      "context": "",
+      "count": 12,
+      "examples": []
+    },
+    {
+      "source": "o",
+      "target": "u",
+      "rule_type": "final",
+      "context": "",
+      "count": 12,
+      "examples": []
+    },
+    {
+      "source": "oen",
+      "target": "iuq",
+      "rule_type": "final",
+      "context": "",
+      "count": 12,
+      "examples": []
+    },
+    {
+      "source": "e",
+      "target": "ue",
+      "rule_type": "final",
+      "context": "",
+      "count": 11,
+      "examples": []
+    },
+    {
+      "source": "ah",
+      "target": "y",
+      "rule_type": "final",
+      "context": "",
+      "count": 11,
+      "examples": []
+    },
+    {
+      "source": "ang",
+      "target": "hen",
+      "rule_type": "final",
+      "context": "",
+      "count": 10,
+      "examples": []
+    },
+    {
+      "source": "an",
+      "target": "i",
+      "rule_type": "final",
+      "context": "",
+      "count": 10,
+      "examples": []
+    },
+    {
+      "source": "ien",
+      "target": "hi",
+      "rule_type": "final",
+      "context": "",
+      "count": 9,
+      "examples": []
+    },
+    {
+      "source": "ung",
+      "target": "y",
+      "rule_type": "final",
+      "context": "",
+      "count": 9,
+      "examples": []
+    },
+    {
+      "source": "oeh",
+      "target": "uq",
+      "rule_type": "final",
+      "context": "",
+      "count": 9,
+      "examples": []
+    },
+    {
+      "source": "en",
+      "target": "e",
+      "rule_type": "final",
+      "context": "",
+      "count": 9,
+      "examples": []
+    },
+    {
+      "source": "ih",
+      "target": "i",
+      "rule_type": "final",
+      "context": "",
+      "count": 9,
+      "examples": []
+    },
+    {
+      "source": "ang",
+      "target": "aon",
+      "rule_type": "final",
+      "context": "",
+      "count": 9,
+      "examples": []
+    },
+    {
+      "source": "auh",
+      "target": "in",
+      "rule_type": "final",
+      "context": "",
+      "count": 9,
+      "examples": []
+    },
+    {
+      "source": "oong",
+      "target": "hon",
+      "rule_type": "final",
+      "context": "",
+      "count": 8,
+      "examples": []
+    },
+    {
+      "source": "ioen",
+      "target": "ioe",
+      "rule_type": "final",
+      "context": "",
+      "count": 8,
+      "examples": []
+    },
+    {
+      "source": "e",
+      "target": "he",
+      "rule_type": "final",
+      "context": "",
+      "count": 8,
+      "examples": []
+    },
+    {
+      "source": "oong",
+      "target": "in",
+      "rule_type": "final",
+      "context": "",
+      "count": 8,
+      "examples": []
+    },
+    {
+      "source": "oo",
+      "target": "h",
+      "rule_type": "final",
+      "context": "",
+      "count": 8,
+      "examples": []
+    },
+    {
+      "source": "auh",
+      "target": "a",
+      "rule_type": "final",
+      "context": "",
+      "count": 8,
+      "examples": []
+    }
+  ],
+  "config": {
+    "confidence_threshold": 0.8,
+    "similarity_threshold": 0.7,
+    "last_updated": "2026-01-15T20:24:14.043971"
+  }
+}

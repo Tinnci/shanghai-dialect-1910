@@ -28,6 +28,10 @@ def main():
     parser_fix.add_argument("--interactive", "-i", action="store_true", help="Confirm each fix")
     parser_fix.add_argument("--auto", action="store_true", help="Apply all fixes without confirmation")
     parser_fix.add_argument("--no-backup", action="store_true", help="Don't backup files before fixing")
+
+    # Learn Commands
+    parser_learn = subparsers.add_parser("learn", help="Automatic rule learning from corpus")
+    parser_learn.add_argument("--save", action="store_true", help="Save learned rules to knowledge base")
     
     # Task Commands
     subparsers.add_parser("extract", help="Extract images and pages from source PDF")
@@ -52,7 +56,18 @@ def main():
         
     elif args.command == "convert":
         run_conversion(project_root)
+    
+    elif args.command == "learn":
+        from src.learn_rules import learn_rules_from_corpus
+        from src.knowledge_base import get_knowledge_base
         
+        initial_rules, final_rules = learn_rules_from_corpus(lessons_dir)
+        
+        if args.save:
+            kb = get_knowledge_base()
+            kb.update_rules(initial_rules, final_rules)
+            kb.save()
+            
     elif args.command == "fix":
         run_fixer(
             lessons_dir=lessons_dir,
