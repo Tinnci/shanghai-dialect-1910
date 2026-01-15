@@ -12,3 +12,13 @@ wheels/
 # PDF and large data
 /Shanghai Dialect Exercises in Romanized and Character with Key to Pronunciation and English Index.pdf
 # digitized/ # Uncomment if you don't want to commit the extracted images (800MB+)
+
+# TTS Training Data (large files)
+data/
+checkpoints/
+*.ckpt
+*.pt
+*.pth
+*.npy
+*.wav
+*.mp3

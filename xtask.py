@@ -90,6 +90,25 @@ def main():
         "--length-scale", type=float, default=1.0, help="Duration scaling factor"
     )
 
+    # Prepare Data Commands (TTS)
+    parser_prep = subparsers.add_parser(
+        "prepare", help="Prepare TTS training data from MagicData corpus"
+    )
+    parser_prep.add_argument(
+        "--source",
+        type=str,
+        default=str(Path.home() / "下载" / "Samples"),
+        help="Source directory containing MagicData corpora",
+    )
+    parser_prep.add_argument(
+        "--output", "-o", type=str, default="data", help="Output directory"
+    )
+    parser_prep.add_argument(
+        "--skip-conv",
+        action="store_true",
+        help="Skip conversational corpus (faster, scripted only)",
+    )
+
     # Task Commands
     subparsers.add_parser("extract", help="Extract images and pages from source PDF")
     subparsers.add_parser("convert", help="Convert extracted images to JPEG XL")
@@ -198,6 +217,15 @@ def main():
             n_timesteps=args.steps,
             temperature=args.temperature,
             length_scale=getattr(args, "length_scale", 1.0),
+        )
+
+    elif args.command == "prepare":
+        from src.tasks.prepare_magicdata import run_prepare
+
+        run_prepare(
+            source_dir=Path(args.source),
+            output_dir=Path(args.output),
+            skip_conversational=args.skip_conv,
         )
 
     elif args.command == "fix":
