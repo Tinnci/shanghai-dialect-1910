@@ -57,7 +57,10 @@
 #r("S-mo-loo", "四马路") #r("'veh", "勿") #r("dan-z", "但是") #r("man-hau", "蛮好") #r("beh-siang-kuh", "勃相个") #r(
   "di-faung,",
   "地方，",
-) #r("leh-la", "拉拉") #r("toong", "东") #r("mien", "面") #r("wan", "还有") #r("yeu", "多化") #r(
+) #r("leh-la", "拉拉") #r("toong", "东") #r("mien", "面") #r("wan", "还") #r("yeu", "有") #r("too", "多") #r(
+  "hau",
+  "化",
+) #r(
   "yang-'aung",
   "洋行",
 ) #r("lau", "咾") #r("doo-kuh", "大个") #r("'aung-ka,", "行家，") #r("'a", "也") #r("yeu", "有") #r("Lau", "老") #r(
