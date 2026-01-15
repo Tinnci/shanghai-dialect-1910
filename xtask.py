@@ -33,11 +33,16 @@ def main():
     # Learn Commands
     parser_learn = subparsers.add_parser("learn", help="Automatic rule learning from corpus")
     parser_learn.add_argument("--save", action="store_true", help="Save learned rules to knowledge base")
+
+    # G2P Commands
+    parser_g2p = subparsers.add_parser("g2p", help="Convert Pott Romanization to IPA")
+    parser_g2p.add_argument("text", nargs='+', help="Text to convert (space separated)")
     
     # Task Commands
     subparsers.add_parser("extract", help="Extract images and pages from source PDF")
     subparsers.add_parser("convert", help="Convert extracted images to JPEG XL")
     subparsers.add_parser("compile", help="Compile Typst project to PDF with descriptive name")
+    subparsers.add_parser("export-ipa", help="Export exercises to JSONL with IPA and Modern Pinyin")
     
     # Global args
     parser.add_argument('--dir', type=str, default="./typst_source/contents/lessons", help="Path to lessons directory")
@@ -72,8 +77,10 @@ def main():
             sys.exit(1)
         except FileNotFoundError:
             print("✗ Error: 'typst' command not found. Please install Typst.")
-            sys.exit(1)
-    
+
+    elif args.command == "export-ipa":
+        from src.tasks.export_ipa import run_export_ipa
+        run_export_ipa(project_root)
     elif args.command == "learn":
         from src.learn_rules import learn_rules_from_corpus
         from src.knowledge_base import get_knowledge_base
@@ -84,6 +91,26 @@ def main():
             kb = get_knowledge_base()
             kb.update_rules(initial_rules, final_rules)
             kb.save()
+        text = " ".join(args.text)
+        results = converter.convert_phrase(text)
+        
+        print("\nConversion Results:")
+        print(f"{'Original':<15} {'IPA':<15} {'Modern (Wugniu)':<20} {'Conf':<10}")
+        print("-" * 60)
+        
+        ipa_list = []
+        for item in results:
+            if "original" in item:
+                print(f"{item['original']:<15} {item['ipa']:<15} {item['wugniu']:<20} {item['confidence']:.2f}")
+                ipa_list.append(item['ipa'])
+            elif "text" in item:
+                # Handle spaces/punctuation implicitly in list for full sentence join usually, 
+                # but for table view we skip or print lightly.
+                pass
+        
+        print("-" * 60)
+        print(f"Full IPA Sentence: {' '.join(ipa_list)}")
+        print("\n")
             
     elif args.command == "fix":
         run_fixer(

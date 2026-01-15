@@ -37,6 +37,12 @@ This skill allows the agent to perform deep quality analysis on the Shanghai dia
    - **Feature-Based Similarity**: Uses phonological feature vectors (place, manner, voicing, etc.) to calculate precise similarity scores.
    - **Knowledge Persistence**: Saves learned rules to `.agent/data/phonetic_rules.json` for consistent decision making.
 
+6. **Phonetic Conversion & Export (`g2p`, `export-ipa`)**:
+   - **Hybrid G2P Engine**: Combines static 1910 rules with dynamic rule-based prediction for modern Wugniu Pinyin.
+   - **IPA Generation**: Converts Church Romanization to International Phonetic Alphabet (IPA).
+   - **Modern Prediction**: Predicts modern Wugniu spelling with confidence scores based on learned rules.
+   - **Data Export**: Exports all lessons to structured JSONL format (`shanghai_dialect_ipa.jsonl`) containing Hanzi, Pott, IPA, and predicted Wugniu tokens.
+
 ## Core Modules
 
 | Module | Purpose |
@@ -47,7 +53,11 @@ This skill allows the agent to perform deep quality analysis on the Shanghai dia
 | `src/romanization.py` | Church Romanization ↔ Wugniu Pinyin mapping logic |
 | `src/rime_dict.py` | Rime dictionary loader & polyphonic detection |
 | `src/fixer.py` | Auto-fix engine using the improved knowledge base |
+| `src/rime_dict.py` | Rime dictionary loader & polyphonic detection |
+| `src/fixer.py` | Auto-fix engine using the improved knowledge base |
 | `src/analyzers/displacement.py` | Alignment diagnosis with shift detection |
+| `src/pott_g2p.py` | Pott -> IPA conversion & Modern Wugniu prediction engine |
+| `src/tasks/export_ipa.py` | Task to export full corpus to JSONL format |
 
 ## Resources
 
@@ -84,10 +94,15 @@ uv run python xtask.py fix lesson-26 -i     # Interactively review issues
 # Knowledge & Learning
 uv run python xtask.py learn --save         # Re-train phonetic rules from current corpus
 
+# Conversion & Export
+uv run python xtask.py g2p "ngoo tshang"    # Convert phrase to IPA & predict Wugniu
+uv run python xtask.py export-ipa           # Export full corpus to JSONL
+
 # Project Maintenance
 uv run python xtask.py compile              # Build PDF with metadata and standard name
 uv run python xtask.py extract              # Extract source images from PDF
 uv run python xtask.py convert              # Convert images to JXL/JPG
+
 ```
 
 ## Fix Command Options
