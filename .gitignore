@@ -22,3 +22,8 @@ checkpoints/
 *.npy
 *.wav
 *.mp3
+
+# Temporary test files
+check_missing_ipa.py
+test_symbols.py
+re
